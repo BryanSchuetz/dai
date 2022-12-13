@@ -1990,7 +1990,7 @@ ol li::marker{
 }
 .deei-carousel{
   .flickity-page-dots{
-    top:-10px;
+    bottom:-10px;
   }
   div.image{
     img{
@@ -2002,8 +2002,11 @@ ol li::marker{
       height: 285px;
     }
     @include responsive(wide-screens){
-      height: 385px;
+      height: 485px;
     }
+    // @include responsive(ultra-wide-screens){
+    //   heition: 485px;
+    // }
     overflow: hidden;
     margin-bottom: 10px;
   }

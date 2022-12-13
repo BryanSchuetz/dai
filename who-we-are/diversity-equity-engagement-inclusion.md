@@ -7,27 +7,27 @@ layout: node
 groups:
   - name: DAI API
     description: |
-      DAI API fosters community and promotes the work and lives of Asian and Pacific Islanders for DAI ies employees at DAI and around the world. Its mission for members to advance professional growth and promote API educational, cultural, and social awareness.
+      DAI API supports and fosters a sense of community among Asian and Pacific Islander employees around the world. Its mission is to provide learning and mentorship opportunities for members to advance their professional growth and promote API educational, cultural, and social awareness.  
     image: /uploads/erg-api.jpg
   - name: DAI GESI
     description: |
-      GESI is a community of practice (CoP) intended to build DAI capacity and awareness around gender equity and social inclusion (GESI) and develop and promote a DAI GESI approach in project activities and corporate practices. 
+      DAI GESI (Gender Equality and Social Inclusion) is a community of practice intended to build DAI’s capacity and awareness around gender equity and social inclusion and to develop and promote a nuanced, informed approach to GESI issues in DAI project activities and corporate practices. 
     image: /uploads/erg-gesi.jpg
   - name: DAI NOIR
     description: |
-      DAI Noir’s mission is to create a safe and supportive space for employees of African ancestry and their allies globally in DAI’s corporate and project offices. The group partners with leaders on strategies that impact employees of African designing and implementing corporate policies and ancestry and advocate for anti-racism, inclusion,and diversity across the company. 
+      DAI Noir's mission is to create a safe and supportive space for employees of African ancestry and their allies in DAI's corporate and project offices worldwide. The group partners with leaders to design and implement corporate policies and strategies that affect employees of African ancestry and to advocate for anti-racism, inclusion, and diversity across the company.
     image: /uploads/erg-noir.jpg
   - name: DAI LGBTQI+
     description: |
-      DAI’s LGBTQI+ Affinity Group provides the LGBTQI+ community at DAI with a sense of belonging that fosters communication, support, and skill development. Its mission is to promote and support corporate policies designed to address gender, the issues of sexually diverse communities, and the human rights of our staff, their families, and their loved ones.
+      DAI LGBTQI+ provides the LGBTQI+ community at DAI with a sense of belonging that fosters communication, support, and skill development. It promotes and supports corporate policies designed to address gender, issues of importance to sexually diverse communities, and the human rights of our staff, their families, and their loved ones. 
     image: /uploads/erg-lgbtq.jpg
   - name: DAI GANDI
     description: |
-      Still awaiting text
+      The U.K. Gender and Inclusion (GANDI) group works to build DAI capacity and awareness around race, gender, and disability. They address the full spectrum of gender and social inclusion, focusing on the British context and related issues.
     image: /uploads/erg-gandi.jpg
   - name: LA FAMILIA DAI
     description: |
-      La Familia DAI is an affinity group whose mission is to foster an inclusive, diverse, and anti-racist culture at DAI’s corporate and global offices.
+    La Familia DAI is dedicated to building a supportive and uplifting environment, networking, professional development, and advocacy for the Latino/a community. Its mission is to foster an inclusive, diverse, and anti-racist culture at DAI.
     image: /uploads/erg-familia.jpg
 
     
@@ -125,7 +125,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
 
 
 <h2>Employee Resource Groups</h2>
-<p>DAI's employee resource groups are an important part of the business. We work hand in hand to create community, belonging and leadership opportunities for employees to learn and grow.</p>
+<p>Employee resource groups (ERG) are an essential part of the business at DAI. We work hand in hand with our ERGs to nurture an inclusive culture and create a sense of community and belonging for all. Together, we support employees' professional development and collaborate on companywide DEEI initiatives.</p>
 
 <div class="bulma">
   <div class="container">
