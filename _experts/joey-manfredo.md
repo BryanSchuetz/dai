@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Manfredo
 summary: 'Joey Manfredo is an international development professional with more than
   a decade of project management and leadership experience in the Asia-Pacific region. '
-job-title: Senior Project Manager
+job-title: Principal Manager, Project Management
 image: https://assetify-dai.com/experts/Joey%20inner.jpg
 solutions:
 - Climate
