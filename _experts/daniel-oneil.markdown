@@ -1,7 +1,6 @@
 ---
 title: Daniel O’Neil
 date: 2021-06-01 13:48:00 Z
-published: false
 lastname: 'O’Neil '
 summary: 'Daniel O’Neil has more than 30 years of experience directing a wide range
   of international development projects in Africa, Asia, and the Caribbean. '
