@@ -1989,11 +1989,21 @@ ol li::marker{
   }
 }
 .deei-carousel{
+  .flickity-page-dots{
+    top:-10px;
+  }
   div.image{
     img{
       // min-height: 485px;
+      margin-bottom: 0;
     }
-    height: 485px;
+    height: 150px;
+    @include responsive(medium-screens){
+      height: 285px;
+    }
+    @include responsive(wide-screens){
+      height: 385px;
+    }
     overflow: hidden;
     margin-bottom: 10px;
   }
