@@ -8,6 +8,8 @@ summary: The recent murders of George Floyd, Breonna Taylor, and Ahmaud Arbery h
   hideous enough on their own, are an external, violent expression of the pervasive
   racism and discrimination that is seared into our societies.
 social-image: "/uploads/james-boomgard.jpg"
+tags:
+- deei
 ---
 
 ![Jim Boomgard](/uploads/james-boomgard-ccf327.jpg){:.float-left}

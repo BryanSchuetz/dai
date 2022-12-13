@@ -8,6 +8,8 @@ summary: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jeffer
   [DAI Global Health](https://www.dai.com/our-work/solutions/global-health), where
   he helped establish DAI’s successful digital and global health teams. "
 social-image: "/uploads/Screen%20Shot%202021-12-06%20at%2010.10.37%20AM.png"
+tags:
+- deei
 ---
 
 [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) has been named DAI’s Global Head of Diversity, Equity, Engagement, and Inclusion (DEEI). Jefferson was previously Vice President and Chief Technology Officer for [DAI Global Health](https://www.dai.com/our-work/solutions/global-health), where he helped establish DAI’s successful digital and global health teams. 

@@ -225,6 +225,12 @@
   <div class="node-hero">
     <h1 class="hero-title">{{page.title}}</h1>
     <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+    {% if page.url contains '/who-we-are/diversity-equity-engagement-inclusion' %}
+      <p class="section-nav">
+      <a class="section-nav--link {% if page.url contains '/who-we-are/deei-news'%}active {% endif %}"
+        href="/who-we-are/deei-news">News</a>
+      </p>
+    {% endif %}
   </div>
 </div>
   {%- endif -%}

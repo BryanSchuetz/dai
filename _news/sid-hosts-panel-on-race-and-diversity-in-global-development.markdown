@@ -3,6 +3,7 @@ title: SID Hosts Panel on Race and Diversity in Global Development
 date: 2020-07-31 09:11:00 Z
 tags:
 - digital
+- deei
 solutions:
 - Technology Research and Development
 - Digital Acceleration
