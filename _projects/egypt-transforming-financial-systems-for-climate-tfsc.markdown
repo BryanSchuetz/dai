@@ -28,6 +28,8 @@ The specific objectives of TFSC in Egypt are:
 3. Consolidate the application of market-based instruments for environmental/climate-smart investments.
 4. Improve the competitiveness and growth of cleaner business opportunities that lead to job creation.
 
+![AdobeStock_298424455.jpeg](/uploads/AdobeStock_298424455.jpeg)
+
 ## Select Activities
 
 * Assist the NBE in defining and implementing a climate finance strategy, including elaboration and implementation of a climate finance policy, integration of climate issues in internal procedures, reporting applications, capacity building activities, and GCF’s accreditation support.
