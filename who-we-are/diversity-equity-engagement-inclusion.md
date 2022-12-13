@@ -1,5 +1,5 @@
 ---
-title: Diversity Equity Engagement and Inclusion
+title: Diversity,Equity, Engagement, and Inclusion
 summary: |
   Our mission is to make a lasting difference in the world by helping people improve their lives. We rely on our diverse cultures, backgrounds, and points of view to advance our mission, and our success depends on fostering a workplace where everyone, everywhere feels valued and empowered. 
 hero: true
@@ -27,7 +27,7 @@ groups:
     image: /uploads/erg-gandi.jpg
   - name: LA FAMILIA DAI
     description: |
-    La Familia DAI is dedicated to building a supportive and uplifting environment, networking, professional development, and advocacy for the Latino/a community. Its mission is to foster an inclusive, diverse, and anti-racist culture at DAI.
+      La Familia DAI is dedicated to building a supportive and uplifting environment, networking, professional development, and advocacy for the Latino/a community. Its mission is to foster an inclusive, diverse, and anti-racist culture at DAI.
     image: /uploads/erg-familia.jpg
 
     
@@ -51,7 +51,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
     </figure>
     <div class="media-content">
       <div class="content pl-4" style="margin-bottom: 0;">
-        <h3>People</h3>
+        <h3 style="font-size: 1.1rem;">People</h3>
         <p style="margin-bottom: 0;">
           We nurture an inclusive culture that seeks out and harnesses the talents of a diverse workforce, giving our teams the space to be entrepreneurial and innovative in pushing our development goals forward. We keep staff informed, involved, and engaged in our DEEI efforts.
         </p>
@@ -79,7 +79,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
     </figure>
     <div class="media-content">
       <div class="content pl-4" style="margin-bottom: 0;">
-        <h3>Solutions</h3>
+        <h3 style="font-size: 1.1rem;">Solutions</h3>
         <p style="margin-bottom: 0;">
           We work alongside underserved groups and communities to help them address the issues and inequities they face. From providing LGBTQI+ healthcare services in Colombia to expanding gender inclusion in Nepal and women's empowerment in the Middle East, we put DEEI and inclusive development at the heart of the work we do.
         </p>
@@ -107,7 +107,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
     </figure>
     <div class="media-content">
       <div class="content pl-4" style="margin-bottom: 0;">
-        <h3>Partnerships</h3>
+        <h3 style="font-size: 1.1rem;">Partnerships</h3>
         <p style="margin-bottom: 0;">
           We are more effective in addressing racism, discrimination, and exclusion when we build bridges with like-minded organizations. DAI is a founding member of the Coalition for Racial & Ethnic Equity in Development (CREED) and a lead member of the WILD Network (Women in Global Development Leadership Forum). Global Head of DEEI Bobby Jefferson is a member of the Society for International Development–U.S. Executive Committee. In that role, he instituted the Race, Ethnicity, and Diversity workgroup and set their DEI strategic plan in motion. He is also co-chair of the Council of International Development Companies’ DEI Committee and participates in British Expertise International’s Equity, Diversity, & Inclusion Working Group. Our goal is to advance DEEI within the development sector and beyond.
         </p>

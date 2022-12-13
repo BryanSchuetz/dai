@@ -2002,11 +2002,11 @@ ol li::marker{
       height: 285px;
     }
     @include responsive(wide-screens){
-      height: 485px;
+      height: 385px;
     }
-    // @include responsive(ultra-wide-screens){
-    //   heition: 485px;
-    // }
+    @include responsive(ultra-wide-screens){
+    height: 485px;
+    }
     overflow: hidden;
     margin-bottom: 10px;
   }
