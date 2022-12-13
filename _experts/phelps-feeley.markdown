@@ -5,7 +5,8 @@ lastname: Feeley
 summary: 'Phelps Feeley has more than 10 years of experience in program design, leadership
   and management for political transition, governance, stabilization, peacebuilding,
   research, media, and civil society strengthening projects. '
-job-title: Advisor, Conflict, Stabilization, and Peacebuilding
+job-title: Chief of Party, Youth Resilience to Crime and Violence in the Caribbean
+  Activity
 image: "/uploads/Phelps%20Feeley.jpg"
 solutions:
 - Fragile States
@@ -15,10 +16,10 @@ solutions:
 - Security and Justice
 - Stabilization
 regions:
-- Eastern Europe and Central Asia
+- Latin America and the Caribbean
 ---
 
-Phelps Feeley is Chief of Party for a project in Central Asia that contributes to the evolution of more effective preventing violent extremism approaches in Kazakhstan, the Kyrgyz Republic, Tajikistan, and Uzbekistan by using a rigorous research-into-programming process to identify violent extremism risk and prevention factors and implement evidence-based pilot interventions. 
+Phelps Feeley is Chief of Party for the [Youth Resilience to Crime and Violence in the Caribbean Activity](https://www.dai.com/our-work/projects/regional-youth-resilience-to-crime-and-violence-in-the-caribbean-activity), a project in the Eastern and Southern Caribbean focused on youth crime and violence that employs public health and positive youth development approaches.
 
 Phelps brings more than 10 years of experience in program design, leadership and management for political transition, governance, stabilization, peacebuilding, research, media, and civil society strengthening projects. Having served as the Chief of Party for the Macedonia Support Initiative, she led the team’s efforts to strengthen democratic institutions; media sector support efforts to establish a credible information ecosystem with improved news programming, greater independence, and less political party control; promoted civic engagement to lessen the grip of public apathy; and take a forward-leaning role in donor-supported efforts to jumpstart government reforms in line with European Union standards.
 
