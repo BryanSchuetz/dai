@@ -112,22 +112,11 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           We are more effective in addressing racism, discrimination, and exclusion when we build bridges with like-minded organizations. DAI is a founding member of the Coalition for Racial & Ethnic Equity in Development (CREED) and a lead member of the WILD Network (Women in Global Development Leadership Forum). Global Head of DEEI Bobby Jefferson is a member of the Society for International Development–U.S. Executive Committee. In that role, he instituted the Race, Ethnicity, and Diversity workgroup and set their DEI strategic plan in motion. He is also co-chair of the Council of International Development Companies’ DEI Committee and participates in British Expertise International’s Equity, Diversity, & Inclusion Working Group. Our goal is to advance DEEI within the development sector and beyond.
         </p>
       </div>
-      <nav class="level is-mobile">
-        <div class="level-left">
-          <a class="level-item">
-            <span class="icon is-small"><i class="fas fa-reply"></i></span>
-          </a>
-          <a class="level-item">
-            <span class="icon is-small"><i class="fas fa-retweet"></i></span>
-          </a>
-          <a class="level-item">
-            <span class="icon is-small"><i class="fas fa-heart"></i></span>
-          </a>
-        </div>
-      </nav>
     </div>
   </article>
 </div>
+
+<blockquote style="margin-top: 2rem; margin-bottom: 2rem;">“DAI is a diverse, multicultural company. But we know being diverse is not enough in itself. We have made a strong commitment to being an actively anti-racist company with diversity, equity, engagement, and inclusion deeply rooted in everything we do.” -- <strong><a href="https://www.dai.com/who-we-are/our-team/bobby-jefferson">Bobby Jefferson, Global Head of DEEI</a></strong></blockquote>
 
 <h2 style="margin-top: 2rem;">Where We Are Today</h2>
 <p>While we have work to do to advance diversity and inclusion, we aspire to build a workplace that reflects the diverse world we live in and hope to create.</p>
