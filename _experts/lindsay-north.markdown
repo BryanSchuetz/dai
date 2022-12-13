@@ -4,7 +4,7 @@ date: 2022-03-03 10:16:00 Z
 lastname: North
 summary: Lindsay North has more than 10 years of experience in design, research, monitoring,
   evaluation, and learning for conflict, peace, and stabilization programs.
-job-title: Senior Global Practice Specialist, Conflict, Stabilization, and Peacebuilding
+job-title: Senior Technical Specialist, Resilience, Fragility, and Inclusion
 image: "/uploads/Lindsay%20North2.jpeg"
 solutions:
 - Fragile States
