@@ -1,6 +1,7 @@
 ---
 title: Ishani Patel
 date: 2022-07-07 09:04:00 Z
+published: false
 lastname: Patel
 summary: 'Ishani Patel is a global health and development professional with experience
   in program design, management, and implementation of health programs. '
