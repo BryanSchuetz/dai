@@ -15,10 +15,12 @@ regions:
 - Eastern Europe and Central Asia
 ---
 
-Sarah Leigh-Hunt joined DAI in Europe in 2014 and has more than 10 years of experience in governance programming in fragile and conflict-affected environments. She has worked extensively to support a range of democratic institutions and processes to become more capable, accountable, and inclusive—including parliaments, political parties, electoral bodies, civil society organisations, and the media. Sarah provides technical leadership and oversight on U.K. government-funded projects in conflict, stability, and security in Morocco and Pakistan, and advises projects across DAI’s portfolio in applying a political economy and conflict-sensitive lens to project design and implementation.
- 
-Sarah brings prior research and policy making experience from previous roles in think tank and intergovernmental organisations. She currently co-chairs the Westminster Community of Practice Working Group on Democracy Assistance; is active in the running of U.K. elections; and is an elected representative in her local community.
- 
+Sarah Leigh-Hunt joined DAI in Europe in 2014 and has 15 years of experience in governance programming in fragile and post-conflict environments, particularly supporting improved state-citizen engagement through participatory democratic processes and more inclusive approaches to policy development and service delivery at both national and sub-national levels. She has worked extensively to support a range of democratic institutions to become more capable, accountable, and transparent—including parliaments, political parties, electoral bodies, civil society organizations, and the media.
+
+Sarah brings expertise in applying a contextual and conflict-sensitive lens to project design, including in support of developing political economy analysis, gender, and socially inclusive tools and approaches, theories of change, communications and engagement strategies, and risk mitigation frameworks. She provides technical leadership and oversight on UK government-funded conflict, stability, and security projects in a range of contexts from Morocco, to Ukraine, to Pakistan.
+
+Sarah also brings research and policy-making experience from previous roles in think thank and inter-governmental organizations. She is active in the running of U.K. elections and is an elected representative in her own community.
+
 * Professional certificate in governance and accountability, Chartered Institute of Personnel and Development
 * M.A., international studies and diplomacy, University of London
 * B.A., modern European and Middle Eastern languages (Spanish and Arabic), University of Manchester
