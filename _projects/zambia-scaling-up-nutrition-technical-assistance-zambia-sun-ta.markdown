@@ -49,4 +49,4 @@ Zambia SUN TA layers interventions in nutrition, health, agriculture, and water,
 * Trained 1,316 community volunteers who reached 212,247 people with family planning products and services within their localities, cutting the usually long distances to health centers and promoting increased uptake of family planning services and products.
 * Built 118 new and rehabilitated boreholes, enabling 113,000 people to access clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
 * Assisted more than 240,000 households to build latrines, hence improving community sanitation and hygiene.
-* Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavior change. 
+* Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavioral change. 
