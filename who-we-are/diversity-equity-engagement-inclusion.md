@@ -1,5 +1,5 @@
 ---
-title: Diversity,Equity, Engagement, and Inclusion
+title: Diversity, Equity, Engagement, and Inclusion
 summary: |
   Our mission is to make a lasting difference in the world by helping people improve their lives. We rely on our diverse cultures, backgrounds, and points of view to advance our mission, and our success depends on fostering a workplace where everyone, everywhere feels valued and empowered. 
 hero: true
@@ -128,7 +128,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
 <p>Employee resource groups (ERG) are an essential part of the business at DAI. We work hand in hand with our ERGs to nurture an inclusive culture and create a sense of community and belonging for all. Together, we support employees' professional development and collaborate on companywide DEEI initiatives.</p>
 
 <div class="bulma">
-  <div class="container">
+  <div class="container" style="margin-bottom: 2rem;">
     <div class="columns">
       <div class="column">
         {% for group in page.groups limit:1 %}
@@ -239,3 +239,6 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
     </div>
   </div>
 </div>
+
+<h2>Working at DAI</h2>
+<p>DAI offers rewarding careers for talented and innovative technical, managerial, and support professionals. Check out our Careers page for more information on what it’s like to work here. <a href="/careers/why-dai">Learn more</a> about life at DAI.</p>
