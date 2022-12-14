@@ -1,7 +1,7 @@
 ---
 title: Joseph Leavenworth Bakali
 date: 2021-08-20 15:27:00 Z
-order: 22
+published: false
 lastname: 'Leavenworth Bakali '
 summary: 'Joe Leavenworth Bakali provides technical analysis, program management,
   and business development support to innovation, local content, and energy transition
@@ -9,8 +9,9 @@ summary: 'Joe Leavenworth Bakali provides technical analysis, program management
 job-title: Senior Analyst
 image: "/uploads/Joseph%20IMG_9818%20(3).JPG"
 solutions:
-- Sustainable Business
+- Include Primary and/or Secondary Solutions
 - 
+order: 22
 ---
 
 Joe Leavenworth Bakali is a Senior Analyst in DAI’s Sustainable Business Group (SBG), where he provides technical analysis, program management, and business development support to innovation, local content, and energy transition projects. 
