@@ -4,7 +4,7 @@ date: 2022-12-14 14:51:00 Z
 lastname: Wilson-Lee
 summary: As Director of Programs for DAI’s Sustainable Business Group, Amy Wilson-Lee
   oversees the delivery of a varied portfolio of projects
-job-title: 'Director '
+job-title: Director of Programs
 image: "/uploads/AWL.png"
 solutions:
 - Sustainable Business
