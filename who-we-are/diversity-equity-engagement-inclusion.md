@@ -116,10 +116,10 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
   </article>
 </div>
 
-<blockquote style="margin-top: 2rem; margin-bottom: 2rem;">“DAI is a diverse, multicultural company. But we know being diverse is not enough in itself. We have made a strong commitment to being an actively anti-racist company with diversity, equity, engagement, and inclusion deeply rooted in everything we do.” -- <strong><a href="https://www.dai.com/who-we-are/our-team/bobby-jefferson">Bobby Jefferson, Global Head of DEEI</a></strong></blockquote>
+<blockquote style="margin-top: 2rem; margin-bottom: 2rem;">“DAI is a diverse, multicultural company. But we know being diverse is not enough in itself. We have made a strong commitment to being an actively anti-racist company with diversity, equity, engagement, and inclusion deeply rooted in everything we do.” —<strong><a href="https://www.dai.com/who-we-are/our-team/bobby-jefferson">Bobby Jefferson, Global Head of DEEI</a></strong></blockquote>
 
 <h2 style="margin-top: 2rem;">Where We Are Today</h2>
-<p>While we have work to do to advance diversity and inclusion, we aspire to build a workplace that reflects the diverse world we live in and hope to create.</p>
+<p>While we have work to do to advance diversity and inclusion, we are proud of a workforce and workplaces that reflect the diverse world we live in.</p>
 
 {% include deei-carousel.html %}
 
@@ -140,7 +140,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           </div>
           <div class="card-content">
             <div class="content">
-              <h3>{{ group.name }}</h3>
+              <h3 style="font-size: 1.1rem;">{{ group.name }}</h3>
               <p>{{ group.description }}</p>
             </div>
           </div>
@@ -157,7 +157,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           </div>
           <div class="card-content">
             <div class="content">
-              <h3>{{ group.name }}</h3>
+              <h3 style="font-size: 1.1rem;">{{ group.name }}</h3>
               <p>{{ group.description }}</p>
             </div>
           </div>
@@ -176,7 +176,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           </div>
           <div class="card-content">
             <div class="content">
-              <h3>{{ group.name }}</h3>
+              <h3 style="font-size: 1.1rem;">{{ group.name }}</h3>
               <p>{{ group.description }}</p>
             </div>
           </div>
@@ -193,7 +193,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           </div>
           <div class="card-content">
             <div class="content">
-              <h3>{{ group.name }}</h3>
+              <h3 style="font-size: 1.1rem;">{{ group.name }}</h3>
               <p>{{ group.description }}</p>
             </div>
           </div>
@@ -212,7 +212,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           </div>
           <div class="card-content">
             <div class="content">
-              <h3>{{ group.name }}</h3>
+              <h3 style="font-size: 1.1rem;">{{ group.name }}</h3>
               <p>{{ group.description }}</p>
             </div>
           </div>
@@ -229,7 +229,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
           </div>
           <div class="card-content">
             <div class="content">
-              <h3>{{ group.name }}</h3>
+              <h3 style="font-size: 1.1rem;">{{ group.name }}</h3>
               <p>{{ group.description }}</p>
             </div>
           </div>
