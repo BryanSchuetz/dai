@@ -42,10 +42,11 @@ Zambia SUN TA layers interventions in nutrition, health, agriculture, and water,
 
 ## Select Results
 
-* Conducted one of the first virtual site visits, using Google Meets, during the COVID-19 pandemic. 
-* Established more than 2,000 community and health facility vegetable gardens across 13 focus districts and trained more than 8,000 community-based volunteers on how to deliver proper food preparation sessions. 
-* Trained 407 health facility staff and 1,490 community-based volunteers on forming and managing nutrition-focused mother support groups. 
-* Trained 379 government staff and volunteers to roll out WASH activities in communities, including the formation of Sanitation Action Groups and Village WASH Committees. 
-* Constructed latrines and handwashing stations for 111 villages in Mansa District and—once they are confirmed open defection-free (ODF)—they will join 122 other villages that have been verified ODF under SUN TA for a total of 233.
-* Facilitated the official handover of 20 boreholes, translating to a total of 10,000 people gaining access to clean, safe water. 
-* Supported the Ministry of Health to train more than 1,500 community volunteers, known as community distributors, to expand family planning service coverage to more rural Zambian communities. The distributors collectively reached more than 200,353 people, marking more than a 1,000 percent increase in people reached compared to 2020.  
+* Trained 1,203 lead farmers and provided extension services to 38,757 follower farmers in 2021, thus improving agriculture production and practices.
+* Helped farmers increase sales of agricultural produce by 97.4 percent from 2020 to 2021.
+* Facilitated the savings of more than $230,000 by savings and loans groups that was shared among 216 groups comprising 3,588 members who used it for several purposes including starting small businesses and investing in capital projects such as housing.
+* Helped 120,515 mothers benefit from activities and information on improved childcare practices, thereby contributing to raising healthy children.
+* Trained 1,316 community volunteers who reached 212,247 people with family planning products and services within their localities, cutting the usually long distances to health centers and promoting increased uptake of family planning services and products.
+* Built 118 new and rehabilitated boreholes, enabling 113,000 people to access clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
+* Assisted more than 240,000 households to build latrines, hence improving community sanitation and hygiene.
+* Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavior change. 
