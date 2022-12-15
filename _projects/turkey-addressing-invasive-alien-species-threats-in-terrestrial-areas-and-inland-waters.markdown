@@ -2,10 +2,10 @@
 title: Türkiye—Addressing Invasive Alien Species Threats in Terrestrial Areas and
   Inland Waters
 date: 2021-01-07 10:00:00 Z
-summary: 'This project is ensuring the resilience of inland waters and terrestrial
-  ecosystems in Türkiye with a specific focus on invasive alien species. It aims to
-  get the species under control in targeted terrestrial areas and inland waters in
-  line with European Union regulations. '
+summary: 'This project ensured the resilience of inland waters and terrestrial ecosystems
+  in Türkiye with a specific focus on invasive alien species. It worked to get the
+  species under control in targeted terrestrial areas and inland waters in line with
+  European Union regulations. '
 start: 2019
 end: 2022
 client: European Union
@@ -19,9 +19,9 @@ Invasive alien species are considered one of the main causes of marine and coast
 
 Identification, eradication, and management of invasive alien species are cited in Türkiye’s National Strategy and Action Plan for Biodiversity. However, legislative gaps and lack of coordination among institutions in the country hinder its implementation.
  
-The overall goal of [this project](http://teriasturk.org/) is to ensure the resilience of inland waters and terrestrial ecosystems in Türkiye with a specific focus on invasive alien species. It aims to get the species under control in targeted terrestrial areas and inland waters in line with European Union regulations. 
+The overall goal of [this project](http://teriasturk.org/) was to ensure the resilience of inland waters and terrestrial ecosystems in Türkiye with a specific focus on invasive alien species. It worked to get the species under control in targeted terrestrial areas and inland waters in line with European Union regulations. 
 
-Our team is supporting Türkiye with the preparation of a legal instrument, developing action and management plans as well as building the institutional capacity of relevant authorities and actions to increase public awareness. 
+Our team supported Türkiye with the preparation of a legal instrument, developed action and management plans as well as built the institutional capacity of relevant authorities and actions to increase public awareness. 
 
 ![s3.jpg](/uploads/s3.jpg)
 
