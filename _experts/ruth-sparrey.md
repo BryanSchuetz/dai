@@ -1,13 +1,12 @@
 ---
 title: Ruth Sparrey
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Sparrey
 summary: Ruth Sparrey has more than 25 years of experience as a rural development
   consultant and project director, working with community-based and nongovernmental
   organizations, and with governments to manage innovative livelihood initiatives
   targeted at households, farms, and communities.
-job-title: 'Director, HMG Business Development '
+job-title: Advisor
 image: https://assetify-dai.com/experts/RuthInner.jpg
 solutions:
 - Environment
