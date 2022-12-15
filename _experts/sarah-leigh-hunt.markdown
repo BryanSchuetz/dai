@@ -5,7 +5,7 @@ lastname: Leigh-Hunt
 summary: Sarah Leigh-Hunt has worked with parliaments, political parties, electoral
   bodies, and civil society organizations in a range of contexts, and has expertise
   applying a political economy lens to project planning and implementation.
-job-title: Principal Consultant, Technical Services, Governance
+job-title: Principal Manager, Governance
 image: "/uploads/SLH_bio_photo.jpg"
 solutions:
 - Governance
