@@ -30,3 +30,13 @@ The plans will be developed in accordance with the [European Union Water Framewo
 * Update monitoring programmes for the six basins. 
 * Prepare significant water management issues reports.  
 * Carry out a study visit to an EU Member State to evaluate their experience with the significant water management issues.
+* Create sectoral water allocation plans, environmental assessment reports, and a case study on environmental and health impacts of the implementation of environmental quality standards.
+
+## Select Results 
+
+* Organized an opening event with the participation of more than 600 attendees from various stakeholders. 
+* Organized six stakeholder consultation meetings in the basins of the project, with more than 600 attendees.
+* Facilitated an inception workshop on characterization issues with 60 practitioners. 
+* Organized high-level study visits to Denmark, Finland, and Spain.
+* Prepared reports on water management issues, and sectoral use of water. 
+* Produced an inventory of priority substances and specific pollutants which are used, and/or discharged by industrial facilities, urban wastewater treatment plants, and agricultural activities. 
