@@ -31,3 +31,11 @@ To do so, the project is developing İŞKUR's institutional and human capacities
 * Conduct studies on inclusive service delivery models for disadvantaged groups, effective cooperation mechanisms, and IŞKUR employment fairs and career days.
 * Help organize international mutual exchange activities and workshops with university career services.
 * Improve coordination and cooperation with private employment agencies, social partners, and nongovernmental groups. 
+
+## Select Results
+
+* Developed training materials for seven training modules.
+* Delivered 76 training cohorts and trained 2,300 training participants in 28 provinces.
+* Developed a seven-episode scenario on vocational orientation. 
+* Produced vocational introductory movies for İŞKUR. 
+* Created a public spot for İŞKUR.
