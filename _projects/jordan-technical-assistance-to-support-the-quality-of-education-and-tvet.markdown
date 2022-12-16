@@ -21,9 +21,16 @@ We are supporting the predominantly young population—with an emphasis on women
 
 ![Call-Center.jpg](/uploads/Call-Center.jpg)
 
-### Sample Activites
+## Sample Activities
 
 * Improve governance and strategic planning in the education sector, based on data-driven decision-making through the preparation of a comprehensive capacity development plan.
 * Strengthen the overall career path for teachers, focusing on pre-service training in selected grades to adopt and implement modern, student-centered, and inclusive teaching practices.
 * Reform vocational education with a specific focus on building up cooperation mechanisms between the Ministry of Education, the new Technical and Vocational Skills Development Commission, and the private sector.
-* Raise awareness about the benefits of the EU support in the education sector for the people and economy of Jordan.
+* Raise awareness about the benefits of EU support in the education sector for the people and economy of Jordan.
+
+## Select Results
+
+* Contributed to policy dialogue and sector technical analyses related to inclusive education, teachers’ policies and contracts, vocational education reform, and TVET strategy and action plan.
+* Prepared 100-school survey for 2022, including providing training to the Education Quality and Accountability Unit evaluators, overseeing the methodology, data collection tools development, field sample collection, and development of the report with the staff within the Ministry of Education.
+* Produced a training needs analysis for education supervisors, school principals, and teachers in the field of inclusive education.
+* Provided support to the Education Training Centre in the creation of professional development standards for teachers related to inclusive education and subsequently develop and roll out a targeted training program and materials. 
