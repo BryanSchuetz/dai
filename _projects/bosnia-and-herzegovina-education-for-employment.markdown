@@ -22,7 +22,7 @@ Our team’s efforts are designed to lead to students achieving higher levels of
 
 ![GAP OLD BRIDGE IN MOSTAR.JPG](/uploads/GAP%20OLD%20BRIDGE%20IN%20MOSTAR.JPG)
 
-### Sample Activities
+## Sample Activities
 
 * Develop and implement models and strategies for career guidance.
 * Develop and implement an interdisciplinary and cross-curricular model at all levels of education, with a focus on entrepreneurial and digital competencies.
@@ -30,3 +30,16 @@ Our team’s efforts are designed to lead to students achieving higher levels of
 * Develop standards for the assessment of teachers’ work.
 * Design new study programs for in-service teacher training based on learning outcomes, including entrepreneurial and digital competencies.
 * Develop a model for monitoring the progress of the reform processes.
+
+## Select Results
+
+* Established 18 career guidance corners in 18 pilot schools.
+* Trained teachers and school principals in the provision of career orientation.
+* Published and distributed a Handbook on Career Guidance. 
+* Carried out labor markets needs analysis among employers.
+* Developed occupational and qualifications standards for higher education in selected sectors. 
+* Published a rulebook on the recognition of non-formal education and informal learning for the purpose of continuing education. 
+* Developed new models for the continuous professional development of teachers. 
+* Developed entrepreneurial learning and digital skills for teachers at pre-university levels of education.
+* Delivered four modules of training for staff from ministries of education and educational institutes.
+* Prepared and validated operational plan for the preparation and administration of external assessments. 
