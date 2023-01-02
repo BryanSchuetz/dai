@@ -1,20 +1,16 @@
 ---
 title: Mike Walsh
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Walsh
-regions: 
-solutions: 
-layout: expert
-image: https://assetify-dai.com/experts/mikeinner.jpg
 summary: Mike Walsh's credentials as DAI's leading watchdog were earned over a 30-year
   career of scrutinizing procurement worldwide. During tenures as the U.S. Agency
   for International Development's (USAID's) contracting officer in Bangladesh, Egypt,
   and East Africa, Mike managed some of the most successful and innovative projects
   in the USAID portfolio.
 job-title: Chief Ethics and Compliance Officer
-articles:
-- name: 
-  article_file: 
+image: https://assetify-dai.com/experts/mikeinner.jpg
+layout: expert
 ---
 
 Mike Walsh's credentials as DAI's leading watchdog were earned over a 30-year career of scrutinizing procurement worldwide. During tenures as the U.S. Agency for International Development's (USAID's) contracting officer in Bangladesh, Egypt, and East Africa, Mike managed some of the most successful and innovative projects in the USAID portfolio. As the agency's Chief Acquisition Officer and procurement executive from 2004 to 2007, he directed 125 professionals in Washington as well as more than 250 staff overseas. He was responsible for approximately $8 billion in contracts and grants per year, and resolved contracting issues in Iraq, Afghanistan, and 75 other missions.
