@@ -1,6 +1,7 @@
 ---
 title: Katie Taratus
 date: 2019-02-22 12:32:00 Z
+published: false
 lastname: Taratus
 summary: 'Since joining DAI in 2006, Katie Taratus has supported projects focused
   on health security, food and nutritional security, livelihoods, economic strengthening,
