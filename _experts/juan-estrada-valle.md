@@ -6,15 +6,15 @@ summary: 'Juan Estrada-Valle is an agricultural economist and five-time Chief of
   with more than 20 years of experience managing economic growth programs in the areas
   of trade and investment, agri-food systems, value chain competitiveness, and export
   market development. '
-job-title: Vice President for Strategic Growth, USG Business Unit
+job-title: 'Chief of Party, USAID Prosper Africa Trade and Investment '
 image: "/uploads/Juan.jpg"
 solutions:
 - Economic Growth
 - Trade
 - Supply Chain
 regions:
-- Asia and the Pacific
 - Sub-Saharan Africa
+- 
 articles:
 - name: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan Trade
     in the COVID-19 Era'
