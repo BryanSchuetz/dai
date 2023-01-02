@@ -4,7 +4,7 @@ date: 2017-09-26 19:07:00 Z
 lastname: 'Vasamsetti '
 summary: 'Shannon Vasamsetti ’s work has focused on the nexis of climate change, rural
   livelihoods, and natural resource management. '
-job-title: Global Practice Specialist, Climate Change and Natural Resources Management
+job-title: Senior Principal Specialist, Climate Change and Natural Resources Management
 image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
 solutions:
 - Environment
