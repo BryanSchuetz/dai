@@ -26,7 +26,7 @@ Against this backdrop, our technical assistance supports the industrialization a
 
 ## Sample Activities
 
-* Ensure effective and efficient policy, and legal and institutional frameworks to improve access to energy as well as strengthen coordination capacities of energy agencies.
+* Ensure that effective and efficient policies and legal and institutional frameworks will improve access to energy as well as strengthen the coordination between energy agencies.
 * Enhance governance and strategic planning of investments in the national grid with secured financing of priority projects.
 * Increase diversification and productive use of renewable energy with private sector participation.
-* Ensure the participation of women and people with disabilities in the green and digital economies.
+* Increase the participation of women and people with disabilities in the green and digital economies.
