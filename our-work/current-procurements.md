@@ -10,7 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
-* [CIDR E&E Cybersecurity Training](https://dai-assets.s3.amazonaws.com/rfps/REVISED%20RFP-%20CIDR%20E%26E%20Cybersecurity%20Training_FINAL_1.2.2023.pdf "2/7")
+* [CIDR E&E Cybersecurity Training](https://dai-assets.s3.amazonaws.com/rfps/REVISED%20RFP-%20CIDR%20E%26E%20Cybersecurity%20Training_FINAL_1.2.2023.pdf "2/1")
 * [RFP-MSP-010 Market Systems in Mali and Opportunities for Investment Assessment](https://dai-assets.s3.amazonaws.com/rfps/RFP-MSP-010-Mali%20Complete%20Packet.pdf "1/17")
 * [EGA-RFP-22-0223 Project Management Training Program](https://dai-assets.s3.amazonaws.com/rfps/EGA-RFP-22-0223%20Project%20Management%20Training%20Program.pdf "12/15")
 * [Digital Frontiers RFP 2022-15 WCC Symposium- Facilitation](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers%20RFP%202022-15%20WCC%20Symposium-%20Facilitation.pdf "1/9")
