@@ -1,12 +1,12 @@
 ---
-title: Malawi—Energy Program (Wala Malawi)
+title: Malawi—Technical Assistance to the Energy Program (Wala Malawi)
 date: 2023-01-04 09:54:00 Z
 tags:
 - Europe
 - European Union
 summary: 'Wala Malawi supports the industrialization and diversification of the Malawian
   electricity sector by implementing reforms and promoting private-sector investments. '
-start: 2023
+start: 2022
 end: 2026
 client: European Union
 solutions:
@@ -16,7 +16,7 @@ regions: Sub-Saharan Africa
 country: Malawi
 ---
 
-In Malawi, low electricity generation capacity and limited access to modern energy have the combined effect of stunting economic development at all levels. The electricity supply system is characterized by an over-reliance on hydropower—with most of the electricity generating stations located on one river, aging infrastructure, weak fault levels, thermal limits, and persistent power outages. 
+In Malawi, low electricity generation capacity and limited access to modern energy have the combined effect of stunting economic development at all levels. The electricity supply system is characterized by over-reliance on hydropower with most of the electricity generating stations located on one river, aging infrastructure, and persistent power outages.
 
 Diversifying the energy mix in Malawi is one of the key pillars of the country's National Energy Policy. Electricity generation from renewable sources is envisaged to increase electricity generation capacity and electricity access from 18 percent to 30 percent by 2030. 
 
