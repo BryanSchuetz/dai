@@ -4,6 +4,8 @@ date: 2023-01-04 09:54:00 Z
 tags:
 - Europe
 - European Union
+summary: 'Wala Malawi supports the industrialization and diversification of the Malawian
+  electricity sector by implementing reforms and promoting private-sector investments. '
 start: 2023
 end: 2026
 client: European Union
@@ -18,7 +20,7 @@ In Malawi, low electricity generation capacity and limited access to modern ener
 
 Diversification of the energy mix in Malawi is one of the key pillars of its National Energy Policy wherein electricity generation from renewable sources is envisaged as the mainstay to increase electricity generation capacity and electricity access from 18 percent to 30 percent of the population by 2030. 
 
-Against this backdrop, this project supports the industrialization and diversification of the Malawian electricity sector by implementing reforms and promoting private-sector investments. Our technical assistance contract is part of a wider program called the Malawi Energy Program (Wala Malawi), a central component of the Team Europe Initiative “Green Growth for Malawi” meant to tackle major challenges that are hampering the resilient transformation of the economy and energy systems in Malawi. 
+Against this backdrop, our technical assistance supports the industrialization and diversification of the Malawian electricity sector by implementing reforms and promoting private-sector investments. Our technical assistance is part of a wider program called the Malawi Energy Program (Wala Malawi), a central component of the Team Europe Initiative, “Green Growth for Malawi,” which tackles major challenges that are hampering the resilient transformation of the economy and energy systems in Malawi. 
 
 ![Local Government Accountability and Performance (LGAP).JPG](/uploads/Local%20Government%20Accountability%20and%20Performance%20(LGAP).JPG)
 
