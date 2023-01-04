@@ -16,11 +16,11 @@ regions: Sub-Saharan Africa
 country: Malawi
 ---
 
-In Malawi, low electricity generation capacity and limited access to modern energy have the combined effect of stunting economic development at national and household levels. The electricity supply system is characterized by over-reliance on hydropower with most of the electricity generating stations located on one river, aging infrastructure, weak fault levels, thermal limits, and persistent power outages. 
+In Malawi, low electricity generation capacity and limited access to modern energy have the combined effect of stunting economic development at all levels. The electricity supply system is characterized by an over-reliance on hydropower—with most of the electricity generating stations located on one river, aging infrastructure, weak fault levels, thermal limits, and persistent power outages. 
 
-Diversification of the energy mix in Malawi is one of the key pillars of its National Energy Policy wherein electricity generation from renewable sources is envisaged as the mainstay to increase electricity generation capacity and electricity access from 18 percent to 30 percent of the population by 2030. 
+Diversifying the energy mix in Malawi is one of the key pillars of the country's National Energy Policy. Electricity generation from renewable sources is envisaged to increase electricity generation capacity and electricity access from 18 percent to 30 percent by 2030. 
 
-Against this backdrop, our technical assistance supports the industrialization and diversification of the Malawian electricity sector by implementing reforms and promoting private-sector investments. Our technical assistance is part of a wider program called the Malawi Energy Program (Wala Malawi), a central component of the Team Europe Initiative, “Green Growth for Malawi,” which tackles major challenges that are hampering the resilient transformation of the economy and energy systems in Malawi. 
+Against this backdrop, our technical assistance supports the industrialization and diversification of the Malawian electricity sector by implementing reforms and promoting private-sector investments. Our assistance is part of a wider program called the Malawi Energy Program (Wala Malawi), a central component of the Team Europe Initiative, “Green Growth for Malawi,” which tackles major challenges that are hampering the resilient transformation of the economy and energy systems in Malawi. 
 
 ![Local Government Accountability and Performance (LGAP).JPG](/uploads/Local%20Government%20Accountability%20and%20Performance%20(LGAP).JPG)
 
