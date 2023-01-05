@@ -22,7 +22,7 @@ We work with and through local systems while thinking and working politically. O
 
 ![jordan.jpg](/uploads/jordan.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Build capacity within the Studies and Economic Policies Directorate to better utilize their revenue impact model to inform adaptations and fiscal responses to the COVID-19 crisis and deepen economic policy analysis capabilities overall.
 * Streamline the budget management process.
@@ -31,7 +31,7 @@ We work with and through local systems while thinking and working politically. O
 * Strengthen the preparation of results-oriented budgets.
 * Strengthen audit processes and procedures. 
 
-### Select Results
+## Select Results
 
 * Developed new, user-friendly tools, including a series of tailored dashboards to visualize budgetary information and data mining tools to assist the search for information. These tools allow stakeholders, depending on their authority, to access the needed information in a timely way. 
 * Assisted the Government of Jordan in launching the Government Unit Portal, which makes reporting easier and more efficient for 25 government units that comprise of different state-owned and semi-governmental agencies. A more efficient reporting system means that the Ministry of Finance and General Budgeting Department have a clearer picture of the budgetary situation of the whole government, allowing them to make better decisions and allocate scarce public resources more efficiently. PFMA conducted site visits and workshops and trained 125 government staff for more than 1,000 hours in preparation for the launch of the system.
