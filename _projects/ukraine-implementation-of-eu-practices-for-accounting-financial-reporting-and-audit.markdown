@@ -6,7 +6,7 @@ summary: This EU-funded project aims to enhance Ukraine's transparency and busin
   climate, facilitating domestic and foreign direct investment in the private sector
   and more closely integrating Ukraine into the European and global economies.
 start: 2019
-end: 2022
+end: 2025
 client: European Union
 solutions:
 - Institutional and Policy Reform
@@ -20,13 +20,13 @@ country: Ukraine
 
 Economic and political turbulence in Ukraine’s recent past have not only disrupted the country’s macroeconomic and financial stability, but also undermined its investment climate, access to financial services for citizens and businesses, trade performance, and job creation. 
 
-The European Union (EU)-funded project works to address the various technical barriers that stand in the way of Ukraine’s economic development and success. Ukraine’s public and private sectors require further reform to develop an economy that can deliver balanced and sustainable growth that brings the country closer to Europe.
+The European Union (EU)-funded project addresses the various technical barriers that stand in the way of Ukraine’s economic development and success. Ukraine’s public and private sectors require further reform to develop an economy that can deliver balanced and sustainable growth that brings the country closer to Europe.
 
-The project aims to enhance Ukraine’s transparency and business climate, facilitating domestic and foreign direct investment in the private sector and more closely integrating Ukraine into the European and global economies. Improvements to Ukraine’s business and investment climate will make the country a more attractive destination for the new capital needed to transform the economy and place state finances on a stable foundation.
+The project is enhancing Ukraine’s transparency and business climate, facilitating domestic and foreign direct investment in the private sector and more closely integrating Ukraine into the European and global economies. Improvements to Ukraine’s business and investment climate will make the country a more attractive destination for the new capital needed to transform the economy and place state finances on a stable foundation.
 
 ![Rome12.jpg](/uploads/Rome12.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Harmonize legislation to remove the outstanding discrepancies between the updated Accounting Law and other legislation.
 * Implement regulations (such as bylaws, instructions, and manuals) developed for the amended Law of Ukraine on Accounting and Financial Reporting.

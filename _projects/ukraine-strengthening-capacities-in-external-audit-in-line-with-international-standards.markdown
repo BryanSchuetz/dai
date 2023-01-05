@@ -6,7 +6,7 @@ summary: 'This  project supports the Accounting Chamber of Ukraine to reform its
   audit of budgetary funds in line with the government''s public financial management
   strategy and action plan. '
 start: 2020
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Governance
