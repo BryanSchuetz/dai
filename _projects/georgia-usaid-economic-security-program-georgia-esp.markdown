@@ -42,6 +42,10 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 
 ## Select Results
 
+* Created 28 partnerships.
+* Increased the sales of small firms by $31.7 million.
+* Created 2,042 high-value jobs. 
+* Facilitated the creation of the SkillWill Academy, which has a pipeline of more than 700 high-value jobs. 
 * Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about the impact of internet piracy. 
 * Produced a video tour of Samtskhe-Javakehi [that was selected](https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest) as the best in Europe and one of the five best in the world in the Promotion and Decade of Action category of the United Nations World Tourism Organization's [Tourism Video Competition](https://www.unwto.org/news/2021-unwto-tourism-video-competition-winners).
 * Partnered with global e-commerce platform Etsy to onboard more than 100 Georgian artisans, many of whom had lost their traditional sales channels because of the COVID-19 pandemic. 
