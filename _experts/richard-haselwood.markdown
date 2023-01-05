@@ -6,7 +6,7 @@ summary: Richard Haselwood is an international development professional with mor
   than 18 years of experience designing and implementing democracy, governance, and
   resilience programming in support of more accountable, effective, and inclusive
   governance.
-job-title: 'Principal Global Practice Specialist, Governance '
+job-title: Chief of Party, Georgia National Governance Program
 image: "/uploads/Richard%20Haselwood%20Photo.jpg"
 solutions:
 - Governance
@@ -21,7 +21,7 @@ Richard Haselwood is an international development professional with more than 18
 
 As a former media professional, he has designed and led initiatives seeking to improve the professionalization and independence of the media sector and expand citizen access to information. He has a track record of fostering effective collaboration, learning and adaptive project management, and leading diverse teams to implement iterative projects that apply political economy analysis and local systems thinking to identify the critical issues, opportunities, and partners with the greatest will to advance reform and catalyze longer-term development. 
  
-He currently serves as DAI’s Principal Global Practice Specialist for Local Governance providing technical support to projects supporting problem-driven iterative adaptation (PDIA), political economy analysis (PEA), conflict-sensitive programming, and digital transformation. Additionally, he supports knowledge management and coordination across projects and practice areas and contributes to new business and growth opportunities. Prior to joining DAI in 2021, he served for seven years with the U.S. Agency for International Development (USAID) as a Senior Democracy and Governance Advisor and USAID's Office for Transition Initiatives Country Representative/Deputy Country Representative. He has worked in the Kyrgyz Republic, Lebanon, Sudan, South Sudan, Kenya, Liberia, Sierra Leone, and Senegal.  
+He most recently served as DAI’s Principal Global Practice Specialist for Local Governance providing technical support to projects supporting problem-driven iterative adaptation (PDIA), political economy analysis (PEA), conflict-sensitive programming, and digital transformation. Prior to joining DAI in 2021, he served for seven years with the U.S. Agency for International Development (USAID) as a Senior Democracy and Governance Advisor and USAID's Office for Transition Initiatives Country Representative/Deputy Country Representative. He has worked in the Kyrgyz Republic, Lebanon, Sudan, South Sudan, Kenya, Liberia, Sierra Leone, and Senegal.  
 
 * B.A., political science and French with a minor in global studies and an honors certificate, Virginia Commonwealth University  
 * B.S., mass communications: electronic journalism, Virginia Commonwealth University 
