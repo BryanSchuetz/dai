@@ -12,7 +12,7 @@ promos:
 - title: Europe Commitment Statement
   link: "/uploads/DAI-Europe%20Commitment%20Statement%20to%20DFID%20Signed%20June%202019.pdf"
 - title: DAI Code of Business Conduct and Ethics—French
-  link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code-French.pd
+  link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code-French.pdf
 - title: DAI Code of Business Conduct and Ethics—Urdu
   link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code%20of%20Conduct-URDU.pdf
 summary: DAI implements stringent policies and processes to ensure that our projects
