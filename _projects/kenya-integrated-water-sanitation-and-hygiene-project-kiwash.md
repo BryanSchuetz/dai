@@ -39,7 +39,7 @@ As county governments take on responsibility for investment in and oversight of 
 
 <iframe src="https://player.vimeo.com/video/226759747" width="640" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
 * Assist water service providers (WSPs) to improve service delivery and business operations.
 * Facilitate access to financing for WSPs and WASH enterprises.
@@ -48,7 +48,7 @@ As county governments take on responsibility for investment in and oversight of 
 * Incubate private sector WSSH enterprises to develop innovative products and approaches.
 * Integrate WSSH and nutrition best practices into Kenyan health services delivery. 
 
-### Select Results
+## Select Results
 
 * Extended basic drinking water services to more than 874,388 people; another 69,566 gained access to basic sanitation services with 1,687 villages verified open-defecation free with monitoring plans in place.
 * Mobilized $44 million in new sector funding to expand the services or increase the efficiency of water service providers.
