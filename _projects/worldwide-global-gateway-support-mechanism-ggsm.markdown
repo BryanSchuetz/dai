@@ -11,8 +11,17 @@ regions: Worldwide
 country: Worldwide
 ---
 
-The Knowledge Hub Jobs & Growth (Part I)—Global Gateway Support Mechanism (GGSM) project. The Global Gateway initiative is the European Union (EU)’s plan for investing in infrastructure development around the world. The GGSM will focus primarily on the transport sector by supporting actors managing or implementing EU cooperation programmes—in particular EU Delegations, EU Headquarters, and partner countries—to assess, design, monitor, and evaluate investments in connectivity and infrastructure at global, regional, and country levels.
+The world still faces a massive gap in financing for investment in new and existing infrastructure, and available resources could be used in a more effective way. In this context, the European Union’s (EU) Global Gateway initiative invests in the digitalisation, health, climate and energy and transport sectors, as well as in education and research. Within the overarching framework of the initiative, this intervention will primarily focus on the transport sector by supporting actors managing or implementing EU cooperation programmes at global, regional and country level to assess, design, monitor and evaluate connectivity and quality infrastructure interventions.
+
+This project is to facilitate that European Union (EU) policy on quality transport infrastructure and connectivity is adequately embedded by partner countries and other stakeholders.  
+In close coordination with the Contracting authority and EU Delegations, the project will swiftly design, develop and implement technical assistance packages as per the request of beneficiary countries and regions.  A large range of partner countries can benefit from this action. The countries include those covered by the Neighbourhood Development and International Cooperation Instrument - Global Europe (NDICI/Global Europe), mainly focusing on a limited number of African corridors, where the EU financing can make a difference in terms of impact.
+Therefore, the required expertise and response will vary across the countries and according to the proposed projects. Technical assistance will be provided subject to the willingness and the readiness of the country to demonstrate the necessary political commitment to undertake appropriate reforms and investments.
+
+![GGSM_stock.jpg](/uploads/GGSM_stock.jpg)
+
+## Sample Activities
  
-Our technical expertise will be organised in four areas: supporting countries to establish connectivity strategies and policies; building the institutional capacity of relevant actors in the policy and regulatory arena, with a particular emphasis on promoting the G20 Principles for Quality Infrastructure in the transport sector; providing technical support in programming and preparing projects; and operationalizing the EU connectivity strategy.
- 
-The assisted projects will foster the sustainable development of partner countries by reducing greenhouse gas emissions associated with transportation and diversifying supply chains. Our assistance will be responsive to the requests of beneficiary countries and regions, and closely coordinated with the Directorate-General for International Partnerships and with the EU Delegations in their respective countries. GGSM is designed to support a wide range of partner countries but will likely focus mainly on African corridors where EU financing can have the most substantial impact.
+* Support countries to establish connectivity strategies and policies.
+* Build the institutional capacity of relevant actors in the policy and regulatory arena, with a particular emphasis on promoting the G20 Principles for Quality Infrastructure in the transport sector.
+* Provide technical support in programming and preparing projects.
+* Operationalize the EU connectivity strategy.
