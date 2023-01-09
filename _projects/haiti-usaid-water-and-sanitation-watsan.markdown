@@ -40,7 +40,7 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 
 ![Haiti WASH web image.jpg](/uploads/Haiti%20WASH%20web%20image.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * [Build the capacity of local water utilities](https://medium.com/usaid-global-waters/creating-a-roadmap-for-sustainable-water-service-delivery-in-haiti-e67128d7ac98) to improve their management strategy, reduce non-revenue water losses, and attract new customers. 
 * Strengthen the capacity of small and medium enterprises to market sanitation products. 
@@ -56,4 +56,5 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 * Facilitated increased sales of sanitation products and services for 11 small firms.
 * Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
 * Working with the Haitian National Water Authority to assist local water utilities (CTEs) to function as independent businesses. Despite COVID-19, an increase in crime, the presidential assassination, and a fuel shortage, a core group of CTEs increased their combined revenues from 3 million gourdes to nearly 8 million gourdes in 2021.
+* Operationalized two fecal sludge management facilities in the districts of Fondfrede and Morne Cabrit. These facilities increased access to sanitation for more than 75,000 people and prevented human bio-waste from polluting drinking water sources. 
 * Launched the [Water Resilience Center.](/uploads/Launch%20of%20the%20water%20resilience%20center.pdf)
