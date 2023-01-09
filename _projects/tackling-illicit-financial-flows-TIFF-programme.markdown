@@ -32,4 +32,4 @@ Intended outcomes include:
 * Provide strategic support to the FDE in Ecuador to enhance its capacity to tackle domestic anti-corruption dynamics.  
 * Provide strategic support to the FGN in Colombia in the implementation of the strategic work plan of that institution’s illicit finances directorate. 
 * Enhance localized capacity within the Peruvian tax authorities (SUNAT) to trace and tackle IFFs as they contribute to deforestation in the Amazon. 
-* Working with two or more regional (Ecuador, Peru, Colombia, and Panama) Financial Investigation Units to share best practices between countries and promote enhanced intra-regional collaboration. 
+* Working with two or more regional (Colombia, Ecuador, Panama, and Peru) Financial Investigation Units to share best practices between countries and promote enhanced intra-regional collaboration. 
