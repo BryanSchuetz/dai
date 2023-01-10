@@ -1,7 +1,6 @@
 ---
 title: Corin Armstrong
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Armstrong
 summary: Corin Armstrong, a member of our Business Development team, has more than
   10 years of experience supporting the design, implementation, and management of
