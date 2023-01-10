@@ -6,7 +6,7 @@ summary: By working with national and local governments to improve their systems
   Program increases public funding to support social programs, generate employment,
   and reduce inequality.
 start: 2017
-end: 2022
+end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Public Financial Management

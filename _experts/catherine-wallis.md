@@ -1,6 +1,7 @@
 ---
 title: Catherine Wallis
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Wallis
 summary: 'Catherine Wallis has 20 years’ experience delivering multi-annual programmes
   delivering rural development, sustainable livelihoods, and social development outcomes

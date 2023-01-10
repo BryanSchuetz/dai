@@ -1,6 +1,7 @@
 ---
 title: Alejandro Solis-Duran
 date: 2018-07-25 20:08:00 Z
+published: false
 lastname: Solis
 summary: Alejandro Solis-Duran is a Senior Digital Product Manager for DAI’s Sustainable
   Business Group and where he develops and delivers innovative solutions and technical

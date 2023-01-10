@@ -21,7 +21,7 @@ promos:
 
 Palestinian small and medium enterprises (SMEs) have long had to cope with persistent challenges—a local market with limited purchasing power, restrictions on the movement of goods and people, limited access to export markets, and more. The COVID-19 crisis put unanticipated pressure on an already constrained economy. The May 2021 conflict between Israeli forces and Hamas inflicted further damage on the private sector, in Gaza especially. 
 
-The Palestine Small and Medium Enterprise Assistance for Recovery and Transition (SMART) project operates in Gaza as well as the West Bank, offering a combination of immediate financial support for small and medium enterprises (SMEs) and sustainable systemic strengthening. SMART helps Palestinian SMEs and startups rapidly recover from shocks and put them on a path to revitalization, creating job opportunities for a growing—and young—population. 
+The [Palestine Small and Medium Enterprise Assistance for Recovery and Transition (SMART)](https://www.smartproject.ps/en) project operates in Gaza as well as the West Bank, offering a combination of immediate financial support for small and medium enterprises (SMEs) and sustainable systemic strengthening. SMART helps Palestinian SMEs and startups rapidly recover from shocks and put them on a path to revitalization, creating job opportunities for a growing—and young—population. 
 
 ![0A9A5085.JPG](/uploads/0A9A5085.JPG)
 

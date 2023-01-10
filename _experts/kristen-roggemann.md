@@ -1,6 +1,7 @@
 ---
 title: Kristen Roggemann
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Roggemann
 summary: Kristen Roggemann has extensive field experience in the Middle East and Africa
   working on mobile-for-development initiatives in both public and private sector

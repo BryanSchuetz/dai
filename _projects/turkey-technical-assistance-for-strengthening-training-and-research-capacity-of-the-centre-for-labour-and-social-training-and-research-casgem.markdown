@@ -26,3 +26,17 @@ The current project supports ÇASGEM, medical, and rehabilitation professionals 
 * Develop training modules around safety culture.
 * Establish a web-based process and performance management system.
 * Design and develop OHS virtual training scenarios.
+
+## Select Results
+
+* Prepared vocational rehabilitation country reports based on the best practices in the European Union (EU) and Canada.
+* Delivered safety culture training modules for the age groups 0-6, 6-15, 15-18, and 18+.
+* Developed a report on mainstreaming OHS into regular and vocational education in EU member states.
+* Developed process performance management system for the use of ÇASGEM.
+* Created 20 virtual reality training scenarios in four major industrial sectors (mining, construction, petrochemical, and metal).
+* Completed 71 training sessions have been completed and 1,631 participants reached through advanced occupational health and safety training and various statistics training.
+* A process safety management manual has been written.
+* Organized study visits to Finland and Sweden to support the return-to-work research activity of ÇASGEM.
+* Produced four awareness-raising films to promote occupational rehabilitation and safety culture studies.
+* Completed seven children’s books, introducing safety culture.
+* Held a promotional conference, a safety culture seminar, and an event on safety culture.

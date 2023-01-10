@@ -40,3 +40,4 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
 ## Select Results
 
 * Provided 2,585 farmers with quality certified seeds in RASS’s priority counties and supplied an additional 80 seed multiplication farmers with groundnut seeds to build seed multipliers' capacity to produce adequate seeds to supply to local farmers for planting the following season, thereby increasing food production and food security. 
+* Reached 2,712 people, not including those reached through radio messages, through community townhalls and open forums to combat cultural narratives that perpetuate violence and commodify women, while also working to improve women’s skills in agriculture and nutrition. 

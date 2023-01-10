@@ -5,7 +5,7 @@ summary: 'The Iraq Governance and Performance Accountability (IGPA)/Takamul proj
   supports the Iraqi Government to shore up fiscal stability while rapidly and visibly
   improving service delivery. '
 start: 2017
-end: 2022
+end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Governance

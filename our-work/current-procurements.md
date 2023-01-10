@@ -10,22 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [EOI ConJusticia Gestion Tribunales](/uploads/EOI_ConJusticia_Gestion%20tribunales_vfinal.pdf "1/23")
+* [CIDR E&E Cybersecurity Training](https://dai-assets.s3.amazonaws.com/rfps/REVISED%20RFP-%20CIDR%20E%26E%20Cybersecurity%20Training_FINAL_1.2.2023.pdf "2/1")
 * [RFP-MSP-010 Market Systems in Mali and Opportunities for Investment Assessment](https://dai-assets.s3.amazonaws.com/rfps/RFP-MSP-010-Mali%20Complete%20Packet.pdf "1/17")
-* [EGA-RFP-22-0223 Project Management Training Program](https://dai-assets.s3.amazonaws.com/rfps/EGA-RFP-22-0223%20Project%20Management%20Training%20Program.pdf "12/15")
 * [Digital Frontiers RFP 2022-15 WCC Symposium- Facilitation](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers%20RFP%202022-15%20WCC%20Symposium-%20Facilitation.pdf "1/9")
-* [RFQ - Simplified Acquisition_CIDR Moldova Translation Services](https://dai-assets.s3.amazonaws.com/rfps/RFQ%20-%20Simplified%20Acquisition_CIDR%20Moldova%20Translation%20Services.pdf "12/20")
-* [Request for Quotation_RFQ-IT-LRMA-0002](/uploads/Request%20for%20Quotation_RFQ-IT-LRMA-0002-030a23.pdf "12/6")
-* [RFP No. RFP-EGA-22-0220 Implementation of Performance Management System](https://dai-assets.s3.amazonaws.com/rfps/EGA-RFP-22-0220.GPM.00.pdf "12/11")
-* [RFP 2022-14 Mod 1](/uploads/RFP%202022-14%20Mod%201%5B61%5D.pdf "12/6")
-* [Request for Quotation_RFQ-IT-LRMA-0002_-7fb9d9](/uploads/Request%20for%20Quotation_RFQ-IT-LRMA-0002_-7fb9d9.pdf "12/6")
-* [RFP 2022-14 Equitable AI Challenge Community of Practice](/uploads/RFP%202022-14%20Equitable%20AI%20Challenge%20Community%20of%20Practice.pdf "12/6")
-* [Digital Frontiers RFP 2022-13 Conference and Workshop Implementation](/uploads/Digital%20Frontiers%20RFP%202022-13%20Conference%20and%20Workshop%20Implementation.pdf "12/20")
-* [RFP0010-CdMx-GEPPP](/uploads/RFP0010-CdMx-GEPPP.pdf "12/6")
-* [RFP0009-CdMx-FORTSJP](/uploads/RFP0009-CdMx-FORTSJP.pdf "12/6")
-* [REVISED RFP CIDR CICWG North Macedonia](https://dai-assets.s3.amazonaws.com/rfps/REVISED_RFP-%20CIDR%20CICWG_North%20Macedonia_FINAL.pdf "12/5")
-* [RFP No. 2022-06-ING Amendment](https://dai-assets.s3.amazonaws.com/rfps/RFP%20No.%202022-06-ING%20Amendment%201.pdf "12/1")
-* [RFP No. 2022-07-ING Amendment](https://dai-assets.s3.amazonaws.com/rfps/RFP%20No.%202022-07-ING%20Amendment%201.pdf "12/1")
-* [Request for Proposal (RFP-RITA-22-009): Providing Event (Project) Management Services for Myanmar SMEs 
-at International Agribusiness/Food Processing Tradeshows](/uploads/Public%20Advertisment-%20RFP%20(Final)%2015%20Nov%202022%5B80%5D.pdf "12/8")
-* [Cybersecurity Training revised](https://dai-assets.s3.amazonaws.com/rfps/REVISED%20RFP-%20CIDR%20E%26E%20Cybersecurity%20Training_FINAL.pdf "12/5")
-* [RFA 2022-21 RFS Cross Sector Guidance](/uploads/RFA%202022-21%20RFS%20Cross%20Sector%20Guidance.pdf "12/1")

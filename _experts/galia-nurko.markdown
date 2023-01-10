@@ -1,6 +1,7 @@
 ---
 title: Galia Nurko
 date: 2018-08-14 15:22:00 Z
+published: false
 lastname: Nurko
 summary: 'Galia Nurko is an Associate Digital Specialist at DAI’s Center for Digital
   Acceleration. '

@@ -5,7 +5,7 @@ lastname: Klyuchar
 summary: 'Maksym Klyuchar has more than 10 years of experience in designing and implementing
   anti-corruption programs in the areas of corruption prevention, investigation, prosecution,
   adjudication, digital transformation, civic participation, and advocacy. '
-job-title: Senior Global Practice Specialist, Governance and Corruption Prevention
+job-title: Senior Principal Specialist, Anti-corruption
 image: "/uploads/Maksym%20Klyuchar.jpg"
 solutions:
 - Governance

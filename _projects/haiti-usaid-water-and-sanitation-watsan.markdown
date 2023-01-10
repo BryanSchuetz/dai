@@ -36,11 +36,11 @@ promos:
 
 In Haiti, the incidence of life-threatening water-borne diseases has worsened in recent years, due in large part to the massive earthquake in 2010 and Hurricane Matthew in 2016. Today, fewer Haitians have access to improved water sources than in 1990. Haiti’s National Directorate for Water and Sanitation has become absorbed in emergency response rather than planning the effective decentralization of water security, sanitation, and hygiene (WSSH) services. Private-sector actors have attempted to fill gaps in access, but without proper regulation, these services are often unaffordable for low-income populations and cause environmental damage.
 
-To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supported infrastructure projects to expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. Working in four target communities, the program was able to help the local water utilities and fecal sludge management sites to provide improved water service to more than 300,000 people, improved sanitation service to more than 75,000 people, and to put the local water utilities and fecal sludge facilities on a stable financial footing. 
+To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supported infrastructure projects to expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. Working in four target communities, the program was able to help the local water utilities and fecal sludge management sites to provide improved water service to more than 300,000 people, improved sanitation service to more than 75,000 people, and put the local water utilities and fecal sludge facilities on a stable financial footing. 
 
 ![Haiti WASH web image.jpg](/uploads/Haiti%20WASH%20web%20image.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * [Build the capacity of local water utilities](https://medium.com/usaid-global-waters/creating-a-roadmap-for-sustainable-water-service-delivery-in-haiti-e67128d7ac98) to improve their management strategy, reduce non-revenue water losses, and attract new customers. 
 * Strengthen the capacity of small and medium enterprises to market sanitation products. 
@@ -56,4 +56,6 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 * Facilitated increased sales of sanitation products and services for 11 small firms.
 * Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
 * Working with the Haitian National Water Authority to assist local water utilities (CTEs) to function as independent businesses. Despite COVID-19, an increase in crime, the presidential assassination, and a fuel shortage, a core group of CTEs increased their combined revenues from 3 million gourdes to nearly 8 million gourdes in 2021.
+* Operationalized two fecal sludge management facilities in the districts of Fondfrede and Morne Cabrit. These facilities increased access to sanitation for more than 75,000 people and prevented human bio-waste from polluting drinking water sources. 
+* Introduced modern management systems, including a customer management and invoicing system that substantially increased revenues and a cloud-based reporting system that allows regional and national authorities to monitor system performance. 
 * Launched the [Water Resilience Center.](/uploads/Launch%20of%20the%20water%20resilience%20center.pdf)
