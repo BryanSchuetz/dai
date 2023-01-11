@@ -6,7 +6,7 @@ summary: The Rural Development and Community Empowerment Programme  in Balochist
   Pakistan, supports the federal government in reducing the negative impact of poverty
   and social inequality.
 start: 2017
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Governance
