@@ -5,7 +5,7 @@ summary: Chilungamo contributed to increased levels of governance, accountabilit
   compliance with the rule of law, and respect, promotion, and protection of human
   rights in Malawi.
 start: 2017
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Governance
