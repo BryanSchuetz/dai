@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: Poland REFF is creating a program of targeted loans to incentivize borrowing
   for household improvements that increase efficiency and reduce energy consumption.
 start: 2016
-end: 2022
+end: 2023
 client: European Bank for Reconstruction and Development
 solutions:
 - Energy
