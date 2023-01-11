@@ -5,7 +5,7 @@ summary: 'The EU Support to Policy Dialogue on Investment Climate in Somalia pro
   is enhancing the investment climate and business environment by improving access
   to finance, markets, and essential services for medium, small, and micro enterprises. '
 start: 2020
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Economic Growth
