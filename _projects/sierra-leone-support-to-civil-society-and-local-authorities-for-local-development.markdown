@@ -5,7 +5,7 @@ summary: We are supporting decentralization in Sierra Leone by empowering local 
   as well as local and rural civil society groups in selected districts to plan and
   implement initiatives of service delivery.
 start: 2018
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Governance
