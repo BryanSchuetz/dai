@@ -7,7 +7,7 @@ summary: This project—led by WYG partnered with DAI—aims to achieve measurab
   fundamental rights and freedoms for all individuals, in line with the European Court
   of Human Rights.
 start: 2020
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

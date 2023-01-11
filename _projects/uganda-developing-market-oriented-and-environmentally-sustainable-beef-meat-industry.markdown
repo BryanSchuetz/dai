@@ -5,7 +5,7 @@ date: 2020-04-29 10:40:00 Z
 summary: This program contributes to a competitive, profitable, job-intensive, gender-responsive,
   and environmentally sustainable agricultural sector in Uganda.
 start: 2017
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Economic Growth
