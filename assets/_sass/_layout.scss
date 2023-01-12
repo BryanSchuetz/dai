@@ -649,7 +649,9 @@ aside {
     color: darken($text-white, 8%);
   }
 }
+.hero-title svg{
 
+}
 // 🎌 FORMS 🎌
 
 .campaign-monitor .topic-checks {
@@ -2210,7 +2212,7 @@ svg.newIcons{
   width: 1rem;
   position: relative;
   top: .2rem;
-  .st0{
+  .st0, .st1, .st2, .st3, .st4{
     fill: currentColor;
   }
 }
