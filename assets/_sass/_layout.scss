@@ -2205,3 +2205,12 @@ ol li::marker{
   background-position: center;
   background-repeat: no-repeat;
 }
+svg.newIcons{
+  height: 1rem;
+  width: 1rem;
+  position: relative;
+  top: .2rem;
+  .st0{
+    fill: currentColor;
+  }
+}

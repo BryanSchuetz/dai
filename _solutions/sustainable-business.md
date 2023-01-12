@@ -2,6 +2,7 @@
 title: Sustainable Business
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/sustainable-business
+newIcon: _icons/sustainable-business.html
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
 summary: Helping companies put sustainability at the core of their operations and

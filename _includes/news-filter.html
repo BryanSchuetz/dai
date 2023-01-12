@@ -4,7 +4,13 @@
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
-    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }}" class="filter--solution button"> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
+    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }}" class="filter--solution button"> 
+      {% if solution.newIcon %}
+        {% include {{solution.newIcon}} %}
+      {% else %}
+        {{ solution.icon }} 
+    {% endif %}
+      {{ solution.title }}</button>{% endfor %}
   </div>
   <div class="button-group filter-button-group region" data-filter-group="region">
     <h3>Filter by Region</h3>

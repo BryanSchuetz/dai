@@ -2,6 +2,7 @@
 title: Fragile States
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/fragile-states
+newIcon: _icons/fragile-states.html
 icon: <svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#stability-badge"></use></svg>
 summary: 'DAI’s Fragile States work builds on our global reputation for innovative

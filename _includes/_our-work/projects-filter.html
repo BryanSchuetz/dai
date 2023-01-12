@@ -9,7 +9,13 @@
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
-    {% for solution in primary_solutions %}{%- unless solution.title == "DAI Capital" -%}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}"> {{ solution.icon }} {{ solution.title }} </button>{%- endunless -%}{% endfor %}
+    {% for solution in primary_solutions %}{%- unless solution.title == "DAI Capital" -%}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}"> 
+      {% if solution.newIcon %}
+        {% include {{solution.newIcon}} %}
+      {% else %}
+        {{ solution.icon }} 
+      {% endif %}
+      {{ solution.title }} </button>{%- endunless -%}{% endfor %}
     <button class="filter--solution button" data-filter=".supply-chain" style="display:none;"></button>
   </div>
   <div class="button-group filter-button-group" data-filter-group="client">

@@ -2,6 +2,7 @@
 title: Global Health
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/global-health
+newIcon: _icons/global-health.html
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
 summary: We envision better health systems that foster quality & access; reduce threats;

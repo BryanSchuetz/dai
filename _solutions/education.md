@@ -3,6 +3,7 @@ title: Education
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/education
 redirect_from: "/education"
+newIcon: _icons/education.html
 icon: <svg class="gov-badge badge" viewBox="0 0 116 115" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#gov-badge"></use></svg>
 summary: Improving learning outcomes for all by strengthening education systems, forging

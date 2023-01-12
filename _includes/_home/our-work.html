@@ -26,8 +26,8 @@
         {% assign primary_solutions = site.solutions | where:"type", "primary" | sort: "title" %}
         {% for solution in primary_solutions %}
           <li class="primary-block--solution"><a href="{{ solution.url }}" class="primary-block--button">
-            {% if newIcon %}
-              <img src="{{ solution.newIcon }}" alt="">
+            {% if solution.newIcon %}
+              {% include {{solution.newIcon}} %}
             {% else %}
               {{ solution.icon }}
             {% endif %}
