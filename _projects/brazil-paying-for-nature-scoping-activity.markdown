@@ -26,7 +26,9 @@ Defra commissioned DAI to conduct research and analysis of the current state of 
 2. The Paying for Nature workstream assessed previous and current market-based mechanisms and their effectiveness in protecting forest ecosystems and biodiversity conservation
 3. The Donor and Partnership opportunities workstream mapped the donor landscape and funding allocated to Agriculture, Forestry and Other land Uses (AFOLU) and biodiversity activities across the six biomes of Brazil.
 
-![AdobeStock_286769996.jpeg](/uploads/AdobeStock_286769996.jpeg)### Select Results
+![AdobeStock_286769996.jpeg](/uploads/AdobeStock_286769996.jpeg)
+
+### Select Results
 
 * As part of the PEA, undertook a comprehensive review of federal and state-level legislative frameworks, policies, strategies, and priorities affecting environmental protection, land-use change, deforestation, agriculture, and climate financing in the Legal Amazon
 * Mapped over 150 stakeholders relevant to the AFOLU sector in the Legal Amazon in a stakeholder analysis and assessed stakeholders’ interest and influence
