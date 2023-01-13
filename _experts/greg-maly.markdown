@@ -1,6 +1,7 @@
 ---
 title: Greg Maly
 date: 2017-08-07 14:13:00 Z
+published: false
 lastname: Maly
 summary: Greg Maly has spent his career working at the intersection of global development
   and diplomacy, technology, and the arts.
