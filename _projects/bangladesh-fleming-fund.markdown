@@ -6,7 +6,7 @@ summary: DAI’s Fleming Fund programme in Bangladesh is a collaboration with th
   to complex health problems that reaches across human health, animal health, and
   environment sectors.
 start: 2020
-end: 2022
+end: 2023
 client: U.K Department of Health and Social Care
 solutions:
 - Global Health
