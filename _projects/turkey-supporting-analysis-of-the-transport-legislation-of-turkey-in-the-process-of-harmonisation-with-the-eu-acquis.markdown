@@ -28,3 +28,10 @@ DAI is working to improve the legislative and institutional capacities of Türki
 * Perform a gap analysis and regulatory impact assessment (RIA) to detail the full framework for an accountable, transparent, and consistent legislation alignment process in the transport sector.
 * Consolidate the results of the RIA in a comprehensive report and accompanying action plan for legal alignment of transport legislation.
 * Prepare and organise a complete training programme on the processes, tools, and techniques to facilitate reaching the objectives.
+
+## Select Results
+
+* Held an opening event with 256 decision-makers, and practitioners from the transport sector. 
+* Developed an operational tool to support the preparation of the Legal Approximation Strategy and Action Plan for the transport sector. 
+* Organised two-day workshops on rail and road transport and maritime and aviation. 
+* Facilitated two study visits to the Netherlands and Germany to increase the understanding of project stakeholders on harmonizing Türkiye’s transport legislation with the EU Acquis.
