@@ -28,3 +28,10 @@ Our project works to reduce the adverse consequences of flood events for human h
 * Support the implementation of the Flood Risks Assessment and Management Directive.
 * Revise the existing flood warning systems as flood forecasting and early warning system and extend their coverage to basins.
 * Prepare the flood risk management plan for the transboundary Meriç-Ergene River Basin, compliant with the Floods Directive.
+
+## Select Results
+
+* Organised an opening event in Edirne with 120 representatives from national and local institutions involved in flood and water management.
+* Completed study visits to Denmark, Finland, and Sweden to expose Türkiye’s stakeholders to transboundary preliminary flood risk assessment, forecasting, monitoring, and preventing hydrological threats. 
+* Performed site visits in various parts of river basins in Edirne, Kirklareli, and Tekirdag to assess flood risk. 
+* Facilitated a workshop on flood management planning in Edirne with 54 participants from different regional and national institutions in Türkiye.
