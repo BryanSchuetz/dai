@@ -28,3 +28,12 @@ Given that TTürkiye has a growing interest to control and prevent industrial po
 * Increase the technical and institutional capacity of the relevant authorities for effective implementation of the Intergovernmental Panel on Climate Change (IPCC) approach in Türkiye in line with the European Union's IED.
 * Develop technical capacity and substructure for the implementation of IPPC approach.
 * Develop institutional capacity and increase awareness.
+
+## Select Results
+
+* Organised 17 workshops to support the harmonization of the national legislation with EU Directives on Industrial Emissions and Integrated Pollution Prevention and Control.
+* Held three training of trainer sessions for civil servants from the Ministry of Environment, Urbanisation, and Climate. 
+* Facilitated a green transformation awareness seminar for the Ministry of Environment, Urbanisation, and Climate for 800 people.
+* Carried out study visits to Italy and France for project stakeholders to build their understanding of the application of the IED in EU countries.
+* Developed certification software to detect industrial emissions in Türkiye. 
+* Produced a project website and video to showcase the progress of the project. 
