@@ -24,9 +24,18 @@ Our team will also support the PFM Reform Secretariat in the implementation of t
 
 ![Kenya_Nairobi_stock.jpg](/uploads/Kenya_Nairobi_stock.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Facilitate the identification, implementation, and monitoring of advisory and capacity-building activities targeting stakeholders of the PFM Reform Strategy 2018-2023.
 * Support the PFM Reform Secretariat in the implementation of a Communication Strategy for the PFM Reform 2018-2023.
 * Strengthen the partnership between the EU Delegation and the Kenyan National Treasury and Planning authority to monitor the implementation of the PFM Reform Strategy 2018-2023.
 * Improve the coordination of the Kenyan PFM Reform Secretariat regarding donor-funded programmes that support public investment management practices reforms.
+
+## Select Results
+
+* Conducted sector analysis as a part of a mid-term review of the existing PFM Reform Strategy 2018-2023. As a result, a number of reports have been completed including on customs clearance, ICT strategy assessment, fiscal decentralization, and public procurement.
+* Prepared sectorial reports on human resources and payroll management, public investment management and public-private partnership, as well as financial management in health and education to identify potential interventions and capacity-building activities for the next PFM Reform Strategy 2023-2028. 
+* Developed a brand manual to provide a consistent and cohesive brand identity for the PFM Reform Strategy.
+* Published opinion pieces in Kenyan media as part of advocacy efforts to attain PFM reforms. 
+* Supported training at communications departments in charge of implementing the PFM reforms.
+* Developed a blog and redesigned the website with information on PFM reforms to improve users’ experience.
