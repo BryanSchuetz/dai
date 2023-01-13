@@ -45,4 +45,5 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 * Leading the signing of the [Peace Accord by all presidential candidates](https://placng.org/Legist/political-parties-presidential-candidates-sign-peace-accord-as-campaigns-start/) for the 2023 General elections committing to a civil electoral process, and submitting themselves to accountability.
 * Mobilized over 1,800 Persons with Disabilities across the country to vote and be a part of the electoral process.
 * Introduced community outreach and sensitization programs for marginalized groups.
-* Trained 80 female journalists on impactful, public-interest and investigative reporting of the electoral process.
+* Trained 80 female journalists on impactful, public-interest, and investigative reporting of the electoral process.
+* Initiated collection of GPS coordinates of all polling stations in Nigeria, nearly 175,000 polling units, that can facilitate electoral planning, access of voters, and election observers.
