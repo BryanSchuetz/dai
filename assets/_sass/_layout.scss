@@ -1654,12 +1654,12 @@ iframe.last-month {
 
   @include responsive(wide-screens) {
     width: 700px;
-    height: 5906px;
+    height: 4906px;
   }
 
   @include responsive(ultra-wide-screens) {
     width: 800px;
-    height: 6500px;
+    height: 5500px;
   }
 }
 .aside-quote {
