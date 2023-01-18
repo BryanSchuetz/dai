@@ -34,10 +34,14 @@ MSP supports USAID and its implementers to deliver durable, systemic, and inclus
 
 ![MSP.jpg](/uploads/MSP.jpg)
   
-### Sample Activities
+## Sample Activities
 
 * Facilitate private sector partnerships and blended finance initiatives.
 * Support USAID in the design, implementation, monitoring, and evaluation of market systems and private sector engagement activities.
 * Build the evidence base for both private sector engagement and market systems development approaches and their ability to efficiently and effectively drive economic growth and increase incomes and food security.
 * Develop and implement a learning agenda that will test the underlying assumptions of the market systems development and private sector engagement approaches, while driving development of tactical tools and guidance. 
-* Build capacity of USAID and its implementers in market systems development and private sector engagement not only through training, but also through applied learning, and by using a strategic approach to disseminate MSP learning and evidence.
+* Build the capacity of USAID and its implementers in market systems development and private sector engagement not only through training, but also through applied learning, and by using a strategic approach to disseminate MSP learning and evidence.
+
+## Select Results
+
+* Assisted Zambia-based sustainable honey and beeswax company, Nature’s Nectar, with its first-ever exports using an improved honey processing line. The first of its kind in Zambia, the line led to a 20 percent increase in processing efficiency, which will allow the firm to expand its smallholder farmer supplier base (half of whom are women).
