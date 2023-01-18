@@ -5,7 +5,7 @@ lastname: McCord
 summary: Mark McCord has more than 36 years of experience in competitiveness, economic
   growth, and organizational development, including 21 years as a Chief of Party or
   Project Director for donor-led programs.
-job-title: 'Chief of Party, USAID Economic Security Program, Georgia '
+job-title: Senior Director, Regional Portfolio Eastern Europe
 image: "/uploads/Mark%20McCord.jpg"
 solutions:
 - Economic Growth
