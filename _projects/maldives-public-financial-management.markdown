@@ -36,3 +36,4 @@ By the end of the program, Maldives will have the fiscal space and management ca
 * Trained more than 100 government officials on project feasibility methodologies.
 * Developed awareness and familiarity for 491 government officials in budgeting for new project initiatives.
 * Compiled a macroeconomic chapter on higher education spending for the Budget Book of the Maldives, a key publication of the Ministry of Finance. 
+* Finalized a comprehensive analysis of the impact of government debt on the accessibility and availability of bank credit to the private sector and its other effects on the national economy. The analysis recommended that the government formulate consecutive, evidence-based annual development strategies to reduce public debt and support a competitive bank-credit market to stimulate lower rates and increase the number of private borrowers.
