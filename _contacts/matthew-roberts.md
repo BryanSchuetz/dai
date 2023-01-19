@@ -1,8 +1,7 @@
 ---
 title: Matthew Roberts
-date: 2016-01-21 22:18:43.395000000 Z
-group: Programme Management
-image: https://assetify-dai.com/contacts/matthew-roberts.jpg
+date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Project Management
 email: matthew_roberts@dai.com
 summary: Matthew is a Principal Consultant in our Project Management Unit, with responsibility
@@ -19,6 +18,8 @@ summary: Matthew is a Principal Consultant in our Project Management Unit, with 
   an emergency vaccination response in the event of an outbreak of foot and mouth
   disease; he was responsible for client coordination during the last major outbreak
   in August 2007.
+image: https://assetify-dai.com/contacts/matthew-roberts.jpg
+group: Programme Management
 sort-order: 2
 ---
 
