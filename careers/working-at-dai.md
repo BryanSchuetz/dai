@@ -61,58 +61,6 @@ Across the globe, we work together with a shared mission of helping people impro
 <p class="sub--title visible-xs">Click here to view DAI opportunities in different geographic areas:</p>
 </div>
 </div>
-
-<div class="row locations">
-<div class="location location--1 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=Asia"> Asia </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI <br class="visible-xs">opportunities in Asia. </p>
-</div>
-<div class="location location--2 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=Europe"> Europe </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI <br class="visible-xs">opportunities in Europe. </p>
-</div>
-<div class="location location--3 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=South+America"> South America </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI <br class="visible-xs">opportunities in South America. </p>
-</div>
-<div class="location location--4 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=Australia+%2F+Oceania"> Australia / Oceania </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI <br class="visible-xs">opportunities in Australia/Oceania. </p>
-</div>
-<div class="location location--5 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=Middle+East+%2F+North+Africa"> Middle East / North Africa </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI opportunities <br class="visible-xs">in Middle East/North Africa. </p>
-</div>
-<div class="location location--6 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=Sub-Saharan+Africa"> Sub-Saharan Africa </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI opportunities <br class="visible-xs">in Sub-Saharan Africa. </p>
-</div>
-<div class="location location--7 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=Central+America+%2F+Caribbean"> Central America / Caribbean </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI opportunities <br class="visible-xs">in Central America/Caribbean. </p>
-</div>
-<div class="location location--8 col-md-4 col-sm-6">
-<h2 class="location--title">
-<a href="search.html?location=North+America"> North America </a>
-</h2>
-<p class="hidden-xs"> Click here to view DAI opportunities <br class="visible-xs">in North America. </p>
-</div>
-</div>
-
 </div>
 </section><section class="quote-video">
 <div class="container">
@@ -193,48 +141,14 @@ Your browser does not support HTML5 video.
 
 <div class="links">
 <div class="link link--1">
-<div class="box">
-<p class="box--front">Corporate</p>
+<div class="box" style="height: 6.5rem;">
+<p class="box--front">DAI Careers</p>
 <span class="box--back">
     <ul> 
-        <li><a href="search.html?location=North+America&functional_area=Corporate">United States</a></li>
-        <li><a href="search.html?location=Europe&functional_area=Corporate">Europe</a></li>
-    </ul>
-    <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-</span>
-</div>
-</div>
-<div class="link link--2">
-<div class="box">
-<p class="box--front">Proposal</p>
-<span class="box--back">
-    <ul>
-        <li><a href="search.html?location=North+America&functional_area=Proposal">United States</a></li>
-        <li><a href="search.html?location=Europe&functional_area=Proposal">Europe</a></li>
-    </ul>
-    <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-</span>
-</div>
-</div>
-<div class="link link--3">
-<div class="box">
-<p class="box--front">Project</p>
-<span class="box--back">
-    <ul> 
-        <li><a href="search.html?location=North+America&functional_area=Project">United States</a></li>
-        <li><a href="search.html?location=Europe&functional_area=Project">Europe</a></li>
-    </ul>
-    <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-</span>
-</div>
-</div>
-<div class="link link--4">
-<div class="box">
-<p class="box--front">Consulting</p>
-<span class="box--back">
-    <ul>
-        <li><a href="search.html?location=North+America&functional_area=Technical">United States</a></li>
-        <li><a href="search.html?location=Europe&functional_area=Technical">Europe</a></li>
+        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Corporate</a></li>
+        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Project</a></li>
+        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Proposal</a></li>
+        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Consulting</a></li>
     </ul>
     <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
 </span>
