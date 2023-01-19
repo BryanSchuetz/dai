@@ -1,6 +1,7 @@
 ---
 title: James Montgomerie
 date: 2021-09-02 16:39:00 Z
+published: false
 job-title: Director, Projects and Operations, Europe
 email: james_montgomerie@dai.com
 summary: James has advised major international development companies on project management

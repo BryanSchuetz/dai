@@ -30,6 +30,10 @@ We partner with these and other clients to support the [European Consensus on De
 
 As an [employee-owned](https://www.dai.com/who-we-are/employee-owners) and [mission-oriented](https://www.dai.com/who-we-are/mission-and-values) enterprise, we are wholly committed to upholding the highest standard of responsible and sustainable business. 
 
+<aside>
+  DAI is committed to providing the highest level of quality and environmental management, meeting the latest in global best practices as demonstrated by <a href="/news/dai-europe-earns-iso-90012015-and-iso-140012015-certifications">our conformance</a> to the highly regarded ISO 14001:2015 and ISO 9001:2015.
+</aside>
+
 <hr>
 
 ## Contact DAI in EU

@@ -4,7 +4,7 @@ date: 2022-02-11 08:51:00 Z
 lastname: Padberg
 summary: 'With more than 20 years of international management experience, Robin Padberg
   has a blend of private sector and development expertise. '
-job-title: Chief of Party, Rwanda Nguriza Nshore
+job-title: Chief of Party
 image: "/uploads/robin%20padberg.jpg"
 solutions:
 - Economic Growth

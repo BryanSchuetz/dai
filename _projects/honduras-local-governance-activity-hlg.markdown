@@ -33,15 +33,15 @@ The Activity strengthens governance actions at the national, subnational, and lo
 
 <iframe src="https://player.vimeo.com/video/667918683?h=bf095dcc5a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
-* Bring together disparate local agencies responsible for health, education, and water to improve coordination of services.
+* Bring together disparate local agencies responsible for health, education, and water to improve the coordination of services.
 * Improve engagement and advocacy processes to better empower and involve vulnerable populations, including [women](https://www.youtube.com/watch?v=dwvx1dGYzHU), [youth](https://urban-links.org/insight/helping-vulnerable-young-hondurans-to-gain-job-skills-self-confidence-and-hope-for-the-future/), and indigenous persons.
 * Assist municipalities in creating user-friendly tools to increase transparency and accountability, and train Citizen Transparency Committees on transparency and accountability.
 * Work with local governments and citizen oversight stakeholders to update municipal transition and transfer manuals to prepare for overturn in personnel after local and national elections.
 * Collaborate with the Secretary of Health to equip hospitals, triage centers, and laboratories with COVID-19 prevention and care equipment, and support COVID-19 prevention and awareness-building activities.
 
-### Select Results
+## Select Results
 
 * Helped the Nueva Suyapa Women’s Network from Tegucigalpa to hold its first advocacy event, enabling the network to successfully secure service provider commitment to improve sexual, reproductive, and mental healthcare for women and survivors of gender-based, domestic, and intrafamilial violence.
 * Supported the Tela and La Ceiba local governments to raise the LGBTQI+ and transgender flags in front of their municipal buildings for the first time, a symbol of respect for LGBTQI+ human rights.
@@ -49,4 +49,5 @@ The Activity strengthens governance actions at the national, subnational, and lo
 * Empowered civil society organizations to lead 11 forums to promote citizens’ role in service provision, in which 1,689 people participated.
 * Trained 500 young people on the social oversight process, and 35 percent of the 69 social audits completed were conducted directly by youth organizations, with HLG support, promoting citizen oversight and reducing the risk of corruption.
 * Supported three municipalities to initiate the drafting of a Municipal Transparency Plan for the first time, coached civil society groups on their role in the process, and, with the Secretaría Técnica de la Carrera Administrativa Municipal, carried out four workshops, training 88 municipal servants and civil society members to reinforce municipal officials’ obligations. 
-* Delivered 350 student desks, eight cabinets, 17 chairs, 17 white boards, and 17 desks to the Centro de Educación Básico Tiburcio Carías Andino in Jesús de Otoro, Intibucá. 
+* Delivered 350 student desks, eight cabinets, 17 chairs, 17 whiteboards, and 17 desks to the Centro de Educación Básico Tiburcio Carías Andino in Jesús de Otoro, Intibucá. 
+* Designed a practical guide for citizens to create *Pizarra Ciudadana*, a tool that civil society organizations can use to facilitate creative, dynamic citizen monitoring and observation exercises. The tool provides a space for reflection, evaluation, and the collection of citizen perceptions of local service delivery.
