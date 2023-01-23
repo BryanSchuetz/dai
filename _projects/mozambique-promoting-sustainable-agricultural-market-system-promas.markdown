@@ -4,6 +4,7 @@ date: 2023-01-23 14:25:00 Z
 summary: The Promoting Sustainable Agricultural Market System (PROMAS) project aims
   to create a more competitive, inclusive, climate-resilient market in northern Mozambique.
 start: 2023
+end: 2023
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
