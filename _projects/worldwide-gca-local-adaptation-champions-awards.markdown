@@ -27,7 +27,7 @@ DAI supported the delivery of the Local Adaptation Champions Awards 2022 through
 
 * Local innovation—Local solutions or technologies—physical or digital—that minimize the immediate and long-term impacts of climate change on people in the community, in particular those most vulnerable.
 
-\*\*2022 Winners \*\*
+**2022 Winners**
 
 Following a shortlisting process involving DAI’s technical experts and members of a specialist external Technical Advisory Group, 8 award nominees were then further shortlisted to the four winners by a prestigious Jury. In November, the four winners were announced at a ceremony at COP27 in Egypt.
 
@@ -35,7 +35,6 @@ Following a shortlisting process involving DAI’s technical experts and members
 
 *  Inclusive Leadership: Rangamati Hill District Council
   
-
 *  Capacity and Knowledge: Swayam Shikshan Prayog
 
 *  Local Innovation: Community Development & Advocacy Forum Nepal
