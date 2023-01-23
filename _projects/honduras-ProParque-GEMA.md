@@ -32,7 +32,7 @@ To build upon these accomplishments, USAID designed the Gobernanza en Ecosistema
 
 <iframe src="https://player.vimeo.com/video/633022956?h=fbb606df62" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
 * Strengthen local institutions for natural resource management and water governance through capacity building and formation of collaborative alliances.
 * Educate Hondurans about how hydropower can increase their ability to advocate and negotiate. Prepare “Good Practices Guide” and “Lessons Learned in the Socialization Process” materials on hydropower projects working with local communities.
@@ -40,7 +40,7 @@ To build upon these accomplishments, USAID designed the Gobernanza en Ecosistema
 * Increase conservation-related income in agriculture and tourism by forming public-private partnerships and linking growing enterprises with business development service providers.
 * Strengthen disaster response institutions across multiple levels and increase the involvement of women in disaster risk reduction and climate change adaptation decision-making.
 
-### Select Results
+## Select Results
 
 * Twenty-one hydroprojects are in process.
 * More than 9,000 people in western Honduras benefitted from the installation of clean energy systems—fuel wood-saving improved stoves and solar panels—in 24 municipalities. GEMA installed and verified 1,570 improved stoves and started installation/verification of 1,456 more. The goal is to install more than 4,000 stoves before 2019.
