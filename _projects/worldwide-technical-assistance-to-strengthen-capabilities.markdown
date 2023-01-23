@@ -53,6 +53,8 @@ TASC is led by DAI with [NutritionWorks](https://www.nutritionworks.org.uk/) and
 * Support SUN Movement’s learning agenda.
 * Support FCDO on nutrition-related programme design and implementation (development of strategic cases; programme review; placement of consultants to boost technical capacity on nutrition; and other technical support)
 * Facilitate knowledge management, learning, and capacity building (case studies, a COVID-19 tracker with monthly updates, various technical guidance notes, webinars for FCDO staff, and wider audiences).
+* Support FCDO to measure the progress of its five-year Child Wasting Innovation Programme (previously called Progressing Action on Resilient Nutrition Systems through Innovation and Partnership) through a feedback mechanism survey covering nine countries in Africa and South Asia. The FAQ is available in
+[English](/uploads/FAQs%20CWIP%20feedback%20mechanism_2023_en.pdf) and [French](/uploads/FAQs%20CWIP%20feedback%20mechanism_2023_fr.pdf).
 
 ## Select Results
 
