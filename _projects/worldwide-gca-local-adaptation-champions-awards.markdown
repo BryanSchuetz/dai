@@ -31,10 +31,10 @@ DAI supported the delivery of the Local Adaptation Champions Awards 2022 through
 
 Following a shortlisting process involving DAI’s technical experts and members of a specialist external Technical Advisory Group, 8 award nominees were then further shortlisted to the four winners by a prestigious Jury. In November, the four winners were announced at a ceremony at COP27 in Egypt.
 
-* Financial Governance: Adaptation Consortium
+* Financial Governance: [Adaptation Consortium, Kenya](https://gca.org/kenya-pioneers-climate-finance-for-pastoralist-and-vulnerable-communities/)
 
-*  Inclusive Leadership: Rangamati Hill District Council
+*  Inclusive Leadership: [Rangamati Hill District Council, Bangladesh](https://gca.org/better-together-solar-solutions-in-bangladesh-to-battle-water-and-food-shortages/)
   
-*  Capacity and Knowledge: Swayam Shikshan Prayog
+*  Capacity and Knowledge: [Swayam Shikshan Prayog, India](https://gca.org/building-a-women-led-movement-for-change-at-scale-in-india/)
 
-*  Local Innovation: Community Development & Advocacy Forum Nepal
+*  Local Innovation:[ Community Development & Advocacy Forum Nepal](https://gca.org/beating-drought-in-nepal-water-management-in-the-chure-region-of-nepal/)
