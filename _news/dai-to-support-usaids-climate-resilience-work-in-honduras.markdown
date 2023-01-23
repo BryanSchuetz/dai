@@ -1,7 +1,6 @@
 ---
 title: DAI to Support USAID’s Climate Resilience Work in Honduras
 date: 2023-01-23 13:22:00 Z
-published: false
 solutions:
 - Environment
 - Climate
@@ -24,6 +23,8 @@ Other activities include improving solid waste management; developing organic an
  
 “Shifting precipitation patterns and stronger tropical storms that cause floods and droughts in different parts of Honduras are altering the hydrology of key watersheds,” said [Walter Weaver](https://www.dai.com/who-we-are/our-team/walter-weaver), DAI’s Environment Global Practice Specialist and Acting Chief of Party for the Activity. “These climate stresses adversely affect livelihoods and economic opportunities, which exacerbate internal and outward migration. Critically, BCR takes an integrated, place-based approach to address these complex and linked challenges.” 
  
-The Activity builds on previous initiatives including the five-year [ProParque](https://www.dai.com/our-work/projects/honduras-ProParque-GEMA) project, which worked with government stakeholders to strengthen the nation’s protected area management system, climate change adaptation, disaster risk reduction, and clean energy development. ProParque and its successor project, Gobernanza en Ecosistemas, Medios de Vida, y Agua—or Governance in Ecosystems, Livelihoods, and Water (GEMA)—helped protect more than 350,000 hectares through improved natural resource management and more effective biodiversity conservation. 
+The Activity builds on previous initiatives including the five-year [ProParque](https://www.dai.com/our-work/projects/honduras-ProParque-GEMA) project, which worked with government stakeholders to strengthen the nation’s protected area management system, climate change adaptation, disaster risk reduction, and clean energy development. ProParque and its successor project, Gobernanza en Ecosistemas, Medios de Vida, y Agua—or Governance in Ecosystems, Livelihoods, and Water (GEMA)—helped protect more than 350,000 hectares through improved natural resource management and more effective biodiversity conservation.
+
+<iframe src="https://player.vimeo.com/video/633022956?h=fbb606df62" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
  
 “ProParque and GEMA notably strengthened natural resources management in key watersheds of western Honduras; BCR is now building on this legacy with a significantly expanded nationwide scope that addresses climate stresses in upper watersheds all the way to urban centers,” said Weaver. 
