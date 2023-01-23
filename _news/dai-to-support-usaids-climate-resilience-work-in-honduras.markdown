@@ -12,6 +12,7 @@ summary: 'Building on 11 years of work with Honduran stakeholders and the U.S. A
   for International Development on a broad range of environmental and natural resource
   management issues, DAI is preparing for a new phase of collaboration with the launch
   of the Building Climate Resilience Activity. '
+social-image: "/uploads/Screen%20Shot%202023-01-23%20at%201.29.56%20PM.png"
 country: Honduras
 ---
 
