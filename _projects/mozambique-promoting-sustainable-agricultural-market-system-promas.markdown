@@ -1,6 +1,14 @@
 ---
 title: Mozambique—Promoting Sustainable Agricultural Market System (PROMAS)
 date: 2023-01-23 14:25:00 Z
+summary: The Promoting Sustainable Agricultural Market System (PROMAS) project aims
+  to create a more competitive, inclusive, climate-resilient market in northern Mozambique.
+start: 2023
+client: Swiss Agency for Development and Cooperation
+solutions:
+- Economic Growth
+regions: Sub-Saharan Africa
+country: Mozambique
 ---
 
 The Promoting Sustainable Agricultural Market System (PROMAS) project aims to create a more competitive, inclusive, climate-resilient market in northern Mozambique. The team is applying a market systems approach to increase the income and employment opportunities of male and female smallholder farmers, youth, and micro, small, and medium-sized enterprises (MSMEs). 
@@ -11,7 +19,7 @@ Partnering with Swiss development organization Helvetas, DAI is working to achie
 3. Greater availability of adequate risk management and related instruments for smallholder farmers to absorb climate change shocks
 4. Policies and regulations conducive to inclusive agricultural value chain development.
  
-In line with the Swiss Agency for Development and Cooperation (SDC) principles of long-term engagement, the project has an overall implementation period of almost 12 years. Upon successful delivery of this one-year inception phase, DAI will manage the four-year Phase 1. PROMAS will draw on an unrivalled knowledge base gained through our delivery of InovAgro —SDC’s flagship market systems project—to ensure PROMAS interventions deliver sustainable, high-impact results in northern Mozambique.
+In line with the Swiss Agency for Development and Cooperation (SDC) principles of long-term engagement, the project has an overall implementation period of almost 12 years. Upon successful delivery of this one-year inception phase, DAI will manage the four-year Phase 1. PROMAS will draw on an unrivalled knowledge base gained through our delivery of [InovAgro](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro), SDC’s flagship market systems project—to ensure PROMAS interventions deliver sustainable, high-impact results in northern Mozambique.
 
 ![IMG_1801.JPG](/uploads/IMG_1801.JPG)
 
