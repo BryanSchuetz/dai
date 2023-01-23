@@ -2,9 +2,9 @@
 title: David Hall
 date: 2020-01-22 13:59:00 Z
 lastname: Hall
-summary: 'David Hall is the Global Practice Manager, Public Financial Management and
-  Fiscal Transparency, in DAI''s Governance sector. '
-job-title: Global Practice Manager, Public Financial Management and Fiscal Transparency
+summary: 'David Hall is the Senior Portfolio Director for USG projects in the Caribbean
+  and South America. '
+job-title: Senior Portfolio Director, Caribbean and South America
 image: "/uploads/Hall,%20David%20--%2057--jpg.jpg"
 solutions:
 - Governance
