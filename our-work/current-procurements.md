@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+*[RFP 2022-15 WCC Symposium](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers%20RFP%202022-15%20WCC%20symposium%20-%20Recompetition.pdf "2/15")
 * [RFP 2023-01 Digital Frontiers Cross-Sectoral Digital Services Guidance ](/uploads/RFP%202023-01%20RFS%20Cross-Sectoral.pdf "2/15")
 * [RFP-RITA-23-001: Providing Event Management Services for Myanmar SMEs at International Agribusiness/Food Processing Tradeshows in Thailand, India, and United Arab Emirates](/uploads/Public%20Advertisment-%20RFP%20(Final)%2017%20Jan%202023.pdf "2/3")
 * [RFP0031 (relaunch) Organizing a Buyers Mission to Belgium Luxembourg](/uploads/RFP0031%20(relaunch)%20Organizing%20a%20Buyers%20Mission%20to%20BelgiumLuxembourg.pdf "2/3")
