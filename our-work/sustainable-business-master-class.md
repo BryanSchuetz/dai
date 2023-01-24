@@ -38,7 +38,7 @@ layout: solution
             </div>
             <div class="column">
               <ul style="margin-left: 2rem;">
-            <li>09h00-17h00</li>
+            <li>09h00 - 17h00</li>
           </ul>
             </div>
           </div>
