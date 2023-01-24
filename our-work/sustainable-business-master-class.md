@@ -52,7 +52,7 @@ layout: solution
           </ul>
             </div>
           </div>
-          <p style="margin-top: 1rem;">Upon completion, participants receive a certificate.</p>
+          <p style="margin-top: 1rem;">Upon completion, participants receive a certificate. DAI is a British Accreditation Council-accredited short-course provider</p>
         </div>
       </div>
       <div class="column is-one-third">
