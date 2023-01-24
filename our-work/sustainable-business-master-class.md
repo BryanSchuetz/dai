@@ -59,7 +59,7 @@ layout: solution
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/2023-mc-brochure.png" alt="report cover">
+              <img src="/uploads/revised-mc-brochure.png" alt="report cover">
             </figure>
           </div>
           <div class="card-content">
