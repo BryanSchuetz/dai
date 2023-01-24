@@ -30,3 +30,5 @@ The Activity builds on previous initiatives including the five-year [ProParque](
 <iframe src="https://player.vimeo.com/video/633022956?h=fbb606df62" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
  
 “ProParque and GEMA notably strengthened natural resources management in key watersheds of western Honduras; BCR is now building on this legacy with a significantly expanded nationwide scope that addresses climate stresses in upper watersheds all the way to urban centers,” said Weaver. 
+
+BCR is working with multiple local partners, including the Secretariat of Natural Resources and Environment; the National Institute of Forest Conservation, Protected Areas and Wildlife Development; the Permanent Commission for Contingencies; and numerous local governments across Honduras.    
