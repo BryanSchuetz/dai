@@ -16,7 +16,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-*[Since the Russian invasion in February 2024, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
+*[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 
 Ukraine’s financial sector is bank-centric, highly fragmented, and largely nontransparent. Approximately 80 percent of financial assets are controlled by banks, where recent reforms have exposed systemic weaknesses, institutional insolvencies, and practices that are liable to abuse. The result has eroded public confidence in banks and in the regulator’s prudential supervision and left a banking sector where more than 52 percent of the system’s assets are state-owned and controlled. Financial, regulatory, and legal reforms for the nonbank sector are still lagging. 
 
