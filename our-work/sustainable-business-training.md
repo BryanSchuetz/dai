@@ -31,13 +31,13 @@ To find out more please email [training@dai.com](mailto:training@dai.com).
 
 DAI's industry-leading Local Content Masterclass enables regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. The three course covers the full landscape of local content and comprises **lectures**, hands-on **group exercises**, **computer modeling**, and **video case studies**.\* The class examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
 
-Courses in 2022:
+Courses in 2023:
 
-* May 17 - 19, 2022 in Dubai, UAE
+* May 2 - 4, 2023 in Dubai, UAE
 
-* October 17 - 19, 2022 in Houston, USA
+* October 16 - 18, 2023 in Houston, USA
 
-[Read more about the Masterclass](http://www.dai.com/masterclass) 
+[Read more about the Masterclass](http://www.dai.com/masterclass)
 
 <hr>
 
@@ -64,11 +64,6 @@ The course trains leaders who are new to social performance to design, implement
 * Communications and Storytelling
 
 [Download the course brochure](/uploads/Social-Performance-Training_brochure_2022.pdf)
-
-Courses in 2022:
-
-* September 16, 2022 in London, UK
-* [November 1, 2022 in Houston, US](/uploads/Houston_Social-Performance-Training_brochure.pdf)
 
 <hr>
 
@@ -129,7 +124,7 @@ DAI’s small business recovery and resilience training can be delivered either 
 * **Financial institutions**: Reduce MSME portfolio risk and nonperforming loans
 
 * **Industry associations**: Develop the resilience of member companies and support them as they adjust to a COVID-19 environment
-<hr>
+  <hr>
 
 ## Customized Courses
 
@@ -163,7 +158,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 * Extractive Industry Lead for U.S. Agency for International Development-funded private sector development and competitiveness program in Mozambique
 
-**Zaki Raheem—Technical Director, Sustainable Business Group** 
+**Zaki Raheem—Technical Director, Sustainable Business Group**
 
 ![new_Zaki Raheem (in Quito)-50e97b.jpg](/uploads/Zaki%20Raheem.png){:.float-right}
 
@@ -174,8 +169,6 @@ DAI leads customized courses upon request for private sector or government clien
 * Technical Director for the global advisory team with Shell LiveWIRE, a flagship entrepreneurship program supporting a global network of accelerator and pre-accelerator programs
 
 * Adjunct Professor at Columbia University’s School of International and Public Affairs, where he teaches a graduate-level MSME development class
-
-
 
 <hr>
 
