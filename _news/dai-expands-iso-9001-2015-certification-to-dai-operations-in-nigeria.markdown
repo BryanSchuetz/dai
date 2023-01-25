@@ -1,5 +1,5 @@
 ---
-title: DAI Expands ISO 9001:2015 Certification to DAI Operations in Nigeria
+title: DAI Expands ISO 9001:2015 Certification to its Operations in Nigeria
 date: 2023-01-25 13:59:00 Z
 tags:
 - Nigeria
@@ -10,9 +10,9 @@ summary: DAI is pleased to announce that it has achieved the internationally rec
 country: Nigeria
 ---
 
-DAI is pleased to announce that it has achieved the internationally recognized ISO 9001:2015 certification for its operations in Nigeria, establishing the location as an operations leader in international development consulting and implementation.
+DAI is pleased to announce that it has achieved the internationally recognized ISO 9001:2015 certification for its operations in Nigeria, confirming the location as an operations leader in international development consulting and implementation.
 
-[ISO 9001:2015 certification](https://www.iso.org/standard/62085.html) requires that a business implements a quality management system that ensures consistency and continuous improvement, leading to high levels of performance and customer satisfaction. Processes that underwent ISO scrutiny include project delivery and monitoring, opportunity tracking, expressions of interest, proposal preparation, contract finalization, human resources, travel, and procurement.
+[ISO 9001:2015 certification](https://www.iso.org/standard/62085.html) requires that a business implements a quality management system that ensures consistency and continuous improvement, leading to high levels of performance and customer satisfaction. Processes subject to ISO scrutiny include project delivery and monitoring, opportunity tracking, expressions of interest, proposal preparation, contract finalization, human resources, travel, and procurement.
 
 “This certification is a statement that we operate to a set framework to achieve our organizational objectives," said Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), DAI's Nigeria Director. "It was obtained by an external certification audit, which proves commitment to our objectives and will increase the credibility and customer confidence in our service.
 
