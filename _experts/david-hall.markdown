@@ -5,7 +5,7 @@ lastname: Hall
 summary: 'David Hall is the Senior Portfolio Director for U.S. Government projects
   in the Caribbean and South America. '
 job-title: Senior Portfolio Director, Caribbean and South America
-image: "/uploads/Hall,%20David%20--%2057--jpg.jpg"
+image: "/uploads/Dave%20Hall%20new.jpg"
 solutions:
 - Governance
 - Public Financial Management
