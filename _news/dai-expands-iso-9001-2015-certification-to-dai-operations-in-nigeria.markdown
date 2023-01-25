@@ -10,9 +10,8 @@ DAI is pleased to announce that it has achieved the internationally recognized I
 
 [ISO 9001:2015 certification](https://www.iso.org/standard/62085.html) requires that a business implements a quality management system that ensures consistency and continuous improvement, leading to high levels of performance and customer satisfaction. Processes that underwent ISO scrutiny include project delivery and monitoring, opportunity tracking, expressions of interest, proposal preparation, contract finalization, human resources, travel, and procurement.
 
-“This certification is a statement that we operate to a set framework to achieve our organizational objectives," said Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), DAI's Nigeria Director. "It was obtained by an external certification audit which proves commitment to our objectives and will increase the credibility and customer confidence in our service.
+“This certification is a statement that we operate to a set framework to achieve our organizational objectives," said Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), DAI's Nigeria Director. "It was obtained by an external certification audit, which proves commitment to our objectives and will increase the credibility and customer confidence in our service.
 
-“I am proud of the remarkable work that has gone into the process of obtaining this accreditation, in a little over a year—it is a clear indicator of the excellence and tenacity of the team.” Adding that, “Our focus is on client satisfaction, and by running a Quality Management System, we stay in control of processes and procedures, which ensures that if anything does go wrong it is rectified quickly, efficiently and to the satisfaction of the customer. 
+“I am proud of the remarkable work that has gone into the process of obtaining this accreditation, in a little over a year—it is a clear indicator of the excellence and tenacity of the team.” Adding that “Our focus is on client satisfaction, and by running a quality management system, we stay in control of processes and procedures, which ensures that if anything does go wrong it is rectified quickly, efficiently, and to the satisfaction of the customer."
 
-You can verify the status and validity of our QMS 9001:2015 ISO certificate by clicking on this link DAI Development Activities International Limited - IAF CertSearch
-
+*To verify the status and validity of our QMS 9001:2015 ISO certificate, click on this link DAI Development Activities International Limited - IAF CertSearch.*
