@@ -1,14 +1,14 @@
 ---
 title: Worldwide—GCA Local Adaptation Champions Awards
 date: 2022-06-13 16:06:00 Z
-summary: DAI is supporting the delivery of the Local Adaptation Champions Awards 2022.
+summary: DAI supported the delivery of the Local Adaptation Champions Awards
 start: 2022
 end: 2023
 client: The Global Center on Adaptation
 solutions:
+- Sustainable Business
 - Climate
 - Climate Change Adaptation and Mitigation
-- Sustainable Business
 regions: Worldwide
 country: Worldwide
 ---
