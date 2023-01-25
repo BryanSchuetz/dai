@@ -1,9 +1,13 @@
 ---
 title: DAI Expands ISO 9001:2015 Certification to DAI Operations in Nigeria
 date: 2023-01-25 13:59:00 Z
-published: false
 tags:
 - Nigeria
+regions: Sub-Saharan Africa
+summary: DAI is pleased to announce that it has achieved the internationally recognized
+  ISO 9001:2015 certification for its operations in Nigeria, establishing the location
+  as an operations leader in international development consulting and implementation.
+country: Nigeria
 ---
 
 DAI is pleased to announce that it has achieved the internationally recognized ISO 9001:2015 certification for its operations in Nigeria, establishing the location as an operations leader in international development consulting and implementation.
@@ -14,4 +18,4 @@ DAI is pleased to announce that it has achieved the internationally recognized I
 
 “I am proud of the remarkable work that has gone into the process of obtaining this accreditation, in a little over a year—it is a clear indicator of the excellence and tenacity of the team.” Adding that “Our focus is on client satisfaction, and by running a quality management system, we stay in control of processes and procedures, which ensures that if anything does go wrong it is rectified quickly, efficiently, and to the satisfaction of the customer."
 
-*To verify the status and validity of our QMS 9001:2015 ISO certificate, click on this link DAI Development Activities International Limited - IAF CertSearch.*
+*To verify the status and validity of our QMS 9001:2015 ISO certificate, click on this [link](https://www.iafcertsearch.org/certified-entity/c7180671-fcf4-5b25-8792-f7e7251292fd).*
