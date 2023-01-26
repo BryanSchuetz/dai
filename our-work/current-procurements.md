@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFP 2023-01 Mod 1](/uploads/RFP%202023-01%20Mod%201.pdf "2/15")
 * [RFQ-56993-IT Equipment-GESP-2023](/uploads/RFQ-56993-ITEquipment-GESP-2023.pdf "2/8")
 * [RFP 2022-15 WCC Symposium](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers%20RFP%202022-15%20WCC%20symposium%20-%20Recompetition.pdf "2/15")
 * [RFP 2023-01 Digital Frontiers Cross-Sectoral Digital Services Guidance ](/uploads/RFP%202023-01%20RFS%20Cross-Sectoral.pdf "2/15")
