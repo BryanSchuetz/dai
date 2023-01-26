@@ -12,6 +12,9 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Nigeria
+promos:
+- title: 'Breaking Barriers to Learning: Building a Stronger Education System in Nigeria'
+  link: https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/
 ---
 
 The Partnership for Learning for All in Nigeria (PLANE) project works to deliver a more inclusive and effective education system and improve learning outcomes for students in their pre-primary and primary years. 
@@ -29,7 +32,7 @@ In partnership with our key subcontractor FHI360, PLANE operates across Kano, Ka
 
 ## Select Results
 
-* Worked with the governments of Kaduna, Kano, and Jigawa to deliver learning materials on inclusive foundational skills and accelerated learning to 5,858 teachers, exceeding the 2,364 target for the quarter.
+* Worked with the governments of Kaduna, Kano, and Jigawa to [deliver learning materials](https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/) on inclusive foundational skills and accelerated learning to 5,858 teachers, exceeding the 2,364 target for the quarter.
 * Trained 5,858 teachers on how to use the materials to teach learners.
 * Established 191 community learning hubs with 237  facilitators.
 * Trained 45 reading ambassadors, including a significant number of female facilitators who were recruited to support community learning hubs.
