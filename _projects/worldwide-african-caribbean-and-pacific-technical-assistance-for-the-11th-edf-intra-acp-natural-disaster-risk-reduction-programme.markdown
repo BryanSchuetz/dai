@@ -2,7 +2,6 @@
 title: 'Worldwide—African, Caribbean, and Pacific: Technical Assistance for the 11th
   EDF Intra-ACP Natural Disaster Risk Reduction Programme'
 date: 2023-01-27 11:37:00 Z
-published: false
 tags:
 - Europe
 - European Union
@@ -27,6 +26,8 @@ The Organisation of African, Caribbean, and Pacific States (OACPS) comprises the
 Against this backdrop, the 11th European Development Fund Intra-Africa, Caribbean, and Pacific Natural Disaster Risk Reduction Program (11th EDF Intra-ACP NDRR Program) is designed to strengthen the resilience to disasters in the African, Caribbean, and Pacific States. DAI is supporting the OACPS Secretariat to ensure the successful implementation of the 11th EDF Intra-ACP NDRR Program.
 
 The project contributes to reducing the impact of disasters caused by natural hazards and extreme events as well as building and strengthening the resilience of OACPS members. The principal focus of the intervention is to strengthen disaster risk governance; support the increased investment in disaster risk reduction, and strengthen the mechanisms for effective response, recovery, rehabilitation, and reconstruction capacities.
+
+![DAI_flood 2.jpg](/uploads/DAI_flood%202.jpg)
 
 ## Select Activities 
 
