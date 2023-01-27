@@ -23,9 +23,11 @@ country: Worldwide
 
 The Organisation of African, Caribbean, and Pacific States (OACPS) comprises the most vulnerable countries in the world to the adverse effects of climate change. To tackle these vulnerabilities, OACPS is working with its 79 members to enhance their resilience and preparedness for natural hazard risks.
 
-Against this backdrop, the 11th European Development Fund Intra-Africa, Caribbean, and Pacific Natural Disaster Risk Reduction Program (11th EDF Intra-ACP NDRR Program) is designed to strengthen the resilience to disasters in the African, Caribbean, and Pacific States. DAI is supporting the OACPS Secretariat to ensure the successful implementation of the 11th EDF Intra-ACP NDRR Program.
+Against this backdrop, the 11th European Development Fund Intra-Africa, Caribbean, and Pacific Natural Disaster Risk Reduction Program (11th EDF Intra-ACP NDRR Program) is designed to strengthen the resilience to disasters in the African, Caribbean, and Pacific (ACP) States. DAI is supporting the OACPS Secretariat to ensure the successful implementation of the 11th EDF Intra-ACP NDRR Program.
 
-The project contributes to reducing the impact of disasters caused by natural hazards and extreme events as well as building and strengthening the resilience of OACPS members. The principal focus of the intervention is to strengthen disaster risk governance; support the increased investment in disaster risk reduction, and strengthen the mechanisms for effective response, recovery, rehabilitation, and reconstruction capacities.
+The project contributes to reducing the impact of disasters caused by natural hazards and extreme events as well as building and strengthening the resilience of OACPS members. 
+
+A particular focus of the programme is developing and sharing knowledge on disaster risk reduction among OACPS countries and key ACP stakeholders through the provision of a knowledge management system, e-learning, and training. DAI experts will also provide analytical work—technical studies, policy notes, research papers—on a demand-driven basis.
 
 ![DAI_flood 2.jpg](/uploads/DAI_flood%202.jpg)
 
