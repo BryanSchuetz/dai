@@ -1,6 +1,7 @@
 ---
 title: Joey Manfredo
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Manfredo
 summary: 'Joey Manfredo is an international development professional with more than
   a decade of project management and leadership experience in the Asia-Pacific region. '
