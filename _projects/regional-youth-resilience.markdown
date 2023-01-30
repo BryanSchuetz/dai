@@ -13,6 +13,9 @@ solutions:
 - Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: Grenada, Guyana, Saint Lucia
+promos:
+- title: Project Fact Sheet
+  link: "/uploads/YRIE%20fact%20sheet_Jan%202023_final%5B33%5D.pdf"
 ---
 
 The Eastern and Southern Caribbean (ESC) region struggles with high rates of interpersonal crime and violence, with violent crime rates among the highest in the world. Of the top 20 countries in the world with the highest murder rates, 17 are in Latin America and the Caribbean. These incidents of crime and violence disproportionately affect young people, between 15 and 29, and remain a major social problem. Young males are most at risk of becoming both victims and perpetrators of crime in the region. 
