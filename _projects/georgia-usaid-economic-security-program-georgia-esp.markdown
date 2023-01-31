@@ -29,7 +29,7 @@ The USAID Economic Security Program focuses on enterprises outside of agricultur
 
 DAI applies a facilitative value chain development approach that places market actors and other value chain stakeholders (public and private) at the center of the change process, inviting them to define problems and co-create solutions. Using timebound “smart incentives,” the program then co-invests with market actors in their own pro-growth solutions.
 
-The program intends to create at least 4,800 new jobs, support at least 720 small firms, increase sales of assisted enterprises by $60 million, and leverage $18 million in partnerships leveraged through partnerships.
+The program intends to create at least 4,800 new jobs, support at least 720 small firms, increase sales of assisted enterprises by $60 million, and leverage $18 million through partnerships.
 
 ![Batumi_port_Barry_Kent.jpg](/uploads/Batumi_port_Barry_Kent.jpg "Photo by Barry Kent.")
 
