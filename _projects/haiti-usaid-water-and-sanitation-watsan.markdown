@@ -6,7 +6,7 @@ summary: 'The USAID Water and Sanitation project helped local water utilities an
   people, improved sanitation service to more than 75,000 people, and to put the local
   water utilities and fecal sludge facilities on a stable financial footing. '
 start: 2017
-end: 2022
+end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Environment
