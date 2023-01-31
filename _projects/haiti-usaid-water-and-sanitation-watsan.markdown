@@ -52,8 +52,7 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 ## Select Results
 
 * Provided 318,850 people with improved or basic water services.
-* Assisted 18 entrepreneurs and small enterprises.
-* Facilitated increased sales of sanitation products and services for 11 small firms.
+* Assisted more than 50 entrepreneurs and small enterprises.
 * Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
 * Working with the Haitian National Water Authority to assist local water utilities (CTEs) to function as independent businesses. Despite COVID-19, an increase in crime, the presidential assassination, and a fuel shortage, a core group of CTEs increased their combined revenues from 3 million gourdes to nearly 8 million gourdes in 2021.
 * Operationalized two fecal sludge management facilities in the districts of Fondfrede and Morne Cabrit. These facilities increased access to sanitation for more than 75,000 people and prevented human bio-waste from polluting drinking water sources. 
