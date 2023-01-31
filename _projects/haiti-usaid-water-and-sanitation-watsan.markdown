@@ -51,7 +51,7 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 
 ## Select Results
 
-* Provided 19,380 people with improved service quality from an existing basic or safely managed drinking water service.
+* Provided 318,850 people with improved or basic water services.
 * Assisted 18 entrepreneurs and small enterprises.
 * Facilitated increased sales of sanitation products and services for 11 small firms.
 * Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
