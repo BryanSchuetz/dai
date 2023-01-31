@@ -33,7 +33,7 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 * Strengthen legislative and judicial reform capacities in compliance with democratic principles and standards.
 * Enhance pluralism, internal democracy, and equality of opportunity in the political parties and party system.
 * Empower media, including new media, to promote fair and ethical coverage of the electoral process and combat hate speech and disinformation, and strengthen the capacity of the media regulators.
-* Empower civil society organizations (CSOs) and relevant agencies to demand greater transparency and accountability in the electoral and decision-making process and promote greater citizens’ participation.
+* Empower civil society organizations and relevant agencies to demand greater transparency and accountability in the electoral and decision-making process and promote greater citizens’ participation.
 * Champion citizens’ access to The National Assembly of Nigeria (NASS) and improve NASS engagement with constituencies.
 * Enhance media engagements and delivery of extensive civic and voter education.
 * Strengthen legal reforms and other initiatives for the inclusion of women, youth, and marginalized groups, including minorities, in politics, political parties, and in political leadership and decision-making positions strengthened.
@@ -41,9 +41,9 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 ## Select Results
 
 * Trained 300 judges of the Court of Appeal and Judges (members) of the Election Petition Tribunal on how to address potential conflicting judgments in electoral litigations.
-* Leading [innovative voter education](https://eusdgn.org/youthvotecountng-mega-concert-in-lagos/) on the electoral process, including the incorporation of pop-culture and music artists during the [Youth Votes Count concert](https://eusdgn.org/wp-content/uploads/2022/09/Case-Study-1.pdf), which led to 25,000 youths registering for their permanent voters' card. 
-* Leading the signing of the [Peace Accord by all presidential candidates](https://placng.org/Legist/political-parties-presidential-candidates-sign-peace-accord-as-campaigns-start/) for the 2023 General elections committing to a civil electoral process, and submitting themselves to accountability.
-* Mobilized over 1,800 Persons with Disabilities across the country to vote and be a part of the electoral process.
+* Lead the [innovative voter education initiative](https://eusdgn.org/youthvotecountng-mega-concert-in-lagos/) on the electoral process, including the incorporation of pop culture and music artists during the [Youth Votes Count concert](https://eusdgn.org/wp-content/uploads/2022/09/Case-Study-1.pdf), which led to 25,000 youths registering for permanent voter card. 
+* Lead the signing of the [Peace Accord by all presidential candidates](https://placng.org/Legist/political-parties-presidential-candidates-sign-peace-accord-as-campaigns-start/) for the 2023 General elections committing to a civil electoral process, and submitting themselves to accountability.
+* Mobilized more than 1,800 people with disabilities across the country to vote and be a part of the electoral process.
 * Introduced community outreach and sensitization programs for marginalized groups.
 * Trained 80 female journalists on impactful, public-interest, and investigative reporting of the electoral process.
 * Initiated collection of GPS coordinates of all polling stations in Nigeria, nearly 175,000 polling units, that can facilitate electoral planning, access of voters, and election observers.
