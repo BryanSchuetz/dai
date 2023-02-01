@@ -1,10 +1,12 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
-summary: DAI supports the Government of Zambia to reduce stunting among children under
-  2 years of age. The first phase of Zambia’s Scaling Up Nutrition program launched
-  in 2011 and covered 14 districts; this phase expands activities to 30 districts
-  covering 7.1 million people, including 850,000 children under 2 and their mothers.
+summary: 'The project engaged thousands of women in maternal and child health education
+  and worked with farmers across 13 districts to help them adopt climate-resilient
+  farming practices to produce diverse, nutritious foods that are crucial to reducing
+  stunting. Through new and rehabilitated boreholes, we delivered clean water to communities
+  and helped improve sanitation, while the financial inclusion agenda saw us increase
+  access to finance for thousands of rural women. '
 start: 2019
 end: 2023
 client: U.S. Agency for International Development
@@ -12,6 +14,7 @@ solutions:
 - Global Health
 - Governance
 - Health Governance
+- Gender and Social Inclusion
 regions: Sub-Saharan Africa
 country: Zambia
 promos:
@@ -46,9 +49,9 @@ Our goal was to contribute to a reduction in stunting, a condition that affects 
 
 * More than 56,000 farmers received extension services, helping them adopt improved land management practices important for increasing their production and productivity. 
 * Helped farmers increase sales of agricultural produce by 97.4 percent from 2020 to 2021.
-* Facilitated the savings of more than $230,000 by savings and loans groups that was shared among 216 groups comprising 3,588 members who used it for several purposes including starting small businesses and investing in capital projects such as housing.
-* Helped 120,515 mothers benefit from activities and information on improved childcare practices, thereby contributing to raising healthy children.
-* Trained 1,316 community volunteers who reached 212,247 people with family planning products and services within their localities, cutting the usually long distances to health centers and promoting increased uptake of family planning services and products.
-* Built 118 new and rehabilitated boreholes, enabling 113,000 people to access clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
-* Assisted more than 240,000 households to build latrines, hence improving community sanitation and hygiene.
+* Formed 1,456 new savings groups with a membership of 24,785 people who saved around $1 million, while 4,725 older members shared $455,493 for certified seed and fertilizer, farm labor, food, and reinvestment into their small businesses.
+* Helped 79,502 mothers benefit from activities and information on improved childcare practices, thereby contributing to raising healthy children.
+* Provided 188,124 people with family planning products and services provided within their localities, thereby increasing uptake and reducing distances to health centers.
+* Helped 322,015 households to build latrines, improving community sanitation and hygiene.
+* Built 239 new and rehabilitated boreholes, enabling 118,736 people to access clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
 * Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavioral change. 
