@@ -115,8 +115,21 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
     </div>
   </article>
 </div>
-
-<blockquote style="margin-top: 2rem; margin-bottom: 2rem;">“DAI is a diverse, multicultural company. But we know being diverse is not enough in itself. We have made a strong commitment to being an actively anti-racist company with diversity, equity, engagement, and inclusion deeply rooted in everything we do.” —<strong><a href="https://www.dai.com/who-we-are/our-team/bobby-jefferson">Bobby Jefferson, Global Head of DEEI</a></strong></blockquote>
+<div class="bulma" style="margin-top: 2rem;">
+  <article class="media">
+    <figure class="media-left">
+      <p class="image is-64x64">
+        <img src="/uploads/bobby-jefferson-(1).jpg">
+      </p>
+    </figure>
+    <div class="media-content">
+      <div class="content">
+        <blockquote style="background-color: white; border-left: 7px solid gainsboro; padding: 0 0 0 1rem">“DAI is a diverse, multicultural company. But we know being diverse is not enough in itself. We have made a strong commitment to being an actively anti-racist company with diversity, equity, engagement, and inclusion deeply rooted in everything we do.” —<strong><a href="https://www.dai.com/who-we-are/our-team/bobby-jefferson">Bobby Jefferson, Global Head of DEEI</a></strong></blockquote>
+      </div>
+      
+    </div>
+  </article>
+</div>
 
 <h2 style="margin-top: 2rem;">Where We Are Today</h2>
 <p>While we have work to do to advance diversity and inclusion, we are proud of a workforce and workplaces that reflect the diverse world we live in.</p>
