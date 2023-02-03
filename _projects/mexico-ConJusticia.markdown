@@ -30,7 +30,7 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 
 ![mex-9c6557.jpg](/uploads/mex-9c6557.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Play a facilitative role to help state-level actors advance their own goals, helping them identify the improvements that they have the capacity to implement and are committed to sustaining, aligned with the Journey to Self-Reliance.
 * Strengthen the capacity of attorney general offices to prioritize cases based on criminal prosecution prioritization frameworks.
@@ -38,9 +38,15 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 * Improve communication, transparency, and accountability of justice sector institutions through proactive engagement with users and the public.
 * Engage private sector, civil society, and other relevant local organizations to identify problems and results together with justice system stakeholders and promote strengthened mechanisms for inter-institutional collaboration.
 
-### Select Results
+## Select Results
 
-* Worked with four target states to design criminal prosecution policies that will lead to accountability and proper crime resolution.
+* Worked with four states to implement criminal prosecution policies, with the participation of more than 100 people, from academia, the private sector, and civil society. 
+* Assisted attorney general offices with 5,509 cases through improved investigation methodologies.
+* Helped solve almost 5,000 criminal cases solved through technical assistance. 
+* Developed 76 tools and management systems that have been adopted by criminal justice institutions to improve caseload distribution, data and information management, and resource allocation.
+* Attended 185 cases of gender-based violence.
+* Developed 63 security plans to protect victims from possible violence on the part of aggressors while their cases are being attended.
+
 * Supported in Coahuila a multidisciplinary task force to strategically target impunity in home robberies; the task force has already begun criminal proceedings against 47 key suspects.
 * Helped the Mexican Laboratory for Innovation in Criminal Justice establish a methodology and digital platform to document, disseminate, and exchange information on innovations for the transformation of Mexico’s criminal justice system.
 * Assisted justice operators in scaling a successful innovation developed with previous USAID support called *Alerta Naranja*, which provides a tech tool for inter-institutional collaboration that reduces the time of first responders to calls of domestic violence. 
