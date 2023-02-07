@@ -14,6 +14,9 @@ solutions:
 - Business Environment Reform
 regions: Latin America and the Caribbean
 country: Colombia
+promos:
+- title: Colombia Equitable Finance Fact Sheet
+  link: "/uploads/Equitable%20Finance__FactSheet_01.02.23_USAID.pdf"
 ---
 
 Colombia is a financial inclusion and innovation leader in Latin America and, at the national level, boasts financial access rates comparable to many developed economies. However, there remains a stark divide between prosperous urban centers and rural municipalities. Decades of armed conflict have devastated the economy of rural Colombia, and rural municipalities remain on the fringe of financial sector innovation, separated by poor physical infrastructure, limited connectivity, and pervasive security challenges. 
@@ -36,4 +39,4 @@ In line with the U.S. Agency for International Development's Regional Integratio
 * Strengthen, contextualize, and scale the existing array of business development services in Colombia to meet the needs of underserved MSMEs.
 * Provide technical assistance to financial services providers to accelerate the development, testing, and scaling of traditional and digital-first financial products tailored to the needs of populations and primary value chains in the priority municipalities.
 * Establish financial observatories that increase the availability of public, actionable data on the financial lives of underserved populations.
-* Design instruments to raise private capital for firms—including MSMEs—and projects in sectors and regions prioritized by the U.S. Agency for International Development and the Government of Colombia, and assist the Government in increasing and maximizing the impact of its investments and de-risking mechanisms. 
+* Design instruments to raise private capital for firms—including MSMEs—and projects in sectors and regions prioritized by the U.S. Agency for International Development and the Government of Colombia, and assist the Government in increasing and maximizing the impact of its investments and de-risking mechanisms.
