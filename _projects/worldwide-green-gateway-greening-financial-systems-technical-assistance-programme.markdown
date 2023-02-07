@@ -23,13 +23,13 @@ The window of opportunity to meet the [1.5°C Paris Agreement](https://unfccc.in
 
 The Green Gateway promotes net zero and climate-resilient financial systems that ultimately will enable the private sector in deploying climate-related and environmentally sustainable investments. 
 
-DAI supports the European Investment Bank in establishing the conditions and local capacity conducive to unlocking green investments in 8 to 10 target countries in Africa, the Middle East, the Caribbean, Eastern Europe and the Western Balkans.   
+DAI supports the European Investment Bank in establishing the conditions and local capacity conducive to unlocking green investments in eight to 10 countries in Africa, the Middle East, the Caribbean, Eastern Europe, and the Western Balkans.   
 
-This will be done by providing capacity building and support to central banks and supervisors introducing best lending practices related to green financing in terms of procedures, processes, and products available to financial intermediaries. 
+We provide capacity building and support to central banks and supervisors introducing best lending practices, procedures, processes, and products for green financing. 
 
 ## Sample Activities 
 
-	Support the engagement and selection of target countries in the Greening Financial Systems Technical Assistance Programme (GFS Programme), including providing support and advice to GFS Programme Manager in the identification and scoping of Technical Assistance Operations  
+* Support the engagement and selection of target countries in the Greening Financial Systems Technical Assistance Programme (GFS Programme), including providing support and advice to GFS Programme Manager in the identification and scoping of Technical Assistance Operations  
 	Prepare and implement Technical Assistance Operations in close coordination with the GFS Programme Manager
 	Facilitate contacts between EIB and stakeholders in countries of operation, including financial institutions
 	Contribute to the visibility of the GFS Programme, while consistently respecting visibility requirements
