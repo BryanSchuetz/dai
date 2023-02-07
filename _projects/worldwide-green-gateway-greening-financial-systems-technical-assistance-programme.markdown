@@ -27,6 +27,8 @@ DAI supports the European Investment Bank in establishing the conditions and loc
 
 We provide capacity building and support to central banks and supervisors introducing best lending practices, procedures, processes, and products for green financing. 
 
+[GreenGateway (3).JPG](/uploads/GreenGateway%20(3).JPG)
+
 ## Sample Activities 
 
 * Support the engagement and selection of countries and operations.  
