@@ -16,7 +16,7 @@ regions: Worldwide
 country: Worldwide
 ---
 
-The window of opportunity to meet the 1.5°C Paris Agreement goal is rapidly closing. Recent trends indicate that the gap between where we are and where we should be is widening rather than closing. Through their Nationally Determined Contributions (NDCs), countries communicate actions they will take to reduce their greenhouse gas emissions. However, climate finance commitments themselves are not enough. Due to the limited availability of funds for climate finance on the domestic markets in developing countries, it is necessary to expand climate finance for zero-carbon investments domestically and through international cooperation. 
+The window of opportunity to meet the [1.5°C Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) goal is rapidly closing. Recent trends indicate that the gap between where we are and where we should be is widening rather than closing. Through their Nationally Determined Contributions (NDCs), countries communicate actions they will take to reduce their greenhouse gas emissions. However, climate finance commitments themselves are not enough. Due to the limited availability of funds for climate finance on the domestic markets in developing countries, it is necessary to expand climate finance for zero-carbon investments domestically and through international cooperation. 
 
 This intervention has been designed to promote net zero and climate-resilient financial systems that ultimately will enable the private sector in deploying climate-related and environmentally sustainable investments. 
 
