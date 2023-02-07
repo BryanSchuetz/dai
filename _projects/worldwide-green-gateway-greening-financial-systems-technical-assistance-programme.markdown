@@ -1,7 +1,6 @@
 ---
 title: 'Worldwide—Green Gateway: Greening Financial Systems Technical Assistance Programme'
 date: 2023-02-07 12:58:00 Z
-published: false
 tags:
 - Europe
 - European Union
@@ -27,13 +26,11 @@ DAI supports the European Investment Bank in establishing the conditions and loc
 
 We provide capacity building and support to central banks and supervisors introducing best lending practices, procedures, processes, and products for green financing. 
 
-[GreenGateway (3).JPG](/uploads/GreenGateway%20(3).JPG)
+![GreenGateway (3).JPG](/uploads/GreenGateway%20(3).JPG)
 
 ## Sample Activities 
 
 * Support the engagement and selection of countries and operations.  
-	Prepare and implement Technical Assistance Operations in close coordination with the GFS Programme Manager
-	Facilitate contacts between EIB and stakeholders in countries of operation, including financial institutions
-	Contribute to the visibility of the GFS Programme, while consistently respecting visibility requirements
-	Measure, report on and contribute to the visibility of GFS Technical Assistance Programme results.
-
+* Facilitate contacts between the client and stakeholders in countries of operation, including financial institutions.
+* Contribute to the visibility of the project.
+* Measure, report, and contribute to the project's visibility.
