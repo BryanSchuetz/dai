@@ -5,6 +5,9 @@ published: false
 tags:
 - Europe
 - European Union
+summary: 'The Green Gateway promotes net zero and climate-resilient financial systems
+  that ultimately will enable the private sector in deploying climate-related and
+  environmentally sustainable investments. '
 start: 2023
 end: 2026
 client: European Investment Bank
@@ -16,15 +19,15 @@ regions: Worldwide
 country: Worldwide
 ---
 
-The window of opportunity to meet the [1.5°C Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) goal is rapidly closing. Recent trends indicate that the gap between where we are and where we should be is widening rather than closing. Through their Nationally Determined Contributions (NDCs), countries communicate actions they will take to reduce their greenhouse gas emissions. However, climate finance commitments themselves are not enough. Due to the limited availability of funds for climate finance on the domestic markets in developing countries, it is necessary to expand climate finance for zero-carbon investments domestically and through international cooperation. 
+The window of opportunity to meet the [1.5°C Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) goal is rapidly closing. Recent trends indicate that the gap between where we are and where we should be is widening. Through their [Nationally Determined Contributions](https://www.un.org/en/climatechange/all-about-ndcs#:~:text=Simply%20put%2C%20an%20NDC%2C%20or,update%20it%20every%20five%20years.) (NDCs), countries communicate actions they will take to reduce their greenhouse gas emissions. However, commitments themselves are not enough. Due to the limited availability of funds for climate finance in developing countries, it is necessary to expand climate finance for zero-carbon investments domestically and through international cooperation. 
 
-This intervention has been designed to promote net zero and climate-resilient financial systems that ultimately will enable the private sector in deploying climate-related and environmentally sustainable investments. 
+The Green Gateway promotes net zero and climate-resilient financial systems that ultimately will enable the private sector in deploying climate-related and environmentally sustainable investments. 
 
-DAI will support the European Union’s ‘climate bank’ -  the European Investment Bank (EIB) - in establishing the conditions and local capacity conducive to unlocking green investments in 8 to 10 target countries in Africa, the Middle East, the Caribbean, Eastern Europe and the Western Balkans.   
+DAI supports the European Investment Bank in establishing the conditions and local capacity conducive to unlocking green investments in 8 to 10 target countries in Africa, the Middle East, the Caribbean, Eastern Europe and the Western Balkans.   
 
 This will be done by providing capacity building and support to central banks and supervisors introducing best lending practices related to green financing in terms of procedures, processes, and products available to financial intermediaries. 
 
-Select Activities: 
+## Sample Activities 
 
 	Support the engagement and selection of target countries in the Greening Financial Systems Technical Assistance Programme (GFS Programme), including providing support and advice to GFS Programme Manager in the identification and scoping of Technical Assistance Operations  
 	Prepare and implement Technical Assistance Operations in close coordination with the GFS Programme Manager
