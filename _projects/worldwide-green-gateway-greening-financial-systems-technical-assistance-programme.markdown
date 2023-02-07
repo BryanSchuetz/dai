@@ -29,7 +29,7 @@ We provide capacity building and support to central banks and supervisors introd
 
 ## Sample Activities 
 
-* Support the engagement and selection of target countries in the Greening Financial Systems Technical Assistance Programme (GFS Programme), including providing support and advice to GFS Programme Manager in the identification and scoping of Technical Assistance Operations  
+* Support the engagement and selection of countries and operations.  
 	Prepare and implement Technical Assistance Operations in close coordination with the GFS Programme Manager
 	Facilitate contacts between EIB and stakeholders in countries of operation, including financial institutions
 	Contribute to the visibility of the GFS Programme, while consistently respecting visibility requirements
