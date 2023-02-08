@@ -1,6 +1,7 @@
 ---
 title: Amethyst Gillis
 date: 2020-01-28 20:25:00 Z
+published: false
 lastname: Gillis
 summary: Drawing on a professional background that combines laboratory-based research
   and global health, Amethyst supports DAI’s Fleming Fund grant activities, which
