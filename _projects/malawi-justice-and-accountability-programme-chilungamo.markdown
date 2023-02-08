@@ -17,7 +17,7 @@ country: Malawi
 
 The Government of Malawi has stated its commitment to contributing to dignified lives for its citizens through an accountable government, informed democratic choice, and the humane and effective delivery of justice.
 
-The Chilungamo (“justice”) project contributed to increased levels of governance, accountability, compliance with the rule of law, and respect, promotion, and protection of human rights in Malawi. The project worked to reduce the burden on the criminal justice system, coordinate the criminal justice system, reduce prison overcrowding, and increase access to justice for both victims and offenders. This effort to improve the justice system and reduce gender-based violence has assisted more than 100,000 Malawians by creating victim support units, ensuring people receive legal aid, resolving 2,300 cases of maladministration, and facilitating the release of close to 5,000 prisoners—including people found to be innocent or detained beyond their sentence terms. 
+The Chilungamo (“justice”) project contributed to increased levels of governance, accountability, compliance with the rule of law, and respect, promotion, and protection of human rights in Malawi. The project worked to reduce the burden on the criminal justice system, coordinate the criminal justice system, reduce prison overcrowding, and increase access to justice for both victims and offenders. This effort to improve the justice system and reduce gender-based violence has assisted more than 100,000 Malawians by creating victim support units, ensuring people receive legal aid, handling 6,100 cases of gender-based violence, resolving 3,700 cases of maladministration, and facilitating the release of close to 5,000 prisoners—including people found to be innocent or detained beyond their sentence terms. 
 
 ![Malawi Prisons Office Nov 17.jpg](/uploads/Malawi%20Prisons%20Office%20Nov%2017.jpg)
  
@@ -33,7 +33,6 @@ The Chilungamo (“justice”) project contributed to increased levels of govern
 * Handled 6,100 cases of gender-based violence.
 * Supported the Malawi Human Rights Commission in handling 160 cases out of their annual target of 225, which corresponds to 71 percent achievement at mid-point level.
 * Assisted the Office of the Ombudsman in releasing a systemic investigations report—an investigation of allegations of hospital negligence. The office has commenced another systemic investigation on the allegations of abuse and misuse of local and constituency development funds in all district councils.
-* Supported the Office of the Ombudsman in handling 549 cases of maladministration.
 * Supported the Anti-Corruption Bureau with the development of a Strategic Plan for 2019-2024.
 * Organized rallies with mobile accountability clinics in the target districts. Mobile accountability clinics are platforms for empowering citizens and communities, receiving complaints, carrying out follow-up investigations, and holding duty bearers accountable. The clinics include public rallies and sensitization meetings with village development committees, with prompt investigation and sensitization meetings with district-level bureaucrats relating to complaints and concerns raised. About 17,000 people have been reached through public rallies and brochures.
 * Resolved 575 mobile court cases.
