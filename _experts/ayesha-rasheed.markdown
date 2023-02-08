@@ -1,6 +1,7 @@
 ---
 title: Ayesha Rasheed
 date: 2020-04-27 17:10:00 Z
+published: false
 lastname: Rasheed
 summary: 'Dr. Ayesha Rasheed is a public health physician with more than 20 years
   of donor-funded, health program management experience, including oversight of field
