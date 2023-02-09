@@ -1,10 +1,12 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
-summary: DAI supports the Government of Zambia to reduce stunting among children under
-  2 years of age. The first phase of Zambia’s Scaling Up Nutrition program launched
-  in 2011 and covered 14 districts; this phase expands activities to 30 districts
-  covering 7.1 million people, including 850,000 children under 2 and their mothers.
+summary: 'The project engaged thousands of women in maternal and child health education
+  and worked with farmers across 13 districts to help them adopt climate-resilient
+  farming practices to produce diverse, nutritious foods that are crucial to reducing
+  stunting. Through new and rehabilitated boreholes, we delivered clean water to communities
+  and helped improve sanitation, while the financial inclusion agenda saw us increase
+  access to finance for thousands of rural women. '
 start: 2019
 end: 2023
 client: U.S. Agency for International Development
@@ -12,6 +14,7 @@ solutions:
 - Global Health
 - Governance
 - Health Governance
+- Gender and Social Inclusion
 regions: Sub-Saharan Africa
 country: Zambia
 promos:
@@ -25,11 +28,13 @@ promos:
   link: https://www.dai.com/news/usaid-administrator-visits-dai-led-projects-during-tour-of-zambia
 ---
 
-DAI supports the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; [this phase](https://www.dai.com/news/dai-to-launch-usaid-zambia-program-to-reduce-stunting-in-young-children) expands activities to 30 districts covering 7.1 million people, including 850,000 children under age 2 and their mothers.
+DAI supported the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; [this phase](https://www.dai.com/news/dai-to-launch-usaid-zambia-program-to-reduce-stunting-in-young-children) expanded activities to 30 districts covering 7.1 million people, including 850,000 children under age 2 and their mothers.
 
-Zambia SUN TA layers interventions in nutrition, health, agriculture, and water, sanitation, and hygiene (WASH), building the capacity of Zambian counterparts at all levels to take these interventions forward. The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions. The consortium collaborates with Zambia’s National Food and Nutrition Council (NFNC), ministry representatives, donors, district health workers, and sanitation service providers, among others. DAI’s consortium includes TechnoServe, EXP Zambia, Toilet Yanga, and Viamo.
+Zambia SUN TA layered interventions in nutrition, health, agriculture, access to finance, and water, sanitation, and hygiene (WASH), building the capacity of Zambian counterparts at all levels to take these interventions forward. The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions. The consortium collaborated with Zambia’s National Food and Nutrition Council (NFNC), ministry representatives, donors, district health workers, and sanitation service providers, among others. DAI’s consortium includes TechnoServe, EXP Zambia, Toilet Yanga, and Viamo.
 
-[Stunting](https://www.who.int/nutrition/healthygrowthproj_stunted_videos/en/) is impaired growth and development that children experience as a result of poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age 5, stunting can cause poor cognition and educational performance and other harmful lifelong effects. Zambia SUN TA works to ensure that more of Zambia’s children grow up healthy, strong, and productive.
+[Stunting](https://www.who.int/nutrition/healthygrowthproj_stunted_videos/en/) is impaired growth and development that children experience as a result of poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age 5, stunting can cause poor cognition and educational performance and other harmful lifelong effects. Zambia SUN TA worked to ensure that more of Zambia’s children grow up healthy, strong, and productive.
+
+Our goal was to contribute to a reduction in stunting, a condition that affects far too many Zambian children—up to 35 percent of children under the age of five—causing lifelong effects such as poor cognition and limited educational performance. To reach this group, we engaged thousands of women in maternal and child health education, we worked with farmers across 13 districts to help them adopt climate-resilient farming practices to produce diverse, nutritious foods that are crucial to reducing stunting. Through new and rehabilitated boreholes, we delivered clean water to communities and helped improve sanitation, while the financial inclusion agenda saw us increase access to finance for thousands of rural women. 
 
 <iframe src="https://player.vimeo.com/video/780508336?h=8a0d9ad551" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -42,11 +47,11 @@ Zambia SUN TA layers interventions in nutrition, health, agriculture, and water,
 
 ## Select Results
 
-* Trained 1,203 lead farmers and provided extension services to 38,757 follower farmers in 2021, thus improving agriculture production and practices.
+* More than 56,000 farmers received extension services, helping them adopt improved land management practices important for increasing their production and productivity. 
 * Helped farmers increase sales of agricultural produce by 97.4 percent from 2020 to 2021.
-* Facilitated the savings of more than $230,000 by savings and loans groups that was shared among 216 groups comprising 3,588 members who used it for several purposes including starting small businesses and investing in capital projects such as housing.
-* Helped 120,515 mothers benefit from activities and information on improved childcare practices, thereby contributing to raising healthy children.
-* Trained 1,316 community volunteers who reached 212,247 people with family planning products and services within their localities, cutting the usually long distances to health centers and promoting increased uptake of family planning services and products.
-* Built 118 new and rehabilitated boreholes, enabling 113,000 people to access clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
-* Assisted more than 240,000 households to build latrines, hence improving community sanitation and hygiene.
+* Formed 1,456 new savings groups with a membership of 24,785 people who saved around $1 million, while 4,725 older members shared $455,493 for certified seed and fertilizer, farm labor, food, and reinvestment into their small businesses.
+* Helped 79,502 mothers benefit from activities and information on improved childcare practices, thereby contributing to raising healthy children.
+* Provided 188,124 people with family planning products and services provided within their localities, thereby increasing uptake and reducing distances to health centers.
+* Helped 322,015 households to build latrines, improving community sanitation and hygiene.
+* Built 239 new and rehabilitated boreholes, enabling 118,736 people to access clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
 * Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavioral change. 
