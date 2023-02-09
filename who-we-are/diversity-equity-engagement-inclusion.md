@@ -1,37 +1,57 @@
 ---
 title: Diversity, Equity, Engagement, and Inclusion
-summary: |
-  Our mission is to make a lasting difference in the world by helping people improve their lives. We rely on our diverse cultures, backgrounds, and points of view to advance our mission, and our success depends on fostering a workplace where everyone, everywhere feels valued and empowered. 
+summary: "Our mission is to make a lasting difference in the world by helping people
+  improve their lives. We rely on our diverse cultures, backgrounds, and points of
+  view to advance our mission, and our success depends on fostering a workplace where
+  everyone, everywhere feels valued and empowered. \n"
 hero: true
 layout: node
 groups:
-  - name: DAI API
-    description: |
-      DAI API supports and fosters a sense of community among Asian and Pacific Islander employees around the world. Its mission is to provide learning and mentorship opportunities for members to advance their professional growth and promote API educational, cultural, and social awareness.  
-    image: /uploads/erg-api.jpg
-  - name: DAI GESI
-    description: |
-      DAI GESI (Gender Equality and Social Inclusion) is a community of practice intended to build DAI’s capacity and awareness around gender equity and social inclusion and to develop and promote a nuanced, informed approach to GESI issues in DAI project activities and corporate practices. 
-    image: /uploads/erg-gesi.jpg
-  - name: DAI NOIR
-    description: |
-      DAI Noir's mission is to create a safe and supportive space for employees of African ancestry and their allies in DAI's corporate and project offices worldwide. The group partners with leaders to design and implement corporate policies and strategies that affect employees of African ancestry and to advocate for anti-racism, inclusion, and diversity across the company.
-    image: /uploads/erg-noir.jpg
-  - name: DAI LGBTQI+
-    description: |
-      DAI LGBTQI+ provides the LGBTQI+ community at DAI with a sense of belonging that fosters communication, support, and skill development. It promotes and supports corporate policies designed to address gender, issues of importance to sexually diverse communities, and the human rights of our staff, their families, and their loved ones. 
-    image: /uploads/erg-lgbtq.jpg
-  - name: DAI GANDI
-    description: |
-      The U.K. Gender and Inclusion (GANDI) group works to build DAI capacity and awareness around race, gender, and disability. They address the full spectrum of gender and social inclusion, focusing on the British context and related issues.
-    image: /uploads/erg-gandi.jpg
-  - name: LA FAMILIA DAI
-    description: |
-      La Familia DAI is dedicated to building a supportive and uplifting environment, networking, professional development, and advocacy for the Latino/a community. Its mission is to foster an inclusive, diverse, and anti-racist culture at DAI.
-    image: /uploads/erg-familia.jpg
+- name: DAI API
+  description: "DAI API supports and fosters a sense of community among Asian and
+    Pacific Islander employees around the world. Its mission is to provide learning
+    and mentorship opportunities for members to advance their professional growth
+    and promote API educational, cultural, and social awareness.  \n"
+  image: "/uploads/erg-api.jpg"
+- name: DAI GESI
+  description: "DAI GESI (Gender Equality and Social Inclusion) is a community of
+    practice intended to build DAI’s capacity and awareness around gender equity and
+    social inclusion and to develop and promote a nuanced, informed approach to GESI
+    issues in DAI project activities and corporate practices. \n"
+  image: "/uploads/erg-gesi.jpg"
+- name: DAI NOIR
+  description: 'DAI Noir''s mission is to create a safe and supportive space for employees
+    of African ancestry and their allies in DAI''s corporate and project offices worldwide.
+    The group partners with leaders to design and implement corporate policies and
+    strategies that affect employees of African ancestry and to advocate for anti-racism,
+    inclusion, and diversity across the company.
 
-    
+'
+  image: "/uploads/erg-noir.jpg"
+- name: DAI LGBTQI+
+  description: "DAI LGBTQI+ provides the LGBTQI+ community at DAI with a sense of
+    belonging that fosters communication, support, and skill development. It promotes
+    and supports corporate policies designed to address gender, issues of importance
+    to sexually diverse communities, and the human rights of our staff, their families,
+    and their loved ones. \n"
+  image: "/uploads/erg-lgbtq.jpg"
+- name: DAI GANDI
+  description: 'The U.K. Gender and Inclusion (GANDI) group works to build DAI capacity
+    and awareness around race, gender, and disability. They address the full spectrum
+    of gender and social inclusion, focusing on the British context and related issues.
+
+'
+  image: "/uploads/erg-gandi.jpg"
+- name: LA FAMILIA DAI
+  description: 'La Familia DAI is dedicated to building a supportive and uplifting
+    environment, networking, professional development, and advocacy for the Latino/a
+    community. Its mission is to foster an inclusive, diverse, and anti-racist culture
+    at DAI.
+
+'
+  image: "/uploads/erg-familia.jpg"
 ---
+
 In line with [our values](/who-we-are/mission-and-values), DAI is committed to fostering diversity, equity, engagement, and inclusion inside DAI, in our work around the world, and within the international development sector. You’ll notice that we add an extra “E” to the familiar DEI acronym, which stands for engagement—underscoring how important it is for us to have every member of staff energetically involved as part of our shared corporate purpose.
 
 <div class="deei-mosaic">
