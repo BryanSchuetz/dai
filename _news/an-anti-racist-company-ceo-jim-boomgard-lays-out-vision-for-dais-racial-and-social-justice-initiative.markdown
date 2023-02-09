@@ -2,14 +2,14 @@
 title: 'An Anti-Racist Company: CEO Jim Boomgard Lays Out Vision for DAI’s Racial
   and Social Justice Initiative'
 date: 2020-07-13 00:43:00 Z
+tags:
+- deei
 is_featured: true
 summary: The recent murders of George Floyd, Breonna Taylor, and Ahmaud Arbery have
   refocused the world’s attention on racial inequity and injustice. These instances,
   hideous enough on their own, are an external, violent expression of the pervasive
   racism and discrimination that is seared into our societies.
 social-image: "/uploads/james-boomgard.jpg"
-tags:
-- deei
 ---
 
 ![Jim Boomgard](/uploads/james-boomgard-ccf327.jpg){:.float-left}
