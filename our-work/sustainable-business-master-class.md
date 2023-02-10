@@ -98,7 +98,7 @@ layout: solution
                 </div>
               </div>
               <div class="content">
-                <p>Zachary has more than 10 years’ experience within the extractives industry, focusing on local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Zachary has more than 15 years’ experience within the extractives industry, focusing on local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
               </div>
             </div>
           </div>
