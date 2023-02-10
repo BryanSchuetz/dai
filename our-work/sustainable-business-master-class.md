@@ -120,7 +120,7 @@ layout: solution
                 </div>
               </div>
               <div class="content">
-                <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Dorival has more than 10 years’ experience in energy investment, with technical expertise in local content policy and implementation of supplier development programs for clients around the world.</p>
               </div>
             </div>
           </div>
