@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [Investment Opportunities in Trade & Transit Related Infrastructure of Pakistan](https://dai-assets.s3.amazonaws.com/rfps/20220203_RFP%23%20REQ-PRE-22-0006%20-%20Investment%20Opportunities%20in%20%20Trade%20%20Transit%20Related%20Infrastructure%20of%20Pakistan%20%202.2.7_bb.pdf "3/15")
 * [RFP 2023-01 Mod 1](/uploads/RFP%202023-01%20Mod%201.pdf "2/15")
 * [RFP 2022-15 WCC Symposium](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers%20RFP%202022-15%20WCC%20symposium%20-%20Recompetition.pdf "2/15")
 * [RFP 2023-01 Digital Frontiers Cross-Sectoral Digital Services Guidance ](/uploads/RFP%202023-01%20RFS%20Cross-Sectoral.pdf "2/15")
