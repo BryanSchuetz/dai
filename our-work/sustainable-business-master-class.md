@@ -120,7 +120,7 @@ layout: solution
                 </div>
               </div>
               <div class="content">
-                <p>Dorival has more than 10 years’ experience in energy investment, with technical expertise in local content policy and implementation of supplier development programs for clients around the world.</p>
+                <p>Dorival Bettencourt has more than 10 years’ experience in energy investment, with technical expertise in all aspects of local content strategy, policy, analytics and implementation. He has led dozens of engagements for private and public sector clients around the world.</p>
               </div>
             </div>
           </div>
