@@ -34,7 +34,7 @@ In partnership with our key subcontractor FHI360, PLANE operates across Kano, Ka
 
 * Worked with the governments of Kaduna, Kano, and Jigawa to [deliver learning materials](https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/) on inclusive foundational skills and accelerated learning to 5,858 teachers, exceeding the 2,364 goal for the quarter.
 * Trained 5,858 teachers on how to use the materials to teach learners.
-* Established 191 community learning hubs with 237  facilitators.
+* Established 191 community learning hubs with 237 facilitators.
 * Trained 45 reading ambassadors, including a significant number of female facilitators who were recruited to support community learning hubs.
 * Strengthened safeguarding referral mechanisms in all three states.
 * Supported the states in reviewing private school policies to enhance the relationship with the federal government for better service delivery.
