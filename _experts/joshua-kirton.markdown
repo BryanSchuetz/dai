@@ -1,6 +1,7 @@
 ---
 title: Joshua Kirton
 date: 2022-06-29 15:02:00 Z
+published: false
 lastname: Kirton
 summary: 'Joshua Kirton is a Senior Specialist in the Finance, Investment, and Trade
   Practice. Earlier in his career, Josh worked in development finance and on data
