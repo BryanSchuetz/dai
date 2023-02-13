@@ -2212,7 +2212,10 @@ svg.newIcons{
   width: 1rem;
   position: relative;
   top: .2rem;
-  .st0, .st1, .st2, .st3, .st4{
+  .st0, .st2, .st3, .st4{
     fill: currentColor;
+  }
+  .st1{
+    fill: #ACC6E1;
   }
 }
