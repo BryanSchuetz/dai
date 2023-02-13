@@ -17,7 +17,7 @@ promos:
   link: https://e.vnexpress.net/news/news/usaid-helps-vietnam-s-climate-change-fight-with-two-new-projects-4269347.html
 ---
 
-Limitations on land ownership, access to markets, and high-quality seed varietals constrain people’s ability to either manage their forests effectively or to derive additional benefits from that management. This results in lower levels of carbon sequestration, limits community livelihood opportunities, and contributes to degradation and encroachment on the forests themselves. By addressing the intertwined issues of economic opportunity and forest governance, the U.S. Agency for International Development’s Sustainable Forest Management (SFM) Activity supports Vietnam’s efforts to manage vital forest areas while helping its people share in the country’s rapid growth in an equitable, sustainable way.  
+Limitations on land ownership, access to markets, and high-quality seed varietals constrain people’s ability to either manage their forests effectively or derive additional benefits from that management. This results in lower levels of carbon sequestration, limits community livelihood opportunities, and contributes to degradation and encroachment on the forests themselves. By addressing the intertwined issues of economic opportunity and forest governance, the U.S. Agency for International Development’s Sustainable Forest Management (SFM) Activity supports Vietnam’s efforts to manage vital forest areas while helping its people share in the country’s rapid growth in an equitable, sustainable way.  
 
 SFM helps the Government of Vietnam reduce carbon emissions associated with deforestation, the degradation of natural forests, and poor plantation management. SFM implements a “Green Prosperity” approach that strengthens local communities’ ability to protect their natural resource base and reduce emissions while building a strong foundation for sustainable livelihoods and equitable economic growth.
  
@@ -36,7 +36,13 @@ In seven provinces, SFM is strengthening community forest management models to a
 
 ### Select Results
 
-* Supported seven provinces to develop forest law enforcement action plans. The project conducted six consultation workshops for 134 participants to finalize the plans, which will support law enforcement, improved enforcement practices, and the environmental judicial system.
+* Supported seven provinces in developing forest law enforcement action plans. The project conducted six consultation workshops for 134 participants to finalize the plans, which will support law enforcement, improved enforcement practices, and the environmental judicial system.
 * Signed a partnership agreement with the Biomass Fuel Vietnam Co., Ltd. to leverage $7.5 million to promote more than 5,000 hectares of Forest Stewardship Council-certified plantation forests from 3,000 small-scale forest owners in Nghe An province. 
 * Conducted a study in Thanh Hoa province on how customary laws support or hinder the effort for effective management and forestry law enforcement; what practices can be used by concerned parties to ensure effective forest governance and equity at the grassroots level; and how law enforcement agencies in Thanh Hoa should prevent and deal with potential violations and conflicts between customary law and legal regulations.
-* Supported the Vietnam Administration of Forestry to develop the Gender Equality Action Plan, 2021–2025, a commitment towards leadership, economics, gender-based violence prevention, research, and gender integration into technical activities of the forestry sector. 
+* Supported the Vietnam Administration of Forestry in developing the Gender Equality Action Plan, 2021–2025, a commitment towards leadership, economics, gender-based violence prevention, research, and gender integration into technical activities of the forestry sector. 
+* Trained 17,500 people in community forest management, value chain development, law enforcement, sustainable forest management, and monitoring Payment for Ecosystems Services 
+* Built capacity of 44 organizations, including 22 government agencies, 8 conservation-friendly enterprises, and 14 community organizations 
+* Developed 29 policies—5 national, 17 subnational, and 7 at community level 
+* Mobilized more than $10 million in investment from the government and the private sector 
+
+ 
