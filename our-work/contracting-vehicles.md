@@ -22,7 +22,7 @@ layout: node
 
 ### Governance
 
-*  Reading for East Africa’s Development (READ) (2023–2030)
+* Reading for East Africa’s Development (READ) (2023–2030)
 * Active Communities—Effective States (ACES) (2021–2026)
 * Rule of Law Technical Assistance Services (ROL) (2013–2023)
 * Public Financial Management II (PFM II) (2018–2025)
