@@ -17,7 +17,7 @@ DAI incubated Human Capital Development Plus (HDC+), a regional advocacy and tec
 
 We incubated HCD+ from a program sponsored within DAI into a fully registered and functional not-for-profit HCD hub in Nigeria to serve as a continental platform and critical partner for African governments. We provided assistance in setting up HCD+ to be an independent entity professionally staffed with tested processes, controls, and governance structures established to deliver on its vision.
 
-HCD+ will have the capability to serve as an African voice for advocacy, accountability, and transparency on issues of human capital. It will seek to accelerate political commitments, decision-making, and funding for key priorities toward realizing Sustainable Development Goals No. 1-6 in Sub-Saharan Africa. 
+HCD+ has the capability to serve as an African voice for advocacy, accountability, and transparency on issues of human capital. It seeks to accelerate political commitments, decision-making, and funding for key priorities toward realizing Sustainable Development Goals No. 1-6 in Sub-Saharan Africa. 
 
 The initial phase focused on Burkina Faso, Ethiopia, Kenya, and Nigeria.
 
