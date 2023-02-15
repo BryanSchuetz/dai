@@ -1,14 +1,15 @@
----
----
+// ---
+// published: false
+// ---
 
-{%- for project in site.projects -%}
+// {%- for project in site.projects -%}
   
-{%- endfor -%}
+// {%- endfor -%}
 
 
-{%- assign sorted_projects = site.projects | sort: 'end' | reverse -%}
-{%- for project in sorted_projects limit:100 -%}
-  {"prompt": "", "completion": "{{project.content | markdownify | replace:"<code class=\"language-plaintext highlighter-rouge\">","(shpode)" | replace:"</code>","(shmode)"| strip_html | strip }}"}
-{%- endfor -%}
+// {%- assign sorted_projects = site.projects | sort: 'end' | reverse -%}
+// {%- for project in sorted_projects limit:100 -%}
+//   {"prompt": "", "completion": "{{project.content | markdownify | replace:"<code class=\"language-plaintext highlighter-rouge\">","(shpode)" | replace:"</code>","(shmode)"| strip_html | strip }}"}
+// {%- endfor -%}
 
 
