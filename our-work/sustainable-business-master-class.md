@@ -98,7 +98,7 @@ layout: solution
                 </div>
               </div>
               <div class="content">
-                <p>Zachary has more than 10 years’ experience within the extractives industry, focusing on local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Zachary has more than 15 years’ experience within the energy industry, focusing on local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
               </div>
             </div>
           </div>
@@ -120,7 +120,7 @@ layout: solution
                 </div>
               </div>
               <div class="content">
-                <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Dorival Bettencourt has more than 10 years’ experience in energy investment, with technical expertise in all aspects of local content strategy, policy, analytics and implementation. He has led dozens of engagements for private and public sector clients around the world.</p>
               </div>
             </div>
           </div>

@@ -25,3 +25,11 @@ DAI is operationalizing JOOPSA by developing procedures, programs, strategies, a
 * Identify key partnerships for program offerings, operations, and uptake of products. 
 * Seek other universities and higher institutions, vocational schools, and other public sector educational bodies to establish a credible faculty.
 * Review the competency framework and conduct a learning needs assessment to identify the minimum required programs for a public service academy.
+
+## Select Results
+
+* Developed the academy’s governance framework including board procedures and legal framework.
+* Designed programs and curriculums, with more than 100 courses specially tailored and targeted at equipping the public service.
+* Developed operational frameworks, protocols, and procedures to streamline organizational processes and operations.
+* Developed strategies, frameworks, and templates to strengthen the JOOPSA brand and positioning.
+* Established the Inter-ministerial Counterpart team to drive the Academy’s sustainability and learning reforms.

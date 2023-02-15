@@ -35,7 +35,7 @@ TIF’s priority sectors are tourism, agriculture and agrifoods, manufacturing, 
 
 ![Lebanon TIF.jpg](/uploads/Lebanon%20TIF.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Co-create sector strategies and action plans.
 * Transition core partners into a network that can act as a lasting structure to mobilize private-sector resources and offer fee-based services.
@@ -43,3 +43,10 @@ TIF’s priority sectors are tourism, agriculture and agrifoods, manufacturing, 
 * Build capacity of trade support institutions and service providers.
 * Jumpstart investment with pipeline deals and continued investment advisory.
 * Develop specialized nonbank financial products appropriate to export firms. 
+
+## Select Results
+
+* Created 745 full-time jobs. 
+* Helped sustain 5,600 jobs.
+* Supported a company called Biomass to raise $1 million in investment for the company to expand its production.
+* Provided 25 firms with transaction advisory support.

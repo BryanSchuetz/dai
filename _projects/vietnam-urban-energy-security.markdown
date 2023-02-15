@@ -35,6 +35,8 @@ VUES promotes the deployment of 400 megawatts of advanced and distributed energy
 ### Select Results
 
 * Supported the Vietnam Electricity Corporation (EVN) to conduct a utility technical and financial impact analysis of various rooftop solar deployment scenarios, evaluate rooftop solar systems in its electricity distribution network, and build EVN’s capacity to mitigate adverse impacts to the grid.
-* Organized a workshop, with the National Renewable Energy Laboratory (NREL), for more than 145 participants from the Ho Chi Minh City and Da Nang Departments of Industry and Trade, Electricity of Vietnam, the cities’ agencies, and grid operators to study the financial impact of rooftop photovoltaic development to utilities. 
+* Provided transaction advisory support to five major energy developers to deploy 400 MW of distributed energy systems 
+* Facilitated lending from eight Vietnamese banks and financial institutions to mobilize $600 million for advanced distributed urban energy systems 
+* Supported two cities to develop clean energy action plans to reduce carbon emissions to zero by 2050) 
+* Supported two cities to provide cleaner energy and energy efficiency options, potentially benefiting 10.1 million citizens  
 * Launched the Vietnam Innovation Exchange Program II to promote engagement between corporate entities and innovative energy startups in Ho Chi Minh City and Da Nang through product piloting and commercialization. 
-* Launched its first Innovation Challenge Fund request for proposals in June 2021. This round selected four innovative, clean distributed energy solutions, suitable for application in industrial plants and commercial buildings, and one innovative mobile application that helps households to monitor and save on electricity bills.

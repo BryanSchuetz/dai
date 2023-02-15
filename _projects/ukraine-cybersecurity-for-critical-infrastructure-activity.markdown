@@ -7,7 +7,7 @@ summary: The Cybersecurity for Critical Infrastructure Activity works to strengt
   trusted collaboration between key cybersecurity stakeholders in the government,
   private sector, academia, and civil society.
 start: 2020
-end: 2024
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth

@@ -21,7 +21,7 @@ promos:
 
 Through the innovative use of an adapted market systems development approach “Markets for Resilience”, the Strengthening Host and Refugees Populations in Ethiopia program (SHARPE) works to strengthen the economies of target populations in three regions in Ethiopia; Dollo Ado, Gambella, and Jijiga. 
 
-SHARPE promotes increased refugee self-reliance and generates economic opportunities for host communities through the piloting and scaling of interventions. This approach is based upon understanding the economic barriers that refugee and host communities face, and working with key stakeholders—including businesses, government, and service providers—to make markets work for target communities.
+SHARPE promotes increased refugee self-reliance and generates economic opportunities for host communities through the piloting and scaling of interventions. This approach is based on understanding the economic barriers that refugee and host communities face and working with key stakeholders—including businesses, government, and service providers—to make markets work for target communities.
 
 The program also serves as a learning platform for the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit up to 200,000 people in the target populations, helping them realize increases in incomes, employment, or expand access to assets through private sector-driven changes.
 
@@ -49,7 +49,8 @@ The program also serves as a learning platform for the wider international and E
 
 ### Select Results
 
-* More than 20,000 refugees and host community individuals have increased their enterprise or household performance.
-* Nearly £558,000 has been leveraged by market actors for investment in refugee-hosting areas. 
-* More than 1,100 local host community businesses have received support to become more innovative and grow their business.
-* More than 18,150 individuals have experienced an increase in income, increase in employment, savings, or increased liquid assets.
+* Enabled more than 100,000 refugees and host community individuals to increase their enterprise or household performance.
+* Leveraged nearly £1.2 million from market actors for investment in refugee-hosting areas.
+* Supported more than 8,700 local host community businesses to become more innovative and grow their business.
+* Benefitted 89,600 people through increased income, employment, savings, or liquid assets. 
+* Achieved £30 million in additional sales through SHARPE-supported business models. 
