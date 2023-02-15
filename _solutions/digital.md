@@ -3,6 +3,7 @@ title: Digital Acceleration
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/digital-acceleration
 newIcon: _icons/digital.html
+largeIcon: _icons/digital-acceleration-large.html
 icon: <svg class="ict-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#ict-badge"></use></svg>
 summary: DAI’s Center for Digital Acceleration builds on DAI’s decades of experience
