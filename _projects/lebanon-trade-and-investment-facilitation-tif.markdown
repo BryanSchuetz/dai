@@ -48,4 +48,5 @@ TIF’s priority sectors are tourism, agriculture and agrifoods, manufacturing, 
 
 * Created 745 full-time jobs. 
 * Helped sustain 5,600 jobs.
-* Supported a company called Biomass to raise $1 million in investment for the company to expand its production.
+* Supported a company called Biomass to raise $1 million in investment for the company to expand its production and another firm called Toters to raise $18 million to analyze its options and expand.
+* Provided 25 firms with transaction advisory support.
