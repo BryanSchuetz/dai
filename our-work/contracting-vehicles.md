@@ -22,6 +22,7 @@ layout: node
 
 ### Governance
 
+*  Reading for East Africa’s Development (READ) (2023–2030)
 * Active Communities—Effective States (ACES) (2021–2026)
 * Rule of Law Technical Assistance Services (ROL) (2013–2023)
 * Public Financial Management II (PFM II) (2018–2025)
@@ -49,7 +50,7 @@ layout: node
 
 Cyber Security Services 3 (CS3) Flexible Commercial Agreement: cybersecurity-related consultancy and advice, penetration testing, incident response, and managed security services (2022-2025)
 
-# European Commission
+# European Commission (EC)
 
 ### EC Framework Contract SIEA (Services for Implementation of External Aid)
  
