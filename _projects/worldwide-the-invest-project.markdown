@@ -14,7 +14,7 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: Quarterly Report
-  link: "/uploads/INVEST%20Year%205%20Quarter%203%20Report.pdf"
+  link: https://www.usaid.gov/invest/documents/invest-year-6-quarter-1-report
 - title: INVEST Blog
   link: https://medium.com/usaid-invest
 - title: Blended Finance Starter Kit
@@ -30,11 +30,11 @@ promos:
   link: https://express.adobe.com/page/eQ6SMa0E7UUIp/
 ---
 
-INVEST is a [flexible, efficient](https://www.devex.com/news/opinion-5-hacks-for-a-better-request-for-proposals-process-94249) buy-in mechanism that helps the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This [represents an opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
+INVEST is a flexible, efficient buy-in mechanism that helps the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an [opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
 
 Through the large and growing INVEST partner network, USAID can access new and underutilized partners with the expertise USAID needs, including support for investment assessments, structuring funds, and transaction advisory services.
 
-[INVEST](https://www.usaid.gov/INVEST) is designed to [address challenges](https://www.convergence.finance/news-and-events/news/7fbPxahzIE6Zn05ZSPQkZr/view) and make it easier for USAID to work alongside the investment community. It ensures rapid [procurement](https://www.invest-procurement.com/about-procurements)—within four to six weeks—so USAID can act within investors’ timelines. It [enables](https://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/) flexible, specialized project design and implementation. And, it focuses on learning and adaptation to drive innovation in mobilizing private capital.
+[INVEST](https://www.usaid.gov/INVEST) is designed to address challenges and make it easier for USAID to work alongside the investment community. It ensures rapid [procurement](https://www.invest-procurement.com/about-procurements)—within four to six weeks—so USAID can act within investors’ timelines. It [enables](https://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/) flexible, specialized project design and implementation. And, it focuses on learning and adaptation to drive innovation in mobilizing private capital.
 
 Based in Washington, D.C., INVEST is USAID’s flagship [blended finance](https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note) initiative and includes [subcontractors](https://medium.com/usaid-invest/voices/home) such as CrossBoundary, Open Capital Advisors, and Dalberg. It has [built a network](https://www.usaid.gov/invest/partner-network-list) of more than 500 partners that provide the niche, technical expertise USAID needs on-demand. Through the large and growing Finance and Investment Network, USAID can access new and underutilized partners with the expertise USAID needs, including support for investment assessments, structuring funds, and transaction advisory services.
 
