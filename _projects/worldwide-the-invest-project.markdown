@@ -35,6 +35,8 @@ Through the large and growing INVEST partner network, USAID can access new and u
 
 Based in Washington, D.C., INVEST is USAID’s flagship [blended finance](https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note) initiative and includes [subcontractors](https://medium.com/usaid-invest/voices/home) such as CrossBoundary, Open Capital Advisors, and Dalberg. It has [built a network](https://www.usaid.gov/invest/partner-network-list) of more than 500 partners that provide the niche, technical expertise USAID needs on-demand. Through the large and growing Finance and Investment Network, USAID can access new and underutilized partners with the expertise USAID needs, including support for investment assessments, structuring funds, and transaction advisory services.
 
+INVEST has supported transactions in enterprise development, infrastructure, and financing instruments or funds, and worked in more than 80 countries, including Colombia, Haiti, India, Kenya, Tunisia, and  Vietnam.
+
 ![Invest-Project-for-website.jpg](/uploads/Invest-Project-for-website.jpg)
 
 ## Sample Activities
