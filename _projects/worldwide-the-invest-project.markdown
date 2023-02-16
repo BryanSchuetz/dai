@@ -9,6 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Market Solutions
+- Finance and Investment
 regions: Worldwide
 country: Worldwide
 promos:
@@ -41,18 +42,18 @@ INVEST has supported transactions in enterprise development, infrastructure, and
 
 ## Sample Activities
 
-* Assess market conditions and investment opportunities.
-* Support design and structure of financial entities such as blended finance funds, investment platforms, and risk-mitigation instruments.
-* Provide transaction and investment advisory services.
+* Perform investment opportunity assessments to help USAID understand market conditions and identify investment opportunities.
+* Design or structure blended finance funds, investment platforms, and other financial products.
+* Link capital suppliers to businesses that need investment to grow through transaction advisory services.
+* Help strengthen the commercial viability of a project at pre-or post-investment stages by developing the capabilities of fund managers or the businesses and projects in which they invest.
 
-### Select Results
+## Select Results
 
-* Mobilized $$299.6 million in capital and supported 136 transactions, including 82 closed deals. An additional $1.25 billion in transactions are projected based on current capital-raising efforts.
+* Mobilized more than $500 million in capital and supported 175 transactions, including 111 closed deals as of February 2023. 
+* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 500 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
+* Implemented activities with 36 USAID missions, bureaus, and independent offices in more than 80 countries across a range of sectors, including finance, clean energy, and agriculture.
+* Mobilized capital across the globe, of which 55 percent had been invested in firms in Africa and funds targeting the African continent as of February 2023.
+* Issued 212 subcontracts to develop and implement technical activities by February 2023. Eighty-four percent of subcontracted firms are new or underutilized partners for USAID.
 * Completed a rapid assessment of Gender Lens Investing opportunities in five countries in sub-Saharan Africa, identifying 25 opportunities and recommendations for [USAID’s GenDev programming](https://www.usaid.gov/what-we-do/gender-equality-and-womens-empowerment). Provided catalytic capital for gender-lens investing funds, including Women’s World Banking’s Capital Partners Fund II. 
-* Conducted a market assessment and designed a blended finance funding platform for USAID/India to mobilize resources and invest in the tuberculosis, water, sanitation, and hygiene (WASH), environmental, energy, and health sectors.
-* Provided transaction advisory support to Power Africa for solar energy and mini-grid expansion in Kenya, raising more than $60.5 million in equity transactions. 
 * Assisted in the development of the "[Blended Finance Roadmap for Global Health](https://www.dai.com/news/usaid-launches-roadmap-for-attracting-investments-in-global-health)."
 * Produced the "[Corporate Investment Partnerships for Growth and Stability report](https://www.usaid.gov/INVEST/documents/1865/corporate-investment-partnerships-report)," on how companies, international development agencies, and investors align around purpose and profit.
-* Grown the USAID Finance and Investment Network from 26 in 2017 to more than 470 members in 2022. This diverse network has expertise in a wide range of sectors and works in 195 countries.
-* Mobilized capital across the globe, of which 55 percent has been invested in firms in Africa and funds targeting the African continent.
-* Issued 196 subcontracts to 101 partner firms to develop and implement technical activities. Thirty-three percent of subcontracts were issued to U.S. small businesses and 69 percent were issued to new or underutilized partners. 
