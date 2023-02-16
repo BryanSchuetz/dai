@@ -13,19 +13,21 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: INVEST Year Five Quarterly Report
+- title: Quarterly Report
   link: "/uploads/INVEST%20Year%205%20Quarter%203%20Report.pdf"
-- title: Corporate Investment Partnerships Report
-  link: https://www.usaid.gov/INVEST/corporate-investment-partnerships-growth-sustainability
+- title: INVEST Blog
+  link: https://medium.com/usaid-invest
 - title: Blended Finance Starter Kit
   link: https://www.usaid.gov/INVEST/blended-finance-starter-kit
-- title: What We Talk About When We Talk About Blended Finance
-  link: https://www.marketlinks.org/post/what-we-talk-about-when-we-talk-about-blended-finance
-- title: Considering a Regional Investment Strategy to Drive Development in Higher-Risk
-    Countries
-  link: https://www.marketlinks.org/blogs/considering-regional-investment-strategy-drive-development-higher-risk-countries
-- title: 'Learning Brief: Catalyzing Private Finance for Climate Action '
-  link: https://www.climatelinks.org/sites/default/files/asset/document/2021-09/Catalyzing_Private_Finance_for_Climate_Action.pdf
+- title: 'Using Blended Finance to Generate Additionality and Human Impact: Guidance
+    Note'
+  link: https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note
+- title: 'Catalyzing Finance for Climate Action: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/p9YjTkUYgMvoA/
+- title: 'Gender-Lens Investing: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/0CXIKvgBrJ4sz/
+- title: 'Mobilizing Finance for Health: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/eQ6SMa0E7UUIp/
 ---
 
 INVEST is a [flexible, efficient](https://www.devex.com/news/opinion-5-hacks-for-a-better-request-for-proposals-process-94249) buy-in mechanism that helps the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This [represents an opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
