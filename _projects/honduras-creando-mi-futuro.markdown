@@ -23,7 +23,7 @@ By the end of Creando—with 500,000 young people engaged and 100,000 newly empl
 
 ![Unidos_CitizenSecurity-02283.jpg](/uploads/Unidos_CitizenSecurity-02283.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Launch system for identifying and tracking school-aged, out-of-school youth at risk of migrating.
 * Improve collaboration, increase investment by key actors, co-create market-driven solutions, and scale up proven approaches to motivate diverse groups of youth to enroll in and complete secondary education and skills training.  
@@ -32,9 +32,10 @@ By the end of Creando—with 500,000 young people engaged and 100,000 newly empl
 * Improve the Government of Honduras' capacity to engage youth in developing education and training programs. 
 * Introduce life and career counseling services in educational institutions, employment centers, and key community spaces for youth.
 
-### Select Results
+## Select Results
 
 * Supported the Honduran Ministry of Education in its nationwide launch of the 2022 back-to-school campaign “Te Queremos Estudiando.” By supporting the Government’s enrollment goal of 2 million students in more than 23 schools, USAID is ensuring that youth return to the classroom, complete their education, and secure a better future in Honduras.
 * Incorporated USAID's Influencer 504 Social Emotional Learning (SEL) program into the curriculum at Academia Yo Puedo Ser in Santa Rosa de Copán. SEL skills not only provide youth with the tools to navigate difficult personal and workplace challenges but represent critical life skills for new hires desired by employers. 
 * Delivered certificates to more than 2,000 final-year high school students who have completed the Career Preparation Course, a 100-hour workforce development training to help young people prepare for the workplace or future studies with soft skills and basic labor competencies desired by employers and necessary to succeed in higher education. More than 10,000 students have enrolled in the course. 
 * Facilitated the donation of internet connections in two project schools in Tela and La Ceiba by telecommunications company TIGO. The installations at Manuel Bonilla High School and Triunfo de la Cruz High School will ensure that more than 1,500 students have access to important digital resources to continue their studies. In total, TIGO will install internet connections in 12 prioritized schools, reaching more than 6,000 students. By leveraging the support of private sector partners, USAID is ensuring that at-risk youth can continue their studies, graduate, and build a future in Honduras.
+* Delivered 1,534 recuperation workbooks to 400 students at risk of failing the 2022 school year.
