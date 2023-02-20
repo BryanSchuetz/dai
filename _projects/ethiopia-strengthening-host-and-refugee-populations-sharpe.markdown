@@ -17,6 +17,11 @@ promos:
   link: "/uploads/Developing%20the%20Solar%20Energy%20Market%20with%20Refugee%20and%20Host%20Communities.pdf"
 - title: Economic Empowerment of Refugee Women through Small Business Development
   link: "/uploads/SHARPE_Factsheet_Women%20Economic%20Empowerment.pdf"
+- title: Investment in Quality Seed Boosts Incomes for Host and Refugee Communities
+  link: "/uploads/Investment%20in%20quality%20seed%20boosts%20incomes%20for%20host%20and%20refugee%20communities.pdf"
+- title: Digital Financial Services – A Step Towards Financial Inclusion for Refugees
+  link: "/uploads/Digital%20Financial%20Services%20-%20towards%20financial%20inclusion%20for%20refugees.pdf"
+Field name: 
 ---
 
 Through the innovative use of an adapted market systems development approach “Markets for Resilience”, the Strengthening Host and Refugees Populations in Ethiopia program (SHARPE) works to strengthen the economies of target populations in three regions in Ethiopia; Dollo Ado, Gambella, and Jijiga. 
