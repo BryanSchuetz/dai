@@ -18,7 +18,7 @@ Inspired by his grandfather who worked at the Food and Agriculture Organization 
 
 Wanting to get back to the technical work that inspired him, John worked on public finance projects in Armenia, Bosnia-Herzegovina, Egypt, Georgia, and Serbia. He is most proud of the Enabling Labor Mobility project that reformed the collection of contributions for Bosnia and Herzegovina’s social insurance system, including the pension, health and unemployment funds.
 
-John covers the technical areas of macroeconomic policy, domestic resource mobilization, budget planning and execution, tax and customs administration, central banking, trade and investment policy, and the business enabling environment. 
+John covers the technical areas of macroeconomic policy, domestic resource mobilization, budget planning and execution, tax and customs administration, central banking, trade and investment policy, and the business-enabling environment. 
 
 * M.A., international economic management, University of Birmingham, United Kingdom
 * M.S., computer systems management, University of Maryland University College
