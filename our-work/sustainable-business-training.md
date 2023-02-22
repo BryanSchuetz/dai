@@ -8,6 +8,7 @@ hero: true
 solutions:
 - Sustainable Business
 redirect_from: "/our-work/sustainable-business-training"
+Field name: 
 layout: solution
 ---
 
@@ -17,7 +18,7 @@ Our featured training includes:
 
 * [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 
-* Social Performance Fundamentals
+* Social Investment Fundamentals
 
 * Energy 101
 
@@ -63,7 +64,7 @@ The course trains leaders who are new to social performance to design, implement
 
 * Communications and Storytelling
 
-[Download the course brochure](/uploads/Social-Performance-Training_brochure_2022.pdf)
+[Download the course brochure](/uploads/Social%20Investment%20Fundamentals%202023.pdf)
 
 <hr>
 
