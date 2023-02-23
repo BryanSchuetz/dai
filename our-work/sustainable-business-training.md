@@ -8,6 +8,7 @@ hero: true
 solutions:
 - Sustainable Business
 redirect_from: "/our-work/sustainable-business-training"
+Field name: 
 layout: solution
 ---
 
@@ -17,7 +18,7 @@ Our featured training includes:
 
 * [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 
-* Social Performance Fundamentals
+* Social Investment Fundamentals
 
 * Energy 101
 
@@ -45,25 +46,21 @@ Courses in 2023:
 
 A one-day course designed for corporate and philanthropic leaders responsible for social performance programming.
 
-The course trains leaders who are new to social performance to design, implement, and monitor meaningful social performance programming in emerging and frontier markets. It helps participants develop an understanding of how to balance risk and impact, equips them with tools to craft their social impact story, and explains methods for rigorous monitoring and evaluation of social investments.
+Leveraging design thinking principles, we provide an immersive experience for company teams, their suppliers, and partners to build capability and confidence in navigating the spectrum of activities required to develop world-class impactful social investment portfolios. 
 
 ### Course modules
 
-* ESG Reporting and Compliance
+* Social Investment Design Fundamentals and Framework
 
-* Stakeholder Engagement
+* Multistakeholder Engagement & Management Approaches
 
-* Social Investment, Monitoring, Reporting, Evaluation, and Learning
+* Portfolio Management and Legacy Building
 
-* Social Impact Assessment
+* Impact Management, Measurement and Reporting
 
-* Inclusive Growth: Localization and Supplier Diversity
+* Action Planning
 
-* Building and Maintaining a Connected ESG Function
-
-* Communications and Storytelling
-
-[Download the course brochure](/uploads/Social-Performance-Training_brochure_2022.pdf)
+[Download the course brochure](/uploads/DAI_Social_Investment_Fundamentals_2023.pdf)
 
 <hr>
 

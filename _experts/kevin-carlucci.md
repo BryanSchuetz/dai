@@ -5,7 +5,7 @@ lastname: Carlucci
 summary: 'Kevin Carlucci is a development professional with more than 20 years of
   experience across a diverse set of disciplines, including finance, natural resource
   management, economic policy reform, and emerging market economic development. '
-job-title: Principal Global Practice Specialist, Economic Growth
+job-title: Director, Climate, Land, and Natural Resources
 image: https://assetify-dai.com/experts/Kevin%20inner.jpg
 solutions:
 - Energy
