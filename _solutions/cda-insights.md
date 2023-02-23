@@ -12,6 +12,14 @@ layout: solution
 <br>
 <div class="insights">
   <div>
+    <a href="/uploads/no-reward-without-risk-cda-insights.pdf">
+      <img src="/uploads/no-reward-thumbnal.jpg" alt="">
+      <h3>No Reward Without Risk</h3>
+      <p>Addressing the economic impacts of misinformation and other digital harms on MSMEs</p>
+    </a>
+    <a href="/uploads/ethical-ai.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+  <div>
     <a href="/uploads/ethical-ai.pdf">
       <img src="/uploads/ethical-ai-thumbnail.jpg" alt="">
       <h3>Toward Ethical Artificial Intelligence in International Development</h3>
