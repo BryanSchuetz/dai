@@ -33,17 +33,16 @@ HOVERLA works to ensure that Ukraine's system of local self-governance is increa
 
 ![vru_1sept2020_1-1f7e56.jpeg](/uploads/vru_1sept2020_1-1f7e56.jpeg)
 
-### Sample Activities
+## Sample Activities
 
 * Ensure the content of proposed primary or secondary legislation or amendments is evidence-based, in keeping with European standards, and rationalized within the local legal system and cultural environment. 
 * Support the development of subnational governance action plans.
 * Support effective systems of financial control and external audit of the local level. 
 * Increase local and subnational government capacity to perform budget fiscal and administrative roles.  
-* Expand municipal fiscal transparency through public hearings and 
-e-portals. 
+* Expand municipal fiscal transparency through public hearings and e-portals. 
 
-### Select Results
+## Select Results
 
-* Donated IT equipment to 25 communities and three Oblasts State Administrations of Poltava, Volyn, and Lviv to better respond to the emergency situations and challenges on the ground. HOVERLA partners received 130 laptops, 60 printers, and 488 supplementing pieces of IT equipment, which will be directed to the emergent needs of the local and oblast authorities to provide residents with continued services.
+* Donated IT equipment to 25 communities and three Oblasts State Administrations of Poltava, Volyn, and Lviv to better respond to the emergency situations and challenges on the ground. HOVERLA partners received laptops, printers, and supplementing pieces of IT equipment, which will be directed to the emergent needs of the local and oblast authorities to provide residents with continued services.
 * Hosted [historic forum](https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine) with more than 300 participants to set the legislative agenda for 2022. 
-* Provided 600 fire extinguishers, 50 chain saws, 120 extension cords, and other tools to partner municipalities and the Military Administration in Poltava Oblast, which will help local authorities maintain the civil protection system and serve citizens, including internally displaced persons. 
+* [Provided fire extinguishers, chainsaws, extension cords, and other tools](https://daiglobal.exposure.co/pivoting-in-war-time) to partner municipalities and the Military Administration in Poltava Oblast, which will help local authorities maintain the civil protection system and serve citizens, including internally displaced people. 
