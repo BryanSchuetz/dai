@@ -14,6 +14,9 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:
+- title: 'One Year On: How One USAID Governance Project in Ukraine Pivoted in War
+    Time'
+  link: https://dai-global-developments.com/articles/one-year-on-how-one-usaid-governance-project-in-ukraine-pivoted-in-war-time/
 - title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
   link: https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine
 - title: HOVERLA Emergency Response Support
