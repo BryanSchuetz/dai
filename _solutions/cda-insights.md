@@ -12,7 +12,7 @@ layout: solution
 <br>
 <div class="insights">
   <div>
-    <a href="/uploads/no-reward-without-risk-cda-insights.pdf">
+    <a href="/uploads/digital-downsides.pdf">
       <img src="/uploads/no-reward-thumbnal.jpg" alt="">
       <h3>No Reward Without Risk</h3>
       <p>Addressing the economic impacts of misinformation and other digital harms on MSMEs</p>
