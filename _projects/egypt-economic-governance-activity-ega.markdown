@@ -28,16 +28,17 @@ Together, these efforts should increase participation and inclusion in Egypt’s
 
 ![EGA.jpg](/uploads/EGA.jpg)
   
-### Sample Activities
+## Sample Activities
 
 * Support the government’s performance management database through the development of a data collection and verification system. 
 * Identify, develop, and implement assistance for reforms. 
 * Develop and roll out content for anti-corruption training courses, including digital courses.
 *  Work with government counterparts to utilize customer feedback and data regarding service performance to identify opportunities to scale effective service models.
 
-### Select Results
+## Select Results
 
 * Supported the Ministry of Planning and Economic Development and the National Council for Women in the creation of the Governance Excellence Award for Equal Opportunity and Empowerment of Women. EGA developed a manual for the application and selection process and a training program for potential applicants. 
 * Supported the Central Agency for Organization and Administration to develop an interactive online learning management system that enhances the management and delivery of capacity-building programs for civil servants.
 * Trained, with the Central Agency for Organization and Administration, 8,500 civil servants on topics such as assuming responsibility in the civil service, stress management, and leading moderate and objective analysis.
 * With the Information Technology Industry Development Agency, launched iHub to foster innovation and entrepreneurship in Egypt, particularly among youth. Under this program, Egyptian startups benefit from subject-specific mentorship and hands-on venture-building support.
+* Graduated 29 startups from the second cohort of the Plug and Play Innovation Hub in Cairo. Cohort startups received extensive training and focused mentorship with the support of local, regional, and international experts. EGA will support four more cohorts over the next two years. 
