@@ -11,6 +11,11 @@ regions: Sub-Saharan Africa
 projects: Nigeria—State Accountability, Transparency, and Effectiveness (State2State)
   Activity
 clients: U.S. Agency for International Development
+summary: 'With assistance from the U.S. Agency for International Development (USAID)-funded
+  [State Accountability, Transparency, and Effectiveness (State2State) Activity](https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity),
+  Akwa Ibom State passed the Water Resource Bill into law, becoming the first state
+  in Nigeria to adopt the national version of the bill. '
+social-image: "/uploads/Picture1-126566.png"
 country: Nigeria
 ---
 
@@ -21,6 +26,8 @@ Just last month, with assistance from the U.S. Agency for International Developm
 “This new law will guarantee budgetary commitments to service delivery in the water sector for millions of citizens,” said State2State Chief of Party Hugh Brown.
 
 Initiated in 2015, the Akwa Ibom State Water Resource Bill was dormant for many years. But over a 13-month period, the State2State Activity collaborated with civil society organizations, state government counterparts, and other key stakeholders to revive this vital legislation. As part of its objectives, State2State supports strengthened governance structures in six Nigerian states to improve their ability to plan and budget, raise revenues, increase civil society participation, and oversee service delivery in the health, education, and WASH sectors. 
+
+![Picture1-213338.png](/uploads/Picture1-213338.png)`Representatives of State2State Akwa Ibom Field Office, AKRUWATSAN, Akwa Ibom Water Corporation, Biakwan Light Green Initiative, and WASH cluster civil society members during an advocacy visit on passing the water bill into law with the Commissioner of the Ministry of Land and Water Resources. Photo: USAID State2State.`
 
 State2State provided technical assistance and grant funding to the Biakwan Light Green Initiative, an indigenous policy advocacy organization, to spearhead this initiative. With the Activity’s support, the organization worked with the Akwa Ibom State Rural Water Supply and Sanitation Agency (AKRUWATSAN), Akwa Ibom Water Corporation, and the state’s WASH cluster civil society groups to review the water bill and facilitate public hearings to solicit citizens’ input. This assistance was followed by joint advocacy and consultation with government officials from ministries, departments and agencies, local government areas, the traditional rulers’ council, and the private sector. 
 
