@@ -1,6 +1,7 @@
 ---
 title: Nancy Haugh
 date: 2021-07-07 14:45:00 Z
+published: false
 lastname: Haugh
 summary: 'Nancy Haugh is a Digital Associate at DAI''s Center for Digital Acceleration. '
 job-title: Digital Associate
