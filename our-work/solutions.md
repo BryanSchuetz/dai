@@ -14,8 +14,8 @@ hero: true
 {% for solution in primary_solutions %}
 <div class="solution-block">
   <h2 class="solution-title">
-  {% if solution.largeIcon %}
-    {% include {{solution.largeIcon}} %}
+  {% if solution.newIcon %}
+    {% include {{solution.newIcon}} %}
   {% else %}
     {{ solution.icon }} 
   {% endif %}

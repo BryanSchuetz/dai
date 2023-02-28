@@ -1,5 +1,5 @@
 ---
-title: Climate
+title: Climate Videos
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/climate-videos
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
@@ -11,10 +11,9 @@ redirect_from:
 related: false
 hero: true
 layout: solution
+solutions:
+- Climate
 ---
-
-# Climate Videos
-
 <div class="bulma">
   <div class="columns">
     <div class="column">

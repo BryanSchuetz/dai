@@ -1,5 +1,5 @@
 ---
-title: Climate
+title: DAI at COP27
 date: 2022-01-21 18:23:00 Z
 permalink: our-work/solutions/climate-cop
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
@@ -16,11 +16,12 @@ related: false
 hero: true
 ultrawide: true
 layout: solution
+solutions:
+- Climate
 ---
 
 <div class="bulma cop27">
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
-  <h2 style="font-size: 2rem; font-weight: bold;">DAI at COP27</h2>
   <hr>
   <aside>
     <ul class="cop-event-header">

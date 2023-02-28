@@ -2,6 +2,7 @@
 title: Environment
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/environment
+largeIcon: _icons/environment-large.html
 newIcon: _icons/environment.html
 icon: <svg class="env-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#env-badge"></use></svg>

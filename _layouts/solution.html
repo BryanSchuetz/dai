@@ -10,7 +10,7 @@ layout: default
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
     {% for solution in page.solutions %}
       {% for primary_solution in primary_solutions  %}
-        {% if solution == primary_solution.title or page.url contains 'our-work/solutions/climate-videos' %}
+        {% if solution == primary_solution.title %}
             <h1 class="solution-title">{{ page.title }}</h1>
         {% endif %}
       {% endfor %}

@@ -10,7 +10,7 @@
           {% assign primary_solutions = site.solutions | where:"type","primary" %}
           {% for solution in primary_solutions %}
             {% if expertise == solution.title %}
-              <a class="expert-solution"href="{{ solution.url }}">{{ solution.icon }} {{ solution.title }}</a>
+              <a class="expert-solution"href="{{ solution.url }}">{% include {{ solution.newIcon }} %} {{ solution.title }}</a>
             {% endif %}
           {% endfor %}
           </li>
