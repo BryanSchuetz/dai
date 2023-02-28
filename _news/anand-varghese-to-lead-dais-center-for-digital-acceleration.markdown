@@ -7,6 +7,8 @@ solutions:
 - Digital Strategy
 - Digital Acceleration
 regions: Worldwide
+summary: Anand Varghese has been named Senior Director of DAI’s Center for Digital
+  Acceleration.
 ---
 
 ![Anand Portal.jpg](/uploads/Anand%20Portal.jpg){:.float-left}[Anand Varghese](https://www.dai.com/who-we-are/our-team/anand-varghese) has been named Senior Director of DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) (CDA). As the new head of the CDA, he manages an industry-leading team of researchers and policy analysts who help clients integrate digital technology into their work and strengthen digital ecosystems around the world. He also oversees a growing portfolio of digital-focused projects, including the global [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project. 
