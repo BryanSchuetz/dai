@@ -24,9 +24,13 @@ LRMA strengthens the legal framework that supports access to accurate ownership 
 
 ![Screen Shot 2021-05-19 at 10.17.53 AM.png](/uploads/Screen%20Shot%202021-05-19%20at%2010.17.53%20AM.png)
 
-### Sample Activities
+## Sample Activities
 
 * Advise the client on deploying innovative information and communications technology and survey technologies. In so doing, however, we will reinforce the use of “fit-for-purpose” technology—technology that balances speed, accuracy, and affordability.
 * Engage women and other marginalized groups in the design of activities to promote their rights in land settlement processes.
 * Build capacity to implement land settlement and deliver land records management services. 
 * Develop specific communication messages around the maintenance of land records to generate public buy-in and ownership.
+
+## Select Results
+
+* Trained 15 young lawyers from the Women Lawyers Forum on how to write laws that protect women's inheritance rights and to assist them in learning more about land settlement and registration procedures.
