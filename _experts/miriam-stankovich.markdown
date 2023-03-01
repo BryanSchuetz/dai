@@ -10,6 +10,7 @@ job-title: Senior Digital Policy Specialist, Center for Digital Acceleration
 image: "/uploads/Mimi.jpg"
 solutions:
 - Digital Strategy
+- Digital Acceleration
 regions:
 - Worldwide
 ---
