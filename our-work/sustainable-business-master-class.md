@@ -27,7 +27,7 @@ layout: solution
             </div>
             <div class="column">
               <ul style="margin-left: 2rem;">
-              <li>May 2 - 4, in Dubai, UAE</li>
+              <li>May 2 - 4, in Abu Dhabi, UAE</li>
               <li>October 16 - 18, Houston, USA</li>
             </ul>
             </div>
