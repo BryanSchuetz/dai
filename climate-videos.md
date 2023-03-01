@@ -14,6 +14,7 @@ layout: solution
 solutions:
 - Climate
 ---
+
 <div class="bulma">
   <div class="columns">
     <div class="column">
