@@ -1,5 +1,5 @@
 ---
-title: Afghanistan—Value Chains-Crops  (AVC)
+title: Afghanistan—Value Chains-Crops (AVC)
 date: 2018-09-06 18:50:00 Z
 summary: 'The Afghanistan Value Chains–Crops (AVC) project promotes rapid, inclusive,
   and lasting growth in the agriculture sector. '
@@ -46,7 +46,7 @@ In its final year, the project addresses the food emergency affecting 22 percent
 * Enabled firms in accessing $13 million in business loans.
 * Assisted 19,500 farmers (30 percent women and 35 percent young people) to access modern production and quality-enhancing technologies.
 * Facilitated an 18 percent increase in household income.
-* Facilitated a 24 percent increase in production of key products.
+* Facilitated a 24 percent increase in the production of key products.
 * Trained 6,322 individuals.
 * Helped 96 firms to benefit directly from project activities.
 * Helped create 1,075 new full-time employment jobs.
