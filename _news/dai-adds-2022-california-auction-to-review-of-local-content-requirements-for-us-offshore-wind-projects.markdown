@@ -23,7 +23,7 @@ Behind these local content requirements lies the new enthusiasm of governments f
 
 “In the coming months, we look forward to publishing a U.K.-focused version of this report,” he added.
 
-The United Kingdom continues to play a leading role in global offshore wind development, employing around 20,000 people, according to the Offshore Wind Industry Council.***\
+“The United Kingdom continues to play a leading role in global offshore wind development, employing around 20,000 people, a figure that the Offshore Wind Industry Council says could rise to more than 61,000 by 2030,” added Kaplan.***\
  \
 [ ](https://confirmsubscription.com/h/r/0D8018D9847B57572540EF23F30FEDED)**[Subscribe to our mailing list for the latest Sustainable Business news and insights.](https://confirmsubscription.com/h/r/0D8018D9847B57572540EF23F30FEDED)*
 
