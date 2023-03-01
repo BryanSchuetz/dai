@@ -29,16 +29,18 @@ promos:
 
 The Iraq Governance and Performance Accountability (IGPA) project, known locally as "Takamul" or "Integration" [supports](http://dai-global-developments.com/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq?utm_source=daidotcom) the Iraqi Government to shore up fiscal stability while rapidly and visibly improving service delivery. [The project](https://urban-links.org/project/iraq-governance-and-performance-accountability-project-igpa-takamul/) builds capacity for Iraqi government service delivery, improves governorate and national government public financial management, and strengthens monitoring and oversight of service delivery and public expenditure. IGPA/Takamul involves civil society in the decentralization process to ensure accountability, transparency, and citizen buy-in. Through this integrated approach, the project is bringing about tangible improvements in the daily lives of Iraqis and strengthening the relationship between government and citizens.
 
-![IGPA.jpg](/uploads/IGPA.jpg)`Photo by Maria Luces, IGPA/Takamul.`
+After five years, IGPA improved service delivery outcomes in utility sectors with high impact and visibility potentials, such as water, solid waste, and electricity; strengthened the strategic approach and capacity of the decentralized ministries to better align service delivery outcomes with the priorities of provincial governments and local populations; and enhanced targeting of capital investment spending in service delivery sectors that serve vulnerable and disadvantaged populations.
 
-### Sample Activities
+![IGPA.jpg](/uploads/IGPA.jpg)`Photo: Maria Luces, IGPA/Takamul.`
+
+## Sample Activities
 
 * Engage the government service ministries and provincial directorates to improve service delivery by providing technical assistance and supporting the implementation of laws to decentralize decision-making. Priority service sectors include water supply, solid waste management, and electricity, all of which align with the Government of Iraq (GOI) priorities.
 * Provide technical support to economic and public financial management reforms for local revenue generation and collection, planning and budgeting, financial reporting, and oversight and monitoring as well as support to the GOI White Paper reform initiatives.
 * Work with the GOI and civil society to develop accountability mechanisms to help the government respond to citizens’ needs and measure their effectiveness. IGPA provides technical support and training to civil society groups in areas such as oversight, accountability, communications, inclusive budget planning, and service delivery.
 * Identify and train change agents at various government levels and within society and provide them with high-impact technical assistance to sustain IGPA program interventions to improve governance amidst a shifting political landscape.
 
-### Select Results
+## Select Results
 
 * Revamped climate change adaptation and mitigation guidelines at the national, provincial, and local levels in Iraq. In collaboration with the Renewable Energy Department of the Ministry of Electricity and in coordination with other ministries, IGPA developed a solar power guidebook, facilitated a review of and proposed changes to the Solid Waste Management law, introduced climate-smart agriculture practices, reactivated provincial environment development and protection councils in six provinces, helped plan and implement climate change mitigation and adaption awareness campaigns, and, with the Ministry of Environment, amended Environment Protection Fund’s rules. 
 * Developed bidding documents for 476 projects worth $2.5 billion, 151 projects were awarded worth $864 million; 36 employees received international accreditation as procurement trainers expanding the pool of experts to promote transparency and judicious use of funds. 
