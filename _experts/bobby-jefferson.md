@@ -8,7 +8,6 @@ summary: Bobby Jefferson, a leader in the field of information and communication
 job-title: Vice President and Global Head of Diversity, Equity, Engagement, and Inclusion
 image: https://assetify-dai.com/experts/bobby%20jeffersonInner.jpg
 solutions:
-- Digital Acceleration
 - Global Health
 - Innovation and Entrepreneurship
 - Digital Strategy

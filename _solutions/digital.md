@@ -15,12 +15,10 @@ promos:
   link: "/who-we-are/the-team?filter=digital-acceleration"
 - title: "**Our Work:** Digital Acceleration Projects"
   link: "/our-work/the-projects?filter=digital-acceleration"
-- title: "**News:** Recent DigitalAcceleration News"
+- title: "**Our News:** Recent Digital Acceleration News"
   link: "/news/view-more-news?filter=digital-acceleration"
-- title: Digital Blog
+- title: "**Learn More:** Digital Blog"
   link: https://dai-global-digital.com?utm_source=daidotcom
-- title: "**Learn More**: Digital Services"
-  link: "/uploads/CDA%202-pager_REV1910_10012019.pdf"
 related: false
 hero: true
 layout: solution
