@@ -1,5 +1,5 @@
 ---
-title: USAID Extends Anticorruption Efforts in Kosovo Under New Project
+title: USAID Extends Anti-corruption Efforts in Kosovo Under New Project
 date: 2022-04-01 13:52:00 Z
 tags:
 - anticorruption
@@ -8,6 +8,7 @@ solutions:
 - Governance
 - Public Financial Management
 - Institutional and Policy Reform
+- Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 projects: Kosovo—Transparent, Effective, and Accountable Municipalities (TEAM); Municipal
   Integrity Activity

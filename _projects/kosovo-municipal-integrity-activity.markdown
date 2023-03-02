@@ -11,6 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
+- Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Kosovo
 promos:
