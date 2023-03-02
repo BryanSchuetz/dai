@@ -6,7 +6,7 @@ solutions:
 - Sustainable Business
 summary: DAI has published an update to its review of economic benefit requirements
   for U.S. offshore wind projects.
-social-image: "/uploads/010323_DAI_OWS_FA_MR_RFS.png"
+social-image: "/uploads/link%20preview%20for%20website.png"
 ---
 
 **DAI Adds 2022 California Auction to Review of Local Content Requirements for U.S. Offshore Wind Projects**
