@@ -27,10 +27,10 @@ Behind these local content requirements lies the new enthusiasm of governments f
 
 [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of DAI’s Sustainable Business Group, said, “Since we’ve published the report, industry, investors, and the media have continued to pay close attention to the significant potential impact that the Inflation Reduction Act could have in achieving the goals of clean energy expansion and job creation in the United States. Our updated review now includes all the offshore wind lease sale auctions from 2022 and reviews the economic benefit requirements designed to unlock those crucial goals.”
 
-“In the coming months, we look forward to publishing a U.K.-focused version of this report,” he added.
+In the coming months, DAI will publish a U.K.-focused version of this report.
 
 “The United Kingdom continues to play a leading role in global offshore wind development, employing around 20,000 people, a figure that the Offshore Wind Industry Council says could rise to more than 61,000 by 2030,” added Kaplan.***\
- \
+\
 [ ](https://confirmsubscription.com/h/r/0D8018D9847B57572540EF23F30FEDED)**[Subscribe to our mailing list for the latest Sustainable Business news and insights.](https://confirmsubscription.com/h/r/0D8018D9847B57572540EF23F30FEDED)*
 
 *To contact the authors, email contact_sbg@dai.com*
