@@ -7,6 +7,7 @@ solutions:
 - Governance
 - Security and Justice Development
 - Law and Justice
+- Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 projects: Honduras—Justicia Efectiva Contra la Criminalidad y Corrupción (JECCC) project
 clients: U.S. Agency for International Development

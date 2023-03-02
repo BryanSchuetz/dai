@@ -11,7 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Law and Justice
-- 
+- Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Honduras
 promos:
