@@ -30,12 +30,12 @@ DAI’s Governance Sector strengthens accountability and improves government per
 
 [Anti-corruption, Transparency, and Accountability](/our-work/solutions/governance-solutions/voice-and-accountability)—We build the mechanisms necessary to hold government institutions accountable and increase citizen voice in decision-making.
 
+[Justice and Rule of Law](/our-work/solutions/governance-solutions/law-and-justice)—We strengthen the rule of law by building citizens’ ability to demand better governance through oversight mechanisms, civic education, civil society strengthening, and legal support.
+
+[Institutions Building and Policy Reform](/our-work/solutions/governance-solutions/institutional-and-policy-reform)—We help stakeholders improve the legal and regulatory environment, and build the capacity of government agencies in financial management, public service provision, local economic development, and public outreach.
+
+[Public Administration and Civil Society Strengthening](/our-work/solutions/governance-solutions/public-administration-civil-service-reform-and-human-resources)—We develop the human capacity of the civil service while strengthening the ability of the central government to perform essential functions and deliver services in a transparent and equitable manner.
+
 [Legislative Strengthening](/our-work/solutions/governance-solutions/legislative-strengthening)—We advise legislative bodies on institutional reform and help them involve constituents and other important stakeholders in the policy process for better, more responsive representation.
-
-[Institutional and Policy Reform](/our-work/solutions/governance-solutions/institutional-and-policy-reform)—We help stakeholders improve the legal and regulatory environment, and build the capacity of government agencies in financial management, public service provision, local economic development, and public outreach.
-
-[Public Administration, Civil Service Reform, and Human Resources Management](/our-work/solutions/governance-solutions/public-administration-civil-service-reform-and-human-resources)—We develop the human capacity of the civil service while strengthening the ability of the central government to perform essential functions and deliver services in a transparent and equitable manner.
-
-[Law and Justice](/our-work/solutions/governance-solutions/law-and-justice)—We strengthen the rule of law by building citizens’ ability to demand better governance through oversight mechanisms, civic education, civil society strengthening, and legal support.
 
 [Helping Finance Self-Reliance](/our-work/solutions/governance-solutions/helping-finance-self-reliance)—DAI advises national economic authorities to implement a holistic approach to financing their development priorities, including helping them boost domestically generated tax revenue, maximize the efficiency and transparency of public spending, and partner with the private sector to stimulate investment and inclusive growth.
