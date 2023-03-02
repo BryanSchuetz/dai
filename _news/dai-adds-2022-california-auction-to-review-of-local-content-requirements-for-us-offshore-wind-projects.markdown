@@ -1,8 +1,7 @@
 ---
 title: DAI Adds 2022 California Auction to Review of Local Content Requirements for
   U.S. Offshore Wind Projects
-date: 2023-03-01 12:22:00 Z
-published: false
+date: 2023-03-02 08:00:00 Z
 ---
 
 **DAI Adds 2022 California Auction to Review of Local Content Requirements for U.S. Offshore Wind Projects**
