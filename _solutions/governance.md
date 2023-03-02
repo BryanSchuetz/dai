@@ -9,7 +9,6 @@ icon: <svg class="gov-badge badge" viewBox="0 0 116 115" preserveAspectRatio="xM
 summary: 'Strengthening and improving government performance by providing technical
   advice, strategic guidance, and support to public institutions, elected bodies,
   and citizens. '
-layout: solution
 type: primary
 promos:
 - title: "**Our Team:** DAI Governance Experts"
@@ -20,11 +19,10 @@ promos:
   link: "/news/view-more-news?filter=governance"
 related: false
 hero: true
+layout: solution
 ---
 
-**Building effective economic and democratic governance**
-
-DAI’s Governance Sector strengthens accountability and improves government performance by providing technical advice, strategic guidance, and support to public institutions, elected bodies, and citizens. Based on a thorough understanding of the incentives, interests, and political economy inherent to policy development and implementation, we supply best-fit solutions to policy makers, citizen leaders, and elected representatives. Our approach to governance seeks to identify and foster engagement between citizens and their government, recognizing that both the supply and demand for good governance is necessary to initiate change. In doing so, we empower leaders, recognizing that locally owned solutions have the greatest potential for sustainability.
+DAI’s Governance Sector strengthens accountability and improves government performance by providing technical advice, strategic guidance, and support to public institutions, elected bodies, and citizens. Based on a thorough understanding of the incentives, interests, and political economy inherent to policy development and implementation, we supply tailored solutions to policy makers, citizen leaders, and elected representatives. Our approach to governance seeks to identify and foster engagement between citizens and their government, recognizing that both the supply and demand for good governance is necessary to initiate change. In doing so, we empower leaders, recognizing that locally led solutions have the greatest potential for sustainability.
 
 [Legislative Strengthening](/our-work/solutions/governance-solutions/legislative-strengthening)—We advise legislative bodies on institutional reform and help them involve constituents and other important stakeholders in the policy process for better, more responsive representation.
 
@@ -40,7 +38,4 @@ DAI’s Governance Sector strengthens accountability and improves government per
 
 [Public Financial Management](/our-work/solutions/governance-solutions/public-financial-management)—We help countries improve public financial management and advance thought leadership on approaches to overcoming policy and institutional constraints to economic competitiveness, socioeconomic development, and poverty reduction.
 
-[Health Governance](/our-work/solutions/governance-solutions/health-governance)—We help countries advance health outcomes through improved accountability, resource allocation, policy development, and administration of health services.
-
 [Helping Finance Self-Reliance](/our-work/solutions/governance-solutions/helping-finance-self-reliance)—DAI advises national economic authorities to implement a holistic approach to financing their development priorities, including helping them boost domestically generated tax revenue, maximize the efficiency and transparency of public spending, and partner with the private sector to stimulate investment and inclusive growth.
-
