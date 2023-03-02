@@ -14,7 +14,7 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Kosovo
 promos:
-- title: USAID Extends Anticorruption Efforts in Kosovo Under New Project
+- title: USAID Extends Anti-corruption Efforts in Kosovo Under New Project
   link: https://www.dai.com/news/usaid-extends-anticorruption-efforts-in-kosovo-under-new-project
 ---
 
