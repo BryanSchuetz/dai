@@ -10,7 +10,6 @@ client: U.S. Agency for International Development
 solutions:
 - Water Security, Sanitation, and Hygiene
 - Environment
-- Governance
 regions: Asia and the Pacific
 country: Philippines
 promos:
