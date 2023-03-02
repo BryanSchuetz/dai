@@ -12,7 +12,6 @@ end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Governance
 - Health Governance
 - Gender and Social Inclusion
 regions: Sub-Saharan Africa
