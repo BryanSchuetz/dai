@@ -2,6 +2,11 @@
 title: DAI Adds 2022 California Auction to Review of Local Content Requirements for
   U.S. Offshore Wind Projects
 date: 2023-03-02 06:00:00 Z
+solutions:
+- Sustainable Business
+summary: DAI has published an update to its review of economic benefit requirements
+  for U.S. offshore wind projects.
+social-image: "/uploads/010323_DAI_OWS_FA_MR_RFS.png"
 ---
 
 **DAI Adds 2022 California Auction to Review of Local Content Requirements for U.S. Offshore Wind Projects**
