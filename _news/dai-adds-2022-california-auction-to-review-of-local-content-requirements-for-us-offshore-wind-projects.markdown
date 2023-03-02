@@ -9,10 +9,6 @@ summary: DAI has published an update to its review of economic benefit requireme
 social-image: "/uploads/link%20preview%20for%20website.png"
 ---
 
-**DAI Adds 2022 California Auction to Review of Local Content Requirements for U.S. Offshore Wind Projects**
-
-2 March 2023
-
 DAI has published an update to its review of economic benefit requirements for U.S. offshore wind projects. The update includes the California offshore wind lease sale auction that was held in December 2022, which led to five successful leases covering 373,268 acres off California's northern coast.
 
 The report, *U.S. Federal and State Local Content Requirements for Offshore Wind Projects*, was first published in September 2022 and analyzes both federal and state-level local content requirements, taking New Jersey as a reference case.
