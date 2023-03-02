@@ -1,6 +1,7 @@
 ---
 title: Grace Cha
 date: 2021-07-26 13:47:00 Z
+published: false
 lastname: Cha
 summary: Grace Cha leads the business development portfolio for DAI’s Global region.
 job-title: Business Development Manager, Global Region
