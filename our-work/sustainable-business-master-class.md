@@ -68,7 +68,7 @@ layout: solution
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-            <a download class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/Masterclass_brochure_2023.pdf?v=revised-again">Download Brochure</a>
+            <a download class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/Masterclass_brochure_2023.pdf?v=revised-yet-again">Download Brochure</a>
           </footer>
         </div>
       </div>
