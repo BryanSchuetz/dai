@@ -8,7 +8,6 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Environment
-- Governance
 - Natural Resource Management
 regions: Latin America and the Caribbean
 country: 'Peru '
