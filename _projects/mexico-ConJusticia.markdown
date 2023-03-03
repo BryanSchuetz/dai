@@ -10,8 +10,8 @@ start: 2020
 end: 2025
 client: U.S. Agency for International Development
 solutions:
-- Law and Justice
-- Security and Justice
+- Include Primary and/or Secondary Solutions
+- Justice, Citizen Security, and Rule of Law
 - Governance
 - Institutional and Policy Reform
 - Anti-corruption, Transparency, and Accountability
