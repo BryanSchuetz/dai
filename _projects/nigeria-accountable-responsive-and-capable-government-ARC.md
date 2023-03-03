@@ -10,12 +10,11 @@ end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
-- Decentralization and Local Government Management
+- Local Governance and Decentralization
 - Institutional and Policy Reform
-- Security and Justice
+- Justice, Citizen Security, and Rule of Law
 - Fragile States
-- Public Financial Management
-- Countering Extremism
+- Public Financial Management and Domestic Revenue Mobilization
 - Peace-Building and Political Transition
 - Stabilization
 regions:
