@@ -9,7 +9,8 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
+- Public Administration, Civil Service Reform, and Human Resources Management
 regions: Middle East and North Africa
 country: Egypt
 ---
