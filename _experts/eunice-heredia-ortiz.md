@@ -9,9 +9,9 @@ summary: Specializing in public finance, Eunice Heredia-Ortiz has helped governm
 job-title: Chief of Party, Guatemala National Institutions Strengthening Project
 image: https://assetify-dai.com/experts/innereunice_0.jpg
 solutions:
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
 - Governance
-- Economic Growth
+- 
 regions:
 - Latin America and the Caribbean
 articles:
@@ -26,7 +26,7 @@ layout: expert
 
 Growing up in a developing country and witnessing poverty first hand, Eunice Heredia-Ortiz always knew she wanted to help people get on the path to prosperity. Specializing in public finance, Eunice has helped governments in many countries transform their fiscal policy and management, laying the foundations for more efficient and accountable use of public resources, better public service delivery, and improved living standards.
 
-> "Children with no clothes, no shoes, bad nutrition, and no schools … how do we empower them to have a better life? I want to dedicate my life to empowering people to prosper." — Eunice Heredia-Ortiz
+> "Children with no clothes, no shoes, bad nutrition, and no schools … how do we empower them to have a better life? I want to dedicate my life to empowering people to prosper."—Eunice Heredia-Ortiz
 
 Eunice’s expertise includes improving fiscal (tax and expenditure) policy and administration, public budgeting and expenditure management, domestic resource mobilization (DRM), public financial management (PFM), fiscal decentralization, fiscal transparency and accountability, gender and social inclusion in PFM, change management, and digital government initiatives for PFM. At Georgia State University (GSU), she authored articles and reports on fiscal policy, tax policy, public budgeting, fiscal decentralization, education financing, and poverty reduction. She also served as a capacity-building expert for civil servants, designing curricula, delivering lectures and technical assistance, and managing the technical and administrative delivery of capacity-building programs, including GSU’s renowned Annual Public Policy Training Programs on fiscal decentralization and local governance; education policy and development; tax policy, fiscal analysis and revenue forecasting; public budgeting and fiscal management; and macroeconomic policies for economic growth.
 
