@@ -10,7 +10,7 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
 regions: Asia and the Pacific
 country: Maldives
 ---

@@ -9,7 +9,7 @@ start: 2017
 end: 2023
 client: U.S. Agency for International Development
 solutions:
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
 - Governance
 regions: Latin America and the Caribbean
 country: El Salvador
