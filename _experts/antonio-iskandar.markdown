@@ -10,9 +10,9 @@ job-title: 'Global Practice Lead, Security, Transparency, Accountability, and Ru
   of Law '
 image: "/uploads/New%20Antonio.jpg"
 solutions:
-- Fragile States
 - Governance
-- Security and Justice
+- Justice, Citizen Security, and Rule of Law
+- Anti-corruption, Transparency, and Accountability
 regions:
 - Latin America and the Caribbean
 ---
