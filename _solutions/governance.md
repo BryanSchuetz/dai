@@ -37,5 +37,3 @@ DAI’s Governance Sector strengthens accountability and improves government per
 [Public Administration and Civil Society Strengthening](/our-work/solutions/governance-solutions/public-administration-civil-service-reform-and-human-resources)—We develop the human capacity of the civil service while strengthening the ability of the central government to perform essential functions and deliver services in a transparent and equitable manner.
 
 [Legislative Strengthening](/our-work/solutions/governance-solutions/legislative-strengthening)—We advise legislative bodies on institutional reform and help them involve constituents and other important stakeholders in the policy process for better, more responsive representation.
-
-[Helping Finance Self-Reliance](/our-work/solutions/governance-solutions/helping-finance-self-reliance)—DAI advises national economic authorities to implement a holistic approach to financing their development priorities, including helping them boost domestically generated tax revenue, maximize the efficiency and transparency of public spending, and partner with the private sector to stimulate investment and inclusive growth.
