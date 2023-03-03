@@ -10,7 +10,7 @@ end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Law and Justice
+- Justice, Citizen Security, and Rule of Law
 - Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Honduras

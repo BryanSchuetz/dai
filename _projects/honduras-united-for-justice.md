@@ -12,9 +12,9 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Institutional and Policy Reform
-- Law and Justice
+- Justice, Citizen Security, and Rule of Law
 - Peace-Building and Political Transition
-- Security and Justice
+- 
 - Fragile States
 - Voice and Accountability
 - Human Centered Design
