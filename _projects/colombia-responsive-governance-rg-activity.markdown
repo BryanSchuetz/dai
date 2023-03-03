@@ -10,7 +10,8 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
+- Local Governance and Decentralization
 regions: Latin America and the Caribbean
 country: Colombia
 promos:
