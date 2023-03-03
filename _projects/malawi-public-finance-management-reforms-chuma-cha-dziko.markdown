@@ -10,7 +10,7 @@ end: 2024
 client: European Union
 solutions:
 - Governance
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Malawi
 ---

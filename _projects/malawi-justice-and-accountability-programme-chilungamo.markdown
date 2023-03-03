@@ -9,8 +9,8 @@ end: 2023
 client: European Union
 solutions:
 - Governance
-- Voice and Accountability
-- Security and Justice Development
+- Anti-corruption, Transparency, and Accountability
+- Justice, Citizen Security, and Rule of Law
 regions: Sub-Saharan Africa
 country: Malawi
 ---
