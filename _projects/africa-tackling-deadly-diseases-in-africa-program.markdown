@@ -35,7 +35,7 @@ promos:
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
-The [Tackling Deadly Diseases in Africa (TDDA)](https://tacklingdeadlydiseasesinafrica.org) programme worked with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We delivered practical changes that strengthened health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
+The Tackling Deadly Diseases in Africa (TDDA) programme worked with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We delivered practical changes that strengthened health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
 
 >  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  -**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
 
