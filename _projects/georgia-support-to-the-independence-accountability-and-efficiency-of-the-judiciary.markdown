@@ -10,6 +10,7 @@ end: 2021
 client: European Union
 solutions:
 - Governance
+- Justice, Citizen Security, and Rule of Law
 regions: Eastern Europe and Central Asia
 country: Georgia
 ---
