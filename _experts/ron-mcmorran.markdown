@@ -8,6 +8,7 @@ job-title: 'Senior Global Practice Specialist, Public Finance '
 image: "/uploads/Ron%20McMorran.JPG"
 solutions:
 - Governance
+- Public Financial Management and Domestic Revenue Mobilization
 regions:
 - Worldwide
 ---

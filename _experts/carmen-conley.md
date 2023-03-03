@@ -11,9 +11,11 @@ image: https://assetify-dai.com/experts/Lane_Inner.jpg
 solutions:
 - Institutional and Policy Reform
 - Governance
+- Public Financial Management and Domestic Revenue Mobilization
+- Anti-corruption, Transparency, and Accountability
 regions:
-- Eastern Europe and Central Asia
-- Middle East and North Africa
+- Worldwide
+- 
 articles:
 - name: 'Local Governance: Chipping Away at Corruption'
   article_file: https://dai-global-developments.com/articles/local-governance-chipping-away-at-corruption
