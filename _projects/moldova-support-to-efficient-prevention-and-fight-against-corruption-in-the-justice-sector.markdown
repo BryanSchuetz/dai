@@ -11,6 +11,7 @@ client: European Union
 solutions:
 - Governance
 - Justice, Citizen Security, and Rule of Law
+- Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Moldova
 ---
