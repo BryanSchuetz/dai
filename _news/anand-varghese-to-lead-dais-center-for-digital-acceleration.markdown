@@ -1,7 +1,6 @@
 ---
 title: Anand Varghese to Lead DAI’s Center for Digital Acceleration
 date: 2023-02-28 11:28:00 Z
-published: false
 solutions:
 - Digital Strategy
 - Digital Strategy
