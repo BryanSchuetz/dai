@@ -30,7 +30,7 @@ DAI’s Governance Sector strengthens accountability and improves government per
 
 [Anti-corruption, Transparency, and Accountability](/our-work/solutions/governance-solutions/voice-and-accountability)—We build the mechanisms necessary to hold government institutions accountable and increase citizen voices in decision-making.
 
-[Justice and Rule of Law](/our-work/solutions/governance-solutions/law-and-justice)—We strengthen the rule of law by building citizens’ ability to demand better governance through oversight mechanisms, civic education, civil society strengthening, and legal support.
+[Justice, Citizen Security, and Rule of Law](/our-work/solutions/governance-solutions/law-and-justice)—We strengthen the rule of law by building citizens’ ability to demand better governance through oversight mechanisms, civic education, civil society strengthening, and legal support.
 
 [Institutions Building and Policy Reform](/our-work/solutions/governance-solutions/institutional-and-policy-reform)—We help stakeholders improve the legal and regulatory environment, and build the capacity of government agencies in financial management, public service provision, local economic development, and public outreach.
 
