@@ -10,6 +10,7 @@ image: "/uploads/Maksym%20Klyuchar.jpg"
 solutions:
 - Governance
 - Institutional and Policy Reform
+- Anti-corruption, Transparency, and Accountability
 regions:
 - Worldwide
 ---
