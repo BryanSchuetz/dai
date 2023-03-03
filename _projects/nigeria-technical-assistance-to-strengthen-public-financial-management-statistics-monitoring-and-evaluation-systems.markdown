@@ -12,6 +12,7 @@ client: European Union
 solutions:
 - Governance
 - Fragile States
+- Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
