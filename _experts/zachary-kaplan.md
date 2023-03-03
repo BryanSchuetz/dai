@@ -1,7 +1,6 @@
 ---
 title: Zachary Kaplan
 date: 2016-01-21 22:18:00 Z
-order: 5
 lastname: Kaplan
 summary: 'Zachary Kaplan specializes in public-private partnerships in both core and
   social infrastructure, helping governments and private sector clients work together
@@ -12,11 +11,9 @@ solutions:
 - Business Environment Reform
 - Sustainable Business
 - Economic Growth
-- Institutional and Policy Reform
 - Natural Resource Management
 - Local Content and Supply Chain Management
 - Social Strategy
-- 
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
@@ -32,6 +29,7 @@ articles:
 - name: 'Mining for Answers: Mozambique Weighs Options for a Practical, Profitable
     Local Content Policy, _Developments_'
   article_file: http://dai-global-developments.com/articles/mining-for-answers.html?utm_source=daidotcom
+order: 5
 layout: expert
 ---
 
