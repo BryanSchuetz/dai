@@ -8,6 +8,7 @@ job-title: Chief of Party, Ukraine HOVERLA
 image: "/uploads/Gabriel%20Abraham03-2.jpg"
 solutions:
 - Governance
+- Decentralization and Local Government Management
 regions:
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
