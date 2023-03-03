@@ -10,8 +10,9 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Institutional and Policy Reform
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
 - Public Administration, Civil Service Reform, and Human Resources Management
+- Local Governance and Decentralization
 regions: Eastern Europe and Central Asia
 country: Georgia
 ---
