@@ -12,6 +12,7 @@ end: 2022
 client: European Union
 solutions:
 - Governance
+- Justice, Citizen Security, and Rule of Law
 regions: Middle East and North Africa
 country: Palestine
 ---
