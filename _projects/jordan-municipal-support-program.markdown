@@ -9,6 +9,8 @@ end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Governance
+- Public Financial Management and Domestic Revenue Mobilization
+- Local Governance and Decentralization
 regions: Middle East and North Africa
 country: Jordan
 ---
