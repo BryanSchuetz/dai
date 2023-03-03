@@ -12,6 +12,8 @@ end: 2027
 client: European Union
 solutions:
 - Governance
+- Justice, Citizen Security, and Rule of Law
+- Legislative Strengthening
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:
