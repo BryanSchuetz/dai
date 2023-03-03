@@ -9,6 +9,8 @@ end: 2021
 client: European Union
 solutions:
 - Governance
+- Public Administration, Civil Service Reform, and Human Resources Management
+- Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
 ---
