@@ -8,7 +8,7 @@ job-title: Senior Principal Global Practice Manager, Local Governance
 image: "/uploads/Bikram%20Ghosh1.jpg"
 solutions:
 - Governance
-- Climate
+- Local Governance and Decentralization
 regions:
 - Worldwide
 ---
