@@ -6,6 +6,7 @@ solutions:
 - Digital Strategy
 - Digital Acceleration
 regions: Worldwide
+projects: Worldwide—Digital Frontiers
 summary: Anand Varghese has been named Senior Director of DAI’s Center for Digital
   Acceleration.
 ---
