@@ -7,7 +7,7 @@ summary: Richard Haselwood is an international development professional with mor
   resilience programming in support of more accountable, effective, and inclusive
   governance.
 job-title: Chief of Party, Georgia National Governance Program
-image: "/uploads/Richard%20Haselwood%20Photo.jpg"
+image: "/uploads/richard%20bio.jpg"
 solutions:
 - Governance
 - Fragile States
