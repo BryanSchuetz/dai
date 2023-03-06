@@ -9,6 +9,8 @@ end: 2023
 client: European Union
 solutions:
 - Governance
+- Local Governance and Decentralization
+- Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Sierra Leone
 promos:
