@@ -34,3 +34,8 @@ LRMA strengthens the legal framework that supports access to accurate ownership 
 ## Select Results
 
 * Trained 15 young lawyers from the Women Lawyers Forum on how to write laws that protect women's inheritance rights and to assist them in learning more about land settlement and registration procedures.
+* Provided specialized training for 117 staff from settlement offices and district revenue staff of Merged Areas on building capacity to implement land settlement and deliver land records management services records. During this training course, a tailored session on gender sensitization was designed and rolled out to introduce basic concepts of gender and associated terms to present key aspects of gender awareness in land registration activity. 
+* Establishing a formal relationship with Ombudsperson KP for the Protection against Harassment of Women at the workplace, a key stakeholder in ensuring women’s right to inheritance in land. 
+* Provided a customized 2-day awareness course on legal drafting and land settlement and registration for 15 young women lawyers of Women Lawyers Forum (from tribal areas), the first of its kind. 
+* Developed a messaging framework on women’s right to inheritance for women of newly formed merged districts.
+ 
