@@ -11,6 +11,8 @@ image: "/uploads/richard%20bio.jpg"
 solutions:
 - Governance
 - Fragile States
+- Anti-corruption, Transparency, and Accountability
+- Local Governance and Decentralization
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
