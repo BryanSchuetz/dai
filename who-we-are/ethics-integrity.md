@@ -2,7 +2,7 @@
 title: Ethics and Integrity at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
-  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20Revised%202023.pdf"
+  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20Revised%202023-284e7f.pdf"
 - title: DAI Code of Business Conduct and Ethics—Arabic
   link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20AR%20-%20Copy.pdf"
 - title: DAI Code of Business Conduct and Ethics—Spanish
@@ -24,7 +24,7 @@ layout: node
 
 Ethics, integrity, and compliance are fundamental DAI values at the core of how DAI interacts with clients, partners, employees, and vendors across the globe. These values are embodied in DAI’s Ethics, Integrity, and Safeguarding Program, which is affirmed by DAI’s Board and applied across the entire company and all entities in which DAI has an ownership position.
 
-DAI’s Chief Ethics and Integrity Officer oversees the Ethics, Compliance, and Safeguarding program, promotes a culture of compliance through training and regular communication on important topics, and works with DAI management to establish, monitor, and enforce standards, policies, and procedures to identify and prevent illegal, unethical, or improper conduct.
+DAI’s Chief Ethics and Integrity Officer oversees the Ethics, Compliance, and Safeguarding program, promotes a culture of compliance through training and regular communication on important topics, and works with DAI management to establish, monitor, and enforce standards, policies, and procedures to identify and prevent illegal, unethical, or improper conduct. 
 
 At DAI, we take ethics seriously. Accomplishing development results in challenging circumstances while complying with funding partner and host nation laws and policies requires disciplined performance. DAI professionals recognize that meeting these high standards will model effective and compliant management to their beneficiaries and establish trusting relationships essential to successful development.
 
