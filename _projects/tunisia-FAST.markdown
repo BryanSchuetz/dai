@@ -8,9 +8,9 @@ start: 2019
 end: 2023
 client: U.S. Agency for International Development
 solutions:
-- Public Financial Management
+- Public Financial Management and Domestic Revenue Mobilization
 - Governance
-- 
+- Institutions Building and Policy Reform
 regions: Middle East and North Africa
 country: Tunisia
 ---
@@ -25,7 +25,7 @@ Finally, FAST works to strengthen communication between policymakers and the pub
 
 ![Ministere_finances_Tunisie.jpg](/uploads/Ministere_finances_Tunisie.jpg)
 
-### Select Activities
+## Select Activities
 
 * Design PFMIS in a collaboratively drafted conceptual framework, including core functional and technical requirements and an outline of the system development approach.
 * Implement PFMIS modules using an “agile with discipline” approach that includes accounting, budgeting, cash management, debt management, treasury systems, payroll, and asset management modules.
@@ -33,8 +33,9 @@ Finally, FAST works to strengthen communication between policymakers and the pub
 * Simplify business processes by detailing the new streamlined process, including the rules, regulations, roles and responsibilities, key performance indicators, and flow diagrams for new processes.
 * Foster public-private dialogue to help the government engage with the public and private sectors about key economic and fiscal policies through institutionalized mechanisms.
 
-### Select Results
+## Select Results
 
 * Co-organized the launch of a national Online Business Registration system. The system provides the following e-services: (1) business registration for legal companies, (2) business registration for individuals, (3) trade name reservation simulation, (4) electronic signature functionality, (5) electronic delivery of company extracts, and (6) online consultation on specific tax issues. 
 * Prepared the hardware strategic plan for 2021–2028 to strengthen the Ministry of Finance data center infrastructure.
 * With Tunisia's National Business Registry (RNE) launched an online business registration system to reduce the cost and time required for opening a business through e-services including business registration for legal companies, business registration for individuals, trade name reservation simulation, electronic signature functionality, electronic delivery of company extracts, and online consultation on specific tax issues. 
+* Installed the FreeBalance Government Resource Planning Accountability Suite solution in the Ministry of Finance’s data center and test environments. 
