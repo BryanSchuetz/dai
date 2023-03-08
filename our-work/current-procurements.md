@@ -10,6 +10,9 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [REQ-CCI-23-0001](/uploads/REQ-CCI-23-0001.pdf "3/17")
+* [Form 3.9 Attachment A—Instructions for Obtaining an Unique Entity ID-032e01](/uploads/Form%203.9%20Attachment%20A%20-%20Instructions%20for%20Obtaining%20an%20Unique%20Entity%20ID-032e01.pdf "3/17")
+* [Form 3.10—Self Certification for Exemption from Unique Entity ID Requirement-7eab47](/uploads/Form%203.10%20-%20Self%20Certification%20for%20Exemption%20from%20Unique%20Entity%20ID%20Requirement-7eab47.pdf "3/17")
 * [RFP 2023-03 Mod 1](/uploads/RFP%202023-03%20Mod%201.pdf "3/17")
 * [RFP 2023-04 CBPR Public Relations Services](/uploads/RFP%202023-04%20CBPR%20Public%20Relations%20Services.pdf "3/29")
 * [RFP 2023-03 Democratizing Digital SSA Video](/uploads/RFP%202023-03%20Democratizing%20Digital%20SSA%20Video.pdf "3/17")
