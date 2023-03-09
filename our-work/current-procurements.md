@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFP Simplification of Procedures Manuals for IDAs Licensing and Registration services](https://dai-assets.s3.amazonaws.com/rfps/RFP%20Simplification%20of%20Procedures%20Manuals%20for%20IDAs%20Licensing%20and%20Registration%20services.pdf)
 * [REQ-CCI-23-0001](/uploads/REQ-CCI-23-0001.pdf "3/17")
 * [Form 3.9 Attachment A—Instructions for Obtaining an Unique Entity ID-032e01](/uploads/Form%203.9%20Attachment%20A%20-%20Instructions%20for%20Obtaining%20an%20Unique%20Entity%20ID-032e01.pdf "3/17")
 * [Form 3.10—Self Certification for Exemption from Unique Entity ID Requirement-7eab47](/uploads/Form%203.10%20-%20Self%20Certification%20for%20Exemption%20from%20Unique%20Entity%20ID%20Requirement-7eab47.pdf "3/17")
