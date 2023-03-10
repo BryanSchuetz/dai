@@ -20,7 +20,7 @@ As the fund’s executing agency, DAI provides technical support to the selected
 [ EzeePayments](https://ezeepayments.com/) is a good example of the companies that won grant funding in 2022. EzeePayments allows businesses to improve the purchasing experience for their customers by facilitating online payments. The DIAF grant funded behavioral science research leading to recommendations that, if implemented, will help EzeePayments increase the number of transactions conducted through its platform and onboard more merchants.
 
 ![IDB story.png](/uploads/IDB%20story.png)
-`Pictured: BitEgreen founder Simera Crawford (L) and Safe Haven founder Angenie Abel (R)`
+`Safe Haven founder, Angenie Abel and BitEgreen founder Simera Crawford`
 
 [BitEgreen Market](http://www.cembi.org/our-solution/), another grant recipient, offers a technology that aims to improve the operational efficiency of businesses integrating environmental preservation and other sustainable livelihood actions into mainstream society. DAI is helping BitEgreen refine its intellectual property strategy to better scale the business as its mobile application launches.
 
