@@ -1,7 +1,6 @@
 ---
 title: IDB Fund Begins Second Round of Support to Caribbean Digital Innovators
 date: 2023-03-08 15:43:00 Z
-published: false
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
