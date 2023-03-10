@@ -4,6 +4,10 @@ date: 2023-03-08 15:43:00 Z
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
+summary: The Digital Impact Advisory Fund (DIAF) has opened applications for its second
+  round of funding for Caribbean businesses that support the digitalization of regional
+  micro-, small-, and medium-sized enterprises (MSMEs). The second round of grants
+  is focused on supporting established businesses with existing customer bases.
 ---
 
 The Digital Impact Advisory Fund (DIAF) has opened applications for its second round of funding for Caribbean businesses that support the digitalization of regional micro-, small-, and medium-sized enterprises (MSMEs). The second round of grants is focused on supporting established businesses with existing customer bases. The application period is open until April 3, and businesses from Belize, Dominica, Grenada, Guyana, Jamaica, and Trinidad and Tobago can apply [here.](https://form.collect.dai.com/x/SnYIhYOh)
