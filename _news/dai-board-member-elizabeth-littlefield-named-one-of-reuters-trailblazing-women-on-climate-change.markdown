@@ -2,6 +2,7 @@
 title: DAI Board Member Elizabeth Littlefield Named One of Reuters' Trailblazing Women
   on Climate Change
 date: 2023-03-10 16:04:00 Z
+is_featured: true
 summary: 'DAI Board member Elizabeth Littlefield has been included in Reuters Impact''s
   list of women leading the fight against climate change. '
 social-image: "/uploads/E%20little%20large-219267.png"
@@ -12,6 +13,8 @@ DAI Board member [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/el
 “I’m honored to be named alongside such a distinguished group of women and delighted to see their diverse activities recognized,” said Littlefield.
 
 ![E little large-219267.png](/uploads/E%20little%20large-219267.png)
+
+<!--more-->
 
 Littlefield brings decades of finance and insurance sector expertise to the pursuit of climate action, including serving as Managing Director of capital markets and financing in emerging Europe, the Middle East, and Africa for JP Morgan and as Director of the World Bank's Financial and Private Sector Division. 
 
