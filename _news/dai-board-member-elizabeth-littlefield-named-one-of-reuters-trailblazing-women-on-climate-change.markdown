@@ -2,6 +2,9 @@
 title: DAI Board Member Elizabeth Littlefield Named One of Reuters' Trailblazing Women
   on Climate Change
 date: 2023-03-10 16:04:00 Z
+summary: 'DAI Board member Elizabeth Littlefield has been included in Reuters Impact''s
+  list of women leading the fight against climate change. '
+social-image: "/uploads/E%20little%20large-219267.png"
 ---
 
 DAI Board member [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-littlefield) has been included in Reuters Impact's list of women leading the fight against climate change. The list of [25 trailblazers](https://www.reuters.com/business/sustainable-business/twenty-five-trailblazing-women-leading-fight-against-climate-change-2023-03-07/), announced to coincide with International Women's Day, recognizes women whose contributions to the fight against climate change are significant but perhaps less well-known than others.
