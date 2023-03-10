@@ -9,11 +9,11 @@ regions: Latin America and the Caribbean
 
 The Digital Impact Advisory Fund (DIAF) has opened applications for its second round of funding for Caribbean businesses that support the digitalization of regional micro-, small-, and medium-sized enterprises (MSMEs). The second round of grants is focused on supporting established businesses with existing customer bases. The application period is open until April 3, and businesses from Belize, Dominica, Grenada, Guyana, Jamaica, and Trinidad and Tobago can apply [here.](https://form.collect.dai.com/x/SnYIhYOh)
 
-“Caribbean MSMEs have unique challenges and ways of working that are not always aligned with the existing digital tools and software on the market. The DIAF aims to address this gap by supporting Caribbean entrepreneurs as they scale their business and designing digital B2B solutions with the needs of Caribbean MSMEs in mind,” said grant manager Katie Vaughan.
+“Caribbean MSMEs have unique challenges and ways of working that are not always aligned with the existing digital tools and software on the market. The DIAF aims to address this gap by supporting Caribbean entrepreneurs as they scale their business and designing digital B2B solutions with the needs of Caribbean MSMEs in mind,” said grant manager [Katie Vaughan](https://www.dai.com/who-we-are/our-team/katie-vaughan).
 
 Part of IDB Lab’s EcoMicro portfolio of projects, the fund provides tailored support to help businesses with a financial product or service introduce digital solutions to their clients and increase the digitalization of MSMEs in the region.
 
-“Digital solutions, especially fintech, are key to spurring economic growth and strengthening resilience and productivity for businesses and their MSME clients,” said DAI project lead Belem Saucedo. “We look forward to working with some great digital innovators in this second round and helping more MSMEs incorporate B2B technology”.
+“Digital solutions, especially fintech, are key to spurring economic growth and strengthening resilience and productivity for businesses and their MSME clients,” said DAI project lead [Belem Saucedo](https://www.dai.com/who-we-are/our-team/belem-saucedo). “We look forward to working with some great digital innovators in this second round and helping more MSMEs incorporate B2B technology”.
 
 As the fund’s executing agency, DAI provides technical support to the selected grantees and ongoing project impact reporting. \
 \
