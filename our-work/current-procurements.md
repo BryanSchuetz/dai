@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [Business Egypt EOI and Concept Note](https://dai-assets.s3.amazonaws.com/rfps/Business%20Egypt%20EOI%20and%20Concept%20Note%20Template.pdf)
 * [RFP Simplification of Procedures Manuals for IDAs Licensing and Registration services](https://dai-assets.s3.amazonaws.com/rfps/RFP%20Simplification%20of%20Procedures%20Manuals%20for%20IDAs%20Licensing%20and%20Registration%20services.pdf)
 * [REQ-CCI-23-0001](/uploads/REQ-CCI-23-0001.pdf "3/17")
 * [Form 3.9 Attachment A—Instructions for Obtaining an Unique Entity ID-032e01](/uploads/Form%203.9%20Attachment%20A%20-%20Instructions%20for%20Obtaining%20an%20Unique%20Entity%20ID-032e01.pdf "3/17")
