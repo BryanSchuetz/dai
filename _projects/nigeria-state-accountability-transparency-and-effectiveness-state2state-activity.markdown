@@ -11,6 +11,8 @@ solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
 - Decentralization and Local Government Management
+- Anti-corruption, Transparency, and Accountability
+- Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:
