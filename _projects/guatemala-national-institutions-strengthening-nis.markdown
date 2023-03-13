@@ -12,7 +12,7 @@ solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
 - Institutions Building and Policy Reform
-- 
+- Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Guatemala
 ---
@@ -40,3 +40,8 @@ Building on the U.S. Agency for International Development’s achievements throu
 ## Select Results
 
 * Provided a total of 27 hours of training to staff of the Superintendency of Tax Administration where they learned data management, among other skills.
+* Enhanced fiscal transparency, public accountability, and open data mechanisms.
+* Increased compliance with access to public information regulations.
+* Redesigned and automated tax administration key processes.
+* Improved tax compliance risk management.
+* Developed a digital government transformation pilot program.
