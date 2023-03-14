@@ -1,5 +1,5 @@
 ---
-title: IDB Fund Begins Second Round of Support to Caribbean Digital Innovators
+title: IDB Lab Fund Begins Second Round of Support to Caribbean Digital Innovators
 date: 2023-03-08 15:43:00 Z
 solutions:
 - Sustainable Business
