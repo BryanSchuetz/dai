@@ -32,8 +32,7 @@
           21.255126
         ],
         "type": "Point"
-      },
-      "id": "2a816ede795740980b797221db202f6a"
+      }
     },
     {
       "type": "Feature",
@@ -50,13 +49,12 @@
           42.098222
         ],
         "type": "Point"
-      },
-      "id": "0aedcdd4db1e61c75a04de76ac111ba3"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "",
+        
         "title": "Active Projects in Mongolia",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/mongolia-urban-land-and-service-area-growth-planning-due-diligence\">Urban Land and Service Area</a> (MCC)",
         "marker-color": "#6c6c6c",
@@ -69,8 +67,7 @@
           47.725755
         ],
         "type": "Point"
-      },
-      "id": "0c259907c9a5136b5da6dafe4105dd4d"
+      }
     },
     {
       "type": "Feature",
@@ -87,13 +84,12 @@
           28.49766
         ],
         "type": "Point"
-      },
-      "id": "104422f1fb6ae5dcc9a57a58928330bd"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6js689900p2kwm1pf4fbjnh",
+        
         "title": "Active Projects in Somaliland",
         "description": "- <a href=\"http://dai.com/our-work/projects/somalia%E2%80%94promoting-inclusive-markets-somalia\">PIMS</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/somali-business-catalytic-fund-sbcf\">SBCF</a> (World Bank)",
         "marker-size": "small",
@@ -106,13 +102,12 @@
           9.449061
         ],
         "type": "Point"
-      },
-      "id": "106282bef5f6235fe40bd28d8c7666e7"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkpv00u1jsm7sbye7g4i",
+        
         "title": "Active Projects in Bhutan",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/bhutan-decentralisation-and-renewable-natural-resource-management\">NRM</a> (EC)<br>",
         "marker-size": "small",
@@ -159,18 +154,16 @@
           11.695272
         ],
         "type": "Point"
-      },
-      "id": "26de1ff493260f6f2cae5504cb85b495"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "",
         "title": "Active Projects in Iraq",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project\">IGPA</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project\">IGPA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/iraq-support-policy-dialog-and-technical-assistance\">Policy Dialog</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -178,8 +171,7 @@
           33.303704
         ],
         "type": "Point"
-      },
-      "id": "281f9d61044093419644b82749178af4"
+      }
     },
     {
       "type": "Feature",
@@ -196,8 +188,7 @@
           -12.216042
         ],
         "type": "Point"
-      },
-      "id": "28d985ebdbe4db663d8aff310cb52ee6"
+      }
     },
     {
       "type": "Feature",
@@ -220,10 +211,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Honduras",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/honduras-ProParque-GEMA\">GEMA</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/honduras—technical-assistance-food-security-nutrition-and-climate-resilience-dry\"> <a href=\"https://www.dai.com/our-work/projects/honduras-united-for-justice\">Unidos por la Justicia</a> (USAID)<br> -<a href=\"https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg\"> HLG</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-securing-education\">Asegurando la Educación</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/honduras-ProParque-GEMA\">GEMA</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/honduras—technical-assistance-food-security-nutrition-and-climate-resilience-dry\"> <a href=\"https://www.dai.com/our-work/projects/honduras-united-for-justice\">Unidos por la Justicia</a> (USAID)<br> -<a href=\"https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg\"> HLG</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-securing-education\">Asegurando la Educación</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-justicia-efectiva-contra-la-criminalidad-y-corrupcion-jeccc-project\">JECCC</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 5
+        "marker-symbol": 6
       },
       "geometry": {
         "coordinates": [
@@ -254,10 +245,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Kenya",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/kenya-niwajibu-wetu-niwetu\">NIWETU</a> (USAID)<br> - <a href=\"https://www.dai.com/our-work/projects/kenya-deepening-democracy-programme-ddp\">DDP</a> (FCDO)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/kenya-niwajibu-wetu-niwetu\">NIWETU</a> (USAID)<br> - <a href=\"https://www.dai.com/our-work/projects/kenya-deepening-democracy-programme-ddp\">DDP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/kenya-western-kenya-water-program\">WKWP</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -270,7 +261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ivcq9gch1",
+        
         "title": "Active Projects in Lesotho",
         "description": "- <a href=\"http://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/southern-africa-trade-forward\">Trade Forward</a> (FCDO)",
         "marker-size": "small",
@@ -322,7 +313,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iuu0e7yr0",
+        
         "title": "Active Projects in Kazakhstan",
         "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)",
         "marker-size": "small",
@@ -352,8 +343,7 @@
           -1.757536
         ],
         "type": "Point"
-      },
-      "id": "473d9fd0a9202ee842e8049649162c44"
+      }
     },
     {
       "type": "Feature",
@@ -392,7 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkpz00u5jsm799dnxr7j",
+        
         "title": "Active Projects in Laos",
         "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)",
         "marker-size": "small",
@@ -439,8 +429,7 @@
           27.012508
         ],
         "type": "Point"
-      },
-      "id": "50ede396057c45c300d96a038f44cc97"
+      }
     },
     {
       "type": "Feature",
@@ -457,13 +446,12 @@
           7.921785
         ],
         "type": "Point"
-      },
-      "id": "53730ba1840a49a4fa55abf4bab96a9c"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkq500ubjsm74tal051g",
+        
         "title": "Active Projects in Singapore",
         "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)",
         "marker-size": "small",
@@ -476,13 +464,12 @@
           1.329226
         ],
         "type": "Point"
-      },
-      "id": "5cefea1cbeb4f04d29dc8cca418c298c"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkq700udjsm789qt5s16",
+        
         "title": "Active Projects in Brunei",
         "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)",
         "marker-size": "small",
@@ -495,8 +482,7 @@
           4.521666
         ],
         "type": "Point"
-      },
-      "id": "62de4806a8a46bbfd6004bc4889cdb91"
+      }
     },
     {
       "type": "Feature",
@@ -513,8 +499,7 @@
           -1.406108
         ],
         "type": "Point"
-      },
-      "id": "635b297a8829a23fc4d52051a64cb903"
+      }
     },
     {
       "type": "Feature",
@@ -531,8 +516,7 @@
           14.689881
         ],
         "type": "Point"
-      },
-      "id": "6cae66a457587ddb7885a408a1745933"
+      }
     },
     {
       "type": "Feature",
@@ -549,8 +533,7 @@
           8.472635
         ],
         "type": "Point"
-      },
-      "id": "6e0356bd786fb75ce694fbfd4f76e183"
+      }
     },
     {
       "type": "Feature",
@@ -567,8 +550,7 @@
           3.513421
         ],
         "type": "Point"
-      },
-      "id": "6eef180caded3189dd37c0c023ddc16c"
+      }
     },
     {
       "type": "Feature",
@@ -624,12 +606,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jrxi4y00vskrm7lfwivw1d",
         "title": "Active Projects in Malawi",
-        "description": "- <a href=\"http://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a   href=\"https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance\">Land   Governance</a> (EC)<br> - <a   href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-public-finance-management-reforms-chuma-cha-dziko\">PFMR</a> (EC)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance\">Land Governance</a> (EU)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a   href=\"https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance\">Land   Governance</a> (EC)<br> - <a   href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-public-finance-management-reforms-chuma-cha-dziko\">PFMR</a> (EC)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance\">Land Governance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-governance-for-solutions-gfs-activity\">GfS</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 5
+        "marker-symbol": 6
       },
       "geometry": {
         "coordinates": [
@@ -643,7 +624,6 @@
       "type": "Feature",
       "properties": {
         "description": "- <a href=\"https://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/southern-africa-trade-forward\">Trade Forward</a> (FCDO)",
-        "id": "",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
         "marker-symbol": 2,
@@ -655,13 +635,12 @@
           -26.377756
         ],
         "type": "Point"
-      },
-      "id": "87e3855003672d1d7741869e35a408b5"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci62dj7tr054gjylwfbdeq053",
+        
         "title": "Active Projects in Liberia",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/liberia-long-term-technical-assistance-for-the-implementation-of-the-voluntary-partnership-agreement-flegt-vpa\">FLEGIT VPA</a> (EC)<br>- <a href=\"https://www.dai.com/our-work/projects/liberia-civil-society-activity-csa\">CSA</a> (USAID)",
         "marker-size": "small",
@@ -696,7 +675,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkq400uajsm7zolpkg7n",
+        
         "title": "Active Projects in Malaysia",
         "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)",
         "marker-size": "small",
@@ -709,8 +688,7 @@
           3.9629
         ],
         "type": "Point"
-      },
-      "id": "9175ee92d0f4576e92af2d23b1308868"
+      }
     },
     {
       "type": "Feature",
@@ -727,8 +705,7 @@
           18.838673
         ],
         "type": "Point"
-      },
-      "id": "92371e17ec2a33c417e34a0ee77508cf"
+      }
     },
     {
       "type": "Feature",
@@ -745,13 +722,12 @@
           -3.469557
         ],
         "type": "Point"
-      },
-      "id": "93abed3723bdb4a913743af2eae200ab"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "",
+        
         "title": "Active Projects in Kosovo",
         "marker-size": "small",
         "marker-symbol": 4,
@@ -764,8 +740,7 @@
           42.54378
         ],
         "type": "Point"
-      },
-      "id": "96d6da66da496fbf953ee9504346266d"
+      }
     },
     {
       "type": "Feature",
@@ -782,13 +757,12 @@
           21.534847
         ],
         "type": "Point"
-      },
-      "id": "998416026800bebeaf3ee78d71a33f60"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iv4a0xir0",
+        
         "title": "Active Projects in Mauritius",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih\">EATIH</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/mauritius-enhancing-resilience-to-climate-change\">Enhancing Resilience</a> (FDA) <br>- <a href=\"https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih\">EATIH</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/mauritius-enhancing-resilience-to-climate-change\">Enhancing Resilience</a> (FDA)",
         "marker-size": "small",
@@ -852,13 +826,12 @@
           -24.926294
         ],
         "type": "Point"
-      },
-      "id": "ae115dca4df65b29d987a0ce8dd6a653"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkpq00twjsm74boepxuu",
+        
         "title": "Active Projects in Uzbekistan",
         "description": "- <a href=\"http://dai.com/our-work/projects/uzbekistan%E2%80%94usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc\">AVC</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)",
         "marker-size": "small",
@@ -871,13 +844,12 @@
           42.585444
         ],
         "type": "Point"
-      },
-      "id": "b1a1867142ffebbfc2961da44d381d8e"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "",
+        
         "description": "- <a href=\"https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development\">Local Business</a> (ESSO)<br>- <a href=\"https://www.dai.com/our-work/projects/guyana-ecomicro-guyana\">EcoMicro Guyana</a> (IDB)",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
@@ -890,18 +862,16 @@
           4.285955
         ],
         "type": "Point"
-      },
-      "id": "b56bc8989438432216b40ee3c25bcc7f"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6l28p0g042gk5m7ek137dxw",
         "title": "Active Projects in Guatemala",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp\">FPRP</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/guatemala%E2%80%94nexos-locales\">Nexos Locales</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp\">FPRP</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/guatemala%E2%80%94nexos-locales\">Nexos Locales</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/guatemala-national-institutions-strengthening-nis\">NIS</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -909,8 +879,7 @@
           15.623036
         ],
         "type": "Point"
-      },
-      "id": "b8f1b1a7d0ce004bf7612a26b99405e5"
+      }
     },
     {
       "type": "Feature",
@@ -927,8 +896,7 @@
           17.565903
         ],
         "type": "Point"
-      },
-      "id": "b9b518b91d99a076a21336c6cf6e2d1c"
+      }
     },
     {
       "type": "Feature",
@@ -945,18 +913,17 @@
           4.825861
         ],
         "type": "Point"
-      },
-      "id": "bab100e868b346b4e18eec025e6969cb"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci785gb7901cui2m5w0jcqerm",
+        
         "title": "Active Projects in Morocco",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/morocco-tasharoc\">TASHAROC</a> (FCDO)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/morocco-tasharoc\">TASHAROC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/morocco-greening-the-mohammed-vi-fund-for-investment-innovation-and-investment-fund-i2f\">I2F</a> (FCDO)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -964,8 +931,7 @@
           31.052933
         ],
         "type": "Point"
-      },
-      "id": "bd4515cc9441146afecefc1bb65e4578"
+      }
     },
     {
       "type": "Feature",
@@ -1021,12 +987,12 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jwcesi01egkrm52cl7dqg1",
+        
         "title": "Active Projects in Ukraine",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst \">FST </a> (USAID)<br> - <a   href=\"https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity \">Economic Resilience Activity</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-implementation-of-eu-practices-for-accounting-financial-reporting-and-audit\">EU Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-support-in-approximation-of-the-eu-environmental-acquis\">Environment Acquis</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-eu-for-stronger-public-finance-systems-of-local-governments-logica\">LOGICA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla\">HOVERLA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-strengthening-capacities-in-external-audit-in-line-with-international-standards\">External Audit</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst \">FST </a> (USAID)<br> - <a   href=\"https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity \">Economic Resilience Activity</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-implementation-of-eu-practices-for-accounting-financial-reporting-and-audit\">EU Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-support-in-approximation-of-the-eu-environmental-acquis\">Environment Acquis</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-eu-for-stronger-public-finance-systems-of-local-governments-logica\">LOGICA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla\">HOVERLA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-strengthening-capacities-in-external-audit-in-line-with-international-standards\">External Audit</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-financial-sector-reform-activity\">FSR</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 7
+        "marker-symbol": 8
       },
       "geometry": {
         "coordinates": [
@@ -1074,10 +1040,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Pakistan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94regional-economic-integration-activity-preia\">PREIA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip\">CDIP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace\">BRACE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity\">LRMA</a> (EU)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94regional-economic-integration-activity-preia\">PREIA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip\">CDIP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace\">BRACE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity\">LRMA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-dare-data-and-research-in-education-technical-assistance-to-strengthen-provincial-federal-data-management-processes\">DARE</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-climate-finance-accelerator-cfa\">CFA</a> (U.K.DBEIS)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 6
       },
       "geometry": {
         "coordinates": [
@@ -1090,7 +1056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci758qkfk035thwm25vc83v21",
+        
         "title": "Active Projects in Zimbabwe",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/zimbabwe-transparency-responsiveness-accountability-and-citizen-engagement-trace\">TRACE</a> (FCDO)<br>- <a href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/zimbabwe-technical-assistance-to-the-zimbabwe-agricultural-growth-programme-zagp\">ZAGP</a> (EC)",
         "marker-size": "small",
@@ -1103,8 +1069,7 @@
           -18.812717
         ],
         "type": "Point"
-      },
-      "id": "cf7b3db7539cbd8898f6217a10d76ef5"
+      }
     },
     {
       "type": "Feature",
@@ -1121,8 +1086,7 @@
           -6.03131
         ],
         "type": "Point"
-      },
-      "id": "cffa8fb5a622c070247e503e4ed6f7e5"
+      }
     },
     {
       "type": "Feature",
@@ -1139,13 +1103,12 @@
           18.812717
         ],
         "type": "Point"
-      },
-      "id": "d1e35dca47911ef60db7b319d2952d3c"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jwcese01eckrm5nl398int",
+        
         "title": "Active Projects in the Seychelles",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih\">EATIH</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-building-regional-resilience-through-strengthened-meteorological-hydrological-and-climate-services-in-the-indian-ocean-commission-member-countries\">Resilience</a> (AFD)",
         "marker-size": "small",
@@ -1158,17 +1121,16 @@
           -6.555474
         ],
         "type": "Point"
-      },
-      "id": "d28bd31cdce8158ff504642aa8c35076"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "title": "Global Projects Based in the United States",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-policy-link\">Policy LINK</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide—biodiversity-results-and-integrated-development-gains-enhanced-bridge\">BRIDGE</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy\">LiveWIRE</a> (Shell)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-policy-link\">Policy LINK</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide—biodiversity-results-and-integrated-development-gains-enhanced-bridge\">BRIDGE</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy\">LiveWIRE</a> (Shell)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/southeast-asia-addressing-labor-exploitation-in-fishing-in-asean-alfa\">ALFA</a> (USDL)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-advancing-capacity-for-the-environment-ace\">ACE</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 9
+        "marker-symbol": 11
       },
       "geometry": {
         "coordinates": [
@@ -1176,8 +1138,7 @@
           39.67337
         ],
         "type": "Point"
-      },
-      "id": "d4fa03ed78fb91f1a537618501a288e7"
+      }
     },
     {
       "type": "Feature",
@@ -1199,7 +1160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6l28p0f042fk5m7xb3j5c4u",
+        
         "title": "Active Projects in El Salvador",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/el-salvador-domestic-resource-mobilization-program\">Domestic Resource Mobilization</a> (USAID)<br>- <a href=\"http://www.dai.com/our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project\">Puentes</a> (USAID)",
         "marker-size": "small",
@@ -1212,8 +1173,7 @@
           13.774066
         ],
         "type": "Point"
-      },
-      "id": "ddbd08245735c9fb41505ba26e0d13a6"
+      }
     },
     {
       "type": "Feature",
@@ -1230,14 +1190,13 @@
           14.85985
         ],
         "type": "Point"
-      },
-      "id": "de49522b9e3af0f83f68229a35059cc6"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Nigeria",
-        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE II</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0\">PDF2</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">ARC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h\">W4H</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems\">TA PFM</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas\">Youth   Health</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-hub-hub\">TA Hub</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-landscape-analysis-of-technical-assistance-providers\">Landscape   Analysis</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity\">State2State</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-infrastructure-advisory-facility-ukniaf\">UKNIAF</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane\">PLANE</a> (FCDO)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE II</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0\">PDF2</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">ARC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h\">W4H</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems\">TA PFM</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas\">Youth   Health</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-hub-hub\">TA Hub</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-landscape-analysis-of-technical-assistance-providers\">Landscape   Analysis</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity\">State2State</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-infrastructure-advisory-facility-ukniaf\">UKNIAF</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane\">PLANE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii\">EUSDGN</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
         "marker-symbol": 11
@@ -1248,13 +1207,12 @@
           9.838979
         ],
         "type": "Point"
-      },
-      "id": "e007a5be123234a91566b7b6663c18af"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jrxi5500vxkrm7tjlsmr4l",
+        
         "title": "Active Projects in Madagascar",
         "description": "- <a href=\"https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih\">EATIH</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-building-regional-resilience-through-strengthened-meteorological-hydrological-and-climate-services-in-the-indian-ocean-commission-member-countries\">Resilience</a> (AFD)<br>- <a href=\"https://www.dai.com/our-work/projects/madagascar-improving-the-business-environment-and-investment-climate-clim-invest\">CLIM-INVEST</a> (EU)",
         "marker-size": "small",
@@ -1267,17 +1225,16 @@
           -19.062117
         ],
         "type": "Point"
-      },
-      "id": "e1c1447b83a2bb8760e060761255f339"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "title": "Global Projects based in the United Kingdom",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds\">EACDS</a> (FCDO) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">AAS Standing Offer</a> (DFAT) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">Agricultural Services Panel </a> (MFAT)<br>- <a   href=\"https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program\">TDDAP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-centre-for-disaster-protection\">Disaster Protection</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-social-protection-approaches-to-covid-19-expert-advice-service-space\">SPACE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities\">TASC</a> (FCDO)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds\">EACDS</a> (FCDO) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">AAS Standing Offer</a> (DFAT) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">Agricultural Services Panel </a> (MFAT)<br>- <a   href=\"https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program\">TDDAP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-centre-for-disaster-protection\">Disaster Protection</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-social-protection-approaches-to-covid-19-expert-advice-service-space\">SPACE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities\">TASC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/social-protection-technical-assistance-advice-and-resources-staar\">STARR</a> (FCDO)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 7
+        "marker-symbol": 8
       },
       "geometry": {
         "coordinates": [
@@ -1285,13 +1242,12 @@
           52.802761
         ],
         "type": "Point"
-      },
-      "id": "e338f7d39ef567db1f9e941a1f748888"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "ci75bu62c021nhim57ung0p4u",
+        
         "title": "Active Projects in Thailand",
         "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)",
         "marker-size": "small",
@@ -1389,13 +1345,12 @@
           13.068776
         ],
         "type": "Point"
-      },
-      "id": "ed5daed25cb5d9a621c551490032488b"
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "",
+        
         "description": "- <a href=\"https://www.dai.com/our-work/projects/peru-combating-environmental-crimes-cec\">CEC</a> (USAID)",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
@@ -1408,8 +1363,7 @@
           -11.332259
         ],
         "type": "Point"
-      },
-      "id": "f7fb6ea101adb20f6d799bb3ac822063"
+      }
     },
     {
       "type": "Feature",
@@ -1460,8 +1414,7 @@
           23.6580
         ],
         "type": "Point"
-      },
-      "id": "7eb1d7fce545adf33d562aa08a9fe301"
+      }
     }
   ],
   "type": "FeatureCollection"
