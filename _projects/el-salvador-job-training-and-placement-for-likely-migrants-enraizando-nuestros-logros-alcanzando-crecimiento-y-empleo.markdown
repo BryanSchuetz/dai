@@ -24,4 +24,7 @@ These challenges require a systemic approach that equips Salvadoran organization
 
 ## Sample Activities
 
-* 
+* Improve private sector engagement and the enabling environment for employment.
+* Increase the relevance and quality of curricula for vulnerable Salvadorans to achieve employment or complete their high school education.
+* Strengthen local workforce institutions and education providers to improve the quality and relevance of job training and placement services that meet market demands. 
+* Improve inclusive hiring practices.
