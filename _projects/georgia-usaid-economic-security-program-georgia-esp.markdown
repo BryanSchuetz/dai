@@ -19,6 +19,9 @@ promos:
   link: https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest
 - title: 'Georgia: Co-investing with the Private Sector to Boost Sustainable Tourism '
   link: https://usaid-pse.exposure.co/georgia-coinvesting-with-the-private-sector-to-boost-sustainable-tourism
+- title: 'A Business Takes Flight: The Story of 2 Georgian Artisans and their Growing
+    Etsy Business'
+  link: https://usaidpubs.exposure.co/a-business-takes-flight
 - title: Project Video Channel
   link: https://www.youtube.com/channel/UCv6NMRe2cDvSczBdtb1jWuQ
 ---
