@@ -1,6 +1,7 @@
 ---
 title: Shannon Vasamsetti
 date: 2017-09-26 19:07:00 Z
+published: false
 lastname: 'Vasamsetti '
 summary: 'Shannon Vasamsetti ’s work has focused on the nexis of climate change, rural
   livelihoods, and natural resource management. '
