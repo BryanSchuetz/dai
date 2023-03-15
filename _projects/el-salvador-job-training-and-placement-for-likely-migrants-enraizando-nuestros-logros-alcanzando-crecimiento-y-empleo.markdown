@@ -3,10 +3,25 @@ title: El Salvador—Job Training and Placement for Likely Migrants (Enraizando 
   Logros, Alcanzando Crecimiento y Empleo)
 date: 2023-03-15 13:41:00 Z
 published: false
+summary: Our assistance enhances local Salvadoran partners' ability to improve human
+  capital and strengthen job training and placement outcomes for vulnerable populations
+  and for likely migrants.
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: El Salvador
 ---
 
+Amid a deadly global pandemic that has accentuated conditions of vulnerability and economic disparities, many Salvadorans have made the painful decision to leave their homes in search of better economic opportunities.
+
+These challenges require a systemic approach that equips Salvadoran organizations to lead and sustain systemic change. On the *Enraizando Nuestros Logros, Alcanzando Crecimiento y Empleo* project, DAI serves as a mentor to El Salvadoran partners, enabling them to lead improvements in the country’s workforce development system by strengthening connections and capacity at all levels. Our assistance enhances their ability to improve human capital and strengthen job training and placement outcomes for vulnerable populations and for likely migrants.
+
+![Karina Diaz UNPLUG STUDIO (1).jpg](/uploads/Karina%20Diaz%20UNPLUG%20STUDIO%20(1).jpg)
+
+## Sample Activities
+
+* 
