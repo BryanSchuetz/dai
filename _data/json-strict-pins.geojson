@@ -4,10 +4,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Palestine",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp\">IPDSP</a> (World Bank)<br>- <a   href=\"https://www.dai.com/our-work/projects/palestine-technology-for-youth-and-jobs-project-techstart\">TechStart</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity\">SMART</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp\">IPDSP</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-technology-for-youth-and-jobs-project-techstart\">TechStart</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity\">SMART</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-justice-system-assessment-and-formulation-programme\">JSAFP</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
@@ -38,10 +38,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Kyrgyzstan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme\">EIP </a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility\">The   Facility</a> (FCDO)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme\">EIP </a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility\">Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/central-asia-support-for-stable-societies-casss\">CVECA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
@@ -126,10 +126,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Bosnia and Herzegovina",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-further-support-to-public-finance-management\">Public Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-education-for-employment\">Education for Employment</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-further-support-to-public-finance-management\">Public Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-education-for-employment\">Education for Employment</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-technical-assistance-in-the-energy-sector-eu4energy\">EU4Energy</a> (EU)",
         "marker-color": "#6699cc",
         "marker-size": "Small",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -211,10 +211,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Honduras",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/honduras-ProParque-GEMA\">GEMA</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/honduras—technical-assistance-food-security-nutrition-and-climate-resilience-dry\"> <a href=\"https://www.dai.com/our-work/projects/honduras-united-for-justice\">Unidos por la Justicia</a> (USAID)<br> -<a href=\"https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg\"> HLG</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-securing-education\">Asegurando la Educación</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-justicia-efectiva-contra-la-criminalidad-y-corrupcion-jeccc-project\">JECCC</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/honduras-ProParque-GEMA\">GEMA</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/honduras—technical-assistance-food-security-nutrition-and-climate-resilience-dry\"> <a href=\"https://www.dai.com/our-work/projects/honduras-united-for-justice\">Unidos por la Justicia</a> (USAID)<br> -<a href=\"https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg\"> HLG</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-securing-education\">Asegurando la Educación</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-justicia-efectiva-contra-la-criminalidad-y-corrupcion-jeccc-project\">JECCC</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/honduras-building-climate-resilience-activity\">BCRA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 6
+        "marker-symbol": 7
       },
       "geometry": {
         "coordinates": [
@@ -313,12 +313,11 @@
     {
       "type": "Feature",
       "properties": {
-        
         "title": "Active Projects in Kazakhstan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/central-asia-support-for-stable-societies-casss\">CVECA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": "1"
+        "marker-symbol": "2"
       },
       "geometry": {
         "coordinates": [
@@ -401,10 +400,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Jordan",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/jordan-public-financial-management-and-administration-pfma-project\">PFMA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-technical-assistance-to-support-the-quality-of-education-and-tvet\">TVET</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/jordan-public-financial-management-and-administration-pfma-project\">PFMA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-technical-assistance-to-support-the-quality-of-education-and-tvet\">TVET</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-municipal-support-program\">MSP</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -556,10 +555,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Colombia",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/colombia-partners-for-transparency\">PfT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/colombia-responsive-governance-rg-activity\">Responsive Governance</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/colombia-partners-for-transparency\">PfT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/colombia-responsive-governance-rg-activity\">Responsive Governance</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/colombia-equitable-finance-activity\">EFA</a> (USAID)",
         "marker-size": "Small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -659,10 +658,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Tajikistan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme\">EIP </a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility\">The   Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/tajikistan-agriculture-and-land-governance-alg\">ALG</a> (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme\">EIP </a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility\">The   Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/tajikistan-agriculture-and-land-governance-alg\">ALG</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/central-asia-support-for-stable-societies-casss\">CVECA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 5
       },
       "geometry": {
         "coordinates": [
@@ -831,9 +830,8 @@
     {
       "type": "Feature",
       "properties": {
-        
         "title": "Active Projects in Uzbekistan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/uzbekistan%E2%80%94usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc\">AVC</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/uzbekistan%E2%80%94usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc\">AVC</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/central-asia-support-for-stable-societies-casss\">CVECA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
         "marker-symbol": "2"
@@ -849,11 +847,10 @@
     {
       "type": "Feature",
       "properties": {
-        
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development\">Local Business</a> (ESSO)<br>- <a href=\"https://www.dai.com/our-work/projects/guyana-ecomicro-guyana\">EcoMicro Guyana</a> (IDB)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development\">Local Business</a> (ESSO)<br>- <a href=\"https://www.dai.com/our-work/projects/guyana-ecomicro-guyana\">EcoMicro Guyana</a> (IDB)<br>- <a href=\"https://www.dai.com/our-work/projects/regional-youth-resilience\">YRIE</a> (USAID)",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "2",
+        "marker-symbol": "3",
         "title": "Active Projects in Guyana"
       },
       "geometry": {
@@ -1075,10 +1072,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Tanzania",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/tanzania-youth-economic-empowerment-activity\">Advancing Youth</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/tanzania-youth-economic-empowerment-activity\">Advancing Youth</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/tanzania-ict-partnership-5g-slash-6g-frameworks-and-cyber-security-capacity\">ICT Partnership</a> (USG)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -1196,10 +1193,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Nigeria",
-        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE II</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0\">PDF2</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">ARC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h\">W4H</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems\">TA PFM</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas\">Youth   Health</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-hub-hub\">TA Hub</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-landscape-analysis-of-technical-assistance-providers\">Landscape   Analysis</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity\">State2State</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-infrastructure-advisory-facility-ukniaf\">UKNIAF</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane\">PLANE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii\">EUSDGN</a> (EU)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE II</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0\">PDF2</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">ARC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h\">W4H</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems\">TA PFM</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas\">Youth   Health</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-hub-hub\">TA Hub</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-landscape-analysis-of-technical-assistance-providers\">Landscape   Analysis</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity\">State2State</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-infrastructure-advisory-facility-ukniaf\">UKNIAF</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane\">PLANE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii\">EUSDGN</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-john-odigie-oyegun-public-service-academy-joopsa\">JOOPSA</a> (Local)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 11
+        "marker-symbol": 12
       },
       "geometry": {
         "coordinates": [
@@ -1282,11 +1279,11 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Active Projects in Turkey",
+        "title": "Active Projects in  Türkiye",
         "marker-size": "Small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 6,
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishing-strong-monitoring-evaluation-and-coordination-mechanism-for-national-roma-integration-strategy\">Roma Integration</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-determination-of-industrial-emissions-strategy-of-turkey-in-accordance-with-integrated-pollution-prevention-and-control\">Emissions Strategy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishment-of-boosting-effective-and-sustainable-transformation-for-energy-best-for-energy\">BEST for Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-addressing-invasive-alien-species-threats-in-terrestrial-areas-and-inland-waters\">Invasive Species</a>(EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-supporting-analysis-of-the-transport-legislation-of-turkey-in-the-process-of-harmonisation-with-the-eu-acquis\">Transport Legislation</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-assessment-of-turkeys-potential-on-transition-to-circular-economy\">Circular Economy</a> (EU)"
+        "marker-symbol": 8,
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishing-strong-monitoring-evaluation-and-coordination-mechanism-for-national-roma-integration-strategy\">Roma Integration</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-determination-of-industrial-emissions-strategy-of-turkey-in-accordance-with-integrated-pollution-prevention-and-control\">Emissions Strategy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishment-of-boosting-effective-and-sustainable-transformation-for-energy-best-for-energy\">BEST for Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-addressing-invasive-alien-species-threats-in-terrestrial-areas-and-inland-waters\">Invasive Species</a>(EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-supporting-analysis-of-the-transport-legislation-of-turkey-in-the-process-of-harmonisation-with-the-eu-acquis\">Transport Legislation</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-assessment-of-turkeys-potential-on-transition-to-circular-economy\">Circular Economy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-improving-job-and-vocational-counselling-services\">TA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkiye-smart-ankara-sustainable-urban-mobility-plan\">Urban Mobility</a> (EU)"
       },
       "geometry": {
         "coordinates": [
