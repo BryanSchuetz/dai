@@ -60,7 +60,7 @@ Leveraging design thinking principles, we provide an immersive experience for co
 
 * Action Planning
 
-[Download the course brochure](/uploads/DAI_Social_Investment_Fundamentals_2023.pdf)
+[Download the course brochure](/uploads/DAI_Social_Investment_Fundamentals_2023-4f1591.pdf)
 
 <hr>
 

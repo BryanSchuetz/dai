@@ -30,6 +30,7 @@ We work with and through local systems while thinking and working politically. O
 * Develop and implement an electronic revenue management system.
 * Strengthen the preparation of results-oriented budgets.
 * Strengthen audit processes and procedures. 
+* Work with Jordanian Border Control Agencies to develop and implement a coordinated border management plan that will integrate trade requirements with Jordan Customs.
 
 ## Select Results
 

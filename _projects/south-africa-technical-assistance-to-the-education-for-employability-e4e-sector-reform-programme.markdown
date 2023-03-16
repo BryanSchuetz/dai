@@ -21,7 +21,7 @@ country: South Africa
 
 Although South Africa devotes a relatively high proportion of its gross domestic product (GDP) to education and training, the country faces challenges such as high dropout rates, low pass rates, and high youth unemployment rates. 
 
-The Education for Employability (E4E) Sector Reform Programme creates more inclusive, equitable, and quality education and employment prospects for young South Africans. E4E supports the government’s efforts to improve the quality of basic education, vocational training, and job placement services from early childhood through teenage years.
+The Education for Employability (E4E) Sector Reform Programme seeks to improve education and employment prospects for young South Africans. E4E supports the government’s efforts to improve the quality of basic education, vocational training, and job placement services from early childhood through teenage years.
 
 Our team supports the National Treasury and three key implementing government departments in the design, administration, and implementation of E4E. The project develops institutional capacity as well as provides management and operational support. 
 

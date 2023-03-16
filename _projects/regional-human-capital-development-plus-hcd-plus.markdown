@@ -32,6 +32,5 @@ The initial phase focused on Burkina Faso, Ethiopia, Kenya, and Nigeria.
 
 ## Select Results
 
-* Facilitated the approval and registration of the Africa HCD+ by the Corporate Affairs Commission and the approval of the nongovernmental organization and international nongovernmental organization status of Africa HCD+.
 * Facilitated the initial setup of the organization, onboarded the preliminary team, and developed some critical processes and systems essential for the operationalization of the organization. 
 * Developed the finance, human resources, and operations, contracts, and consultancy manuals for the Hub to set up the foundational block required for Africa HCD+ operational activities.
