@@ -1331,10 +1331,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Cambodia",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/southeast-asia-asean-usaid-partnership-for-regional-optimization-with-the-political-security-and-socio-cultural-communities-prospect\">PROSPECT</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/southeast-asia-asean-usaid-partnership-for-regional-optimization-with-the-political-security-and-socio-cultural-communities-prospect\">PROSPECT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/cambodia-technical-assistance-to-the-sustainable-assets-for-agriculture-markets-business-and-trade-saambat-programme\">SAAMBAT</a> (EIB)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
