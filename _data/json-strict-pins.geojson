@@ -1089,10 +1089,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Haiti",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/haiti-resilience-and-agriculture-sector-advancement-hrasa\">HRASA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/haiti-usaid-water-and-sanitation-watsan\">WATSAN</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/haiti-resilience-and-agriculture-sector-advancement-hrasa\">HRASA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/haiti-usaid-water-and-sanitation-watsan\">WATSAN</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/haiti-resilient-environment-north\">HRE-N</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -1193,10 +1193,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Nigeria",
-        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE II</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0\">PDF2</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">ARC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h\">W4H</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems\">TA PFM</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas\">Youth   Health</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-hub-hub\">TA Hub</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-landscape-analysis-of-technical-assistance-providers\">Landscape   Analysis</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity\">State2State</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-infrastructure-advisory-facility-ukniaf\">UKNIAF</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane\">PLANE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii\">EUSDGN</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-john-odigie-oyegun-public-service-academy-joopsa\">JOOPSA</a> (Local)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE II</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0\">PDF2</a> (FCDO)<br>- <a   href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">ARC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h\">W4H</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems\">TA PFM</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas\">Youth   Health</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-technical-assistance-hub-hub\">TA Hub</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-landscape-analysis-of-technical-assistance-providers\">Landscape   Analysis</a> (Gates)<br>- <a   href=\"https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity\">State2State</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-infrastructure-advisory-facility-ukniaf\">UKNIAF</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane\">PLANE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii\">EUSDGN</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-john-odigie-oyegun-public-service-academy-joopsa\">JOOPSA</a> (Local)<br>- <a href=\"https://www.dai.com/our-work/projects/nigeria-tax-administration-diagnostic-assessment-in-borno-state\">Tax Admin</a> (World Bank)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 12
+        "marker-symbol": 13
       },
       "geometry": {
         "coordinates": [
