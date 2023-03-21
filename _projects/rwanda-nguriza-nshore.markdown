@@ -25,6 +25,8 @@ By all accounts, Rwanda’s economic outlook is [strong and positive](https://ww
 
 The [Nguriza Nshore](http://www.ngurizanshore.rw/) (“Lend so that I may invest”) Activity crowded-in finance (debt and equity) for the small firms that are not yet realizing the benefits of Rwanda’s strong economic performance, thereby driving economic growth and fueling non-farm rural employment for the next generation. By working with financial institutions, investors, public, and private sector business development service providers, and a variety of government ministries and initiatives, the DAI team—including partners BiD Network and Aspen Network of Development Entrepreneurs (ANDE)—acted as a catalyst to strengthen and improve existing public-private platforms that support investment from international, local, bank, and non-bank sources, creating a better-functioning finance and investment ecosystem. [Nguriza Nshore](https://www.cnbcafrica.com/videos/2019/03/18/understanding-the-nguriza-nshore-project/) applied a gender, youth, and disabilities lens to expanding finance and investment—and worked to remove constraints that hamper those populations’ access to finance and lessen their ability to contribute to job growth. 
 
+The project raised $64 million in financing for small and medium agribusiness firms; $33 million in leveraged investment; and created 41,000 new jobs.
+
 ![rwanda.jpg](/uploads/rwanda.jpg)
 
 ### Sample Activities 
