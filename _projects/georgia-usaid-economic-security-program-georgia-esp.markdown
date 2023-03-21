@@ -19,7 +19,7 @@ promos:
   link: https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest
 - title: 'Georgia: Co-investing with the Private Sector to Boost Sustainable Tourism '
   link: https://usaid-pse.exposure.co/georgia-coinvesting-with-the-private-sector-to-boost-sustainable-tourism
-- title: 'A Business Takes Flight: The Story of 2 Georgian Artisans and their Growing
+- title: 'A Business Takes Flight: The Story of Two Georgian Artisans and their Growing
     Etsy Business'
   link: https://usaidpubs.exposure.co/a-business-takes-flight
 - title: Project Video Channel
@@ -57,3 +57,4 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 * Since the project began working with [Enterprise Georgia](https://www.enterprisegeorgia.gov.ge/en), its rank among investment promotion agencies discussed in the [2022 Emerging Europe Investment Promotion Report](https://emerging-europe.com/investment-promotion-report-2022/) increased from 17th in 2019 to 5th in 2022.
 * Supported a major local investor and the Ministry of Economy and Sustainable Development to launch a local venture capital fund that will lay the foundation for the recruitment of international and local funds to support innovation.
 * Designed and launched a new initiative—with the National Intellectual Property Center of Georgia-Sakpatenti and the USAID Civic Education Program—to promote high-value employment in the creative industries and raise awareness of intellectual property rights among Georgian youth.
+* Won a [2022 USAID Digi Award](https://www.usaid.gov/digital-development/digis) for providing training on information communication technology to the country’s workforce and connecting local artisans to online markets.
