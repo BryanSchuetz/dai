@@ -1,7 +1,6 @@
 ---
 title: Bhairav Raja
 date: 2016-01-21 22:18:00 Z
-order: 8
 lastname: Raja
 summary: 'Bhairav Raja is the Director for Responsible Business at DAI’s Sustainable
   Business Group, based in London. '
@@ -20,6 +19,7 @@ articles:
 - name: 'Opening the Tap: A Coordinated Approach to Facilitating Green Finance for
     SMEs in Frontier and Emerging Markets'
   article_file: https://dai-global-developments.com/articles/opening-the-tap-a-coordinated-approach-to-facilitating-green-finance-for-smes-in-frontier-and-emerging-markets
+order: 5
 layout: expert
 ---
 

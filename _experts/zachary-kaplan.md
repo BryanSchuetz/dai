@@ -29,7 +29,7 @@ articles:
 - name: 'Mining for Answers: Mozambique Weighs Options for a Practical, Profitable
     Local Content Policy, _Developments_'
   article_file: http://dai-global-developments.com/articles/mining-for-answers.html?utm_source=daidotcom
-order: 5
+order: 3
 layout: expert
 ---
 

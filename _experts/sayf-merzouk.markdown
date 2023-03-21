@@ -5,7 +5,7 @@ lastname: 'Merzouk '
 summary: Sayf Merzouk is an international development professional with a background
   in project and financial management.
 job-title: Associate
-image: "/uploads/Sayf%20Merzouk.jpeg"
+image: "/uploads/Sayf%20Merzouk_.png"
 solutions:
 - Sustainable Business
 ---

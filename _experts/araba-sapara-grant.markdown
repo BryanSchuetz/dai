@@ -12,7 +12,10 @@ regions:
 - Worldwide
 ---
 
-Araba Sapara-Grant is a Manager with DAI’s Sustainable Business Group. She brings technical experience in digital development and private sector engagement to her work supporting research, program implementation, strategy development, and thought leadership for DAI projects. Currently, Araba serves as the Program Development and Learning Manager for the Mastercard-funded Strive USA program, an initiative designed to increase access to capital, technical assistance, and digital tools for U.S. small businesses. Prior to this position, Araba was a Digital Specialist with DAI’s Center for Digital Acceleration where she specialized in digital agriculture and supported research, technical delivery, and business development. In addition to these responsibilities, Araba also helps lead DAI’s first employee resource group, DAI Noir. She has work experience in Cameroon, Kenya, Senegal, Tanzania, and Uganda. 
+Araba Sapara-Grant is a Manager with DAI’s Sustainable Business Group. As a member of the Responsible Business team, Araba brings comprehensive research, advisory, and business development expertise to projects and proposals across diverse technical areas. Currently, Araba serves as the Program Development and Learning Manager for Strive USA, an initiative funded by the Mastercard Center for Inclusive Growth focused on supporting the financial resilience and growth of U.S. small businesses. In this role, Araba is responsible for pipeline development, scoping grant activities, and overseeing Strive USA’s learning agenda and activities.  
 
-* M.A., global human development, Georgetown University
-* B.A., international relations, Syracuse University
+Previously as a Digital Specialist with DAI’s Center for Digital Acceleration, Araba provided technical support to projects such as the USAID-funded Digital Frontiers project where she served as the technical lead for the digital agriculture portfolio and developed the USAID Digital Literacy Primer. Outside the core commitments of her position, Araba co-leads DAI’s first affinity group, DAI Noir.  
+
+* M.A, Global Human Development, Georgetown University 
+
+* B.A, International Relations, Georgetown University 
