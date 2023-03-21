@@ -18,6 +18,7 @@ solutions:
 - Global Health
 - Environment
 regions: Worldwide
+country: Worldwide
 ---
 
 **Lot 4: Climate Change, Nature, and Global Health**
