@@ -31,6 +31,8 @@ The Lot 4 priority objective areas are:
 * Developing innovative approaches to tackle climate change and protect nature. 
 * Informing and developing responses to the changing nature of systems and society.
 
+![Vietnam SFM.jpg](/uploads/Vietnam%20SFM.jpg)
+
 ## Sample Activities
 * Respond to on-demand requests for support and work with users to precisely define scopes of assistance from the first idea to full terms of reference.
 * Rapidly source expertise from across a consortium of 27 partners or other specialist suppliers, often within 10 days.
