@@ -2,6 +2,11 @@
 title: 'Worldwide—Expert Advisory Call Down Services 2 (EACDS2) Lot 4: Climate Change,
   Nature, and Global Health'
 date: 2023-03-21 15:45:00 Z
+tags:
+- global health
+- climate
+- environment
+- biodiversity
 summary: 'The Expert Advisory Call Down Services (EACDS) Lot 4: Climate Change, Nature,
   and Global Health provides rapid, quality-assured, short-term technical expertise
   to support the development of U.K. aid programs.'
