@@ -21,7 +21,7 @@ As former Director for Energy at Chemonics, she was a core member of the first a
 
 Georgia spent more than a decade of her career designing and implementing specialized approaches to increase the availability, access, and use of affordable, reliable, and sustainable clean energy technologies in Sub-Saharan Africa, Eastern Europe, and Asia. She worked at the forefront of implementing high-profile USAID initiatives for the energy sector in Sub-Saharan Africa—the Africa Infrastructure Program and Power Africa Transactions and Reforms Program—demonstrating a distinguished ability to manage tactical and operational activities, utilize technical knowledge to develop technically and commercially feasible energy projects, and structure and negotiate ground-breaking mechanisms that bolstered energy sector investment and innovation.
 
-As transaction advisor in Nigeria, she led the implementation of Power Africa’s goal to lower the cost of electricity and helped achieve financial close on Azura-Edo, an independent power project in the country.
+As transaction advisor in Nigeria, she led the implementation of Power Africa’s goal to lower the cost of electricity and helped achieve financial close on Azura-Edo, an $850 million independent power project in the country.
 
 As a Hitachi Research Institute Fellow in Japan, she advised on environmental sustainability policies and market entry strategies for renewable energy technologies. 
 
