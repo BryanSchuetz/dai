@@ -24,4 +24,4 @@ Georgia spent more than a decade of her career designing and implementing specia
 As a Hitachi Research Institute Fellow in Japan, she advised on environmental sustainability policies and market entry strategies for renewable energy technologies. 
 
 * M.A., law and diplomacy, Fletcher School at Tufts University
-* M.L. banking and financial law, Boston University School of Law
+* LL.M., banking and financial law, Boston University School of Law
