@@ -15,7 +15,7 @@ regions:
 - Worldwide
 ---
 
-Georgia Iordanescu provides strategic vision and leadership for DAI’s global portfolio of clean energy and climate projects, energy sector security, governance, and private sector engagement. Georgia drives a holistic approach to transition global systems towards sustainability, resiliency, and equity through her energy expertise and cross-sectoral in-depth knowledge of the climate-energy nexus, energy security, finance, and geopolitics.
+Georgia Iordanescu provides strategic vision and leadership for DAI’s global portfolio of clean energy and climate projects, energy sector security, governance, and private sector engagement. She also provides technical support to expand DAI’s new business activities and advance thought leadership based on DAI’s project tools and results. Georgia drives a holistic approach to transition global systems towards sustainability, resiliency, and equity through her energy expertise and cross-sectoral in-depth knowledge of the climate-energy nexus, energy security, finance, and geopolitics.
 
 As former Director for Energy at Chemonics, she was a core member of the first acquisition in the company’s history. In less than three years, she helped establish the foundation of the Sustainable Energy Transition technical practice and secure two landmark U.S. Agency for International Development (USAID) programs for the energy sectors in Sri Lanka and Serbia.
 
