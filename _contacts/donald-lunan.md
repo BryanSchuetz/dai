@@ -1,6 +1,7 @@
 ---
 title: Donald Lunan
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Global Director, Climate
 email: donald_lunan@dai.com
 summary: 'Prior to leading the Climate Business, Donald was the Director of Delivery

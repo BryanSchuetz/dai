@@ -1,6 +1,7 @@
 ---
 title: Ruth Sparrey
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Managing Development Results
 email: ruth_sparrey@dai.com
 summary: 'Ruth has 17 years of experience as a rural development consultant and as

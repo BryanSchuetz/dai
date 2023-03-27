@@ -8,6 +8,7 @@ job-title: Director of Programs
 image: "/uploads/AWL.png"
 solutions:
 - Sustainable Business
+order: 8
 ---
 
 As Director of Programs for DAI’s Sustainable Business Group, Amy Wilson-Lee oversees the delivery of a varied portfolio of projects that specialise in supporting companies to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization. Amy has significant experience in project and team management and delivery; financial management; strategic planning; business development and knowledge management. 

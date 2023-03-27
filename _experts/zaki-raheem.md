@@ -1,7 +1,6 @@
 ---
 title: Zaki Raheem
 date: 2016-01-21 22:18:00 Z
-order: 7
 lastname: Raheem
 summary: 'Zaki Raheem is private sector development specialist, where he engages in
   market assessments that look to link micro-, small-, and medium-sized enterprises
@@ -18,6 +17,7 @@ articles:
   article_file: https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html
 - name: How Incubators & Accelerators in Emerging Markets Can Build Corporate Partnerships
   article_file: https://dai-global-developments.com/articles/ande-west-africa-hosts-panel-on-assisting-businesses-in-covid-19-crisis
+order: 6
 layout: expert
 ---
 

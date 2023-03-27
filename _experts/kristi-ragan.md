@@ -12,6 +12,7 @@ solutions:
 - Trade
 regions:
 - Sub-Saharan Africa
+- Worldwide
 layout: expert
 ---
 
