@@ -34,8 +34,6 @@ DAI's industry-leading Local Content Masterclass enables regulators, companies, 
 
 Courses in 2023:
 
-* May 2 - 4, 2023 in Abu Dhabi, UAE
-
 * October 16 - 18, 2023 in Houston, USA
 
 [Read more about the Masterclass](http://www.dai.com/masterclass)
