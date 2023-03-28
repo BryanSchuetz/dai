@@ -2,9 +2,8 @@
 title: Bruce Spake
 date: 2016-01-21 22:18:00 Z
 lastname: Spake
-summary: 'Bruce Spake leads the company’s development initiatives in the Middle East,
-  North Africa, and Afghanistan. '
-job-title: Regional Vice President, Middle East, North Africa, and Afghanistan
+summary: 'Bruce Spake is Vice President for Field Engagement. '
+job-title: Vice President, Field Engagement
 image: https://assetify-dai.com/experts/Spake_Inner%20%281%29.jpg
 solutions:
 - Economic Growth
@@ -16,7 +15,7 @@ solutions:
 - Countering Extremism
 - Peace-Building and Political Transition
 regions:
-- Middle East and North Africa
+- Worldwide
 layout: expert
 ---
 
