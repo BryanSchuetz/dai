@@ -13,6 +13,7 @@ solutions:
 - Gender and Social Inclusion
 - Institutional and Policy Reform
 - Legislative Strengthening
+- Anti-corruption, Transparency, and Accountability
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
