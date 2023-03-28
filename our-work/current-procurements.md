@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [REQ-PRE-23-0002 Enterprise Data Strategy  Architecture for PSW-MK](https://dai-assets.s3.amazonaws.com/rfps/RFP%23%20REQ-PRE-23-0002_Enterprise%20Data%20Strategy%20%20Architecture%20for%20PSW-MK.pdf "5/1")
 * [RFP-EGA-23-0060 Support Recruitment of Mentors](https://dai-assets.s3.amazonaws.com/rfps/RFP-EGA-23-0060%20Support%20Recruitment%20of%20Mentors.pdf "5/1")
 * [RFP 2023-04 Mod 1](/uploads/RFP%202023-04%20Mod%201.pdf "3/29")
 * [Business Egypt EOI and Concept Note](https://dai-assets.s3.amazonaws.com/rfps/Business%20Egypt%20EOI%20and%20Concept%20Note%20Template.pdf)
