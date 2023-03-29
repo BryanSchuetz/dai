@@ -23,3 +23,7 @@ The Partners for Transparency (PfT) program supports locally driven solutions th
 * Strengthen oversight-and-control institutions’ efforts to fight corruption.
 * Nurture a culture of transparency and accountability.
 * Build local partner capacity and sustainability. 
+
+## Select Results
+
+* Provided technical assistance for the design of corruption risk maps in Cartagena to train public officials in corruption risk management. Four administrative units from the Mayor’s Office presented their maps to 100 stakeholders for evaluation. The risk maps make public officials aware of transparency issues, for which they can create oversight measures to mitigate misspending of public funds.
