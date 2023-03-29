@@ -13,9 +13,9 @@ regions: Sub-Saharan Africa
 country: South Africa
 ---
 
-This Technical Assistance for the EU-South Africa Dialogue Facility, a follow-on project with two previous iterations, helps enable the strategic partnership that has existed between the European Union (EU) and South Africa since 2007. The initial Trade, Development, and Cooperation Agreement’s Dialogue Facility was launched as a pilot, as policy dialogue was a new concept, but since its launch, the demand for support steadily increased from a wider variety of stakeholders seeking assistance.
+This Technical Assistance for the EU-South Africa Dialogue Facility, a follow-on project with two previous iterations, helped enable the strategic partnership that has existed between the European Union (EU) and South Africa since 2007. The initial Trade, Development, and Cooperation Agreement’s Dialogue Facility was launched as a pilot, as policy dialogue was a new concept, but since its launch, the demand for support steadily increased from a wider variety of stakeholders seeking assistance.
 
-The Facility builds relationships between decision-makers as a means of implementing international partnerships between South Africa and the EU. The project is expected to guarantee clear and transparent governance of the process of calling for proposals of various activities and ensure that political dialogue between the EU and South Africa remains productive. 
+The Facility built relationships between decision-makers as a means of implementing international partnerships between South Africa and the EU. The Facility played a crucial role in fostering discussions between South African government institutions and their EU counterparts. By promoting peer-to-peer exchange and sustainable relationships, the dialogues helped departments address critical policy issues. One outcome was the establishment of a National Preventive Mechanism to protect women in the criminal justice system. In all, the program approved 41 dialogues, resulting in 153 events with 12,577 participating delegates. 
 
 ![SA-DF II  (1).jpg](/uploads/SA-DF%20II%20%20(1).jpg)
 
