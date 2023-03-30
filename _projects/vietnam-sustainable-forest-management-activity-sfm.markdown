@@ -10,6 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Environment
 - Natural Resource Management
+- Governance
 regions: Asia and the Pacific
 country: Vietnam
 promos:
@@ -40,9 +41,8 @@ In seven provinces, SFM is strengthening community forest management models to a
 * Signed a partnership agreement with the Biomass Fuel Vietnam Co., Ltd. to leverage $7.5 million to promote more than 5,000 hectares of Forest Stewardship Council-certified plantation forests from 3,000 small-scale forest owners in Nghe An province. 
 * Conducted a study in Thanh Hoa province on how customary laws support or hinder the effort for effective management and forestry law enforcement; what practices can be used by concerned parties to ensure effective forest governance and equity at the grassroots level; and how law enforcement agencies in Thanh Hoa should prevent and deal with potential violations and conflicts between customary law and legal regulations.
 * Supported the Vietnam Administration of Forestry in developing the Gender Equality Action Plan, 2021–2025, a commitment towards leadership, economics, gender-based violence prevention, research, and gender integration into technical activities of the forestry sector. 
-* Trained 17,500 people in community forest management, value chain development, law enforcement, sustainable forest management, and monitoring Payment for Ecosystems Services 
-* Built capacity of 44 organizations, including 22 government agencies, 8 conservation-friendly enterprises, and 14 community organizations 
-* Developed 29 policies—5 national, 17 subnational, and 7 at community level 
-* Mobilized more than $10 million in investment from the government and the private sector 
-
- 
+* Trained 17,500 people in community forest management, value chain development, law enforcement, sustainable forest management, and monitoring Payment for Ecosystems Services. 
+* Built capacity of 44 organizations, including 22 government agencies, 8 conservation-friendly enterprises, and 14 community organizations. 
+* Developed 29 policies—5 national, 17 subnational, and 7 at the community level.
+* Mobilized more than $10 million in investment from the government and the private sector.
+* Handed over 1 million Acacia mangium seedlings to 400 households from 9 communes and 192 kilograms of seeds for 13 nurseries in 4 districts. Hoa Binh province will be able to seed 5,500 hectares of plantation forests with this high-quality planting material.

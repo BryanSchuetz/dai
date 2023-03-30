@@ -22,6 +22,8 @@ promos:
 - title: Presentation on removing barriers to export of farmed shellfish from South
     Africa and Namibia
   link: "/uploads/TFSA-Presentation-at-AFRAQ-26032022.pptx"
+- title: Sector Work in South Africa
+  link: https://tfsouthernafrica.org/wp-content/uploads/2023/03/TFSA-Sector-Work-in-South-Africa.pdf
 ---
 
 [Trade Forward Southern Africa](https://tfsouthernafrica.org/) (TFSA) is a program designed to alleviate poverty across the Southern African Customs Union and Mozambique (SACU+M) by increasing the scale and quality of trade within the union as well as with the UK.

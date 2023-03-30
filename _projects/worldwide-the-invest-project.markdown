@@ -56,3 +56,5 @@ INVEST has supported transactions in enterprise development, infrastructure, and
 * Implemented activities with 36 USAID missions, bureaus, and independent offices in more than 80 countries across a range of sectors, including finance, clean energy, and agriculture.
 * Mobilized capital across the globe, of which 55 percent had been invested in firms in Africa and funds targeting the African continent as of February 2023.
 * Issued 212 subcontracts to develop and implement technical activities by February 2023. Eighty-four percent of subcontracted firms are new or underutilized partners for USAID.
+* Supported 7,653 women in Colombia to access improved financial
+services via savings accounts or credit with support from partners Fundacíon Capital and Microempresas de Colombia.
