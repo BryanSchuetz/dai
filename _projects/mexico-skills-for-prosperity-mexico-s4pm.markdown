@@ -39,9 +39,9 @@ Skills for Prosperity follows an inclusion and gender approach through its inter
 
 ### Select Results
 
-* Established Cisco Networking Academies at Conalep TVET institutions in Puebla and Jalisco and prepared IT professors to teach routing and switching to their students. 
+* Launched an inclusion strategy focused on mental health and disabilities - a significant paradigm shift from a medical to a social perspective.  
 * Trained TVET professors to teach Python programing language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
 * Launched a mentorship program for female students in higher education in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace, especially on overcoming gender-based stereotypes.
-* Offered technical advice to educational institutions and companies to improve their Labour Equality and No-Discrimination standards according to the Mexican Norm (NMX-025).
+* Co-financed STEM Academy Labs for use by Mechatronics students from the Metropolitan Technological University Mexico.
 * Trained higher-education professors in Oaxaca to manage robotics and programming labs that offer young TVET students, especially women,  their first practical experience of STEM career options. 
 * Completed a teacher training program to prepare teachers to teach Python skills to students in technical and vocational upper secondary schools in the Mexican state of Jalisco. 
