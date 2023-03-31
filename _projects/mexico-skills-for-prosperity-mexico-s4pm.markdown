@@ -16,7 +16,7 @@ promos:
 - title: 'Project YouTube Channel '
   link: https://www.youtube.com/channel/UCSJTczpbfeXMEPu_3Hbr5Ng
 - title: Skills for Prosperity Mexico Program Results and Success Stories
-  link: "/uploads/SFPMx%20-%20Program%20Results%20and%20Success%20Stories.pdf"
+  link: "/uploads/SFPMx%20-%20Program%20Results%20and%20Success%20Stories-a6fdee.pdf"
 ---
 
 The Skills for Prosperity Mexico (SFPMx) Programme works to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
