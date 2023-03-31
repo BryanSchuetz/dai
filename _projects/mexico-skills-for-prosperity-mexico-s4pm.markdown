@@ -39,6 +39,7 @@ Skills for Prosperity follows an inclusion and gender approach through its inter
 
 ### Select Results
 
+* Trained over 2,000 teachers and 100 technical assistants through 16 educational institutions across five states. This has benefitted 14,000 current students (2023) and has set a legacy and infrastructure to benefit over 50,000 students in the short term and many more in the future.
 * Launched an inclusion strategy focused on mental health and disabilities - a significant paradigm shift from a medical to a social perspective.  
 * Trained TVET professors to teach Python programing language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
 * Launched a mentorship program for female students in higher education in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace, especially on overcoming gender-based stereotypes.
