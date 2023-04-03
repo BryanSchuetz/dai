@@ -5,7 +5,7 @@ lastname: Carlucci
 summary: 'Kevin Carlucci is a development professional with more than 20 years of
   experience across a diverse set of disciplines, including finance, natural resource
   management, economic policy reform, and emerging market economic development. '
-job-title: Senior Director for Climate, Land, and Natural Resources
+job-title: Senior Director, Climate, Land, and Natural Resources
 image: "/uploads/Kevin%20Carlucci%20website.jpg"
 solutions:
 - Energy
