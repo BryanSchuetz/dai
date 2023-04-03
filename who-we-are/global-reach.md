@@ -14,14 +14,14 @@ layout: node
 
 ## European Union
 
-The European Union (EU) is the world’s largest development donor. DAI, with its long-term presence on the European continent and the recent acquisition of Human Dynamics, is a key partner in the implementation of the EU global strategy for international development and cooperation. As the leading EU contractor, we seek to build synergies between EU policies to the benefit of partner countries.
+The European Union (EU) is the world’s largest development donor. DAI, with its long-term presence on the European continent and the acquisition of Human Dynamics, is a key partner in the implementation of the EU global strategy for international development and cooperation. As the leading EU contractor, we seek to build synergies between EU policies to the benefit of partner countries.
 
 <a href="/who-we-are/global-reach/european-union" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
 
 ## Nigeria
 
-Nigeria is Africa’s most populous nation and largest economy, a country of almost unimaginable promise. But like many emerging nations it faces the development challenges that come with industrialization and growth. With offices in Lagos and Abuja, our extensive in-country team works with public and private sector clients to realize Nigeria's extrordinary potential.
+Nigeria is Africa’s most populous nation and largest economy, a country of almost unimaginable promise. But like many emerging nations it faces the development challenges that come with industrialization and growth. With an office in Abuja, our extensive in-country team works with public and private sector clients to realize Nigeria's extraordinary potential.
 
 <a href="/who-we-are/global-reach/dai-nigeria" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
