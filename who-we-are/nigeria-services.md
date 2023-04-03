@@ -3,9 +3,9 @@ title: DAI in Nigeria
 permalink: "/who-we-are/global-reach/nigeria/services"
 summary: Nigeria is Africa’s most populous nation and largest economy, a country of
   almost unimaginable promise. But like many emerging nations it faces the development
-  challenges that come with industrialization and growth. With offices in Lagos and
-  Abuja, our extensive in-country team works with public and private sector clients
-  to realize Nigeria's extrordinary potential.
+  challenges that come with industrialization and growth. With an office in Abuja,
+  our extensive in-country team works with public and private sector clients to realize
+  Nigeria's extraordinary potential.
 hero: true
 regions: Sub-Saharan Africa
 related: true
@@ -42,7 +42,7 @@ DAI in Nigeria supports a growing portfolio of projects and clients in the count
   <div class="nigeria-service--block">
     <div class="text">
       <h3><a href="/uploads/corp-profile.pdf">Corporate Profile</a></h3>
-      <p>The Nigeria office is a locally registered entity supporting a portfolio of more than $100 million that works to meet the critical service delivery needs of the Nigerian populace. Our work has improved domestic resource mobilization at the state and local government levels, boosted access to maternal and child health services in northern Nigeria, laid the groundwork for systemic improvements in water resource management, enhanced productivity and distribu- tion for commercial food companies, and facilitated policy reforms to promote private sector growth.</p>
+      <p>The Nigeria office is a locally registered entity supporting a portfolio of more than $100 million that works to meet the critical service delivery needs of the Nigerian populace. Our work has improved domestic resource mobilization at the state and local government levels, boosted access to maternal and child health services in northern Nigeria, laid the groundwork for systemic improvements in water resource management, enhanced productivity and distribution for commercial food companies, and facilitated policy reforms to promote private sector growth.</p>
     </div>
     <div class="image"><a href="/uploads/corp-profile.pdf"><img src="/uploads/profile-thumb.png" alt=""></a></div>
   </div>
