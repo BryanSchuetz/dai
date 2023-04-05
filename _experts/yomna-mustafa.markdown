@@ -1,6 +1,7 @@
 ---
 title: Yomna Mustafa
 date: 2023-04-05 13:57:00 Z
+published: false
 lastname: Mustafa
 summary: 'Yomna Mustafa is an Egyptian private sector development specialist and program
   director with more than 20 years of experience supporting small and medium businesses
