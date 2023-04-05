@@ -5,7 +5,7 @@ lastname: Djurić
 summary: 'Siniša Djurić is the Associate Director and Project Director in our European
   Union (EU) Business Unit. '
 job-title: Associate Director, Governance, European Union Business Unit
-image: "/uploads/Sinisa-Djuric%20website.jpg"
+image: "/uploads/Sinisa-Djuric%20website%20copy.jpg"
 solutions:
 - Governance
 regions:
