@@ -8,6 +8,9 @@ job-title: Associate Director, Governance, European Union Business Unit
 image: "/uploads/Sinisa-Djuric%20website%20copy.jpg"
 solutions:
 - Governance
+- Public Financial Management and Domestic Revenue Mobilization
+- Local Governance and Decentralization
+- Public Administration, Civil Service Reform, and Human Resources Management
 regions:
 - Worldwide
 ---
@@ -20,6 +23,6 @@ Prior to DAI, Siniša served in different international organizations such as th
 
 He has also worked in Albania, Bosnia, Egypt, Iraq, Lebanon, Montenegro, Morocco, Serbia, and Türkiye.
 
-* MBA 
+* MBA, Cotrugli Business School  
 * Partnership Broker, Partnership Brokers Accreditation Scheme
 * Licensed trainer, public advocacy, Institute of Sustainable Communities
