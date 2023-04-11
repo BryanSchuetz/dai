@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP 2023-06 Democratizing Digital Event Facilitation](/uploads/RFP%202023-06%20Democratizing%20Digital%20Event%20Facilitation.pdf "5/11")
 * [RFP 2023-07 Digital Development Mapping Exercise](/uploads/RFP%202023-07%20Digital%20Development%20Mapping%20Exercise.pdf "5/9")
 * [RFP 2023-05 ProICT CARICOM](/uploads/RFP%202023-05%20ProICT%20CARICOM.pdf "4/28")
 * [RFP0011-CdMx-Conjusticia Court Management_english](/uploads/RFP0011-CdMx-Conjusticia%20Court%20Management_eng.pdf "4/14")
