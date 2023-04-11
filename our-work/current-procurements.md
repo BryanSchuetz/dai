@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP 2023-07 Digital Development Mapping Exercise](/uploads/RFP%202023-07%20Digital%20Development%20Mapping%20Exercise.pdf "5/9")
 * [RFP 2023-05 ProICT CARICOM](/uploads/RFP%202023-05%20ProICT%20CARICOM.pdf "4/28")
 * [RFP0011-CdMx-Conjusticia Court Management_english](/uploads/RFP0011-CdMx-Conjusticia%20Court%20Management_eng.pdf "4/14")
 * [RFP0011-CdMx-Conjusticia Gestion Tribunales_spanish](/uploads/RFP0011-CdMx-Conjusticia%20Gestion%20Tribunales_spa.pdf "4/14")
