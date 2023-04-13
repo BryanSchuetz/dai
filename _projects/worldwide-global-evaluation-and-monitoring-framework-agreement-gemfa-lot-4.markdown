@@ -34,3 +34,5 @@ Global in scope, the framework covers seven thematic areas:
 DAI's 12-partner consortium for GEMFA Lot 4 call-down assignments comprises the University of Portsmouth, Energy Saving Trust, Climate Sense, Caribou Digital, ACER, Tandem Development, Consilient, Halycon Consulting, Population Council, National Foundation for Educational Research, 3IE, and Conflict Management Council. 
  
 DAI already has considerable experience managing similar framework services, including FCDO's [Expert Advisory Call Down Service Lot B](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds)  and the previous iteration of the GEMFA framework, [GEFA](https://www.dai.com/our-work/projects/worldwide-global-evaluation-framework-agreement-1-and-2). 
+
+![Group work_training of LGA M&Eoficers on the use of NTDs data tools.jpg](/uploads/Group%20work_training%20of%20LGA%20M&Eoficers%20on%20the%20use%20of%20NTDs%20data%20tools.jpg)
