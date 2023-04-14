@@ -2,7 +2,7 @@
 title: Melanie Bittle
 date: 2020-01-22 15:46:00 Z
 lastname: 'Bittle '
-summary: Melanie Bittle is a Directtor for DAI’s Agriculture and Market Systems practice.
+summary: Melanie Bittle is a Director for DAI’s Agriculture and Market Systems practice.
 job-title: Director, Agriculture and Market Systems
 image: "/uploads/Melanie%20Bittle%20portal.jpg"
 solutions:
