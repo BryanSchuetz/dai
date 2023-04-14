@@ -7,7 +7,7 @@ summary: 'DAI is delivering the first two phases of the Climate Finance Accelera
   activities in Pakistan, including a scoping exercise to map Pakistan''s climate
   finance landscape. '
 start: 2022
-end: 2023
+end: 2024
 client: 'U.K. Department of Business, Energy & Industrial Strategy '
 solutions:
 - Environment
