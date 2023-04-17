@@ -5,7 +5,7 @@ lastname: Giraldo
 summary: 'Enrique Giraldo has more than 20 years of experience in tax policy and administration,
   public expenditure reforms, IT system development management, and management credentials
   in leading U.S. Agency for International Development projects. '
-job-title: Senior Global Practice Specialist, Governance
+job-title: Senior Lead Specialist, Public Financial Management
 image: https://assetify-dai.com/experts/EnriqueInner.jpg
 solutions:
 - Decentralization and Local Government Management
