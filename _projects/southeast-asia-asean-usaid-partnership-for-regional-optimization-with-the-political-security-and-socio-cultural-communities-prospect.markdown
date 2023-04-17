@@ -7,7 +7,7 @@ summary: 'PROSPECT helps the Association of Southeast Asian Nations (ASEAN) defi
   engagement, and elevate rights and opportunities for women and other vulnerable
   groups. '
 start: 2018
-end: 2023
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
