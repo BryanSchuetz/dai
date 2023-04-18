@@ -2,9 +2,15 @@
 title: FCDO Education Project Gets High Marks for Safeguarding Workshops in Nigeria
 date: 2023-04-18 13:57:00 Z
 published: false
+solutions:
+- Governance
+- Education
 regions: Sub-Saharan Africa
 projects: Nigeria—Partnership for Learning for All (PLANE)
 clients: U.K. Foreign and Commonwealth Office
+summary: The DAI-led [Nigeria Partnership for Learning for All (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane)
+  project, funded by the U.K Foreign, Commonwealth & Development Office, is introducing
+  the concept of safeguarding in education settings.
 social-image: "/uploads/sm%20131A0090.jpg"
 country: Nigeria
 ---
