@@ -1,10 +1,8 @@
 ---
 title: FCDO Education Project Gets High Marks for Safeguarding Workshops in Nigeria
 date: 2023-04-18 13:57:00 Z
-published: false
 solutions:
 - Governance
-- Education
 regions: Sub-Saharan Africa
 projects: Nigeria—Partnership for Learning for All (PLANE)
 clients: U.K. Foreign and Commonwealth Office
