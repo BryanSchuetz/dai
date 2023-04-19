@@ -20,7 +20,7 @@ The Macroeconomic Advisory Support to the Government of Jordan project aims to d
 
 Our partner in this project is investment bank [Lion’s Head Global Partners](https://www.lhgp.com/) which has been working with the Government of Jordan on macro financial and sectoral advisory projects since 2016 and has collaborated with DAI on several initiatives. Together we are uniquely positioned to leverage our technical expertise, partner networks, and on-the-ground assets across the country to deliver trusted, high-quality advice to the Jordanian Government. Our aim is to assist the Government with planning, advancing, and implementing reforms that enhance macroeconomic stability.
 
-Our targeted technical assistance will provide support in four key areas: 1) Central debt management, 2) Financial management in the energy sector, 3) Financial management in the water sector, and 4) Additional demand-led ad-hoc macroeconomic technical and advisory support.
+Our targeted technical assistance will provide support in four key areas: 1) central debt management, 2) financial management in the energy sector, 3) financial management in the water sector, and 4) additional demand-led ad-hoc macroeconomic technical and advisory support.
 
 ![Adobe stock - Amman Jordan.png](/uploads/Adobe%20stock%20-%20Amman%20Jordan.png) 
 
