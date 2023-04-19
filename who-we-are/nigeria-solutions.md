@@ -3,9 +3,9 @@ title: DAI in Nigeria
 permalink: "/who-we-are/global-reach/nigeria/solutions"
 summary: Nigeria is Africa’s most populous nation and largest economy, a country of
   almost unimaginable promise. But like many emerging nations it faces the development
-  challenges that come with industrialization and growth. With offices in Lagos and
-  Abuja, our extensive in-country team works with public and private sector clients
-  to realize Nigeria's extraordinary potential.
+  challenges that come with industrialization and growth. With an office in Abuja,
+  our extensive in-country team works with public and private sector clients to realize
+  Nigeria's extraordinary potential.
 hero: true
 regions: Sub-Saharan Africa
 related: true
@@ -35,7 +35,7 @@ DAI has global experience improving the management of natural resources and prot
 
 ### Fragile States
 
-Led by its Centre for Secure and Stable States, DAI provides innovative assistance to support political transition, ensure short-term stability, prevent and counter violent extremism, and lay the foundation for long-term development in fragile environments. DAI in Nigeria has provided an array of support for such environments in Adamawa, Borno, Yobe, and Zamfara States through the <strong><a href="/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability">State Partnership for Accountability Responsiveness and Capability</a></strong>, the <strong><a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">Accountable, Responsive, and Capable Government Programme</a></strong>, and the <strong><a href="/our-work/projects/nigeria-women-for-health-w4h">Women for Health</a></strong> programmes. The <strong><a href="/our-work/projects/nigeria-market-development-in-the-niger-delta-1">Market Development in the Niger Delta I</a></strong> and <strong><a href="/our-work/projects/nigeria-market-development-programme-made">Market Development in the Niger Delta II</a></strong> projects have both worked to foster economic stability in the volatile Delta region.
+DAI provides innovative assistance to support political transition, ensure short-term stability, prevent and counter violent extremism, and lay the foundation for long-term development in fragile environments. DAI in Nigeria has provided an array of support for such environments in Adamawa, Borno, Yobe, and Zamfara States through the <strong><a href="/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability">State Partnership for Accountability Responsiveness and Capability</a></strong>, the <strong><a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">Accountable, Responsive, and Capable Government Programme</a></strong>, and the <strong><a href="/our-work/projects/nigeria-women-for-health-w4h">Women for Health</a></strong> programmes. The <strong><a href="/our-work/projects/nigeria-market-development-in-the-niger-delta-1">Market Development in the Niger Delta I</a></strong> and <strong><a href="/our-work/projects/nigeria-market-development-programme-made">Market Development in the Niger Delta II</a></strong> projects have both worked to foster economic stability in the volatile Delta region.
 
 <a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/fragile-states" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
@@ -53,7 +53,7 @@ DAI strengthens and improves government performance by providing technical advic
 
 ### Sustainable Business
 
-DAI’s Sustainable Business Group supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. For example, DAI assisted Chevron’s <strong><a href="/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind">Partnership Initiatives in the Niger Delta</a></strong> in developing its economic development strategy.
+DAI’s Sustainable Business Group supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policies, regulations, and incentives that grow sustainable industries. For example, DAI assisted Chevron’s <strong><a href="/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind">Partnership Initiatives in the Niger Delta</a></strong> in developing its economic development strategy.
 
 <a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/sustainable-business" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 

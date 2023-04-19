@@ -19,6 +19,8 @@ articles:
 - name: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan Trade
     in the COVID-19 Era'
   article_file: https://dai-global-developments.com/articles/when-business-as-usual-is-not-good-for-business-afghanistan-pakistan-trade-in-the-covid-19-era
+- name: Boosting Africa’s Economic Dynamism Key to Prosperity
+  article_file: https://nation.africa/kenya/blogs-opinion/blogs/boosting-africa-s-economic-dynamism-key-to-prosperity-4185180
 layout: expert
 ---
 

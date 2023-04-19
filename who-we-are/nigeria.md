@@ -3,9 +3,9 @@ title: DAI in Nigeria
 permalink: "/who-we-are/global-reach/dai-nigeria"
 summary: Nigeria is Africa’s most populous nation and largest economy, a country of
   almost unimaginable promise. But like many emerging nations it faces the development
-  challenges that come with industrialization and growth. With offices in Lagos and
-  Abuja, our extensive in-country team works with public and private sector clients
-  to realize Nigeria's extrordinary potential.
+  challenges that come with industrialization and growth. With an office in Abuja,
+  our extensive in-country team works with public and private sector clients to realize
+  Nigeria's extraordinary potential.
 hero: true
 regions: Sub-Saharan Africa
 related: true
@@ -55,7 +55,7 @@ In the course of our work with international donors and the Nigerian state and f
               </div>
             </div>
             <div class="content">
-              <p>In 2020, we expanded our capacity to develop proposals in several sectors. We increased our efforts to diversify our client base by bidding for work with AFD, World Bank and African Development Bank.</p>
+              <p>In 2020, we expanded our capacity to develop proposals in several sectors. We increased our efforts to diversify our client base by bidding for work with AFD, the World Bank, and the African Development Bank.</p>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -77,7 +77,7 @@ In the course of our work with international donors and the Nigerian state and f
               </div>
             </div>
             <div class="content">
-              <p>In 2021 focus was on implementation of the 2020 wins, pursuing local opportunities, and corporate governance strengthening.</p>
+              <p>In 2021 the focus was on implementating the 2020 wins, pursuing local opportunities, and corporate governance strengthening.</p>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -101,16 +101,7 @@ In the course of our work with international donors and the Nigerian state and f
     Tel: +234 818 800 5248<br>
   </p>
 </div>
- 
-<div style="width: 45%; float: left;">
-  <p>
-    <strong>Lagos Office</strong><br>
-    28 Maitama Sule Street<br>
-    Off Awolowo Road<br>
-    Ikoyi, Lagos<br>
-    +234 1 291 8657<br>
-  </p>
-</div>
+
 
 <!-- <a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/solutions" target="blank" class="primary-block--button expert-button paola-block">Our Solutions <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 

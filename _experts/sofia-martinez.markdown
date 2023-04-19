@@ -26,7 +26,7 @@ Sofia Martinez is a senior energy and climate expert with 20 years of experience
 
 As a public official, and prior to joining DAI, she was a Seconded National Expert for over five years in the EU Commission in the Directorate General for International Partnerships. She worked in the Spanish Energy Agency, and the Spanish Office for Climate Change. She has worked in consulting and research. She has managed and led international teams and initiatives, prepared technical proposals and business strategies, and also worked in consulting and research. She has participated in conferences, training, and capacity-building activities throughout her career. Between 2009 and 2015, Sofia was a teacher for the master’s course in renewable energy and energy market at the Escuela de Organización Industrial, and has participated in conferences, training, and capacity-building activities throughout her career.
 
-At DAI, she is a member of the Global Climate Team, where she focuses on strengthening DAI’s corporate responses and leadership, supporting new and existing projects and pipelines, and identifying future areas and opportunities to deliver exceptional and impactful climate action in sectors like energy, circular economy, urban, climate finance or carbon markets
+At DAI, she is a member of the Development Finance Institutions team, where she focuses on strengthening DAI’s corporate responses and leadership, supporting new and existing projects and pipelines, and identifying future areas and opportunities to mobilize capital at scale for climate action and sustainable development.
 
 * M.Sc., chemical engineering, University of Valladolid, Spain
 * M.S., environmental technologies, University of Valladolid, Spain 

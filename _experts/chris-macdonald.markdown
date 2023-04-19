@@ -1,7 +1,7 @@
 ---
 title: Chris MacDonald
 date: 2018-02-16 21:53:00 Z
-order: 6
+published: false
 lastname: MacDonald
 summary: 'Chris MacDonald is a supply chain management and procurement and contracting
   professional with 36 years of experience working for Shell International. He advises
@@ -23,6 +23,7 @@ articles:
 - name: 'Oman’s Journey to In-Country Value: An Approach to Local Content that Works
     for Government and the Private Sector'
   article_file: https://dai-global-developments.com/articles/omans-journey-to-in-country-value-an-approach-to-local-content-that-works-for-government-and-the-private-sector?utm_source=daidotcom
+order: 6
 ---
 
 Chris MacDonald is an internationally recognized expert on local content and in-country value (ICV) for the oil and gas industry. Working with Shell International for more than 36 years, including expatriate residential assignments in 12 countries, he developed extensive global experience in supply chain management and procurement. Today, he advises private-sector clients on local content development strategies for DAI’s Sustainable Business Group (SBG). He also leads DAI’s development of Oman’s national ICV Blueprint Strategy on behalf of the Ministry of Commerce and Industry and Petroleum Development Oman.
