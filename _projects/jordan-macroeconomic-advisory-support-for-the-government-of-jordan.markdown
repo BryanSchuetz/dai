@@ -22,11 +22,10 @@ Our partner in this project is investment bank [Lion’s Head Global Partners](h
 
 Our targeted technical assistance will provide support in four key areas: 1) Central debt management, 2) Financial management in the energy sector, 3) Financial management in the water sector, and 4) Additional demand-led ad-hoc macroeconomic technical and advisory support.
 
- 
+![Adobe stock - Amman Jordan.png](/uploads/Adobe%20stock%20-%20Amman%20Jordan.png) 
 
 ### Sample Activities
 
 * **Central debt management:** Support the Ministry of Finance with analysis and advice to ensure the conditions of the IMF Extended Funding Facility program are met.
 * **Financial management in the energy sector:** Financial modeling/appraisal of options to implement key energy sector reforms that have been developed to increase efficiency and return the National Electric Power Company to cost recovery by 2030. Strategic support to the Government of Jordan to negotiate financial agreements with International Financial Institutions and the private sector.
 * **Financial management in the water sector:** Analysis of financial data from the water sector, including debt, deficit, and losses analysis.
-* **Demand-led ad-hoc support:** Support to PPP project development and recommend adjustments to the RFPs.
