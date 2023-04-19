@@ -23,9 +23,13 @@ Local Impact capitalizes on the momentum of recent policy initiatives and builds
  
 ![highlights_ZAMBIA_122.jpg](/uploads/highlights_ZAMBIA_122.jpg)
  
-### Sample Activities
+## Sample Activities
 
 * Engage emerging leaders and change agents—particularly women and youth—through our Champions for Change leadership training methodology.
 * Shore up domestic resource mobilization through own-source revenue benchmarking, local government resource estimation and enhancement tools, and public-private dialogue. 
 * Build core functions (budgeting, planning, management, and oversight) of district councils and deconcentrated sectors around a specific service that is prioritized by citizens and can have an immediate positive impact on their daily lives, such as reduced waiting time in health clinics, better lighting, or improved solid waste management. 
-* Design a Learning Lab to serve as a knowledge hub, connect networks of actors through social media, knowledge diffusion, and exchanges. The Learning Lab will help assess interventions across districts; document what is working, what is not, and why; and accelerate replication and scaling. 
+* Design a Learning Lab to serve as a knowledge hub, and connect networks of actors through social media, knowledge diffusion, and exchanges. The Learning Lab will help assess interventions across districts; document what is working, what is not, and why; and accelerate replication and scaling. 
+
+## Select Results
+
+* Supported Zambia’s Cabinet Office to formulate a simplified, citizen-friendly version of the National Decentralisation Policy (2023-2026) and its implementation plan. The simplified and illustrated versions helps citizens understand and make use of the documents as the decentralization drive takes shape.
