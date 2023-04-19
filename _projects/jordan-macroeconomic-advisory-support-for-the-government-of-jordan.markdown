@@ -14,7 +14,7 @@ regions: Middle East and North Africa
 country: Jordan
 ---
 
-Jordan’s economy has been buffeted by repeated exogenous shocks for more than a decade. Key risks facing Jordan include higher-than-expected tightening by the US Federal Reserve, forcing commensurate tightening by the Central Bank of Jordan; worsening food and energy security linked to geopolitical events in Eastern Europe and East Asia; climate events, including extended dry periods; and shocks to investor confidence in the emerging markets more broadly.
+Jordan’s economy has been buffeted by repeated shocks for more than a decade. Key risks facing Jordan include higher-than-expected tightening by the US Federal Reserve, forcing commensurate tightening by the Central Bank of Jordan; worsening food and energy security linked to geopolitical events in Eastern Europe and East Asia; climate events, including extended dry periods; and shocks to investor confidence in the emerging markets more broadly.
 
 The Macroeconomic Advisory Support to the Government of Jordan project aims to deliver demand-led technical assistance supporting macroeconomic management, especially financing strategies and debt management, and support to the energy and water sectors on financial sustainability. 
 
