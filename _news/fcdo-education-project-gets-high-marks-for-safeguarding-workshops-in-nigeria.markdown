@@ -18,7 +18,7 @@ The DAI-led [Nigeria Partnership for Learning for All (PLANE)](https://www.dai.c
 
 The PLANE team recently developed a school-based referral pathway to enable children to feel confident and safe reporting their safeguarding concerns. Group discussions with children were held to understand their needs. Feedback gathered from these discussions reinforced the importance of listening to children when planning for their welfare.
 
-![Image.jpeg](/uploads/Image.jpeg)`Photo: FCDO PLANE.`
+![131A0090.JPG](/uploads/131A0090.JPG)`Pictured from left, Hadiza Nasiru, PLANE Safeguarding advisor, Kaduna; Diana Agabi, PLANE State Team Leader, Kaduna; Nafisat Mohammed, Assistant Head Teacher at a PLANE-supported primary school in Kaduna; and Dr. Nguyan Feese, PLANE National Team Leader. Photo: FCDO PLANE.`
 
 For some children, this was the first time an adult had truly paid them any attention or showed interest in what they had to say. One deaf girl, for example, has struggled to communicate her experiences with bullying. Asked who she could talk to apart from her parents, she responded by nodding her head and gesturing to communicate, “No one.” She then signed to her interpreter: “No one understands me, so I talk with my fists,” holding up her fist as if to fight.
 
@@ -30,4 +30,4 @@ After participating in the safeguarding training, a Gender Officer from the Kadu
 
 In addition to the safeguarding measures, PLANE has been busy distributing learning packages (pictured below. Almost 2,000 schools, more than 5,000 teachers, and more than 350,000 learners have accessed PLANE's learning packages for foundational skills. The team has delivered more than 700,000 packages and established 200 Community Learning Hubs across Jigawa, Kaduna, and Kano states.
 
-![131A0090.JPG](/uploads/131A0090.JPG)`Photo: FCDO PLANE.`
+![Image.jpeg](/uploads/Image.jpeg)`Photo: FCDO PLANE.`
