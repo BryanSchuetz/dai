@@ -10,7 +10,7 @@ summary: Amanda leads DAI human resources management in Europe. Prior to joining
   in global change management and shaping an organisation’s culture by working with
   clients and business units to develop human capital strategies and coaching leaders
   in dealing with key people management and development issues.
-image: "/uploads/Amanda%20Page%20Final.jpg"
+image: "/uploads/Page,%20Amanda%202023%20(headshot).jpg"
 group: Management
 sort-order: 5
 ---
