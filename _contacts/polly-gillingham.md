@@ -13,6 +13,6 @@ summary: Polly is responsible for business development and competitive tendering
   the Evidence on Demand service.
 image: https://assetify-dai.com/contacts/polly-gillingham.jpg
 group: Management
-sort-order: 1
+sort-order: 2
 ---
 
