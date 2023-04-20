@@ -10,6 +10,6 @@ summary: Keith is an experienced development executive who has worked over the p
   in 2019.
 image: https://assetify-dai.com/contacts/keith-smith.jpg
 group: Management
-sort-order: 4
+sort-order: 1
 ---
 
