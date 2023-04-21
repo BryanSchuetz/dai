@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [PIA Lead Evaluator RFP](/uploads/PIA%20Lead%20Evaluator%20RFP.pdf "4/28")
+* [MSP_Fixed Price Cost Build Up Template](/uploads/MSP_Fixed%20Price%20Cost%20Build%20Up%20Template.xlsx "4/28")
 * [RFP 2023-05 Mod 1](/uploads/RFP%202023-05%20Mod%201.pdf "4/28")
 * [RFP 2023-06 Democratizing Digital Event Facilitation](/uploads/RFP%202023-06%20Democratizing%20Digital%20Event%20Facilitation.pdf "5/11")
 * [RFP 2023-07 Digital Development Mapping Exercise](/uploads/RFP%202023-07%20Digital%20Development%20Mapping%20Exercise.pdf "5/9")
