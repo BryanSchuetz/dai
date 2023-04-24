@@ -5,7 +5,7 @@ summary: The Macro-Economic Stabilization and Reform (MESR) project addresses Eg
   macroeconomic challenges and assists with reforms expected by the International
   Monetary Fund.
 start: 2018
-end: 2023
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
