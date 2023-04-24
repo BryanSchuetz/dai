@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Gillingham
 summary: 'Polly Gillingam joined DAI in 2000 and has 25 years of experience in the
   international development sector. '
-job-title: Director of New Business
+job-title: Vice President, Business Development
 image: https://assetify-dai.com/experts/PollyGillinghamINNER.jpg
 solutions:
 - Include Primary and/or Secondary Solutions
@@ -13,8 +13,9 @@ solutions:
 layout: expert
 ---
 
-Polly Gillingam joined DAI in 2000 and has 25 years of experience in the international development sector. She has worked across multiple geographies (Asia, Latin America, and Sub-Saharan Africa) as well as at all stages of the programme cycle (supporting design, policy development, competitive tendering, startup, technical and operational delivery, and evaluations). While the majority of her work has been with the U.K. Government, she has also worked on programmes funded by the World Bank, DANIDA, the Dutch Government, and the United Nations Development Programme. Polly’s main technical area of interest is in livelihoods and natural resource management—particularly the governance and political economy of critical resources such as water, a topic which her Ph.D. and her early experience focused on. 
+With over 25 years of experience in the sector, Polly is responsible for our business development and strategy with DAI’s UK Government clients as well as donors such as the World Bank and Swiss Government. Since joining DAI in 2000, she has worked on both business development and delivery across a broad range of programs in our portfolio. These programs have been technically as well as geographically diverse including programs in Nigeria (governance and economic policy development), Bangladesh (monitoring and evaluation), South Africa (governance and business enabling environment within the forestry sector), and Technical Director on the UK-based Livelihoods Resource Centre and its successor program CEIL PEAKS.
 
-As Director of New Business, Polly is responsible for DAI’s pipeline of work with the U.K. Government and other donors such as the World Bank, ensuring that we prepare bids that will deliver sustainable and equitable results for poor people. In this role, she brings more than 20 years of experience in preparing competitive tenders.
+Prior to joining DAI Polly worked for a local consultancy company in Tanzania, working to build the capacity of the local consultancy and program management market. Polly’s Ph.D. research was also undertaken in Tanzania, where she focused on the political economy of, and conflicts over access to, water in Northern Tanzania.
 
-* Ph.D. and B.A., geography, University of Cambridge
+* Ph.D. Geography, University of Cambridge.
+* M.A. Geography, University of Cambridge.
