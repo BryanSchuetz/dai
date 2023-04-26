@@ -1,6 +1,7 @@
 ---
 title: Eldana Djumalieva
 date: 2022-04-08 09:57:00 Z
+published: false
 lastname: Djumalieva
 summary: Eldana Djumalieva is an economist with 26 years of experience in the delivery
   of programs for multilateral aid agencies and development finance institutions and

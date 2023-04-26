@@ -8,8 +8,9 @@ start: 2020
 end: 2025
 client: U.S. Agency for International Development
 solutions:
-- Economic Growth
 - Governance
+- Local Governance and Decentralization
+- 
 regions: Sub-Saharan Africa
 country: Zambia
 promos:
@@ -32,4 +33,5 @@ Local Impact capitalizes on the momentum of recent policy initiatives and builds
 
 ## Select Results
 
-* Supported Zambia’s Cabinet Office to formulate a simplified, citizen-friendly version of the National Decentralisation Policy (2023-2026) and its implementation plan. The simplified and illustrated versions helps citizens understand and make use of the documents as the decentralization drive takes shape.
+* Supported Zambia’s Cabinet Office to formulate a simplified, citizen-friendly version of the National Decentralization Policy (2023-2026) and its implementation plan. The simplified and illustrated versions helps citizens understand and make use of the documents as the decentralization drive takes shape.
+* Supported Zambia’s Cabinet Office—through the Decentralization Secretariat—to review, standardize, and validate data collection tools for the Constituency Development Fund (CDF). Digitizing the CDF dashboards will enable real-time monitoring of all projects in the country and inform decisions around the prudent use of government funds.

@@ -35,3 +35,7 @@ High-quality textbooks underpin teaching and learning, and one of the first acti
 * Develop a strategic plan for a periodic and ad-hoc evaluation of schools’ performance and initiation of monitoring processes for a new outcome-based curriculum at the central and local levels.
 * Enhance a more integrated and well-defined legal and regulatory framework—in line with international and European standards and practices—to underpin the drafting and digitization of school textbooks.
 
+## Select Results
+
+* Produced a visual "Data Atlas" showing the ratio between pupils and teachers, information that was previously unavailable but is important for planning teacher recruitment. 
+* Developed materials for a peer-led school evaluation to help teachers improve lessons and better engage students.
