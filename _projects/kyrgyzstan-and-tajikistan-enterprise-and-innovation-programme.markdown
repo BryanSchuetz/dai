@@ -20,7 +20,7 @@ The Enterprise and Innovation Programme (EIP) supported inclusive and sustainabl
 
 By focusing on supporting inclusive and sustainable economic growth in Kyrgyzstan and Tajikistan, EIP worked in key business sectors that have the potential to be transformative to the countries’ economies and are well-positioned to generate new jobs, increase household incomes, or create new economic opportunities for the poor and near-poor, women and youth, and disadvantaged communities. Working in tandem with its sister program, the DAI-implemented [Policy Innovation Facility](https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility), EIP brought about positive and impactful improvements in the ways the business sector operates at present, and expanded the horizons of economic opportunity, by being pro-poor, conducive to women’s and minorities’ economic empowerment, politically aware, and sensitive to the country context, conflict, and business environment.
 
-The project’s PEAK centers, which created 4,172 jobs and supported 210 enterprises, will continue as public foundations.
+EIP’s PEAK Enterprise and Innovation Programme created and sustained 4,172 jobs and introduced innovations by 210 enterprises. PEAK has now been transformed into a public foundation, to be led by current staff.
 
 ![Talks with tech startups of Kyrgyzstan.jpg](/uploads/Talks%20with%20tech%20startups%20of%20Kyrgyzstan.jpg)
 
