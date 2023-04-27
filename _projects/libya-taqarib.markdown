@@ -5,7 +5,7 @@ summary: 'The project strengthens the foundation of a more unified Libyan state 
   empowering local governments, reinforcing community bonds, and improving people’s
   standard of living. '
 start: 2019
-end: 2023
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
@@ -44,4 +44,4 @@ The Libya Local Governance and Civil Society (LGCS) Program, locally known as �
 * Conducted more than 40 community service events across 18 partner municipalities, implemented in partnership with more than 600 volunteers, municipal staff members, and representatives from civil society. 
 * Supported the Swani bin Adam Municipality with 10 solar-powered pole lights for a playground and 14 solar-powered pole lights for the health center in the Shuhada Swani district. 
 * Supported the Ministry of Local Governance's first-ever conference for Libya’s women municipal council members. With nearly 90 women council members in attendance, the participants discussed ministry policy advancements intended to directly benefit women and made recommendations regarding further support.
-* Delivered to the Abusliem Municipality a jaw crushing machine that [crushes concrete and most forms of rocks](https://www.facebook.com/watch/?extid=NS-UNK-UNK-UNK-IOS_GK0T-GK1C-GK2C&v=1051909622353541) and minerals for use as building material.  This machine will not only facilitate the removal of war debris but will offer low-cost rebuilding options by producing materials to be used to pave roads and build and repair infrastructure. It will also generate income for the local government and restore confidence in the local population. 
+* Delivered to the Abusliem Municipality a jaw-crushing machine that [crushes concrete and most forms of rocks](https://www.facebook.com/watch/?extid=NS-UNK-UNK-UNK-IOS_GK0T-GK1C-GK2C&v=1051909622353541) and minerals for use as building material. This machine will not only facilitate the removal of war debris but will offer low-cost rebuilding options by producing materials to be used to pave roads and build and repair infrastructure. It will also generate income for the local government and restore confidence in the local population. 
