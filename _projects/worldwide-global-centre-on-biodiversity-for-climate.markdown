@@ -1,5 +1,5 @@
 ---
-title: Global—Global Centre on Biodiversity for Climate
+title: Worldwide—Global Centre on Biodiversity for Climate
 date: 2023-04-27 09:39:00 Z
 summary: GCBC exists to generate robust new evidence and knowledge on the conservation
   and sustainable use of biodiversity that demonstrates the interconnectedness of
@@ -25,5 +25,5 @@ GCBC will establish a global network of research institutions, experts and peopl
 
 ###  Sample Activities
 
-* Deliverer research grants to institutions, universities and think tanks in the Global South to fill biodiversity research gaps 
+* Deliver research grants to institutions, universities and think tanks in the Global South to fill biodiversity research gaps 
 * Disseminate evidence and research to support biodiversity programs and policy
