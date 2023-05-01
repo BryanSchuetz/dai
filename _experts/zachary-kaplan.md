@@ -1,7 +1,6 @@
 ---
 title: Zachary Kaplan
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Kaplan
 summary: 'Zachary Kaplan specializes in public-private partnerships in both core and
   social infrastructure, helping governments and private sector clients work together
