@@ -1,17 +1,14 @@
 ---
 title: New Issue of DAI Journal Focuses on Resilience
 date: 2013-12-09 18:05:00 Z
+regions:
+- Asia and the Pacific
 summary: 'On November 7, typhoon Haiyan tore through the central Philippines. The
   latest in a series of high-profile disasters and increasingly severe weather events,
   Haiyan has drawn relief and development practitioners'' attention once again to
   the concept of resilience.
 
 '
-solutions: 
-regions:
-- Asia and the Pacific
-projects: 
-clients: 
 layout: node
 ---
 
@@ -29,13 +26,13 @@ In the weeks to come we will publish more than a dozen articles "across the deve
 
 * Keith Doxtater and Vishalini Lawrence—writing about Sri Lanka and Somalia, respectively—who explore how post-conflict reconciliation is affected by the community resilience developed during conflict;
 * Mark Gallagher and Eunice Heredia-Ortiz, who discuss how to measure macroeconomic resilience at the national level, principally by gauging the country's fiscal and monetary space;
-* Zach Kaplan and Del McCluskey, who focus on urban resilience to climate change effects, taking Vietnam as a case study to discuss the role that public-private partnerships can play in developing climate-smart infrastructure;
+* Zachary Kaplan and Del McCluskey, who focus on urban resilience to climate change effects, taking Vietnam as a case study to discuss the role that public-private partnerships can play in developing climate-smart infrastructure;
 * Kathleen Kurz, who distills 10 lessons learned from DAI's experience in Feed the Future programming on how to bolster nutritional resilience in the critical early stages of a child's life; and
 * Jessica Heinzelman, who discusses the use of text messages to strengthen community resilience and resistance to inflammatory violence in Kenya's recent elections.
 
 By way of an afterword, Ambassador Rick Barton, Assistant Secretary of State for Conflict and Stabilization Operations at the U.S. Department of State, offers his own brief reflections on how we should approach the task of reconstruction and development with "modesty," building on local strengths without distorting that resilience into a form of dependency.
 
-The print edition of _Resilience_ will be available early in 2014, and we will hold related discussions around the publication in Washington, D.C. and elsewhere. In the meantime, we invite you to check out the articles online and to follow [#resilience][5] on Twitter, where we will post links as new articles are posted.
+The print edition of _Resilience_ will be available early in 2014, and we will hold related discussions around the publication in Washington, D.C., and elsewhere. In the meantime, we invite you to check out the articles online and to follow [#resilience][5] on Twitter, where we will post links as new articles are posted.
 
 [2]: http://dai-global-developments.com/articles/self-examining-practitioners.html?utm_source=daidotcom
 [3]: http://dai-global-developments.com/articles/resilience-development-fad-concept-with-staying-power.html?utm_source=daidotcom
