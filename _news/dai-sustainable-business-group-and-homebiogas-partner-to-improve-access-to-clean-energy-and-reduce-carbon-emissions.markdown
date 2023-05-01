@@ -17,7 +17,7 @@ Founded in Israel in 2012, HomeBiogas has developed ground-breaking and easy-to-
 
 HomeBiogas is used by thousands of households, farmers, businesses, and underserved communities around the world to generate clean cooking fuel and produce high-quality organic fertilizer. 
 
-“HomeBiogas solutions reduce waste and greenhouse gas emissions while also providing new sources of energy to underserved communities and businesses,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of DAI's Sustainable Business Group. “We hope to offer HomeBiogas technology across our projects as a creative and readily deployable solution for corporate and other clients seeking to deliver sustainable development outcomes.
+“HomeBiogas solutions reduce waste and greenhouse gas emissions while also providing new sources of energy to underserved communities and businesses,” said Zachary Kaplan, Vice President of DAI's Sustainable Business Group. “We hope to offer HomeBiogas technology across our projects as a creative and readily deployable solution for corporate and other clients seeking to deliver sustainable development outcomes.
 
 “The signing of this memorandum of understanding with DAI’s Sustainable Business Group is a clear commitment to our joint mission to promote sustainability, improve lives, and create a positive impact,” said Oshik Efrati, CEO of HomeBiogas. “We look forward to reaching even more communities across the world and collaborating on diverse projects, enabling people and businesses to turn their organic waste into self-made clean energy.”  
 

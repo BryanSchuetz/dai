@@ -9,6 +9,7 @@ summary: 'DAI has won a contract award from ExxonMobil to establish an Enterpris
   Mozambican enterprises with skills to participate in a variety of growth industries
   in the country. '
 social-image: "/uploads/trainingMozambique.png"
+country: Mozambique
 ---
 
 DAI has won a contract award from ExxonMobil, on behalf of Mozambique Rovuma Venture and the Area 4 partners, to establish an Enterprise Development Center (EDC) in Mozambique. With offices in Maputo, Pemba, and Palma, the Center will collaborate with the government of Mozambique and the private sector to provide small- and medium-sized Mozambican enterprises with skills to participate in a variety of growth industries in the country. 

@@ -20,7 +20,7 @@ The SMP enables multinationals to access new markets and verified local supplier
 
 ## Connecting Buyers from the Global Supply Chain with Local Suppliers
 
-“We are thrilled to take the SMP to market later this year. It has been carefully designed to prioritize the needs of both local suppliers and international buyers,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).
+“We are thrilled to take the SMP to market later this year. It has been carefully designed to prioritize the needs of both local suppliers and international buyers,” said Zachary Kaplan, Vice President of DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).
 
 “Suppliers often lack the requisite support and experience to grow their business with large-scale clients. At the same time, buyers lack local knowledge and a central database of verified suppliers, particularly in new markets. The SMP bridges the information gap that exists between local suppliers and large-scale buyers.”
 
