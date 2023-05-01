@@ -4,10 +4,6 @@ date: 2013-03-26 18:05:00 Z
 summary: 'The Spring 2013 issue of _Developments_ is now available.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -24,7 +20,7 @@ Feature articles include the following:
 * DAI's Jim Seyler celebrates the Rwandan national park [project][6] honored by British travel writers as the world's best.
 * Elizabeth Drachman looks back on an [enterprise strengthening project][7] that reached more than 1 million Cambodians by tapping into that country's existing know-how.
 
-In the [DAIdeas][8] piece that accompanies every issue of Developments, [Bill Grant][9] and [Zach Kaplan][10] explore Chevron's new paradigm for corporate social involvement in the Niger Delta.
+In the [DAIdeas][8] piece that accompanies every issue of Developments, [Bill Grant][9] and Zachary Kaplan explore Chevron's new paradigm for corporate social involvement in the Niger Delta.
 
 Finally, in the executive opinion section, Senior Vice President, International Julian Lob-Levyt reflects on the increasingly high expectations development organizations and donors must meet if they are to keep pace with the rapidly transforming development landscape.
 
@@ -39,6 +35,5 @@ Click [here][11] to view Developments on its new web and mobile platform and [si
 [7]: /our-work/projects/cambodia-micro-small-and-medium-enterprises-strengthening-2-project-msme-1-and-2
 [8]: http://dai-global-developments.com/daideas-innovation-in-action-chevro?utm_source=daidotcom
 [9]: /who-we-are/our-team/bill-grant
-[10]: /who-we-are/our-team/zach-kaplan
 [11]: http://dai-global-developments.com?utm_source=daidotcom
 [12]: http://dai.com/sign-up
