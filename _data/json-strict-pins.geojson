@@ -400,10 +400,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Jordan",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/jordan-public-financial-management-and-administration-pfma-project\">PFMA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-technical-assistance-to-support-the-quality-of-education-and-tvet\">TVET</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-municipal-support-program\">MSP</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/jordan-public-financial-management-and-administration-pfma-project\">PFMA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-technical-assistance-to-support-the-quality-of-education-and-tvet\">TVET</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-municipal-support-program\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-macroeconomic-advisory-support-for-the-government-of-jordan\">Advisory Support</a> (FCDO)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
