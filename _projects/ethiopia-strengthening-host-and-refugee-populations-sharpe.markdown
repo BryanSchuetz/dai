@@ -21,6 +21,9 @@ promos:
   link: "/uploads/Investment%20in%20quality%20seed%20boosts%20incomes%20for%20host%20and%20refugee%20communities.pdf"
 - title: Digital Financial Services – A Step Towards Financial Inclusion for Refugees
   link: "/uploads/Digital%20Financial%20Services%20-%20towards%20financial%20inclusion%20for%20refugees.pdf"
+- title: Can Markets be Developed to Promote Economic Self-Reliance of Refugees? An
+    Evaluation of the Promotion of Digital Financial Services in Ethiopia by SHARPE
+  link: "/uploads/Can%20Markets%20be%20Developed%20to%20Promote%20Economic%20Self-Reliance%20of%20Refugees%20-%20An%20Evaluation.pdf"
 Field name: 
 ---
 
