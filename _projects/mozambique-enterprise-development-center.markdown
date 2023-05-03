@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Mozambique
 ---
 
-The discovery of huge natural gas deposits offshore from Mozambique has the potential to transform the country’s development. Area 4, a deepwater block containing 85 trillion cubic feet of natural gas, will support a world-class liquified natural gas project and billions of dollars in investment. DAI’s Sustainable Business Group (SBG) is working with ExxonMobil, on behalf of Mozambique Rovuma Venture and its Area 4 partners, to help ensure local businesses can benefit from these investments.
+The discovery of huge natural gas deposits offshore from Mozambique has the potential to transform the country’s development. Area 4, a deepwater block containing 85 trillion cubic feet of natural gas, will support a world-class liquified natural gas project and billions of dollars in investment. DAI’s Sustainable Business Group (SBG) works with ExxonMobil, on behalf of Mozambique Rovuma Venture and its Area 4 partners, to help ensure local businesses can benefit from these investments.
 
 To do so, SBG will establish and operate an Enterprise Development Center in Mozambique. The Center will collaborate with the government of Mozambique and the private sector to provide Mozambican enterprises with skills to participate in a variety of growth industries in the country. The Center’s first office is expected to open in Maputo in the first half of 2020, with offices in Pemba and Palma to follow. 
 
