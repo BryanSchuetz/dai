@@ -27,7 +27,7 @@ WSC is increasing the volumes of wastewater treated, reducing the pollution and 
   
 ![LWP well digging.jpg](/uploads/LWP%20well%20digging.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Rehabilitate, upgrade, and expand wastewater systems.
 * Implement water safety plans.
@@ -37,8 +37,9 @@ WSC is increasing the volumes of wastewater treated, reducing the pollution and 
 * Conduct social marketing campaigns to increase civic engagement in water management.
 * Promote wastewater or sludge reuse opportunities for the agricultural sector.
 
-### Select Results
+## Select Results
 
 * Installed inverters to the Litani River Authority (LTA)’s Khirbet Qanafar laboratory, upgrading the existing solar panel system that was installed by the [Lebanon Water Project](https://www.dai.com/our-work/projects/lebanon-water-project-lwp). The updated system can operate without the need for Electricite du Liban or generator power and will allow for the storage of solar power for a longer time, reducing the interruptions in electrical power.
 * Provided the laboratory with chemical reagents, consumables, glassware, plasticware, and field water testing kits and provided training to the laboratory's technicians to collect, store, transport, test, and analyze water samples from industrial effluent sources to mitigate industrial pollution originating in the upper Litani River Basin.
 * Assisted Saints Coeurs Ain Najem School to become a “water model” school that conserves and protects water resources. The grant introduced the school’s community to practices such as hydroponic agriculture, drip irrigation, rainwater harvesting, and water conservation fixtures in toilets and faucets. Teachers will incorporate their new knowledge in their curriculum and develop a full program to be distributed to 170 teachers from 20 schools.
+* Supported 12 factories from the dairy, wine, and potato industries to harness solar power to run their wastewater treatment systems. The upgrades will reduce energy bills and address uncontrolled discharge of untreated industrial wastewater in the Litani River Basin.
