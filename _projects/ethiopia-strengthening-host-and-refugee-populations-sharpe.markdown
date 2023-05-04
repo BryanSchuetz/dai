@@ -23,7 +23,7 @@ promos:
   link: "/uploads/Digital%20Financial%20Services%20-%20towards%20financial%20inclusion%20for%20refugees.pdf"
 - title: Can Markets be Developed to Promote Economic Self-Reliance of Refugees? An
     Evaluation of the Promotion of Digital Financial Services in Ethiopia by SHARPE
-  link: "/uploads/Can%20Markets%20be%20Developed%20to%20Promote%20Economic%20Self-Reliance%20of%20Refugees%20-%20An%20Evaluation.pdf"
+  link: https://doi.org/10.2499/p15738coll2.136694
 Field name: 
 ---
 
