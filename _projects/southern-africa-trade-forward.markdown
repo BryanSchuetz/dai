@@ -13,17 +13,22 @@ solutions:
 regions: Sub-Saharan Africa
 country: Regional
 promos:
-- title: 'Trade Foward Southern Africa Programme Flyer '
-  link: "(/uploads/TFSA-FLYR%20final.pdf)"
-- title: Trade in the Time of COVID-19—Risk or Opportunity?
-  link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
+- title: Sector Work in Mozambique
+  link: "/uploads/TFSA-Sector-Work-in-Mozambique.pdf"
+- titl: Sector Work in Namibia
+  link: "/uploads/TFSA-Sector-Work-in-Namibia.pdf"
+- title: Sector Work in South Africa
+  link: "/uploads/TFSA-Sector-Work-in-South-Africa.pdf"
+- title: Sector Work in Lesotho
+  link: "/uploads/TFSA-Sector-Work-in-Lesotho.pdf"
+- title: Sector Work in Eswatini
+  link: "/uploads/TFSA-Sector-Work-in-Eswatini-.pdf"
+- title: Sector Work in Botswana
+  link: "/uploads/TFSA-Sector-Work-in-Botswana.pdf"
 - title: Roadmap towards EU Compliance for South Africa
   link: "/uploads/Roadmap-towards-European-Union-EU-Compliance_South-Africa.pdf"
-- title: Presentation on removing barriers to export of farmed shellfish from South
-    Africa and Namibia
-  link: "/uploads/TFSA-Presentation-at-AFRAQ-26032022.pptx"
-- title: Sector Work in South Africa
-  link: https://tfsouthernafrica.org/wp-content/uploads/2023/03/TFSA-Sector-Work-in-South-Africa.pdf
+- title: Trade in the Time of COVID-19—Risk or Opportunity?
+  link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
 ---
 
 [Trade Forward Southern Africa](https://tfsouthernafrica.org/) (TFSA) is a program designed to alleviate poverty across the Southern African Customs Union and Mozambique (SACU+M) by increasing the scale and quality of trade within the union as well as with the UK.
