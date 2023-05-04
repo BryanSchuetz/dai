@@ -31,7 +31,7 @@ Through the innovative use of an adapted market systems development approach “
 
 SHARPE promotes increased refugee self-reliance and generates economic opportunities for host communities through the piloting and scaling of interventions. This approach is based on understanding the economic barriers that refugee and host communities face and working with key stakeholders—including businesses, government, and service providers—to make markets work for target communities.
 
-The program also serves as a learning platform for the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit up to 200,000 people in the target populations, helping them realize increases in incomes, employment, or expand access to assets through private sector-driven changes.
+The program also serves as a learning platform for the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit up to 200,000 people in the target populations, helping them realize increases in incomes and employment or expand access to assets through private sector-driven changes.
 
 <iframe src="https://player.vimeo.com/video/575825798" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
