@@ -28,10 +28,10 @@ FSG Plus looks for opportunities to:
 ### Sample Activities
 
 * Co-creating projects with BII’s FSG and its financial institution investees, guiding these from design to implementation, and holding overall governance responsibilities.
-* Supporting financial service providers to develop new financial products according to “best fit”—tailored to the local market context and the needs of the most vulnerable households, smallholder farmers, and SMEs. These products will also promote climate risk management along the pillars of the Task Force on Climate Finance Disclosure, and climate finance and upgrade environmental, social, and governance standards.
-* Ensure a diverse and balanced portfolio of technical assistance projects, using feedback back loops to maximize the synergies between the projects.
-* Commissioning research on frontier markets, digital financial services, agribusinesses, among other topics of financial inclusion interest. and disseminating findings through far-reaching events targeted at financial institutions.
-* Select, contract, and manage the performance of a pool of over 30 local and international technical assistance providers.
+* Supporting financial service providers to develop new financial products according to “best fit”—tailored to the local market context and the needs of the most vulnerable households, smallholder farmers, and SMEs. These products will also promote climate risk management along the pillars of the Task Force on Climate Finance Disclosure and climate finance and upgrade environmental, social, and governance standards.
+* Ensuring a diverse and balanced portfolio of technical assistance projects, using feedback loops to maximize the synergies between the projects.
+* Commissioning research on frontier markets, digital financial services, and agribusinesses, among other topics of financial inclusion interest. Disseminating findings through far-reaching events targeted at financial institutions.
+* Selecting, contracting, and managing the performance of a pool of over 30 local and international technical assistance providers.
 
 ### Select Results
 
