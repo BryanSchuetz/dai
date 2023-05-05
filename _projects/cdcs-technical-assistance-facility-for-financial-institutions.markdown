@@ -14,12 +14,14 @@ regions: Regional
 country: Regional
 ---
 
-British International Investment (BII, former CDC Group) is the UK Government’s development finance institution. It supports the sustainable, long-term growth of businesses across South Africa and Asia.
+British International Investment (BII)—formerly CDC Group—is the UK Government’s development finance institution. It supports the sustainable, long-term growth of businesses across South Africa and Asia.
 
-Financial Services Group Plus (FSG Plus) is a Technical Assistance Facility for Financial Institutions that is enabling systematic approach to the delivery of TA, working with Financial Service Providers to catalyse investment in low-carbon, climate resilient projects and promote inclusive climate finance. FSG Plus looks for opportunities to:
-•	Develop new/improved products: this includes improvements to the design and distribution of financial services to make them more accessible to unserved customer segments, like women-led businesses and SMEs in frontier markets.
-•	Develop new markets/segments: such as entry into green/sustainable supply chains or the development of a new strategy and suite of products targeting previously ignored or underserved customer segments, like smallholder farmers.
-•	Contribute to enhanced processes or systems: for example, creating more diverse staff and leadership teams or increase the use of digitisation to better deliver financial services to remote or underserved populations.
+Financial Services Group Plus (FSG Plus) is a Technical Assistance (TA) Facility for Financial Institutions that is enabling a systematic approach to the delivery of TA, working with financial service providers to catalyze investment in low-carbon, climate-resilient projects and promote inclusive climate finance. 
+
+FSG Plus looks for opportunities to:
+* Develop new/improved products: this includes improvements to the design and distribution of financial services to make them more accessible to unserved customer segments, such as women-led businesses and small and medium-sized enterprises (SMEs) in frontier markets.
+* Develop new markets/segments: such as entry into green/sustainable supply chains or the development of a new strategy and suite of products targeting previously ignored or underserved customer segments, such as smallholder farmers.
+* Contribute to enhanced processes or systems: for example, creating more diverse staff and leadership teams or increasing the use of digitization to better deliver financial services to remote or underserved populations.
 
 ![CDC FI TA Facility Response.jpg](/uploads/CDC%20FI%20TA%20Facility%20Response.jpg)
 
