@@ -2,8 +2,8 @@
 title: Jakob Zeidler
 date: 2020-04-16 10:20:00 Z
 lastname: Zeidler
-summary: 'As Senior Vice President of DAI’s European Union business, Jakob  Zeidler leads
-  the business unit''s integration, growth, and diversification. '
+summary: 'As Senior Vice President of DAI’s European Union business, Jakob  Zeidler
+  leads the business unit''s integration, growth, and diversification. '
 job-title: Vice President, European Union Business Unit
 image: "/uploads/new%20Jakob.jpg"
 regions:
