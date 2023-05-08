@@ -6,7 +6,7 @@ lastname: Bourns
 summary: 'Nate Bourns works across all DAI business units and corporate offices to
   build a next-generation operating model, beginning with key geographies such as
   India and Nigeria. '
-job-title: Vice President, Geographic and Digital Platforms
+job-title: Senior Vice President, Geographic and Digital Platforms
 image: "/uploads/New%20nate.jpg"
 solutions:
 - Economic Growth
