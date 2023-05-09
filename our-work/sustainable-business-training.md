@@ -131,15 +131,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 **Zachary Kaplan—Vice President, Sustainable Business Group**
 
-![Zachary Kaplan Photo](/uploads/Zach%20websitepng.png){:.float-right}
 
-[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) has more than 10 years’ experience within the extractives industry, focusing on extensive local content and policy, and leads activities related to local content, corporate social investment, and supplier development.
-
-* Technical Advisor to local content supplier development programs worldwide. Assessed local supplier capacity for upgrade to enter global supply chains and facilitated foreign direct investments via joint ventures
-
-* Key architect behind the development of a suite of DAI’s proprietary local content methodologies and tools currently deployed across the globe
-
-* Spearheaded a Local Content Regime Analysis in Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide an assessment of impacts of local content regimes
 
 **Dorival Bettencourt—Director, Sustainable Business Group**
 
