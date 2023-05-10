@@ -8,7 +8,7 @@ summary: Rémy Kormos has more than 25 years of experience in international busi
 job-title: General Counsel, DAI Capital
 image: "/uploads/Remy%20Kormos-cd2e82.JPG"
 solutions:
-- Governance
+- DAI Capital
 - Economic Growth
 regions:
 - Worldwide
