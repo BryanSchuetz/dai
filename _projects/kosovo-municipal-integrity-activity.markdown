@@ -17,6 +17,9 @@ country: Kosovo
 promos:
 - title: USAID Extends Anti-corruption Efforts in Kosovo Under New Project
   link: https://www.dai.com/news/usaid-extends-anticorruption-efforts-in-kosovo-under-new-project
+- title: Empowering Young Investigative Journalists to Expose Corruption in Kosovo's
+    Public Procurement
+  link: https://www.usaid.gov/kosovo/news/may-10-2023-empowering-young-investigative-journalists-expose-corruption-kosovos-public-procurement
 ---
 
 Public procurement is a government tool used to deliver goods and services such as fixing roads, building schools, or buying medical equipment for citizens. Fair competition, a level playing field, and transparency are essential to ensuring public money is spent responsibly and leads to the best value for citizens in terms of high-quality goods and services.
