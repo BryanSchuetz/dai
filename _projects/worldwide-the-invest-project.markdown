@@ -53,10 +53,7 @@ INVEST has supported transactions in enterprise development, infrastructure, and
 
 ## Select Results
 
-* Mobilized more than $500 million in capital and supported 175 transactions, including 111 closed deals as of February 2023. 
-* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 500 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
+* Mobilized more than $1.02 billion in capital and supported 167 transactions, including 121 closed deals as of March 2023.
+* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 550 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
 * Implemented activities with 36 USAID missions, bureaus, and independent offices in more than 80 countries across a range of sectors, including finance, clean energy, and agriculture.
-* Mobilized capital across the globe, of which 55 percent had been invested in firms in Africa and funds targeting the African continent as of February 2023.
-* Issued 212 subcontracts to develop and implement technical activities by February 2023. Eighty-four percent of subcontracted firms are new or underutilized partners for USAID.
-* Supported 7,653 women in Colombia to access improved financial
-services via savings accounts or credit with support from partners Fundacíon Capital and Microempresas de Colombia.
+* Issued 222 subcontracts to develop and implement technical activities as of March 2023. Nearly 70 percent of members are identified as new or non-traditional partners for USAID; 39 percent are considered local entities; and 46 percent are locally established entities, helping to address USAID’s commitment to locally led development.
