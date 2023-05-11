@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP 2023-04 Mod 2](/uploads/RFP%202023-04%20Mod%202.pdf "5/25")
 * [RFP-INRM-025 RESTORE Forest Ecological Data](/uploads/RFP%20-INRM-025%20RESTORE%20Forest%20Ecological%20Data.pdf "6/9")
 * [Expression of Interest (EOI) Workshop Logistics and Facilitation](/uploads/Expression%20of%20Interest%20(EOI)%20Workshop%20Logistics%20and%20Faciliation.pdf "5/25")
 * [RFP-INRM-024 RESTORE Social Data](/uploads/RFP%20-INRM-024%20RESTORE%20Social%20Data.pdf "6/3")
@@ -18,5 +19,4 @@ Listed below are current solicitations. To view additional information regarding
 * [RFP 2023-06 Mod 1](/uploads/RFP%202023-06%20Mod%201.pdf "5/11")
 * [RFP 2023-08 ProICT Jamaica](/uploads/RFP%202023-08%20ProICT%20Jamaica.pdf "5/17")
 * [RFP 2023-06 Democratizing Digital Event Facilitation](/uploads/RFP%202023-06%20Democratizing%20Digital%20Event%20Facilitation.pdf "5/11")
-* [RFP 2023-07 Digital Development Mapping Exercise](/uploads/RFP%202023-07%20Digital%20Development%20Mapping%20Exercise.pdf "5/9")
 * [Business Egypt EOI and Concept Note](https://dai-assets.s3.amazonaws.com/rfps/Business%20Egypt%20EOI%20and%20Concept%20Note%20Template.pdf)
