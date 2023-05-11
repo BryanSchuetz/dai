@@ -14,7 +14,7 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: Quarterly Report
-  link: https://www.usaid.gov/invest/documents/invest-year-6-quarter-1-report
+  link: https://www.usaid.gov/sites/default/files/2023-05/INVEST%20Y6Q2%20Report%20Final.pdf
 - title: INVEST Blog
   link: https://medium.com/usaid-invest
 - title: Blended Finance Starter Kit
@@ -22,6 +22,8 @@ promos:
 - title: 'Using Blended Finance to Generate Additionality and Human Impact: Guidance
     Note'
   link: https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note
+- title: 'Catalytic Funding 101: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/EX4epAOuBFo3o/
 - title: 'Catalyzing Finance for Climate Action: USAID INVEST Resource Guide'
   link: https://express.adobe.com/page/p9YjTkUYgMvoA/
 - title: 'Gender-Lens Investing: USAID INVEST Resource Guide'
