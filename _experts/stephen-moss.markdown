@@ -17,8 +17,8 @@ Since Cardno, Stephen has worked in international M&A, investment banking, and p
  
 Stephen has held board and chair positions in listed and unlisted professional services groups, and until recently was chair of the Amnesty International Council in Australia. 
 
-* D.M., Doctorate in Psychology and Theology, University of California, Berkeley 
-* STM, Master of Sacred Theology, University of California, Berkeley  
-* Bachelor of Divinity, The University of Queensland  
-
+* D.M., Doctorate in Psychology and Theology, GTU Berkeley Ca 
+* STM, Master of Sacred Theology, Jesuit School of Theology, Berkeley Ca 
+* Bachelor of Divinity, University of Queensland 
+* Solicitors Admission Board Studies, University of Sydney 
  
