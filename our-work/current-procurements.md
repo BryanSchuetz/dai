@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP 2023-08 Mod 1](/uploads/RFP%202023-08%20Mod%201.pdf "5/31")
 * [RFP-INRM-0024 Questions and Answers](/uploads/RFP-INRM-0024%20Questions%20and%20Answers.pdf "6/2")
 * [RFP 2023-04 Mod 2](/uploads/RFP%202023-04%20Mod%202.pdf "5/25")
 * [RFP-INRM-025 RESTORE Forest Ecological Data](/uploads/RFP%20-INRM-025%20RESTORE%20Forest%20Ecological%20Data.pdf "6/9")
