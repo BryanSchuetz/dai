@@ -8,6 +8,7 @@ projects: Mozambique—Enterprise Development Center (MozUp)
 summary: 'MozUp, the Enterprise Development Centre in Mozambique, has been selected
   as one of three finalists for the Basel Institute on Governance’s Anti-Corruption
   Collective Action award. '
+social-image: "/uploads/MozUp.jpg"
 country: Mozambique
 Field name: 
 ---
