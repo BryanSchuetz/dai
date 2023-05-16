@@ -1,6 +1,7 @@
 ---
 title: Ron McMorran
 date: 2022-09-08 12:23:00 Z
+published: false
 lastname: McMorran
 summary: 'Ron McMorran is a domestic resource mobilization, medium-term fiscal planning,
   and public financial management expert with diverse international experience. '
