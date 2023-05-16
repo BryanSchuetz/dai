@@ -18,15 +18,15 @@ MozUp partnered with the Ethics Institute to develop and deliver a Key Principle
 
 Sponsored by Area 4 Partners of the Rovuma Basin in Mozambique, MozUp was launched in 2020 to strengthen Mozambican businesses and create a more competitive and capable marketplace across the various growing sectors of the Mozambican economy, including the LNG sector. Working with local small and medium-sized enterprises, MozUp provides training, mentoring, and networking opportunities to improve business processes, management, and overall operations, including the promotion of ethical business practices.
 
-**If you’d like to cast a vote for the Anti-Corruption Collective Action award, you may do so through May 25 via the following link: https://collective-action.com/get-involved/awards/**\
+**If you’d like to cast a vote for the Anti-Corruption Collective Action award, you may do so through May 25 [at this link ](https://collective-action.com/get-involved/awards/)**\
  \
 The winner of the award will be announced at the Anti-Corruption Collective Action Forum in June.
 
 **About MozUp**\
 MozUp is operated by Mozambique Enterprise for Sustainability, a joint venture between DAI and Mozambican implementing partner Taciana Peão Lopes & Advogados Associados.
 
-**About the Basel Institute of Governance\
-**The Basel Institute on Governance is an independent research and training institute that works to prevent and combat corruption. The Institute's mission is to strengthen the rule of law and good governance by providing knowledge and tools to governments, businesses, and civil society.
+**About the Basel Institute of Governance**\
+The Basel Institute on Governance is an independent research and training institute that works to prevent and combat corruption. The Institute's mission is to strengthen the rule of law and good governance by providing knowledge and tools to governments, businesses, and civil society.
 
 **About Area 4**\
 Area 4 of the Rovuma Basin in Mozambique is operated by Mozambique Rovuma Venture S.p.A. (MRV), an incorporated joint venture owned by ExxonMobil, Eni and CNPC, which holds a 70 percent interest in the Area 4 exploration and production concession contract. In addition to MRV, Galp, KOGAS and Empresa Nacional de Hidrocarbonetos E.P. each hold a 10 percent interest in Area 4. ExxonMobil is leading the construction and operation of natural gas liquefaction and related facilities on behalf of MRV, and Eni is leading the construction and operation of upstream facilities.
