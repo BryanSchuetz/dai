@@ -230,8 +230,15 @@
       {%- endcomment -%}
         <h1 class="hero-title">{% if page.type == "primary" %}{% if page.largeIcon %}{% include {{page.largeIcon}} %}{% else %}{{ page.icon  }} {% endif %}{% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %} {%- capture subIcon -%}
           {{ solution[0].largeIcon | default: '_icons/digital-acceleration-large.html' }}
-        {%- endcapture -%} {% include {{subIcon}} %} {% if page.url contains "digital-acceleration" %}<a class="hero-title--link" href="/our-work/solutions/digital-acceleration">Center for Digital Acceleration</a> {% else %}<a class="hero-title--link" href="/{{ solution[0].permalink }}">{{ solution[0].title }}</a>{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
+        {%- endcapture -%} {% include {{subIcon}} %} {% if page.url contains "digital-acceleration" %}<a class="hero-title--link" href="/our-work/solutions/digital-acceleration">Center for Digital Acceleration</a>{% elsif page.url contains "our-work/solutions/dai-capital" %}<a class="hero-title--link" href="/our-work/solutions/dai-capital">DAI Capital</a>{% else %}<a class="hero-title--link" href="/{{ solution[0].permalink }}">{{ solution[0].title }}</a>{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
         <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}{%if page.title == 'Global Health'%} <br><span style="font-size: .8rem;"><a href="/sign-up">Subscribe</a> to our newsletter for periodic updates from DAI Global Health.</span> {% endif %} {% if page.url contains 'our-work/solutions/climate-videos' or page.url contains "climate-cop"%}{{page.summary}}{% endif %}</p>
+        <!-- headernav for DAI Capital -->
+        {% if page.url contains '/our-work/solutions/dai-capital' %}<p class="section-nav">
+          {% for nav in site.data.nav-capital %}
+          <a class="section-nav--link {% if page.url == nav.link%}active {% endif %}{% if forloop.last %}last {% endif %}"
+        href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %} / {% endunless %}
+          {% endfor %}
+        </p>{% endif %}
         <!-- headernav for Global Health -->
         {% if page.url contains '/our-work/solutions/dai-global-health' or page.url contains 'our-work/solutions/global-health' %}<p class="section-nav">
           {%- for nav in site.data.nav-health -%}

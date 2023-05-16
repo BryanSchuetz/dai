@@ -11,13 +11,15 @@ layout: default
     {% for solution in page.solutions %}
       {% for primary_solution in primary_solutions  %}
         {% if solution == primary_solution.title %}
-            <h1 class="solution-title">{{ page.title }}</h1>
+        {% unless solution == 'DAI Capital' %}
+          <h1 class="solution-title">{{ page.title }}</h1>
+        {% endunless %}
         {% endif %}
       {% endfor %}
     {% endfor %}
 {% endif %}
 {{ content }}
-{% unless page.type == 'primary' or page.url contains 'our-work/solutions/climate-videos' or page.url contains 'cda-insights' or page.url contains '/climate-cop' %}
+{% unless page.type == 'primary' or page.url contains 'our-work/solutions/climate-videos' or page.url contains 'cda-insights' or page.url contains '/climate-cop' or page.url contains 'dai-capital'%}
   {% include solution-queries.html %}
 {% endunless %}
 </div>

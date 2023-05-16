@@ -1129,7 +1129,7 @@ iframe {
   }
 }
 .newpromo iframe{
-  @include responsive(ultra-wide-screens){
+  @include responsive(extra-ultra-wide-screens){
     height: 560px;
   }
 }

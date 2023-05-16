@@ -6,23 +6,22 @@ newIcon: _icons/dai-capital.html
 largeIcon: _icons/dai-capital-large.html
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: Dedicated to mobilizing private capital in frontier and emerging markets,
+summary: Dedicated to mobilizing and deploying private capital in frontier and emerging markets,
   DAI Capital is the advisory and investment arm of DAI.
 type: primary
 related: false
 hero: true
 layout: solution
+ultrawide: true
 ---
 
-DAI Capital builds on DAI’s global platform, strong local partnerships, and in-depth market knowledge to act as a conduit for commercial capital. DAI’s brand and reputation position us as a credible financial intermediary in emerging and frontier markets, while our technical expertise allows us to manage risk effectively and add value to promising businesses that are constrained by capacity and capital.
+DAI Capital builds on DAI’s global platform, strong local partnerships, and in-depth market knowledge to act as a conduit for commercial capital. DAI’s brand and reputation position us as a credible financial intermediary in emerging and frontier markets, while our technical expertise allows us to manage risk effectively and add value to promising businesses that are constrained by capacity and capital. 
 
-DAI’s heritage as an economic development firm, including extensive engagement with development finance institutions, makes us an ideal partner for private sector institutions seeking investment opportunities that are profitable, responsible, and sustainable across frontier and emerging markets.
+DAI’s heritage as an economic development firm, including extensive engagement with development finance institutions, makes us an ideal partner for private sector institutions seeking investment opportunities that are profitable, responsible, and sustainable across frontier and emerging markets. Our team has deep professional experience in corporate finance, investment banking, private equity, venture capital, and venture building.
 
-Our team has deep professional experience in corporate finance, investment banking, private equity, venture capital, and venture building.
+DAI Capital operates across three pillars: [Capital Advisory](/our-work/solutions/dai-capital-advisory), [Asset Management](/our-work/solutions/dai-capital-asset-management), and [Project Finance](/our-work/solutions/dai-capital-project-finance). 
 
-## DAI Capital operates across two pillars:
-
-### Capital Advisory
+<!-- ### Capital Advisory
 
 In November 2020, DAI concluded a  [majority investment](/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets) in Magister Advisors to form [DAI Magister](https://www.daimagister.com/), a strategic partnership enabling DAI to directly connect businesses in emerging and frontier markets with equity investors through Magister’s advisory business. DAI Magister advises businesses on raising capital from local and international investors:
 
@@ -42,7 +41,7 @@ DAI’s longstanding local presence and extensive networks across frontier and e
 
 In December 2021, DAI announced the [acquisition of MicroVest Capital Management](/news/dai-acquires-international-asset-management-firm-microvest), adding a rich vein of expertise to DAI’s existing asset management team, connecting that combined team to a wider network of investors, and providing DAI a platform on which to build a world class asset management business.
 
-For more information on MicroVest, please visit [https://microvestfund.com/](https://microvestfund.com/). 
+For more information on MicroVest, please visit [https://microvestfund.com/](https://microvestfund.com/).  -->
 
 <!-- ### Ventures
 
@@ -50,8 +49,8 @@ We invest directly in early-stage companies and create greenfield businesses in 
 
 DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD](/news/dai-invests-in-thinkmds-clinical-assessment-technology), [ClickMedix](/news/dai-global-health-invests-in-mhealth-leader-clickmedix), and [MobileODT](/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech)—as well as greenfield startups at an earlier stage. -->
 
-<iframe src="https://player.vimeo.com/video/369894308" width="640" height="360" frameborder="0"
-  allow="autoplay; fullscreen" allowfullscreen></iframe>`Devex interviews John Maris in October 2019 about DAI Capital.`
+<iframe src="https://player.vimeo.com/video/750509775" width="640" height="360" class="vid" frameborder="0"
+  allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## DAI Capital FAQs
 
@@ -59,13 +58,13 @@ DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD
   <div class="faq">
     <a class="accordion-header">1. Why has DAI launched DAI Capital?</a>
     <div class="faq-answer">
-      <p>DAI has launched DAI Capital to build on the success of its economic development work across frontier and merging markets by catalyzing private, commercial capital into those markets.</p>
+      <p>DAI has launched DAI Capital to build on the success of its economic development work across frontier and emerging markets by catalyzing private, commercial capital into those markets.</p>
     </div>
   </div>
   <div class="faq">
     <a class="accordion-header">2. What is the value proposition of DAI Capital?</a>
     <div class="faq-answer">
-      <p>DAI Capital's team of finance and investment professionals has extensive transaction experience and is able to leverage DAI's sector and country experts to deliver capital advisory and investment services for our clients and investors.</p>
+      <p>DAI Capital's team of finance and investment professionals has extensive transaction experience and is able to leverage DAI's sector and country experts to deliver capital advisory and investment services for our clients and investors. DAI is well positioned to make a success of DAI Capital because of its history, reputation and global geographic footprint. </p>
     </div>
   </div>
   <div class="faq">
