@@ -5,6 +5,9 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 projects: Mozambique—Enterprise Development Center (MozUp)
+summary: 'MozUp, the Enterprise Development Centre in Mozambique, has been selected
+  as one of three finalists for the Basel Institute on Governance’s Anti-Corruption
+  Collective Action award. '
 country: Mozambique
 Field name: 
 ---
