@@ -1,22 +1,25 @@
 ---
 title: DAI Launches Project Finance Business
 date: 2023-05-18 15:33:00 Z
-published: false
 solutions:
 - DAI Capital
+published: false
 summary: DAI today announced the addition of a specialized project finance company
   to its growing DAI Capital business. Based in Australia, the project finance company—previously
   doing business as Alinea Impact Capital—has a record of developing and financing
   infrastructure projects in the healthcare, water, and renewable energy sectors,
   including current projects in India and Indonesia.
 social-image: "/uploads/moss-gavin-scott.jpg"
+is_featured: true
 ---
 
-**New acquisition complements existing business lines in corporate finance and asset management, consolidates regional presence in South and Southeast Asia**
+**New acquisition complements existing business lines in corporate finance and asset management, consolidates regional presence in South and Southeast Asia.**
 
 DAI today announced the addition of a specialized project finance company to its growing DAI Capital business. Based in Australia, the project finance company—previously doing business as Alinea Impact Capital—has a record of developing and financing infrastructure projects in the healthcare, water, and renewable energy sectors, including current projects in India and Indonesia.
 
 ![moss-gavin-scott.jpg](/uploads/moss-gavin-scott.jpg)`From left: Stephen Moss, Gavin Wilson, and Scott Roantree.`
+
+<!--more-->
 
 [DAI Capital](/our-work/solutions/dai-capital) offers a multiproduct financial services platform focused on mobilizing and deploying private capital to spur sustainable development in emerging and frontier economies. To date, the DAI Capital platform has been based on two core pillars: a corporate finance business that helps companies raise capital, and an asset management business that makes investments. 
 
