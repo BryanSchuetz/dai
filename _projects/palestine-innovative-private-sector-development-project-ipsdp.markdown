@@ -12,6 +12,9 @@ solutions:
 - Public-Private Partnerships
 regions: Middle East and North Africa
 country: Palestine
+promos:
+- title: 'Article: IPSD - Supporting Palestine''s Developing Entrepreneurial Ecosystem'
+  link: https://thisweekinpalestine.com/palestine-on-the-rise/
 ---
 
 The digital economy of the Middle East is changing. Across the region, planners have recognised the stagnation in old economic structures, moving entrepreneurship to the top of their economic policy agendas. Shackled by physical restrictions on the movement of goods and labour and low
