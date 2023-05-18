@@ -27,8 +27,9 @@ promos:
 - title: Bringing agricultural inputs within reach of host and refugee communities
     in Gambella
   link: "/uploads/SHARPE_Factsheet_Agrovet%20Gambella.pdf"
-- title: 
-  link: 
+- title: Establishing a commercial and inclusive poultry industry in Ethiopia’s Gambella
+    region
+  link: "/uploads/SHARPE_Factsheet_Poultry%20%20in%20Gambella.pdf"
 Field name: 
 ---
 
