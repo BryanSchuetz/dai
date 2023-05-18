@@ -5,7 +5,7 @@ lastname: faiz
 summary: Lala Faiz has two decades of experience supporting entrepreneurs and structuring
   credit guarantees and blended finance investment vehicles in both government and
   the private sector.
-job-title: Vice President
+job-title: Vice President, DAI Capital
 image: "/uploads/Lala.jpg"
 solutions:
 - DAI Capital
