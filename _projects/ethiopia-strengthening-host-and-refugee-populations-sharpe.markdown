@@ -24,6 +24,12 @@ promos:
 - title: Can Markets be Developed to Promote Economic Self-Reliance of Refugees? An
     Evaluation of the Promotion of Digital Financial Services in Ethiopia by SHARPE
   link: https://doi.org/10.2499/p15738coll2.136694
+- title: Bringing agricultural inputs within reach of host and refugee communities
+    in Gambella
+  link: "/uploads/SHARPE_Factsheet_Agrovet%20Gambella.pdf"
+- title: Establishing a commercial and inclusive poultry industry in Ethiopia’s Gambella
+    region
+  link: "/uploads/SHARPE_Factsheet_Poultry%20%20in%20Gambella.pdf"
 Field name: 
 ---
 
