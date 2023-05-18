@@ -19,12 +19,11 @@ MozUp partnered with the Ethics Institute to develop and deliver a Key Principle
 
 "We are honored to be selected as a finalist for this award and are proud of our work with the Ethics Institute," said [Barbara Habib](https://www.dai.com/who-we-are/our-team/barbara-habib), MozUp's Director. "By empowering local companies with tools to practice ethical business, we help to support a sustainable, competitive, and transparent operating environment that improves the overall success of the business and encourages additional investment and development in the local economy."
 
-![MozUp.jpg](/uploads/MozUp.jpg)
-`Local SMEs participating in a MozUp training seminar in Pemba, Cabo Delgado`
+![MozUp.jpg](/uploads/MozUp.jpg)`Local SMEs participating in a MozUp training seminar in Pemba, Cabo Delgado.`
 
 Sponsored by Area 4 Partners of the Rovuma Basin in Mozambique, MozUp was launched in 2020 to strengthen Mozambican businesses and create a more competitive and capable marketplace across the various growing sectors of the Mozambican economy, including the LNG sector. Working with local small and medium-sized enterprises, MozUp provides training, mentoring, and networking opportunities to improve business processes, management, and overall operations, including the promotion of ethical business practices.
 
-**If you’d like to cast a vote for the Anti-Corruption Collective Action award, you may do so through May 25 [at this link ](https://collective-action.com/get-involved/awards/)**.
+**If you’d like to cast a vote for the Anti-Corruption Collective Action award, you may do so through May 25 [at this link.](https://collective-action.com/get-involved/awards/)**
 \
 The winner of the award will be announced at the Anti-Corruption Collective Action Forum in June.
 
