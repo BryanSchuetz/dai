@@ -11,11 +11,11 @@ summary: Dedicated to mobilizing and deploying private capital in frontier and e
 type: primary
 related: false
 hero: true
-layout: solution
 ultrawide: true
+layout: solution
 ---
 
-DAI Capital builds on DAI’s global platform, strong local partnerships, and in-depth market knowledge to act as a conduit for investment capital in emerging and frontier markets. DAI’s brand and reputation position us as a credible financial intermediary in emerging and frontier markets, while our technical expertise allows us to manage risk effectively and add value to promising businesses that are constrained by capacity and capital. 
+DAI Capital builds on DAI’s global platform, strong local partnerships, and in-depth market knowledge to act as a conduit for investment capital in emerging and frontier markets. DAI’s brand and reputation position us as a credible financial intermediary in these markets, while our technical expertise allows us to manage risk effectively and add value to promising businesses that are constrained by capacity and capital. 
 
 DAI’s heritage as an economic development firm, including extensive engagement with development finance institutions, makes us an ideal partner for private sector institutions seeking investment opportunities that are profitable, responsible, and sustainable across frontier and emerging markets. Our team has deep professional experience in corporate finance, investment banking, private equity, venture capital, and venture building.
 
