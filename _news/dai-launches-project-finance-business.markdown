@@ -1,9 +1,9 @@
 ---
 title: DAI Launches Project Finance Business
 date: 2023-05-18 15:33:00 Z
+published: false
 solutions:
 - DAI Capital
-published: false
 summary: DAI today announced the addition of a specialized project finance company
   to its growing DAI Capital business. Based in Australia, the project finance company—previously
   doing business as Alinea Impact Capital—has a record of developing and financing

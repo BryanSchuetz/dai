@@ -2,7 +2,9 @@
 title: Stephen Moss
 date: 2023-05-12 08:25:00 Z
 lastname: Moss
-summary: 'Stephen has a thirty-year career working in international M&A and investment banking, facilitating many of the largest transactions in the international development market in Australia, the UK and the US.'
+summary: Stephen has a thirty-year career working in international M&A and investment
+  banking, facilitating many of the largest transactions in the international development
+  market in Australia, the UK and the US.
 job-title: 'Executive Chair, DAI Capital Pty Ltd (Australia) '
 image: "/uploads/StephenMoss.png"
 solutions:

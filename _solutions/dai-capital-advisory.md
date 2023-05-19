@@ -6,15 +6,16 @@ newIcon: _icons/dai-capital.html
 largeIcon: _icons/dai-capital-large.html
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: Dedicated to mobilizing and deploying private capital in frontier and emerging markets,
-  DAI Capital is the advisory and investment arm of DAI.
+summary: Dedicated to mobilizing and deploying private capital in frontier and emerging
+  markets, DAI Capital is the advisory and investment arm of DAI.
 related: false
-solutions: 
+solutions:
 - DAI Capital
 hero: true
 layout: solution
 ultrawide: true
 ---
+
 # Capital Advisory
 
 In November 2020, DAI concluded a majority investment in Magister Advisors to form DAI Magister, a strategic partnership enabling DAI to directly connect businesses in emerging and frontier markets with equity investors through Magister’s advisory business.

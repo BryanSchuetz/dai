@@ -6,15 +6,16 @@ newIcon: _icons/dai-capital.html
 largeIcon: _icons/dai-capital-large.html
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: Dedicated to mobilizing and deploying private capital in frontier and emerging markets,
-  DAI Capital is the advisory and investment arm of DAI.
+summary: Dedicated to mobilizing and deploying private capital in frontier and emerging
+  markets, DAI Capital is the advisory and investment arm of DAI.
 related: false
-solutions: 
+solutions:
 - DAI Capital
 hero: true
 layout: solution
 ultrawide: true
 ---
+
 # Asset Management 
 
 DAI’s longstanding local presence and extensive networks across frontier and emerging markets provide an ideal platform for identifying promising investment opportunities, performing due diligence on these investment opportunities, and providing management support for the investee management teams once an investment is made.

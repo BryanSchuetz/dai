@@ -6,8 +6,8 @@ newIcon: _icons/dai-capital.html
 largeIcon: _icons/dai-capital-large.html
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: Dedicated to mobilizing and deploying private capital in frontier and emerging markets,
-  DAI Capital is the advisory and investment arm of DAI.
+summary: Dedicated to mobilizing and deploying private capital in frontier and emerging
+  markets, DAI Capital is the advisory and investment arm of DAI.
 type: primary
 related: false
 hero: true

@@ -2,7 +2,8 @@
 title: Luka Kalandarishvili
 date: 2023-05-12 08:37:00 Z
 lastname: Kalandarishvili
-summary: 'Prior to DAI, Luka was an Associate Banker at the European Bank for Reconstruction and Development (EBRD) in London, working in the Financial Institutions Group.'
+summary: Prior to DAI, Luka was an Associate Banker at the European Bank for Reconstruction
+  and Development (EBRD) in London, working in the Financial Institutions Group.
 job-title: 'Manager, DAI Capital '
 image: "/uploads/Luka.png"
 solutions:
