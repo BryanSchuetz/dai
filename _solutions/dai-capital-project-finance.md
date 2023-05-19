@@ -12,13 +12,13 @@ related: false
 solutions:
 - DAI Capital
 hero: true
-layout: solution
 ultrawide: true
+layout: solution
 ---
 
 # Project Finance
 
-In May 2023,  DAI Capital launched a Australian-based subsidiary, DAI Capital Pty Ltd, focused on project finance led by Stephen Moss, Executive Chair and Scott Roantree, CEO. The team brings decades of experience in investment mobilization and international development and a track record of developing and financing infrastructure in the healthcare, water, and renewable energy sectors to DAI Capital.
+In May 2023,  DAI Capital launched an Australia-based subsidiary, DAI Capital Pty Ltd, focused on project finance led by Stephen Moss, Executive Chair and Scott Roantree, CEO. The team brings decades of experience in investment mobilization and international development and a track record of developing and financing infrastructure in the healthcare, water, and renewable energy sectors to DAI Capital.
 
 The project finance arm of DAI Capital aims to improve people’s lives and positively affect the environment through investment in healthcare, renewable energy, and water infrastructure. We identify, develop and arrange financing for projects that aim to generate strong financial returns at the same time as achieving meaningful and measurable social and environmental impact, notably including: 
 
