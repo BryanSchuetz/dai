@@ -1,7 +1,7 @@
 ---
 title: Gil Crawford
 date: 2023-05-19 14:16:00 Z
-lastname: crawford
+lastname: Crawford
 summary: Prior to founding MicroVest, Gil worked in the Latin American Financial Markets
   Division at the International Finance Corporation, and prior to that he founded
   the Seed Capital Development Fund.

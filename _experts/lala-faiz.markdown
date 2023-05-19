@@ -1,7 +1,7 @@
 ---
 title: Lala Faiz
 date: 2023-05-18 16:21:00 Z
-lastname: faiz
+lastname: Faiz
 summary: Lala Faiz has two decades of experience supporting entrepreneurs and structuring
   credit guarantees and blended finance investment vehicles in both government and
   the private sector.
