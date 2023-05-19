@@ -19,7 +19,7 @@ ultrawide: true
 
 In November 2020, DAI concluded a majority investment in Magister Advisors to form DAI Magister, a strategic partnership enabling DAI to directly connect businesses in emerging and frontier markets with equity investors through Magister’s advisory business.
 
-DAI’s investment advisory arm focuses on developing and executing growth financing and sell-side mergers and acquisitions. We provide full transaction advisory services for deals between $30 million and $2 billion, focusing on the climate, fintech, tech-enabled commerce, and tech-communication sectors. Our services include: 
+DAI’s capital advisory arm focuses on developing and executing growth financing and sell-side mergers and acquisitions. We provide full transaction advisory services for deals between $30 million and $2 billion, focusing on the climate, fintech, tech-enabled commerce, and tech-communication sectors. Our services include: 
 
 - Developing tailored capital structures that balance the short- and long-term capital needs of the client’s business
 - Structuring, negotiating, and executing transactions to raise capital

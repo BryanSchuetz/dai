@@ -19,7 +19,7 @@ ultrawide: true
 
 DAI’s longstanding local presence and extensive networks across frontier and emerging markets provide an ideal platform for identifying promising investment opportunities, performing due diligence on these investment opportunities, and providing management support for the investee management teams once an investment is made.
 
-In December 2021, DAI [announced](https://www.dai.com/news/dai-acquires-international-asset-management-firm-microvest) the acquisition of MicroVest Capital Management, adding a rich vein of expertise to DAI’s existing asset management team, connecting that combined team to a wider network of investors, and providing DAI a platform on which to build a world class asset management business.
+In December 2021, DAI [announced](https://www.dai.com/news/dai-acquires-international-asset-management-firm-microvest) the acquisition of MicroVest Capital Management, adding a rich vein of expertise to DAI’s existing asset management team, connecting that combined team to a wider network of investors, and establishing a private credit platform as a base for further growth in scale and scope.
 
 MicroVest specializes in allocating private debt capital to responsible microfinance and small and medium-sized finance institutions serving unbanked and underbanked microentrepreneurs in emerging markets. An SEC Registered Investment Advisor and B Corporation, MicroVest has a 20-year track record lending to responsible financial institutions in such markets. 
 

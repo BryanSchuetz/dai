@@ -2,10 +2,8 @@
 title: Scott Roantree
 date: 2023-05-18 07:49:00 Z
 lastname: Roantree
-summary: 'Scott Roantree is the CEO for DAI Capital Asia.
-
-'
-job-title: CEO, DAI Capital Asia
+summary: 'Scott has worked for over twenty years in international development, holding senior executive roles in the private and public sector.'
+job-title: CEO, DAI Capital, Pty Ltd (Australia)
 image: "/uploads/scott_profilephoto%20(002).jpeg"
 solutions:
 - DAI Capital

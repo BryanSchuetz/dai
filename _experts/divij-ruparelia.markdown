@@ -1,12 +1,11 @@
 ---
 title: Divij Ruparelia
 date: 2020-04-14 11:18:00 Z
-published: false
 lastname: Ruparelia
 summary: 'Divij Ruparelia has more than 17 years of investment and finance experience,
   with a special focus on raising capital, direct investing, and building large ventures
   across emerging markets. '
-job-title: Principal, DAI Capital
+job-title: COO, DAI Magister
 image: "/uploads/Divij%20Ruparelia%20profile.jpg"
 solutions:
 - DAI Capital

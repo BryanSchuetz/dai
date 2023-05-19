@@ -2,8 +2,8 @@
 title: Andrei Rotaru
 date: 2023-05-12 08:41:00 Z
 lastname: Rotaru
-summary: Andrei Rotaru is a Senior Director at DAI Capital.
-job-title: 'Senior Director, DAI Capital '
+summary: 'Andrei Rotaru brings to DAI 17 years of principal investment experience across global private markets, having completed over 60 investments in excess of $5.5bn.'
+job-title: 'Senior Director, Business Development'
 image: "/uploads/Andrei.jpg"
 solutions:
 - DAI Capital
