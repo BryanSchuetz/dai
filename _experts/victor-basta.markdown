@@ -2,7 +2,7 @@
 title: Victor Basta
 date: 2023-05-12 09:02:00 Z
 lastname: Basta
-summary: 'Victor Basta is CEO of DAI Magister. '
+summary: 'Victor has advised on over 130 transactions across 30 years, and has helped found and build three successful corporate finance firms in the process.'
 job-title: CEO, DAI Magister
 image: "/uploads/Victor.jpg"
 solutions:
