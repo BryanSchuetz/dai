@@ -1,6 +1,6 @@
 ---
 title: DAI Launches Project Finance Business
-date: 2023-05-18 15:33:00 Z
+date: 2023-05-22 00:01:00 Z
 is_featured: true
 solutions:
 - DAI Capital
