@@ -1,7 +1,7 @@
 ---
 title: DAI Launches Project Finance Business
 date: 2023-05-18 15:33:00 Z
-published: false
+is_featured: true
 solutions:
 - DAI Capital
 summary: DAI today announced the addition of a specialized project finance company
@@ -10,7 +10,6 @@ summary: DAI today announced the addition of a specialized project finance compa
   infrastructure projects in the healthcare, water, and renewable energy sectors,
   including current projects in India and Indonesia.
 social-image: "/uploads/moss-gavin-scott.jpg"
-is_featured: true
 ---
 
 **New acquisition complements existing business lines in corporate finance and asset management, consolidates regional presence in South and Southeast Asia.**
