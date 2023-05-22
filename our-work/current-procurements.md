@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFA-2023-02 Digital Frontiers SARDI Sri Lanka SME Digital Transformation Upskilling](https://dai-assets.s3.amazonaws.com/rfps/RFA-2023-02%20Digital%20Frontiers%20SARDI%20Sri%20Lanka%20SME%20Digital%20Transformation%20Upskilling.pdf "6/30")
 * [RFP 2023-08 Mod 1](/uploads/RFP%202023-08%20Mod%201.pdf "5/31")
 * [RFP-INRM-0024 Questions and Answers](/uploads/RFP-INRM-0024%20Questions%20and%20Answers.pdf "6/2")
 * [RFP 2023-04 Mod 2](/uploads/RFP%202023-04%20Mod%202.pdf "5/25")
