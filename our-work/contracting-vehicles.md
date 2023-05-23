@@ -29,6 +29,7 @@ layout: node
 
 ### Stability
 
+* Programming for Prevention and Peacebuilding (P4P2) (2023–2028) 
 * Support Which Implements Fast Transitions V (SWIFT V) (2019-2024)
 * Resilient Cities Asia Activity (RCA) (2017-2024)
 * Famine Early Warning Systems Network (FEWS NET 7) (2019-2024)
