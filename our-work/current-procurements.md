@@ -19,5 +19,4 @@ Listed below are current solicitations. To view additional information regarding
 * [RFP-INRM-024 RESTORE Social Data](/uploads/RFP%20-INRM-024%20RESTORE%20Social%20Data.pdf "6/3")
 * [Modification 01 - RFP 2023-04 CBPR Public Relations Services](/uploads/Modification%2001%20-%20RFP%202023-04%20CBPR%20Public%20Relations%20Services.pdf "5/25")
 * [RFP-EGA-23-0079 - Development of eLearning Content](https://dai-assets.s3.amazonaws.com/rfps/RFP-EGA-23-0079%20-%20Development%20of%20eLearning%20Content.pdf "7/1")
-* [RFP 2023-08 ProICT Jamaica](/uploads/RFP%202023-08%20ProICT%20Jamaica.pdf "5/17")
 * [Business Egypt EOI and Concept Note](https://dai-assets.s3.amazonaws.com/rfps/Business%20Egypt%20EOI%20and%20Concept%20Note%20Template.pdf)
