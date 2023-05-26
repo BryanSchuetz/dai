@@ -1,6 +1,10 @@
 ---
 title: Zimbabwe Accountability and Citizen Engagement (ZIMACE)
 date: 2023-05-26 11:28:00 Z
+summary: The Zimbabwe Accountability and Citizen Engagement (ZIMACE) program seeks
+  to protect human rights and promote transparent and accountable governance across
+  Zimbabwe by empowering citizens to hold the state accountable for its use of resources
+  and its respect for human rights and democratic principles.
 start: 2023
 end: 2027
 client: Foreign, Commonwealth & Development Office
@@ -16,7 +20,7 @@ This lack of inclusion, empowerment, and participation of citizens, especially w
 
 This lack of accountable, inclusive, and transparent policy and resource management processes, and a general culture of mistrust, fear, and factionalism across all levels of politics and private spheres, hinders the realization of rights and delivery of public services.
 
-Zimbabwe Accountability and Citizen Engagement (ZIMACE) program seeks to protect human rights and promote transparent and accountable governance across Zimbabwe by empowering citizens to hold the state responsible for its use of resources and its respect for human rights and democratic principles. ZIMACE is a 4.5-year FCDO-funded program, the follow-on to [TRACE](https://www.dai.com/our-work/projects/zimbabwe-transparency-responsiveness-accountability-and-citizen-engagement-trace), also implemented by DAI, which ran from 2014-2022.
+The Zimbabwe Accountability and Citizen Engagement (ZIMACE) program seeks to protect human rights and promote transparent and accountable governance across Zimbabwe by empowering citizens to hold the state accountable for its use of resources and its respect for human rights and democratic principles. ZIMACE is a 4.5-year FCDO-funded program, the follow-on to [TRACE](https://www.dai.com/our-work/projects/zimbabwe-transparency-responsiveness-accountability-and-citizen-engagement-trace), also implemented by DAI, which ran from 2014-2022.
 
 ZIMACE follows on from the successes of TRACE to help strengthen effective civic action through four main workstreams: citizen rights, climate change, democratic processes, and women and girls. In practice, ZIMACE will provide grants and capacity support to Zimbabwean civil society organizations and extend technical assistance to targeted government agencies/independent commissions across the four workstreams.
 
