@@ -18,9 +18,12 @@ This lack of accountable, inclusive, and transparent policy and resource managem
 
 Zimbabwe Accountability and Citizen Engagement (ZIMACE) program seeks to protect human rights and promote transparent and accountable governance across Zimbabwe by empowering citizens to hold the state responsible for its use of resources and its respect for human rights and democratic principles. ZIMACE is a 4.5-year FCDO-funded program, the follow-on to [TRACE](https://www.dai.com/our-work/projects/zimbabwe-transparency-responsiveness-accountability-and-citizen-engagement-trace), also implemented by DAI, which ran from 2014-2022.
 
-ZIMACE follows on from the successes of TRACE to help strengthen effective civic action through four main workstreams:
-Citizen Rights: Enabling people lacking basic documentation (notably birth certificates and national IDs) to obtain them.
-Climate Change: Encouraging Zimbabweans to build more evidence-based coalitions and actively holding authorities to account for the use of resources, including on climate change and nature commitments.
-Democratic Processes: Prioritising interventions that enhance media freedom, deliver credible elections, and ensure the quality of democratic processes.
-Women and Girls: Ensuring women's rights organizations, movements, and institutions are more robust, sustainable, and active in influencing laws, policies, and organizational practices to enhance gender equality and the rights of women and girls.
-In practice, ZIMACE will provide grants and capacity support to Zimbabwean civil society organizations and extend technical assistance to targeted government agencies/independent commissions across the four workstreams.
+ZIMACE follows on from the successes of TRACE to help strengthen effective civic action through four main workstreams: citizen rights, climate change, democratic processes, and women and girls. In practice, ZIMACE will provide grants and capacity support to Zimbabwean civil society organizations and extend technical assistance to targeted government agencies/independent commissions across the four workstreams.
+
+### Sample Activities
+
+* **Citizen Rights:** Enabling people lacking basic documentation (notably birth certificates and national IDs) to obtain them.
+* **Climate Change:** Encouraging Zimbabweans to build more evidence-based coalitions and actively holding authorities to account for the use of resources, including on climate change and nature commitments.
+* **Democratic Processes:** Prioritising interventions that enhance media freedom, deliver credible elections, and ensure the quality of democratic processes.
+* **Women and Girls:** Ensuring women's rights organizations, movements, and institutions are more robust, sustainable, and active in influencing laws, policies, and organizational practices to enhance gender equality and the rights of women and girls.
+
