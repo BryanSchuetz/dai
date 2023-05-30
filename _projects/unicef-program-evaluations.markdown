@@ -1,6 +1,18 @@
 ---
 title: UNICEF Program Evaluations
 date: 2023-05-30 08:48:00 Z
+summary: DAI has been contracted to provide evaluation services for UNICEF under a
+  long-term framework that acts as the primary mechanism for UNICEF's regional and
+  country offices to conduct evaluations.
+start: 2023
+end: 2025
+client: UNICEF
+solutions:
+- Global Health
+- Education
+- Nutrition and Food Security
+- Social Protection
+regions: Worldwide
 ---
 
 DAI has been contracted to provide evaluation services for UNICEF under a long-term framework that acts as the primary mechanism for UNICEF's regional and country offices to conduct evaluations. The evaluations inform regional and global policies, program components, cross-cutting issues, and implementation modalities with a view to supporting learning, policy advocacy, and accountability.  
