@@ -13,6 +13,7 @@ solutions:
 - Nutrition and Food Security
 - Social Protection
 regions: Worldwide
+country: Worldwide
 ---
 
 DAI has been contracted to provide evaluation services for UNICEF under a long-term framework that acts as the primary mechanism for UNICEF's regional and country offices to conduct evaluations. The evaluations inform regional and global policies, program components, cross-cutting issues, and implementation modalities with a view to supporting learning, policy advocacy, and accountability.  
