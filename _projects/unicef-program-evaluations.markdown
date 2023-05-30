@@ -22,3 +22,5 @@ Global in scope, the framework covers sectors including education and learning, 
 DAI's consortium partners are the University of Portsmouth, Climate Sense, Tandem Development, Consilient, and the National Foundation for Educational Research. 
 
 The framework is managed by DAI's U.K.-based Evidence, Learning, Technical Assistance Facility team, which has experience in managing similar framework services, including the U.K. Foreign, Commonwealth and Development Office [GEMFA Framework](https://www.dai.com/our-work/projects/worldwide-global-evaluation-and-monitoring-framework-agreement-gemfa-lot-4) and for UNICEF's Alignment, Monitoring, Results Unit.
+
+![ARM_7469.jpg](/uploads/ARM_7469.jpg)
