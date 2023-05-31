@@ -12,7 +12,7 @@ regions:
 - Worldwide
 ---
 
-Victor is the founder and CEO of DAI Magister, DAI's capital advisory arm. 
+Victor Basta is the founder and CEO of DAI Magister, DAI's capital advisory arm. 
 
 Victor has advised on over 130 transactions across 30 years, and has helped found and build three successful corporate finance firms in the process. His orientation has always been towards sell-side financings and M&A, where experience and creativity can yield additional value to investors and founders of later stage growth companies. 
 
