@@ -129,9 +129,6 @@ DAI leads customized courses upon request for private sector or government clien
 
 ## Meet Our Trainers
 
-**Zachary Kaplan—Vice President, Sustainable Business Group**
-
-
 
 **Dorival Bettencourt—Director, Sustainable Business Group**
 
