@@ -1,6 +1,7 @@
 ---
 title: Athab AL Shuhoumi
 date: 2023-03-21 10:42:00 Z
+published: false
 lastname: 'AL Shuhoumi '
 summary: Athab AL Shuhoumi is an Analyst in DAI’s Sustainable Business Group, based
   in Oman.

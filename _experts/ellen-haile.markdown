@@ -1,7 +1,7 @@
 ---
 title: Ellen Haile
 date: 2021-10-13 08:54:00 Z
-order: 20
+published: false
 lastname: Haile
 summary: Ellen Haile has a background in Applied Economics and currently supports
   the Sustainable Business Group as an Associate Analyst.
@@ -9,6 +9,7 @@ job-title: Associate Analyst
 image: "/uploads/E.Haile_Photo%20copy.png"
 solutions:
 - Sustainable Business
+order: 20
 ---
 
 Ellen Haile has a background in Applied Economics and currently supports the Sustainable Business Group as an Associate Analyst. Prior to joining DAI, Ellen developed economic and statistical models for risk modeling in the banking industry, worked on supply chain management issues, and has experience in qualitative data collection. Ellen also has international experience in Eritrea and Paraguay.
