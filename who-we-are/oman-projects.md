@@ -13,6 +13,7 @@ regions: Middle East and North Africa
 related: true
 country-page: true
 layout: solution
+published: false
 ---
 
 <div class="block-project">

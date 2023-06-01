@@ -27,14 +27,6 @@ Nigeria is Africa’s most populous nation and largest economy, a country of alm
 
 <hr>
 
-## Oman
-
-DAI’s office in Oman was established in November 2018 as a point of entry to expand its services in the Gulf region. Since inception it has focused on the objectives of Oman Vision 2040, particularly on promoting a competitive economy that is productive and diversified, driven by an innovative private sector, and achieving sustainable development for the country.
-
-<a href="/who-we-are/global-reach/oman-office" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
-<hr>
-
 ## Pakistan
 
 Home to almost a quarter of a billion people at the crossroads of Central Asia, the Asian Subcontinent, and the Gulf, Pakistan is both a rapidly growing economy and a perennial geopolitical hotspot, given its borders with Afghanistan, China, India, and Iran. DAI brings to Pakistan its global perspective, resources, and expertise, and a locally-led team of world class professionals based in Islamabad.

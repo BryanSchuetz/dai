@@ -13,6 +13,7 @@ regions: Middle East and North Africa
 related: true
 country-page: true
 layout: solution
+published: false
 ---
 
 In Oman, DAI has supported clients including Shell, Occidental Petroleum Oman, Khimji Ramdas Group, and government ministries including Commerce, Industry and Investment Promotion, Health, and Petroleum Development Oman (PDO). 
