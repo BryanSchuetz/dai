@@ -57,7 +57,9 @@ By 2026, we anticipate that the activity will have reduced the average time to m
 
 ## Select Results
 
-* TCA helped Turkmenistan digitalize business processes through applying the Electronic Consignment Note information technology solution. 
+* TCA helped Turkmenistan digitalize business processes by applying the Electronic Consignment Note information technology solution. 
+* TCA supported the Government of Uzbekistan in undertaking a phytosanitary capacity evaluation process, which will be a basis of recommendations for reforms.
+* TCA facilitated the opening of Women in Logistics and Transport Association offices in Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan.
 * CTJ organized the [Central Asia Trade Forum](https://www.facebook.com/watch/?v=1291034371097076), an annual event that promotes regional connectivity within Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. The 2019 forum brought together more than 800 government and business leaders from countries across Asia, Europe, and the United States in Shymkent, Kazakstan to discuss and share ideas on horticultural innovation and trade investment.
 * CTJ supported seven companies from Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to attended the Anuga trade fair in Germany, the largest food and beverage trade fair in the world. The Central Asian companies exhibited their horticultural products together under the "Taste of Central Asia" stand. 
 * CTJ conducted a Regional Trade and Transport Forum in Termez, Uzbekistan—co-hosted with the Uzbekistan Ministry of Transport and the Termez City Government and jointly funded with the U.S. Department of Commerce Commercial Law Development Program—where delegates agreed to cooperate by signing over $600,000 worth of business deals among counterparts from Central Asia, Afghanistan, India, Pakistan, and beyond.  
