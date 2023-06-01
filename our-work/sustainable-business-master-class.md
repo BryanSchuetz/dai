@@ -80,54 +80,32 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 ## The course is led by experts working at the forefront of international development and local content policy.
 
 <div class="bulma">
-<div class="container">
-<div class="columns">
-<div class="column">
-<a class="bulma-card" href="/who-we-are/our-team/zachary-kaplan">
-<div class="card is-child">
-<div class="card-image" style="padding: 1rem;">
-<figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/Zach%20websitepng.png" alt="Placeholder image">
-</figure>
-</div>
-<div class="card-content">
-<div class="media">
-<div class="media-content">
-<p class="title is-4">Zachary Kaplan</p>
-<p class="subtitle is-6">Vice President, Sustainable Business Group</p>
-</div>
-</div>
-<div class="content">
-<p>Zachary has more than 15 years’ experience within the energy industry, focusing on local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="column">
-<a class="bulma-card" href="/who-we-are/our-team/dorival-bettencourt">
-<div class="card is-child">
-<div class="card-image" style="padding: 1rem;">
-<figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/Dorival%20web.jpg" alt="Placeholder image">
-</figure>
-</div>
-<div class="card-content">
-<div class="media">
-<div class="media-content">
-<p class="title is-4">Dorival Bettencourt</p>
-<p class="subtitle is-6">Director, Sustainable Business Group</p>
-</div>
-</div>
-<div class="content">
-<p>Dorival Bettencourt has more than 10 years’ experience in energy investment, with technical expertise in all aspects of local content strategy, policy, analytics and implementation. He has led dozens of engagements for private and public sector clients around the world.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
+   <div class="container">
+      <div class="columns">
+         <div class="column">
+            <a class="bulma-card" href="/who-we-are/our-team/dorival-bettencourt">
+               <div class="card is-child">
+                  <div class="card-image" style="padding: 1rem;">
+                     <figure class="image is-128x128">
+                        <img class="is-rounded" src="/uploads/Dorival%20web.jpg" alt="Placeholder image">
+                     </figure>
+                  </div>
+                  <div class="card-content">
+                     <div class="media">
+                        <div class="media-content">
+                           <p class="title is-4">Dorival Bettencourt</p>
+                           <p class="subtitle is-6">Director, Sustainable Business Group</p>
+                        </div>
+                     </div>
+                     <div class="content">
+                        <p>Dorival Bettencourt has more than 10 years’ experience in energy investment, with technical expertise in all aspects of local content strategy, policy, analytics and implementation. He has led dozens of engagements for private and public sector clients around the world.</p>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+      </div>
+   </div>
 </div>
 
 ## Participants are trained to:
