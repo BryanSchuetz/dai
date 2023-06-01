@@ -49,14 +49,15 @@ By 2026, we anticipate that the activity will have reduced the average time to m
 
 ![][3]
 
-### Sample Activities
+## Sample Activities
 
 * Collaborate with public- and private-sector partners to develop a plan to address regional trade facilitation opportunities and [support businesses](https://medium.com/usaid-2030/tajikistans-apricot-exports-speak-for-themselves-8fdbbb2d1b84) in complying with regulations and requirements.
-* Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job-readiness, and entrepreneurship.
+* Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job readiness, and entrepreneurship.
 * Establish an innovation facility to motivate firms to design and implement solutions to overcome specific market failures related to horticulture, transportation, and border management.
 
-### Select Results
+## Select Results
 
+* TCA helped Turkmenistan digitalize business processes through applying the Electronic Consignment Note information technology solution. 
 * CTJ organized the [Central Asia Trade Forum](https://www.facebook.com/watch/?v=1291034371097076), an annual event that promotes regional connectivity within Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. The 2019 forum brought together more than 800 government and business leaders from countries across Asia, Europe, and the United States in Shymkent, Kazakstan to discuss and share ideas on horticultural innovation and trade investment.
 * CTJ supported seven companies from Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to attended the Anuga trade fair in Germany, the largest food and beverage trade fair in the world. The Central Asian companies exhibited their horticultural products together under the "Taste of Central Asia" stand. 
 * CTJ conducted a Regional Trade and Transport Forum in Termez, Uzbekistan—co-hosted with the Uzbekistan Ministry of Transport and the Termez City Government and jointly funded with the U.S. Department of Commerce Commercial Law Development Program—where delegates agreed to cooperate by signing over $600,000 worth of business deals among counterparts from Central Asia, Afghanistan, India, Pakistan, and beyond.  
