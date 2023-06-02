@@ -35,3 +35,4 @@ to assess county administrations’ and city corporations’ systems and capacit
 * Strengthen the Domestic Tax Department’s capacity to fully utilize the Integrated Tax Administration System.
 * Establish a framework for sub-national revenue administration.
 * Strengthen the Liberia Revenue Authority’s one-way public outreach function and taxpayer communication.
+* Support the passage, rollout, and implementation of key legal and regulatory instruments including the Revenue Sharing Law, draft VAT Bill, Amended Revenue Code and Amended Public Financial Management Law, and the Public Financial Management Action Plan, and Schedule of Authorities.
