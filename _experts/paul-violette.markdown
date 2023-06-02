@@ -2,11 +2,11 @@
 title: Paul Violette
 date: 2021-05-18 13:08:00 Z
 lastname: Violette
-summary: Paul Violette is the Senior Director of the Water and Energy Practice, working
-  to reduce waste and environmental pollution, transition to renewables, improve service
-  delivery, boost inclusive and equitable economic growth, and strengthen governance
-  and resilience.
-job-title: 'Senior Director, Water and Energy Practice '
+summary: Paul Violette is the Senior Director of the Water, Energy, and Waste Practice,
+  working to reduce waste and environmental pollution, transition to renewables, improve
+  service delivery, boost inclusive and equitable economic growth, and strengthen
+  governance and resilience.
+job-title: 'Senior Director, Water, Energy, and Waste Practice '
 image: "/uploads/Violette_High%20Resolution.jpg"
 solutions:
 - Environment
@@ -15,7 +15,7 @@ regions:
 - Worldwide
 ---
 
-Paul Violette is the Senior Director of the Water and Energy Practice, working to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience. Paul has more than 20 years of experience implementing environment projects spanning 40 countries, with an emphasis on climate change, clean energy, sustainable infrastructure, and water security, sanitation, and hygiene (WSSH). 
+Paul Violette is the Senior Director of the Water, Energy, and Waste Practice, working to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience. Paul has more than 20 years of experience implementing environment projects spanning 40 countries, with an emphasis on climate change, clean energy, sustainable infrastructure, and water security, sanitation, and hygiene (WSSH). 
 
 Before joining DAI, he served as Vice President of Environment & Infrastructure for DT Global (formerly AECOM International Development). Previously, as DT Global’s Director of Climate Change, Energy, and Environment, he built a climate change portfolio by providing technical leadership and managing a global team implementing innovative U.S. Agency for International Development (USAID) projects such as Adapt Asia-Pacific, PARA-Agua, Philippines Be Secure, and Pacific Climate Ready.
 
