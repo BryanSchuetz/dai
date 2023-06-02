@@ -24,6 +24,8 @@ GGA aims to improve the capacities of select Government of Liberia ministries, a
  
 At the end of five years, GGA will have helped to establish the systems, implementation frameworks, and capacity for effective domestic resource mobilization, budget transparency, and decentralized governance. Citizens also will be more engaged in ensuring that their taxes are accounted for, and collectively these improvements should strengthen the social contract between Liberians and their governing institutions.
 
+[IMG_3559.JPG](/uploads/IMG_3559.JPG)
+
 ## Sample Activities
 
 * Work with the government to review and tailor the Municipal Capacity Assessment Tool and the City Capacity Assessment Tool designed under LEGIT
