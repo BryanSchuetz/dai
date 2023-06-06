@@ -10,6 +10,7 @@ image: "/uploads/portal%20Glen%20Lockwood%202%20by%202%20inch%20(2018_06_01%2022
 solutions:
 - Economic Growth
 - supply-chain
+- Sustainable Business
 regions:
 - Worldwide
 ---
