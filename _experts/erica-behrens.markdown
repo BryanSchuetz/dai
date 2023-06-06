@@ -7,7 +7,7 @@ summary: 'Erica is a Senior Associate within the Delivery, Finance, and Operatio
 job-title: 'Senior Associate '
 image: "/uploads/Erica%20Behrens.png"
 solutions:
-- sustainable business
+- Sustainable Business
 ---
 
 After three years with DAI’s Center for Digital Acceleration (CDA), Erica joined DAI’s Sustainable Business Group (SBG) in late 2022 as a Senior Associate within the Delivery, Finance, and Operations team. 
