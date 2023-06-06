@@ -6,7 +6,7 @@ summary: 'Patrick Henry is a Senior Director in DAI Global’s Sustainable Busin
   Group who leads supplier development initiatives globally and manages DAI’s work
   with ExxonMobil. '
 job-title: Senior Director, Sustainable Business Group
-image: "/uploads/new%20Patrick%20Henry-44699b.jpg"
+image: "/uploads/new%20Patrick%20Henry.png"
 solutions:
 - Sustainable Business
 regions:
