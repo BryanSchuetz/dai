@@ -34,72 +34,6 @@ Our approach delivers comprehensive programs of business upskilling and workforc
 <div class="bulma enterprise-innovation practice-leaders">
    <div class="container">
       <div class="columns">
-         <div class="column">
-            <div class="bulma-card bm--card-equal-height">
-               <div class="card is-child bm--card-equal-height">
-                  <div class="card-image" style="padding: 1rem;">
-                     <figure class="image is-128x128">
-                        <img class="is-rounded" src="/uploads/new%20Patrick%20Henry.jpg" alt="Placeholder image">
-                     </figure>
-                  </div>
-                  <div class="card-content">
-                     <div class="media">
-                        <a href="/who-we-are/our-team/patrick-henry">
-                           <div class="media-content">
-                              <p class="title is-4" style="color: #1e7ab3;">Patrick Henry </p>
-                              <p class="subtitle is-6" style="color: #1e7ab3;">Senior Director, Sustainable Business Group</p>
-                           </div>
-                        </a>
-                     </div>
-                     <div class="content">
-                        <p>Leads innovative global supplier development initiatives.</p>
-                        <div class="bulma">
-                           <button class="button is-primary" onclick="window.location.href='mailto:patrick_henry@dai.com'">
-                           <span class="icon is-small">
-                           <i class="fa-solid fa-envelope"></i>
-                           </span>
-                           <span>Contact</span>
-                           </button>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="column">
-            <div class="bulma-card bm--card-equal-height">
-               <div class="card is-child">
-                  <div class="card-image" style="padding: 1rem;">
-                     <figure class="image is-128x128">
-                        <img class="is-rounded" src="/uploads/Dorival%20web.jpg" alt="Placeholder image">
-                     </figure>
-                  </div>
-                  <div class="card-content">
-                     <div class="media">
-                        <a href="/who-we-are/our-team/dorival-bettencourt">
-                           <div class="media-content">
-                              <p class="title is-4" style="color:#1e7ab3;">Dorival Bettencourt</p>
-                              <p class="subtitle is-6" style="color:#1e7ab3;">Director, Strategy and Growth</p>
-                           </div>
-                        </a>
-                     </div>
-                     <div class="content">
-                        <p>Helps companies and countries find innovative ways to unleash the potential of the private sector to generate sustainable economic development.​​</p>
-                        <div class="bulma">
-                           <button class="button is-primary" onclick="window.location.href='mailto:dorival_bettencourt@dai.com'">
-                           <span class="icon is-small">
-                           <i class="fa-solid fa-envelope"></i>
-                           </span>
-                           <span>Contact</span>
-                           </button>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="columns">
         <div class="column">
           <div class="bulma-card bm--card-equal-height">
                <div class="card is-child">
@@ -164,6 +98,40 @@ Our approach delivers comprehensive programs of business upskilling and workforc
                </div>
             </div>
         </div>
+      </div>
+      <div class="columns">
+         <div class="column">
+            <div class="bulma-card bm--card-equal-height">
+               <div class="card is-child bm--card-equal-height">
+                  <div class="card-image" style="padding: 1rem;">
+                     <figure class="image is-128x128">
+                        <img class="is-rounded" src="/uploads/new%20Patrick%20Henry.jpg" alt="Placeholder image">
+                     </figure>
+                  </div>
+                  <div class="card-content">
+                     <div class="media">
+                        <a href="/who-we-are/our-team/patrick-henry">
+                           <div class="media-content">
+                              <p class="title is-4" style="color: #1e7ab3;">Patrick Henry </p>
+                              <p class="subtitle is-6" style="color: #1e7ab3;">Senior Director, Sustainable Business Group</p>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="content">
+                        <p>Leads innovative global supplier development initiatives.</p>
+                        <div class="bulma">
+                           <button class="button is-primary" onclick="window.location.href='mailto:patrick_henry@dai.com'">
+                           <span class="icon is-small">
+                           <i class="fa-solid fa-envelope"></i>
+                           </span>
+                           <span>Contact</span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
       </div>
    </div>
 </div>
