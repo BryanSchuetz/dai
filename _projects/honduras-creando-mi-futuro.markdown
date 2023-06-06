@@ -13,6 +13,10 @@ solutions:
 - Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: Honduras
+promos:
+- title: In Honduras, First-Year Project Sprint Shows Value of a Healthy Workplace
+    Culture
+  link: https://dai-global-developments.com/articles/in-honduras-first-year-project-sprint-shows-value-of-a-healthy-workplace-culture/
 ---
 
 Instability, violence, and economic fragility are generating dislocation and disillusionment among Honduran youth, leading to record levels of outmigration. Honduras’s largest potential economic assets—its youth—are fleeing the country at an alarming rate. Comprising 53 percent of the population, youth represent an enormous economic opportunity for Honduras. The Honduras *Creando Mi Futuro Aquí* (Creating My Future Here) Activity works to increase the employment of young people at risk of irregular migration to the United States by increasing their educational and income-generating opportunities.
