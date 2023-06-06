@@ -44,7 +44,7 @@ Courses in 2023:
 
 A one-day course designed for corporate and philanthropic leaders responsible for social performance programming.
 
-Leveraging design thinking principles, we provide an immersive experience for company teams, their suppliers, and partners to build capability and confidence in navigating the spectrum of activities required to develop world-class impactful social investment portfolios. 
+Leveraging design thinking principles, we provide an immersive experience for company teams, their suppliers, and partners to build capability and confidence in navigating the spectrum of activities required to develop world-class impactful social investment portfolios.
 
 ### Course modules
 
@@ -128,19 +128,6 @@ DAI leads customized courses upon request for private sector or government clien
 <hr>
 
 ## Meet Our Trainers
-
-
-**Dorival Bettencourt—Director, Sustainable Business Group**
-
-![Dorval bettencourt photo](/uploads/Dorival%20web.jpg){:.float-right}
-
-[Dorival Bettencourt](https://www.dai.com/who-we-are/our-team/dorival-bettencourt) has more than 10 years’ experience in oil and gas investment, focusing on local content policy and implementation, and leads activities related to local content, corporate social investment, and supplier development for oil and gas clients around the world.
-
-* Leads and oversees industrial baseline assessments for major oil and gas investments globally
-
-* Designs and implements local content stakeholder engagement strategies across DAI’s portfolio
-
-* Extractive Industry Lead for U.S. Agency for International Development-funded private sector development and competitiveness program in Mozambique
 
 **Zaki Raheem—Technical Director, Sustainable Business Group**
 
