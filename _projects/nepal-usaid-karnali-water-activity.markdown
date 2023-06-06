@@ -31,3 +31,7 @@ We are using a OneWater approach that knits together actors (community, municipa
 * Conduct citywide sanitation planning exercises that include fecal sludge management, city drainage, and solid waste systems.
 * Develop policies and regulations for improved watershed-level water resource management. 
 * Support the identification of ecologically significant areas to conserve biodiversity and water.
+
+## Select Results
+
+* Installed a tap in Khadachakra Municipality where 38 families previously had to walk 20 miles for water. 
