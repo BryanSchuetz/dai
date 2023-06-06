@@ -43,3 +43,4 @@ AVC-Livestock assists vulnerable farm communities and households severely impact
 * Trained 2,074 individuals in short-term agricultural productivity or food security training.
 * Distributed 50 metric tons of wheat seed, 53.15 metric tons of soy seed, 1,204 metric tons of animal feed concentrate, 35 metric tons of fish feed, and 215 metric tons of poultry feed to vulnerable farm families and rural households. 
 * Created 191 full-time jobs created in AVC-Livestock assisted firms.
+* Delivered and installed solar systems for 13 agribusinesses (totaling 625 panels), 66 solar stands, 60 batteries, and 41 inverters. The effort has invested more than $200,000 in solarization systems for Afghan agribusinesses. 
