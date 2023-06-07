@@ -38,3 +38,4 @@ In partnership with our key subcontractor FHI360, PLANE operates across Kano, Ka
 * Strengthened safeguarding referral mechanisms in all three states.
 * Supported the states in reviewing private school policies to enhance the relationship with the federal government for better service delivery.
 * Supported the states in developing an accountability framework.
+* Almost 2,000 schools, more than 5,000 teachers, and more than 350,000 learners have accessed PLANE's packages to enhance instruction and learning.
