@@ -50,3 +50,4 @@ TIF’s priority sectors are tourism, agriculture and agrifoods, manufacturing, 
 * Helped sustain 5,600 jobs.
 * Supported a company called Biomass to raise $1 million in investment for the company to expand its production.
 * Provided 25 firms with transaction advisory support.
+* Closed a $1 million investment with an Egyptian fashion investor group for Atelier Jean Louis Sabaji—a Lebanese luxury clothing brand. The investment will finance fashion shows in Egypt and the development of five standalone stores in the country over the next three years.
