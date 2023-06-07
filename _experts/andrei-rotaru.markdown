@@ -18,7 +18,7 @@ Andrei spent 10 years at the IFC Asset Management Company (AMC), a subsidiary of
 
 Prior to joining DAI, Andrei was Head of Global Directs and Co-investments, Infrastructure, and Natural Resources, with Abu Dhabi Investment Council, one of the leading sovereign funds in the Gulf Cooperation Council.
 
-Andrei has been a board member of various portfolio companies operating in the emerging markets, including Gama Enerji Turkey, Pacific Midstream Colombia, Nautilus Latin America, and Nabiax Data Centers. 
+Andrei has been a board member of various portfolio companies operating in emerging markets, including Gama Enerji Türkiye, Pacific Midstream Colombia, Nautilus Latin America, and Nabiax Data Centers. 
 
 * Executive M.B.A, Harvard Business School 
 * M.B.A., HEC Paris  
