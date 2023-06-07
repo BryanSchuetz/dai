@@ -26,20 +26,20 @@ If Kyrgyzstan is able to meet these challenges, its new parliamentary system cou
 
 In 2013, the former U.K. Department for International Development joined the project as a donor, enabling our work to be extended into 2015.
 
-### Sample Activities
+## Sample Activities
 
 * Assistance in improving legislative process and procedure.
 * Assistance in strengthening parliamentary committees.
 * Improving information flow on parliamentary activities between the Parliament and civil society and the public.
 * Assistance in improving human resource management.
 
-### Select Results
+## Select Results
 
 * Founded the Training Center for Legislative Drafting, integrated within the Kyrgyz State Law Academy, to hold intensive four-week training courses in legislative drafting and analysis for professionals from the Parliament, the Government, the business sector, and civil society.
-* Supported the generation of a Russian-Kyrgyz Dictionary of Legislative and Other Terms, the use of which has been made mandatory in certain state bodies to standardize the translation of draft laws and other official documents, in order to eliminate ambiguity and contradiction in the development and interpretation of the law as a result of inaccurate translation.
+* Supported the generation of a Russian-Kyrgyz Dictionary of Legislative and Other Terms, the use of which has been made mandatory in certain state bodies to standardize the translation of draft laws and other official documents, to eliminate ambiguity and contradiction in the development and interpretation of the law as a result of inaccurate translation.
 * Established the KPSP-JK Research Fund, providing Members of Parliament with access to external research and analysis to support more evidence-based lawmaking practices.
 * Organized the School of Parliamentary Journalism, affording young journalists and students intensive training in the use of new media forms, the principles of parliamentary governance, and the professional demands of journalists working within the Parliament.
 * Assisted the Parliamentary Women's Club, a professional organization of highly placed women within the Administration of the Parliament, which seeks the implementation of gender-inclusive policies in the Jogorku Kenesh, organizes capacity-building events for women in the civil service and forwards the involvement of women in political decision-making.
-* Initiated and assisted in organizing and conducting 117 trainings, 54 public forums, 85 policy seminars and working groups, two video conferences, and eight study tours to the United States, the United Kingdom, Malaysia, Mongolia, Germany, Hungary, Turkey, Sweden, and Denmark.
+* Initiated and assisted in organizing and conducting 117 trainings, 54 public forums, 85 policy seminars, and working groups, two video conferences, and eight study tours to the United States, the United Kingdom, Malaysia, Mongolia, Germany, Hungary, Türkiye, Sweden, and Denmark.
 * Events covered topics crucial for parliamentary development and capacity building or relating to good governance, economic issues, and social problems.
 * Events have been attended in aggregate by 845 Members of Parliament, and overall by about 13,000 persons, including more than 5,400 women; most non-MP attendees have been parliamentary committee and department/division staff and consultants and assistants.
