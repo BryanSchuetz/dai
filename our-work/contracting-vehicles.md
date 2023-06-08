@@ -40,7 +40,7 @@ layout: node
 
 # Centers for Disease Control and Prevention (CDC)
 
-* International, Technical, Operational, Professional Support Services (ITOPSS) (2018–2023)
+* International, Technical, Operational, and Professional Support Services (ITOPSS) (2018–2023)
 
 # U.K. Foreign, Commonwealth & Development Office (FCDO) Expert Advisory Call Down Services
 
