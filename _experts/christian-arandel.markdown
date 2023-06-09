@@ -4,6 +4,7 @@ date: 2023-06-09 11:02:00 Z
 published: false
 lastname: Arandel
 job-title: Senior Lead Specialist, Local Governance
+image: "/uploads/sm%20Christian%20Arandel.jpg"
 solutions:
 - Governance
 - Local Governance and Decentralization
