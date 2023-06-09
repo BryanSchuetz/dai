@@ -20,7 +20,7 @@ Formalized last year, the DAI Alumni Network set out to leverage the knowledge, 
 
 To date, the Alumni Network—which now counts more than 2,500 members on its EnterpriseAlumni platform—has hosted 14 in-person Reconnect Events in 14 countries to celebrate and engage the dedicated professionals at the heart of DAI’s work.
 
-![21-69b2f0.jpg](/uploads/21-69b2f0.jpg)`Current staff and alumni gather at a Honduras event in April 2023.`
+![indo.png](/uploads/indo.png)`Current staff and alumni gather at a Indonesia event in May 2023.`
 
 “It is my honor to accept this award on behalf of DAI,” said Gilson. “We spent the past year brainstorming and building the framework underlying what is now a burgeoning community. Our success would have been difficult to come by had it not been for the support of the EnterpriseAlumni team, who really rolled up their sleeves and dug in with us.”
 
