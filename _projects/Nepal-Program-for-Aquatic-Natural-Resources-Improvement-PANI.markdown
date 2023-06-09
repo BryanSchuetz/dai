@@ -17,7 +17,7 @@ regions: Asia and the Pacific
 country: Nepal
 promos:
 - title: 'FINAL REPORT: Paani Achievements'
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/our-work/Final%20Summary%20Report%20Vol%201.pdf
+  link: "/uploads/USAID%20Paani%20Program%20Final%20Summary.pdf"
 - title: 'Enhancing Watershed Management: Integrated Water Resources Management in
     Nepal'
   link: https://medium.com/@bridgebiointegration/investing-in-prosperity-5c1e8622df4b
