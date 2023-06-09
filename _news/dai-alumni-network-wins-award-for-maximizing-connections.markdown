@@ -1,6 +1,6 @@
 ---
 title: DAI Alumni Network Wins Award for Maximizing Connections
-date: 2023-06-09 11:50:00 Z
+date: 2023-06-09 07:50:00 Z
 published: false
 solutions:
 - 
