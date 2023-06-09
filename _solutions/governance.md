@@ -17,6 +17,8 @@ promos:
   link: "/our-work/the-projects?filter=governance"
 - title: "**News:** Recent Governance News"
   link: "/news/view-more-news?filter=governance"
+- title: 'E-Procurement: Automation for Transparency'
+  link: "/uploads/E-Procurement%20pages.pdf"
 related: false
 hero: true
 layout: solution
