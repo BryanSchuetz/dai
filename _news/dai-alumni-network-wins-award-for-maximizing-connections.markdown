@@ -1,13 +1,13 @@
 ---
 title: DAI Alumni Network Wins Award for Maximizing Connections
 date: 2023-06-09 07:50:00 Z
-published: false
 solutions:
 - 
 - 
 regions: Worldwide
 summary: The DAI Alumni Network was named the winner of an award recognizing its achievements
   since launching in 2022.
+social-image: "/uploads/MicrosoftTeams-image%20(8).png"
 ---
 
 The [DAI Alumni Network](https://alumni.dai.com/) was named the winner of an award recognizing its achievements since launching in 2022. Senior Vice President of Global Strategy [Jean Gilson](https://www.dai.com/who-we-are/leadership/jean-gilson) accepted the “Six Degrees of Separation” Award on behalf of DAI at the recent [2023 EnterpriseAlumni Global Conference](https://enterprisealumni.com/thealums-conference-2023) in New York City.
@@ -25,7 +25,5 @@ To date, the Alumni Network—which now counts more than 2,500 members on its En
 “It is my honor to accept this award on behalf of DAI,” said Gilson. “We spent the past year brainstorming and building the framework underlying what is now a burgeoning community. Our success would have been difficult to come by had it not been for the support of the EnterpriseAlumni team, who really rolled up their sleeves and dug in with us.”
 
 Importantly, Gilson added, the Alumni Network is serving to elevate the voices of local partners and former project employees. “We’ve only just begun to realize the full potential of this vibrant community to support our work all over the world,” she said.
-
-<iframe src=https://player.vimeo.com/video/708282498?badge=0&autopause=0&player_id=0&app_id=58479 width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="DAI Alumni Network Recruitment"></iframe>`Watch CEO Jim Boomgard make the case for connecting and collaborating with alumni.`
 
 Past and current DAI employees can register for the Alumni Network [here](https://alumni.dai.com/).
