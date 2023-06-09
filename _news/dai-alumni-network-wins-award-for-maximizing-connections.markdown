@@ -8,7 +8,6 @@ solutions:
 regions: Worldwide
 summary: The DAI Alumni Network was named the winner of an award recognizing its achievements
   since launching in 2022.
-Field name: 
 ---
 
 The [DAI Alumni Network](https://alumni.dai.com/) was named the winner of an award recognizing its achievements since launching in 2022. Senior Vice President of Global Strategy [Jean Gilson](https://www.dai.com/who-we-are/leadership/jean-gilson) accepted the “Six Degrees of Separation” Award on behalf of DAI at the recent [2023 EnterpriseAlumni Global Conference](https://enterprisealumni.com/thealums-conference-2023) in New York City.
