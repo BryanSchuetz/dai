@@ -15,6 +15,8 @@ country: Nigeria
 promos:
 - title: 'Breaking Barriers to Learning: Building a Stronger Education System in Nigeria'
   link: https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/
+- title: PLANE Newsletter
+  link: "/uploads/PLANE%20Newsletter%20-%20May%202023%5B31%5D.pdf"
 ---
 
 The Partnership for Learning for All in Nigeria (PLANE) project works to deliver a more inclusive and effective education system and improve learning outcomes for students in their pre-primary and primary years. 
@@ -38,3 +40,4 @@ In partnership with our key subcontractor FHI360, PLANE operates across Kano, Ka
 * Strengthened safeguarding referral mechanisms in all three states.
 * Supported the states in reviewing private school policies to enhance the relationship with the federal government for better service delivery.
 * Supported the states in developing an accountability framework.
+* Almost 2,000 schools, more than 5,000 teachers, and more than 350,000 learners have accessed PLANE's packages to enhance instruction and learning.

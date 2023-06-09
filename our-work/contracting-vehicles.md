@@ -29,7 +29,7 @@ layout: node
 
 ### Stability
 
-* Programming for Prevention and Peacebuilding (P4P2) (2023–2028) 
+* Programming for Prevention and Peacebuilding (P4P2) (2023–2030) 
 * Support Which Implements Fast Transitions V (SWIFT V) (2019-2024)
 * Resilient Cities Asia Activity (RCA) (2017-2024)
 * Famine Early Warning Systems Network (FEWS NET 7) (2019-2024)
@@ -40,7 +40,7 @@ layout: node
 
 # Centers for Disease Control and Prevention (CDC)
 
-* International, Technical, Operational, Professional Support Services (ITOPSS) (2018–2023)
+* International, Technical, Operational, and Professional Support Services (ITOPSS) (2018–2023)
 
 # U.K. Foreign, Commonwealth & Development Office (FCDO) Expert Advisory Call Down Services
 

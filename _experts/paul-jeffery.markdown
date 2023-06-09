@@ -1,6 +1,7 @@
 ---
 title: Paul Jeffery
 date: 2021-04-27 12:33:00 Z
+published: false
 lastname: Jeffery
 summary: 'Paul Jeffery has more than 23 years of experience leading international
   development programs in Asia, Africa, and the Balkans. He currently oversees a portfolio
