@@ -1,6 +1,6 @@
 ---
 title: DAI Celebrates LGBTQI+ Community by Marching in D.C. Capital Pride Parade
-date: 2023-06-12 18:03:00 Z
+date: 2023-06-12 14:03:00 Z
 regions: Worldwide
 summary: On Saturday, June 10, nearly 100 DAI staff, family, and friends participated
   in the Washington, D.C. Capital Pride Parade.
