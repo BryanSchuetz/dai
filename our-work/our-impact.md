@@ -15,7 +15,30 @@ We envision a world in which communities and societies become more prosperous, f
  <div class="bulma">
    <div class="container columns">
      <div class="column">
-       <div class="card is-fullheight">
+             <div class="card is-fullheight">
+         <div class="card-image">
+           <figure class="image is-3by2">
+             <img src="/uploads/sustainability-2020.png" alt="Placeholder image">
+           </figure>
+         </div>
+         <div class="card-content">
+           <div class="media">
+             <div class="media-content">
+               <p class="title is-4">Sustainability Report</p>
+               <p class="subtitle is-6">2022</p>
+             </div>
+           </div>
+           <div class="content">
+             <p>"A sustainable business is a business whose operating standards and principles are conducive to the 'more livable world' we aspire to in our tagline: a company that protects the natural environment and seeks to mitigate climate change, respects and rewards its workforce, rejects discrimination, sees diversity as a strength, and upholds the highest ethical standards."</p>
+           </div>
+         </div>
+         <footer class="card-footer pt-0" style="padding-top: 0;" >
+           <a href="https://dai-assets.s3.amazonaws.com/our-work/sustainability-report-2022.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+         </footer>
+       </div>
+     </div>
+     <div class="column">
+               <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/ungc2021.png" alt="Placeholder image">
@@ -37,8 +60,10 @@ We envision a world in which communities and societies become more prosperous, f
          </footer>
        </div>
      </div>
-     <div class="column">
-       <div class="card is-fullheight">
+   </div>
+   <div class="container columns">
+     <div class="column is-half">
+             <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2020-cop-preview.jpg" alt="Placeholder image">
@@ -60,10 +85,8 @@ We envision a world in which communities and societies become more prosperous, f
          </footer>
        </div>
      </div>
-   </div>
-   <div class="container columns">
-     <div class="column is-half">
-       <div class="card is-fullheight">
+      <div class="column">
+               <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2019-cop-preview.jpg" alt="Placeholder image">
@@ -84,9 +107,11 @@ We envision a world in which communities and societies become more prosperous, f
            <a href="/uploads/DAI%20UNGC%20Communication%20on%20Progress%202019.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
        </div>
-     </div>
-            <div class="column">
-       <div class="card is-fullheight">
+      </div>
+   </div>
+    <div class="container columns">
+      <div class="column is-half">
+               <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2018-cop-thumbnail.jpg" alt="Placeholder image">
@@ -106,9 +131,9 @@ We envision a world in which communities and societies become more prosperous, f
          <footer class="card-footer pt-0" style="padding-top: 0;" >
            <a href="/uploads/DAI%20Global%20UNGC%20COP%20Final.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
-       </div>       
-       </div>
-   </div>
+       </div>  
+      </div>
+    </div>
   </div>
  
  
