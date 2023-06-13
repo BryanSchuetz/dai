@@ -15,7 +15,7 @@ regions: Latin America and the Caribbean
 country: Grenada, Guyana, Saint Lucia
 promos:
 - title: Project Fact Sheet
-  link: "/uploads/YRIE%20fact%20sheet_Jan%202023_final%5B33%5D.pdf"
+  link: "/uploads/Fact%20Sheet_YRIE_March%202023.pdf"
 - title: Hundreds of Youth to Benefit from USAID-Funded Resilience Projects
   link: https://nowgrenada.com/2023/03/hundreds-of-youth-to-benefit-from-usaid-funded-resilient-projects/
 ---
@@ -32,4 +32,4 @@ The project works to improve the provision of social services to vulnerable popu
 
 * Establish and implement an adaptive learning agenda for the project to sustain continuous cycles of generating, integrating, and sharing learning, both internally and externally.
 * Operationalize a youth-centered systems-strengthening approach through the targeted support of grants to local partners, including youth groups, government, the private sector, and civil society. 
-* Strengthen coordinated institutional capacity so government institutions, youth-serving organizations, and youth-led organizations are able to offer high-quality, relevant, and efficient services to youth over the long term. 
+* Strengthen coordinated institutional capacity so government institutions, youth-serving organizations, and youth-led organizations are able to offer high-quality, relevant, and efficient services to youth over the long term.
