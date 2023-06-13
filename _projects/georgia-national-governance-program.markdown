@@ -1,9 +1,11 @@
 ---
 title: Georgia—National Governance Program
 date: 2022-12-12 13:36:00 Z
-summary: The National Governance Program works with the Government of Georgia to deliver
-  citizen-responsive governance based on greater accountability, transparency, and
-  institutional independence.
+summary: The USAID National Governance Program increases government accountability
+  and responsiveness to Georgians by enhancing the effectiveness, transparency, and
+  accountability of executive institutions of the Government of Georgia, the effectiveness
+  and independence of the Parliament, and other independent oversight institutions,
+  and empowering citizens to hold the government accountable.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
