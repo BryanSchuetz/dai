@@ -1,11 +1,9 @@
 ---
 title: Georgia—National Governance Program
 date: 2022-12-12 13:36:00 Z
-summary: The USAID National Governance Program increases government accountability
-  and responsiveness to Georgians by enhancing the effectiveness, transparency, and
-  accountability of executive institutions of the Government of Georgia, the effectiveness
-  and independence of the Parliament, and other independent oversight institutions,
-  and empowering citizens to hold the government accountable.
+summary: The National Governance Program works with the Government of Georgia to deliver
+  citizen-responsive governance based on greater accountability, transparency, and
+  institutional independence.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
@@ -19,11 +17,9 @@ regions: Eastern Europe and Central Asia
 country: Georgia
 ---
 
-The geopolitical landscape in and around Georgia is shifting dramatically. But, there is hope for a broader consensus among the electorate. A comfortable majority of Georgians are simultaneously: 1) in favor of continuing Euro-Atlantic integration—especially economic integration through European Union (EU) accession; and 2) showing solidarity with Ukraine; while 3) giving credit to the Georgian government for refraining from more provocative moves against the Russian Federation. 
-
-Within that context, the National Governance Program works with the Government of Georgia to deliver citizen-responsive governance based on greater accountability, transparency, and institutional independence.
+The geopolitical landscape in and around Georgia is shifting dramatically. But, there is hope for a broader consensus among the electorate. A comfortable majority of Georgians are simultaneously: 1) in favor of continuing Euro-Atlantic integration—especially economic integration through European Union (EU) accession; and 2) showing solidarity with Ukraine; while 3) giving credit to the Georgian government for refraining from more provocative moves against the Russian Federation. Within that context, the National Governance Program works with the Government of Georgia to deliver citizen-responsive governance based on greater accountability, transparency, and institutional independence.
  
-The project strengthens accountability systems, procedures, and mechanisms within both governing and independent oversight institutions, and enhances their ability to serve and communicate effectively with the public. This agenda includes strengthening the demand for citizen-responsive governance, supporting localization efforts, and empowering Georgian civil society and the private sector to demand accountability of governance institutions. The project responds to emerging national and regional priorities such as enhanced public financial management, improved audit functions to thwart major fraud, and anti-corruption capabilities that will advance Georgia’s aspirations for EU accession. The program also works to bolster cybersecurity in the face of Russian aggression.
+The project strengthens accountability systems, procedures, and mechanisms within both governing and independent oversight institutions, and enhances their ability to serve and communicate effectively with the public. This agenda includes strengthening the demand for citizen-responsive governance, supporting locally-led priorities, and empowering Georgian civil society and the private sector to demand accountability of governance institutions. The project responds to emerging national priorities such as enhanced public administration reform and public financial management, improved audit functions and transparency of public procurement, and anti-corruption capabilities that will advance Georgia’s aspirations for EU accession. The program also works to bolster cybersecurity given the threat of Russian malign influence and aggression.
 
 ![ga.jpg](/uploads/ga.jpg)
 
