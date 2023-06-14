@@ -2,15 +2,15 @@
 title: "Regional—Critical Infrastructure \nDigitalization and Resilience (CIDR)"
 date: 2021-09-29 15:48:00 Z
 summary: The Critical Infrastructure Digitalization and Resilience (CIDR) activity
-  assists countries of the Western Balkans, Black Sea Region, and South Caucasus to
-  address cybersecurity vulnerabilities and the legal, workforce, and investment needs
-  that support cybersecurity of infrastructure.
+  assists key stakeholders and experts to assess cybersecurity gaps and priorities,
+  making recommendations, and mapping courses of action to improve cybersecurity in
+  the Western Balkans, Black Sea Region, and South Caucasus.
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Digital Acceleration
-- 
+- Fragile States
 regions: Eastern Europe and Central Asia
 country: Eastern Europe and Eurasia
 ---
@@ -27,7 +27,9 @@ Ultimately, CIDR aims to help the region raise the quality of its cybersecurity 
 
 ## Sample Activities 
 
-* Assist countries to establish the coordination bodies, policies, and frameworks necessary to advance cybersecurity of critical infrastructure. 
-* Consult with key entities on identifying and addressing cybersecurity threats and acquiring related technology and expertise. 
-* Work with employers, educators, and other partners to develop the cybersecurity workforce. 
-* Establish networks of national and regional key entities that will share data about the identification of and response to cybersecurity threats.
+* Organize and facilitate regular meetings of country-led critical infrastructure cybersecurity working groups, which are comprised of stakeholders from government, critical infrastructure, the private sector, and academia.
+* Review national cybersecurity needs and options with working group members and other stakeholders and make recommendations to decision makers.
+* Consult government bodies and other institutions on the regulations, policies, and practices required to establish and maintain EU-standard cybersecurity.
+* Assist critical infrastructure entities to incorporate cybersecurity best practices into their planning and operations and prioritize needed investment.
+* Engage universities, training institutes, and critical infrastructure employers on ways to address the supply of and demand for trained cybersecurity workers, including through CIDR’s Cyber Pathways for Women initiatives.
+* Promote U.S. and European investment in CIDR’s focus countries to ensure high-quality and enduring cybersecurity.
