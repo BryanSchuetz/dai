@@ -11,6 +11,7 @@ layout: node
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
 
+* [RFP-SOW-Development of County Water and Sanitation Policies-Extended](https://dai-assets.s3.amazonaws.com/rfps/RFP-SOW-Development%20of%20County%20Water%20and%20Sanitation%20Policies-Extended.pdf "7/17")
 * [RFP-MEL Knowledge Management and Information System](https://dai-assets.s3.amazonaws.com/rfps/RFP-MEL%20Knowledge%20Management%20and%20Information%20System.pdf "7/26")
 * [Development of a comprehensive Transit & eTIR Management System Implementation roadmap for PSWC](https://dai-assets.s3.amazonaws.com/RFP%23%20REQ-PRE-23-0012_Development%20of%20a%20comprehensive%20Transit%20%26%20eTIR%20Management%20System%20Implementation%20roadmap%20for%20PSWC.pdf "7/1")
 * [Re-advertsie -RFP BE-23-031 Tiye Angels](https://dai-assets.s3.amazonaws.com/Re-advertsie%20-RFP%20BE-23-031%20Tiye%20Angels-.pdf "7/1")
