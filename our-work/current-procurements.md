@@ -11,6 +11,7 @@ layout: node
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
 
+* [RFP-SOW MEL Knowledge Management Information- Western Kenya](https://dai-assets.s3.amazonaws.com/rfps/RFP-SOW%20MEL%20Knowledge%20Management%20Information-%20Western%20Kenya.pdf "8/1")
 * [RFA – Mentorship Support – CVECA Kazakhstan](https://dai-assets.s3.amazonaws.com/rfps/Announcement%20short.pdf "8/1")
 * [Cybersecurity Capability Maturity Model (C2M2) Assessments and Improvement Roadmaps in Kosovo](https://dai-assets.s3.amazonaws.com/rfps/Form%209.27%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP_C2M2%20Kosvo.pdf "8/1")
 * [RFP-SOW-Development of County Water and Sanitation Policies-Extended](https://dai-assets.s3.amazonaws.com/rfps/RFP-SOW-Development%20of%20County%20Water%20and%20Sanitation%20Policies-Extended.pdf "7/17")
