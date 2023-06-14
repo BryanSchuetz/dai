@@ -23,7 +23,7 @@ CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, wher
 
 Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure are defended and resilient and can continue to provide citizens with essential services.
 
-![CIDR pic 1 .jpeg](/uploads/CIDR%20pic%201%20.jpeg)
+![CIDR pic 1 .jpeg](/uploads/CIDR%20pic%201%20.jpeg)`Prime Minister of Moldova Dorin Recean, left at the front table, shakes hands with U.S. Ambassador to Moldova Kent Logsdon during a presentation at the April 2023 meeting of the CIDR-facilitated Critical Infrastructure Cybersecurity Working Group. Photo: USAID Moldova.`
 
 ## Sample Activities 
 
