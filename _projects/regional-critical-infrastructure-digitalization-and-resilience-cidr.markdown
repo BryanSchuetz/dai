@@ -15,9 +15,15 @@ regions: Eastern Europe and Central Asia
 country: Eastern Europe and Eurasia
 ---
 
-The Critical Infrastructure Digitalization and Resilience (CIDR) activity assists countries of the Western Balkans, Black Sea Region, and South Caucasus to address cybersecurity vulnerabilities and the legal, workforce, and investment needs that support cybersecurity of infrastructure.
+Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
 
-Working with host governments, infrastructure operators, and their partners, CIDR aims to help countries raise the quality of their cybersecurity through country-led programs. This support assists critical infrastructure systems such as energy, telecommunications, and e-services to be defended from cyberattacks and resilient so they can continue to provide citizens with essential services. 
+The Critical Infrastructure Digitalization and Resilience (CIDR) program is a five-year, flexible buy-in mechanism managed by DAI and the U.S. Agency for International Development (USAID)’s Bureau for Europe and Eurasia. Under CIDR, USAID missions and others enlist the CIDR team to help host nations work with key stakeholders and experts to assess cybersecurity gaps and priorities, make recommendations, and map courses of action to improve cybersecurity.
+
+CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, where countries in recent years have come under more diverse and complex cyberattacks. CIDR is currently providing assistance in Albania, Kosovo, Moldova, North Macedonia, and Serbia. This includes assistance in workforce development, cybersecurity assessment, cybersecurity governance, and information sharing of cyberattacks, threats, and solutions.
+
+Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure are defended and resilient and can continue to provide citizens with essential services.
+
+![CIDR pic 1 .jpeg](/uploads/CIDR%20pic%201%20.jpeg)
 
 ## Sample Activities 
 
