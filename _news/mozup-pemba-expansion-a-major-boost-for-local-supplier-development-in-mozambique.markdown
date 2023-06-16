@@ -29,7 +29,7 @@ Launched in Maputo in 2020, the MozUp EDC will extend training, advisory, and me
 
 MozUp has developed training curricula and service offerings tailored to the Cabo Delgado context, with a focus on training in procurement, health and safety, and financial management, as well as general industry-focused trainings to help companies understand the LNG projects and upcoming opportunities.
 
-![MozUp team.jpg](/uploads/MozUp%20team.jpg)`Team MozUp (L to R): Benjamin Nanda, Taciana Peão Lopes, Luidmila Comé, Barbara Habib, Djamila Carvalho.`
+![MozUp team.png](/uploads/MozUp%20team.png)`Team MozUp (L to R): Benjamin Nanda, Taciana Peão Lopes, Luidmila Comé, Barbara Habib, Djamila Carvalho.`
 
 Since MozUp’s launch in 2020, 955 companies and 2,151 persons have participated in the 149 trainings delivered across key areas identified as challenges to Mozambican firms, and 6 companies have been mentored for compliance and certification in ISO standards. Additional services include implementing business assessments and strengthening plans, advising on accessing capital and financial services, and fostering business-to-business partnerships.
 
