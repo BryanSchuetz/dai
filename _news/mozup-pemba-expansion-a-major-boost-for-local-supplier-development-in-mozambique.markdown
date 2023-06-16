@@ -1,7 +1,6 @@
 ---
 title: MozUp Pemba Expansion a Major Boost for Local Supplier Development in Mozambique
-date: 2023-06-16 10:20:00 Z
-published: false
+date: 2023-06-19 10:20:00 Z
 solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
