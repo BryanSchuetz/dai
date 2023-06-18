@@ -34,6 +34,6 @@ Since MozUp’s launch in 2020, 955 companies and 2,151 persons have participate
 
 To date, 55 percent (or 1,404) of the 2,559 suppliers registered in the Area 4 and Rovuma LNG supplier registration portal are majority Mozambican-owned entities.
 
-Bene Junior of Cohima a civil construction and engineering company, addressed the launch event in Pemba. Since 2020, 31 Cohima staff have participated in MozUp activities in Maputo, and more recently in Pemba.
+Bene Junior of Cohima, a civil construction and engineering company, addressed the launch event in Pemba. Since 2020, 31 Cohima staff have participated in MozUp activities in Maputo, and more recently in Pemba.
 
 Junior told the audience that the trainings have helped elevate the skills and know-how of Cohima staff, which it considers to be the key factor in its growth. The quality of Cohima’s proposals has improved significantly as a result of the training, which has enabled the firm to win three large contracts in Cabo Delgado, including one with TotalEnergies.
