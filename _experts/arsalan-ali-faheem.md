@@ -6,7 +6,7 @@ summary: 'Arsalan Ali Faheem is Director of Strategy and Business Development wi
   DAI’s corporate office in Pakistan, where he leads corporate strategy, client engagement,
   and new business development. '
 job-title: Director of Strategy and Business Development, Pakistan
-image: "/uploads/Arsalan%20511.JPG"
+image: "/uploads/new%20Arsalan.jpg"
 solutions:
 - Business Environment Reform
 - Economic Growth
