@@ -33,3 +33,4 @@ Ultimately, CIDR aims to help the region raise the quality of its cybersecurity 
 * Assist critical infrastructure entities to incorporate cybersecurity best practices into their planning and operations and prioritize needed investment.
 * Engage universities, training institutes, and critical infrastructure employers on ways to address the supply of and demand for trained cybersecurity workers, including through CIDR’s Cyber Pathways for Women initiatives.
 * Promote U.S. and European investment in CIDR’s focus countries to ensure high-quality and enduring cybersecurity.
+* Coordinate and support activities as part of USAID’s U.S.-Europe [Energy Bridge](https://www.usaid.gov/about-us/organization/bureau-europe-eurasia/us-europe-energy-bridge) program. 
