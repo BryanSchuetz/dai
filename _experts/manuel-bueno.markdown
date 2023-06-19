@@ -3,7 +3,7 @@ title: Manuel Bueno
 date: 2023-06-19 09:11:00 Z
 lastname: Bueno
 summary: 'Manuel Bueno is the Senior Lead for Climate Finance at DAI. '
-job-title: Senior Lead Practitioner, Climate Finance
+job-title: Senior Lead, Climate Finance
 image: "/uploads/sm%20Manuel%20Bueno%20headshot.jpg"
 solutions:
 - Climate
