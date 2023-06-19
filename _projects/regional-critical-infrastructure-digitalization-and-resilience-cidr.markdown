@@ -28,7 +28,7 @@ Ultimately, CIDR aims to help the region raise the quality of its cybersecurity 
 ## Sample Activities 
 
 * Organize and facilitate regular meetings of country-led critical infrastructure cybersecurity working groups, which are comprised of stakeholders from government, critical infrastructure, the private sector, and academia.
-* Review national cybersecurity needs and options with working group members and other stakeholders and make recommendations to decision makers.
+* Facilitate analysis of national cybersecurity needs and options with working group members and other stakeholders so the group can make well-informed recommendations to decision makers.
 * Consult government bodies and other institutions on the regulations, policies, and practices required to establish and maintain EU-standard cybersecurity.
 * Assist critical infrastructure entities to incorporate cybersecurity best practices into their planning and operations and prioritize needed investment.
 * Engage universities, training institutes, and critical infrastructure employers on ways to address the supply of and demand for trained cybersecurity workers, including through CIDR’s Cyber Pathways for Women initiatives.
