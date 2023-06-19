@@ -1,6 +1,7 @@
 ---
 title: Alice Rossignol
 date: 2020-06-02 08:51:00 Z
+published: false
 lastname: Rossignol
 summary: 'Alice Rossignol is an economist working in DAI’s Sustainable Business Group '
 job-title: Lead Analyst
