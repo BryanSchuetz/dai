@@ -24,7 +24,7 @@ More than a decade has passed since the Democratic Republic of the Congo (DRC) a
 
 However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), helped governments improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supported new leaders to reform government services at the national, provincial, and local levels. The IGA team also trained civil society and private-sector groups to better advocate their needs to elected officials.
 
-<iframe src="https://player.vimeo.com/video/837959850?h=84cdfe675c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/837959850?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="DRC Village Benefits from Clean, Safe Water"></iframe>
 
 ## Sample Activities
 
@@ -40,4 +40,6 @@ However, an emerging generation of leaders in the DRC has shown a commitment to 
 * Conducted community scorecard activities in about 40 schools and 160 health centers; plans for improving services and facilities have been adopted and implemented.
 * Strengthened local governments’ financial management, which resulted in increased revenue.
 * Helped staff implement the annual investment budget to follow correct procurement rules for the first time.
-* Established six Community Emergency Response Teams in four provinces.
+* Established six community emergency response teams in four provinces.
+
+<iframe src="https://player.vimeo.com/video/837961088?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Congo Village Opens University with Mining Royalties"></iframe>
