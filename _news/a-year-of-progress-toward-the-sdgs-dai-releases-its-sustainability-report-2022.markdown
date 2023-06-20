@@ -2,7 +2,7 @@
 title: 'A Year of Progress Toward the SDGs: DAI Releases Its Sustainability Report
   2022'
 date: 2023-06-20 17:07:00 Z
-is_featured: true
+is_featured: false
 regions: Worldwide
 social-image: "/uploads/sustainability-2020.png"
 ---
