@@ -4,6 +4,10 @@ title: 'A Year of Progress Toward the SDGs: DAI Releases Its Sustainability Repo
 date: 2023-06-20 17:07:00 Z
 is_featured: false
 regions: Worldwide
+summary: DAI today published its [Sustainability Report 2022](https://dai-assets.s3.amazonaws.com/our-work/sustainability-report-2022.pdf),
+  where we highlight some of the impact we have achieved in pursuit of the Sustainable
+  Development Goals (SDGs), while at the same time laying out how we ensure that DAI
+  operates as a sustainable organization.
 social-image: "/uploads/sustainability-2020.png"
 ---
 
