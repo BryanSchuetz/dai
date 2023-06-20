@@ -24,7 +24,7 @@ More than a decade has passed since the Democratic Republic of the Congo (DRC) a
 
 However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), helped governments improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supported new leaders to reform government services at the national, provincial, and local levels. The IGA team also trained civil society and private-sector groups to better advocate their needs to elected officials.
 
-![DRC Good Governance teaching.JPG](/uploads/DRC%20Good%20Governance%20teaching.JPG)
+<iframe src="https://player.vimeo.com/video/837959850?h=84cdfe675c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
