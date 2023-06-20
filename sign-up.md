@@ -42,6 +42,7 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 						/>
 						<label for="fielddjnwuu-3">Sustainable Business Group</label></p>
 				</div>
+        <div style="display: none !important;"><label>Latent Space </label><input aria-label="Latent Space" id="fieldddiukjyh" maxlength="200" name="cm-f-ddiukjyh"></div>
 			</p>
 		</div>
 		<div>
