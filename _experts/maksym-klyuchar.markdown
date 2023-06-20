@@ -13,6 +13,9 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions:
 - Worldwide
+articles:
+- name: 'Government-Run Digital Tools to Combat Corruption: Can They Work?'
+  article_file: https://dai-global-developments.com/articles/government-run-digital-tools-to-combat-corruption-can-they-work/
 ---
 
 Maksym Klyuchar has more than 10 years of experience in designing and implementing anti-corruption programs in the areas of corruption prevention, investigation, prosecution, adjudication, digital transformation, civic participation, and advocacy. Before joining DAI, Maksym worked for the United Nations Development Programme and the Council of Europe Office in Ukraine. He also served as the Deputy Chief of Party for the U.S. Agency for International Development (USAID) Ukraine’s flagship Support to Anti-Corruption Champion Institutions program between 2017 and 2020. From 2014 to 2016, Maksym was part of the team that helped establish (and then re-launch in 2019) the National Agency for Prevention of Corruption of Ukraine and helped create the National Agency for eGovernance. Maksym coordinated the work of an expert team that developed and advocated the adoption of the Law on Open Data in Ukraine, and has, since 2012, led and mentored multiple social innovation events (hackathons, tech camps, and open data challenges). From 2016 to 2017, Maksym worked as a seconded expert to Transparency International Ukraine, helping the organization re-build its structure, internal policies, and donor relations after Transparency International’s re-location to Kyiv.

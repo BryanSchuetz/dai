@@ -13,6 +13,9 @@ solutions:
 - Digital Acceleration
 regions:
 - Worldwide
+articles:
+- name: 'Government-Run Digital Tools to Combat Corruption: Can They Work?'
+  article_file: https://dai-global-developments.com/articles/government-run-digital-tools-to-combat-corruption-can-they-work/
 ---
 
 Miriam Stankovich has rich research experience in leading complex projects in data protection and governance, intellectual property and technology law, regulatory impact assessment of emerging technologies (AI, Blockchain, IoT, Virtual/Augmented Reality, and 3D Printing), and technology transfer. She has also served as a senior legal and policy advisor for major international organizations such as the International Telecommunication Union, the World Bank, World Intellectual Property Organization, the International Finance Corporation, United Nations Industrial Development Organization, United Nations Interregional Crime and Justice Research Institute, United Nations Development Programme, the Inter-American Development Bank, the African Development Bank, African Union, and the European Union. 
