@@ -9,10 +9,10 @@ end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Decentralization and Local Government Management
-- Voice and Accountability
+- Public Financial Management and Domestic Revenue Mobilization
 - Fragile States
-- Stabilization
+- Local Governance and Decentralization
+- Anti-corruption, Transparency, and Accountability
 regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
 promos:
@@ -22,7 +22,7 @@ promos:
 
 More than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and began holding free elections, yet the democratic system remains fragile, with few or no basic public services in much of the country. A lack of government accountability and transparency, along with widespread corruption, has led to general public mistrust of politicians and government officials.
 
-However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), helped governments improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supported new leaders to reform government services at the national, provincial, and local levels. The IGA team also trained civil society and private-sector groups to better advocate their needs to elected officials.
+However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), helped governments improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supported new leaders to reform government services at the provincial and local levels. The IGA team also trained civil society and private-sector groups to better advocate their needs to elected officials.
 
 <iframe src="https://player.vimeo.com/video/837959850?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="DRC Village Benefits from Clean, Safe Water"></iframe>
 
