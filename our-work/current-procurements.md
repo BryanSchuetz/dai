@@ -11,7 +11,6 @@ layout: node
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
 [RFA 2023-03 Kenya Financial Health and Protection Activity](/uploads/RFA%202023-03%20Kenya%20Financial%20Health%20and%20Protection%20Activity.pdf "7/19")
-* [RFP 2023-09 2024 Protecting Children and Youth From Digital Harm Symposium Facilitation](/uploads/RFP%202023-09%202024%20Protecting%20Children%20and%20Youth%20From%20Digital%20Harm%20Symposium%20Facilitation%5B74%5D.pdf "6/14")
 * [RFP-SOW MEL Knowledge Management Information- Western Kenya](https://dai-assets.s3.amazonaws.com/rfps/RFP-SOW%20MEL%20Knowledge%20Management%20Information-%20Western%20Kenya.pdf "8/1")
 * [RFA–Mentorship Support–CVECA Kazakhstan](https://dai-assets.s3.amazonaws.com/rfps/Announcement%20short.pdf "8/1")
 * [Cybersecurity Capability Maturity Model (C2M2) Assessments and Improvement Roadmaps in Kosovo](https://dai-assets.s3.amazonaws.com/rfps/Form%209.27%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP_C2M2%20Kosvo.pdf "8/1")
