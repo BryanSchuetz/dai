@@ -1,9 +1,13 @@
 ---
 title: Award Recognizes DAI’s Support for Afghan Colleagues and their Families
 date: 2023-06-21 12:06:00 Z
+summary: DAI is honored to receive a Global Impact Award for the company’s work to
+  support Special Immigrant Visa (SIV) and other relocation efforts for DAI employees
+  in Afghanistan.
+social-image: "/uploads/tine%202-f22878.jpg"
 ---
 
-### *Nearly 2,000 staff and family members relocated or notified for relocation.*
+### *Nearly 2,000 staff and family members relocated or notified for relocation*
 
 DAI is honored to receive a [Global Impact Award](https://stability-operations.org/page/awards) for the company’s work to support Special Immigrant Visa (SIV) and other relocation efforts for DAI employees in Afghanistan. Conferred by the [International Stability Operations Association (ISOA)](https://stability-operations.org/), the “Afghan SIV and Refugee Resettlement Operations” award represents relentless efforts by DAI staff to help relocate Afghan colleagues and their families.
 
@@ -22,6 +26,8 @@ Prior to the U.S. withdrawal, DAI had already seen requests for SIV application 
 Two challenging years later, DAI remains true to its commitment, and measures its results in concrete terms: since August 2021, the company has helped change the lives 297 former staff and their families—1,208 people in all—who now call the United States, Canada, and Europe home. Another 170 staff members and their families—a total of more than 700 people—will relocate through the Department of State’s CARE in the coming months.
 
 “We were able to move this mountain because our staff are driven to help their Afghan colleagues and are supported by the CEO and leadership’s commitment to [DAI’s values](https://www.dai.com/who-we-are/mission-and-values),” said Knott.
+
+![siv award.jpg](/uploads/siv%20award.jpg)
 
 The ISOA award not only recognizes DAI’s assistance to former staff on SIV and P-2 applications, but also its support during the complex, often frustrating relocation process. DAI teams ensure that applicants have all required documentation for their cases to be processed, researches means for their evacuation, and guides them through the many steps along the way. For example, DAI authored a 46-page guide to resettling in the United States—in English, Dari, and Pashto—that former employees receive on arrival at the CARE processing center in Doha, Qatar. #AfghanEvac, an invaluable partner, has adopted and shared this guide on its website.
 
