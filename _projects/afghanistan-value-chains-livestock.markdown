@@ -5,7 +5,7 @@ summary: The Afghanistan Value Chains–Livestock project helps livestock farmer
   related agribusinesses to increase productivity and create jobs by expanding into
   new markets, attracting investors, and improving efficiency.
 start: 2018
-end: 2023
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
