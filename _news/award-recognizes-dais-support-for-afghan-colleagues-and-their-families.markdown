@@ -3,11 +3,13 @@ title: Award Recognizes DAI’s Support for Afghan Colleagues and their Families
 date: 2023-06-21 12:06:00 Z
 ---
 
-## *Nearly 2,000 staff and family members relocated or notified for relocation.*
+### *Nearly 2,000 staff and family members relocated or notified for relocation.*
 
 DAI is honored to receive a [Global Impact Award](https://stability-operations.org/page/awards) for the company’s work to support Special Immigrant Visa (SIV) and other relocation efforts for DAI employees in Afghanistan. Conferred by the [International Stability Operations Association (ISOA)](https://stability-operations.org/), the “Afghan SIV and Refugee Resettlement Operations” award represents relentless efforts by DAI staff to help relocate Afghan colleagues and their families.
 
 “We are grateful to ISOA for the opportunity to celebrate the 1,200 people who have already relocated and the dedicated DAI staff who made that possible,” said Senior Vice President [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), who accepted the award on behalf of DAI. “While we are proud of this number and the lives it represents, we remain acutely aware that it is but a drop in the ocean. We must make sure that as time goes on, the Afghan people are neither forgotten nor forsaken.”
+
+![siv families.png](/uploads/siv%20families.png)
 
 DAI has worked in Afghanistan since 1976, carrying out more than 40 projects across all 34 Afghan providences. In August 2021, when the Taliban took control of Kabul, DAI had six ongoing U.S. Government-funded projects. While 22 expatriate employees were able to evacuate under duress, many Afghan colleagues, and their families, remained behind.
 
