@@ -7,7 +7,7 @@ summary: DAI is honored to receive a Global Impact Award for the company’s wor
 social-image: "/uploads/tine%202-f22878.jpg"
 ---
 
-### *Nearly 2,000 staff and family members relocated or notified for relocation*
+*Nearly 2,000 staff and family members relocated or notified for relocation*
 
 DAI is honored to receive a [Global Impact Award](https://stability-operations.org/page/awards) for the company’s work to support Special Immigrant Visa (SIV) and other relocation efforts for DAI employees in Afghanistan. Conferred by the [International Stability Operations Association (ISOA)](https://stability-operations.org/), the “Afghan SIV and Refugee Resettlement Operations” award represents relentless efforts by DAI staff to help relocate Afghan colleagues and their families.
 
