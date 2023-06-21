@@ -13,7 +13,7 @@ DAI is honored to receive a [Global Impact Award](https://stability-operations.o
 
 “We are grateful to ISOA for the opportunity to celebrate the 1,200 people who have already relocated and the dedicated DAI staff who made that possible,” said Senior Vice President [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), who accepted the award on behalf of DAI. “While we are proud of this number and the lives it represents, we remain acutely aware that it is but a drop in the ocean. We must make sure that as time goes on, the Afghan people are neither forgotten nor forsaken.”
 
-![siv families.png](/uploads/siv%20families.png)
+![siv families.png](/uploads/siv%20families.png)`DAI Afghan staff and their families after arrival in Massachusetts (left) and in transit through Qatar (right).`
 
 DAI has worked in Afghanistan since 1976, carrying out more than 40 projects across all 34 Afghan providences. In August 2021, when the Taliban took control of Kabul, DAI had six ongoing U.S. Government-funded projects. While 22 expatriate employees were able to evacuate under duress, many Afghan colleagues, and their families, remained behind.
 
@@ -27,7 +27,7 @@ Two challenging years later, DAI remains true to its commitment, and measures it
 
 “We were able to move this mountain because our staff are driven to help their Afghan colleagues and are supported by the CEO and leadership’s commitment to [DAI’s values](https://www.dai.com/who-we-are/mission-and-values),” said Knott.
 
-![siv award.jpg](/uploads/siv%20award.jpg)
+![siv award.jpg](/uploads/siv%20award.jpg)`Tine Knott accepts the ISOA award on behalf of DAI.`
 
 The ISOA award not only recognizes DAI’s assistance to former staff on SIV and P-2 applications, but also its support during the complex, often frustrating relocation process. DAI teams ensure that applicants have all required documentation for their cases to be processed, researches means for their evacuation, and guides them through the many steps along the way. For example, DAI authored a 46-page guide to resettling in the United States—in English, Dari, and Pashto—that former employees receive on arrival at the CARE processing center in Doha, Qatar. #AfghanEvac, an invaluable partner, has adopted and shared this guide on its website.
 
