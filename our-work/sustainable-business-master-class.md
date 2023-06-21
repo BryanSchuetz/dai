@@ -77,36 +77,6 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="container"><button onclick="window.location.href='https://form.collect.dai.com/x/RqEoih8Z';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2023</button></div>
 </div>
 
-## The course is led by experts working at the forefront of international development and local content policy.
-
-<div class="bulma">
-   <div class="container">
-      <div class="columns">
-         <div class="column">
-            <a class="bulma-card" href="/who-we-are/our-team/dorival-bettencourt">
-               <div class="card is-child">
-                  <div class="card-image" style="padding: 1rem;">
-                     <figure class="image is-128x128">
-                        <img class="is-rounded" src="/uploads/Dorival%20web.jpg" alt="Placeholder image">
-                     </figure>
-                  </div>
-                  <div class="card-content">
-                     <div class="media">
-                        <div class="media-content">
-                           <p class="title is-4">Dorival Bettencourt</p>
-                           <p class="subtitle is-6">Director, Sustainable Business Group</p>
-                        </div>
-                     </div>
-                     <div class="content">
-                        <p>Dorival Bettencourt has more than 10 years’ experience in energy investment, with technical expertise in all aspects of local content strategy, policy, analytics and implementation. He has led dozens of engagements for private and public sector clients around the world.</p>
-                     </div>
-                  </div>
-               </div>
-            </a>
-         </div>
-      </div>
-   </div>
-</div>
 
 ## Participants are trained to:
 
