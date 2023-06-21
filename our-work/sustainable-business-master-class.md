@@ -28,7 +28,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="column">
 <ul style="margin-left: 2rem;">
 <li></li>
-<li>October 16 - 18, Houston, USA</li>
+<li>Q4, Houston, USA</li>
 </ul>
 </div>
 </div>
@@ -76,7 +76,6 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 </div>
 <div class="container"><button onclick="window.location.href='https://form.collect.dai.com/x/RqEoih8Z';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2023</button></div>
 </div>
-
 
 ## Participants are trained to:
 
