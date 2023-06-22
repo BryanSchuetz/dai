@@ -29,11 +29,11 @@ groups:
 '
   image: "/uploads/erg-noir.jpg"
 - name: DAI Pride
-  description: "DAI Pride provides the LGBTQI+ community at DAI with a sense of
-    belonging that fosters communication, support, and skill development. It promotes
-    and supports corporate policies designed to address gender, issues of importance
-    to sexually diverse communities, and the human rights of our staff, their families,
-    and their loved ones. \n"
+  description: "DAI Pride provides the LGBTQI+ community at DAI with a sense of belonging
+    that fosters communication, support, and skill development. It promotes and supports
+    corporate policies designed to address gender, issues of importance to sexually
+    diverse communities, and the human rights of our staff, their families, and their
+    loved ones. \n"
   image: "/uploads/pride-erg.jpg"
 - name: DAI GANDI
   description: 'The U.K. Gender and Inclusion (GANDI) group works to build DAI capacity
