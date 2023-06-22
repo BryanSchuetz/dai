@@ -10,7 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
-[RFA 2023-03 Kenya Financial Health and Protection Activity](/uploads/RFA%202023-03%20Kenya%20Financial%20Health%20and%20Protection%20Activity.pdf "7/19")
+* [REQ-PRE-23-0012 Development of a comprehensive Transit & eTIR Management System Implementation roadmap for PSWC](https://dai-assets.s3.amazonaws.com/rfps/Republished%20-%20RFP%23%20REQ-PRE-23-0012_Development%20of%20a%20comprehensive%20Transit%20%26%20eTIR%20Management%20System%20Implementation%20roadmap%20for%20PSWC.pdf "8/1")
+* [RFA 2023-03 Kenya Financial Health and Protection Activity](/uploads/RFA%202023-03%20Kenya%20Financial%20Health%20and%20Protection%20Activity.pdf "7/19")
 * [RFP-SOW MEL Knowledge Management Information- Western Kenya](https://dai-assets.s3.amazonaws.com/rfps/RFP-SOW%20MEL%20Knowledge%20Management%20Information-%20Western%20Kenya.pdf "8/1")
 * [RFA–Mentorship Support–CVECA Kazakhstan](https://dai-assets.s3.amazonaws.com/rfps/Announcement%20short.pdf "8/1")
 * [Cybersecurity Capability Maturity Model (C2M2) Assessments and Improvement Roadmaps in Kosovo](https://dai-assets.s3.amazonaws.com/rfps/Form%209.27%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP_C2M2%20Kosvo.pdf "8/1")
