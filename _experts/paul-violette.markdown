@@ -1,6 +1,7 @@
 ---
 title: Paul Violette
 date: 2021-05-18 13:08:00 Z
+published: false
 lastname: Violette
 summary: Paul Violette is the Senior Director of the Water, Energy, and Waste Practice,
   working to reduce waste and environmental pollution, transition to renewables, improve

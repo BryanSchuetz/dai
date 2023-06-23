@@ -1,6 +1,7 @@
 ---
 title: Neil Browning
 date: 2018-04-04 23:10:00 Z
+published: false
 lastname: Browning
 summary: Neil Browning is a manager and economist who specializes in supply chain
   optimization in emerging and frontier markets.
