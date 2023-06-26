@@ -7,7 +7,7 @@ summary: 'Our project supports the SWAIMS programme to improve maritime security
   frameworks against maritime crimes, operational capacities, and response by law
   enforcement. '
 start: 2019
-end: 2023
+end: 2024
 client: European Union and ECOWAS Commission
 solutions:
 - Governance
