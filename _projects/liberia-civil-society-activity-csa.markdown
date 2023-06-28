@@ -13,6 +13,10 @@ solutions:
 - Voice and Accountability
 regions: Sub-Saharan Africa
 country: Liberia
+promos:
+- title: 'Liberia: USAID Donates Nearly $1.5 Million to Advocate for Policy Reforms
+    in Health, Education, and Governance Sectors'
+  link: https://frontpageafricaonline.com/news/liberia-usaid-donates-nearly-us1-5-million-to-advocate-for-policy-reforms-in-health-education-and-governance-sectors/
 ---
 
 As the Government of Liberia rolls out new measures to prevent a surge in COVID-19 infections and looks ahead to the national elections in 2023, there is increasing demand and opportunity for citizen-responsive reforms to tackle persistent development challenges. Although cooperation between civil society organizations and the government has historically been uneven, new modalities for collaboration are emerging. The Liberia Civil Society Activity (CSA) comes at this opportune time, representing the next phase of civil society-led advocacy programming in Liberia by empowering diverse actors to strengthen feedback loops to sustain reforms.  
