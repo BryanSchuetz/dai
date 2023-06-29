@@ -11,6 +11,7 @@ end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Environment
+- Energy
 - Water and Sanitation Services and Management
 regions: Middle East and North Africa
 country: Lebanon

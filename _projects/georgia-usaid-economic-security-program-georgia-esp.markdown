@@ -32,7 +32,7 @@ The USAID Economic Security Program focuses on enterprises outside of agricultur
 
 DAI applies a facilitative value chain development approach that places market actors and other value chain stakeholders (public and private) at the center of the change process, inviting them to define problems and co-create solutions. Using timebound “smart incentives,” the program then co-invests with market actors in their own pro-growth solutions.
 
-The program intends to create at least 4,800 new jobs, support at least 720 small firms, increase sales of assisted enterprises by $60 million, and leverage $18 million through partnerships.
+[The program](https://www.facebook.com/EconSecProgram) intends to create at least 4,800 new jobs, support at least 720 small firms, increase sales of assisted enterprises by $60 million, and leverage $18 million through partnerships.
 
 ![Batumi_port_Barry_Kent.jpg](/uploads/Batumi_port_Barry_Kent.jpg "Photo by Barry Kent.")
 
@@ -45,9 +45,9 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 
 ## Select Results
 
-* Created 28 partnerships.
-* Increased the sales of small firms by $31.7 million.
-* Created 2,042 high-value jobs. 
+* Created 35 partnerships.
+* Increased the sales of small firms by $32 million.
+* Project firms created 2,042 high-value jobs. 
 * Facilitated the creation of the SkillWill Academy, which has a pipeline of more than 700 high-value jobs. 
 * Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about the impact of internet piracy. 
 * Produced a video tour of Samtskhe-Javakehi [that was selected](https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest) as the best in Europe and one of the five best in the world in the Promotion and Decade of Action category of the United Nations World Tourism Organization's [Tourism Video Competition](https://www.unwto.org/news/2021-unwto-tourism-video-competition-winners).
