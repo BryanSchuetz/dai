@@ -9,6 +9,7 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
+- Energy
 - Trade
 - Finance and Investment
 regions: Middle East and North Africa
