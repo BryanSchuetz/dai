@@ -14,6 +14,7 @@ solutions:
 - Business Environment Reform
 - Institutional and Policy Reform
 - Finance and Investment
+- Energy
 regions:
 - Sub-Saharan Africa
 country:

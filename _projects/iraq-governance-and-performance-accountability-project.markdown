@@ -9,7 +9,7 @@ end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Digital Strategy
+- Energy
 - Water and Sanitation Services and Management
 regions: Middle East and North Africa
 country: Iraq

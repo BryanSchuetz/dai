@@ -14,6 +14,7 @@ solutions:
 - Gender and Social Inclusion
 - Workforce Development and Youth
 - Business Environment Reform
+- Energy
 regions: Middle East and North Africa
 country: Egypt
 promos:
