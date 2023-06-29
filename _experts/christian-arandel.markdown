@@ -21,7 +21,7 @@ In Chicago, as an exchange student from France, Christian Arandel discovered his
 
 Upon his return to the United States, he joined RTI International as a local governance specialist working on programs and new business. In 2005, he took on the role of Chief of Party for the Morocco Local Governance Program. He was also a technical advisor and/or manager for several governance programs, including the Iraq Local Governance Project, the Guinea Faisons Ensemble project, the Senegal Governance for Local Development, and the Morocco Local Governance Program 2. In 2018, Christian joined Counterpart International where he played a leading role in building the organization’s portfolio of local governance, peacebuilding, and security sector governance projects in the Sahel.  He is also the lead author of Counterpart’s Inclusive Social Accountability framework.
 
-Christian joined DAI in June 2023 as a Senior Lead Specialist for Local Governance to support project implementation and new business development in Africa, the Middle East, and wherever else he may be needed.
+Christian joined DAI in June 2023 as a Senior Lead Specialist for Local Governance to support project implementation and new business development.
 
 * M.U.P., community and international development, University of Michigan
 * Diploma in Advanced European Studies, Public Administration, College of Europe, Belgium
