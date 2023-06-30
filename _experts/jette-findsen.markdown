@@ -12,6 +12,7 @@ solutions:
 - Natural Resource Management
 - Water and Sanitation Services and Management
 - Climate
+- Energy
 regions:
 - Worldwide
 ---
