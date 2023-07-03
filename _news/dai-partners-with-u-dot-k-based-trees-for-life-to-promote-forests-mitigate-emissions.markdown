@@ -20,7 +20,7 @@ As a Gold Partner, DAI has [set up its own grove](https://treesforlife.org.uk/gr
 
 ![TFL Logo 2019 PRINT_GREEN-0bf100.png](/uploads/TFL%20Logo%202019%20PRINT_GREEN-0bf100.png)
 
-“We’re delighted to get this partnership in place and we look forward to planting more trees in the years to come,” said [Keith Smith](https://www.dai.com/who-we-are/our-team/keith-smith), Senior Vice President for DAI’s HMG Business Unit, which focuses on delivering UKaid and implementing bilateral development investments for Her Majesty’s Government.
+“We’re delighted to get this partnership in place and we look forward to planting more trees in the years to come,” said [Keith Smith](https://www.dai.com/who-we-are/our-team/keith-smith), Senior Vice President for DAI’s HMG Business Unit, which focuses on delivering UKaid and implementing bilateral development investments in the United Kingdom.
 
 Smith cited the United Kingdom’s role in hosting next year’s [COP 26](https://ukcop26.org/) as an impetus both for the partnership and for a broader review of the company’s environmental policy. “In light of the escalating climate emergency, we need to take greater responsibility for our environmental impact. After a turbulent year that changed the way we deliver our international work, especially our reliance on air travel, we see this as a unique opportunity to take stock and take action.”
 
