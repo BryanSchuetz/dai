@@ -3,7 +3,7 @@ title: Keith Smith
 date: 2016-01-21 22:18:00 Z
 lastname: Smith
 summary: 'Keith Smith leads HMG Business Unit, which focuses on delivering UKaid and
-  implementing bilateral development investments for Her Majesty’s Government, principally
+  implementing bilateral development investments for His Majesty’s Government, principally
   the Foreign, Commonwealth & Development Office (FCDO).  '
 job-title: Senior Vice President, HMG Business Unit
 image: https://assetify-dai.com/experts/KeithSmith1Inner.jpg
@@ -13,7 +13,7 @@ regions: Worldwide
 layout: expert
 ---
 
-Keith Smith leads HMG Business Unit, which focuses on delivering UKaid and implementing bilateral development investments for Her Majesty’s Government, principally the U.K. Foreign, Commonwealth & Development Office (FCDO).  
+Keith Smith leads HMG Business Unit, which focuses on delivering UKaid and implementing bilateral development investments for His Majesty’s Government, principally the U.K. Foreign, Commonwealth & Development Office (FCDO).  
 
 Keith began his 20-year career in international development with assignments in Kosovo, Liberia, Macedonia, and Sierra Leone. He has managed programmes focused on infrastructure, agriculture, health, the reintegration of ex-combatants, grants management, and governance. 
 
