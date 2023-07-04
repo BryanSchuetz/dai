@@ -1,12 +1,12 @@
 ---
 title: Marika Shioshvili
 date: 2023-07-04 08:37:00 Z
-published: false
 lastname: Shioshvili
 summary: Marika Shioshvili is a proven project manager with more than 20 years of
   experience providing strategic and technical leadership and operational oversight
   to complex donor-funded development activities in Georgia.
 job-title: Chief of Party, USAID Economic Security Program, Georgia
+image: "/uploads/marika.jpg"
 solutions:
 - Economic Growth
 regions:
