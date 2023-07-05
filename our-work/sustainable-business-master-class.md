@@ -68,7 +68,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 </div>
 </div>
 <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-<a download class="is-capitalized card-footer-item site-buttons is primary" href="file:https://www.dai.com/uploads/masterclass_brochure_2023-82434c.pdf</a>
+<a class="is-capitalized card-footer-item site-buttons is primary" href="https://www.dai.com/uploads/masterclass_brochure_2023-82434c.pdf">Download</a>
 </footer>
 </div>
 </div>
