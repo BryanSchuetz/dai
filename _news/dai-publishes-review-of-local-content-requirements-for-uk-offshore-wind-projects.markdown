@@ -17,6 +17,8 @@ Michael Warner, Senior Advisor to DAI’s Sustainable Business Group and Founder
 This report, which follows DAI’s 2022 review of *[U.S. Federal and State Local Contents for Offshore Wind Projects](https://www.dai.com/news/dai-publishes-review-of-us-offshore-wind-local-content-requirements)*[,](https://www.dai.com/news/dai-publishes-review-of-us-offshore-wind-local-content-requirements) sheds light on the evolving policy process in the United Kingdom.
 “These reports should provide policy makers and investors with a useful review of how countries at the forefront of offshore wind development are approaching the increasing trend toward green industrial policy designed to spur domestic manufacturing,” said co-author [Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), an economist in DAI’s Sustainable Business Group. “It will take some time before we can measure the success of green state aid mechanisms for local content.”
 
+<div data-tf-widget="aAanrjeI" data-tf-opacity="100" data-tf-iframe-props="title=UK Wind Energy Report Leads" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=,utm_medium=,utm_campaign=" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+
 The report concludes that the United Kingdom remains cautious in navigating local content policy between—on the one hand—the successful EU legal challenge to the content requirements of the U.K. Contracts for Difference scheme, and—on the other hand—playing catch-up with the green subsidies and pro-local content measures driven by the U.S. Inflation Reduction Act and the EU’s Green Deal policies.
 
 *[Contact the report authors ](mailto:contact_sbg@dai.com)*
