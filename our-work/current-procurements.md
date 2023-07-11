@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Preparation and Implementation of Shared Intellectual Service (SIS) SMEs Trade Mission to Uzbekistan](https://dai-assets.s3.amazonaws.com/rfps/GESP-RFP-066.doc "8/1")
 * [Cybersecurity Capability Maturity Model (C2M2) Assessments and Improvement Roadmaps in Kosovo](https://dai-assets.s3.amazonaws.com/rfps/CIDR.pdf "8/1")
 * [RFA 2023-03 Modification 02](https://dai-assets.s3.amazonaws.com/rfps/RFA%202023-03%20Modification%2002.pdf "8/1"
 * [RFA 2023-03 Modification 01](/uploads/RFA%202023-03%20Modification%2001.pdf "7/19")
