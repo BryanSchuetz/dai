@@ -12,6 +12,19 @@ solutions:
 regions: Sub-Saharan Africa
 country: Somalia
 promos:
+- title: Analysis and Roadmap to Establish a Simplified Trade Regime (STR)  for Somalia
+    and Ethiopia
+  link: https://dai-assets.s3.amazonaws.com/projects/STR_broshure_final_WEB.PDF
+- title: 'Mapping Report: Formalisation of Cooperatives and Private Sector Organisations'
+  link: https://dai-assets.s3.amazonaws.com/projects/Mapping%20Report%20SPDI%20_Somalia_WEB.pdf
+- title: Investment Opportunities in the Somalia Tourism and Hospitality Sector
+  link: https://dai-assets.s3.amazonaws.com/projects/Hospitality_report_FINAL_web.pdf
+- title: Enhancing opportunities for Non-Banking Financial Institutions and approaches
+    in Somalia
+  link: https://dai-assets.s3.amazonaws.com/projects/NBFI%20Study%20_book_WEB%20%281%29.pdf
+- title: 'European Business in Somalia: How European Investment and Trade Contribute
+    to Sustainable Development'
+  link: https://www.eeas.europa.eu/sites/default/files/eu_investment_mapping_somalia_brochure_updated.pdf
 - title: "**Priority Sector Investment Study:** Agribusiness Opportunities in Somalia's
     Food Production Sector  "
   link: "/uploads/Priority-Sector-Investment-Study-Somalia.pdf"
