@@ -25,6 +25,8 @@ The [Technical Assistance Project for Establishment of Boosting Effective and Su
 
 BEST for Energy focused on the city of İzmir—and its vicinity—to ensure strong clustering in the renewable energy sector, which is essential to stimulating a long-term and self-sufficient enabling environment. The project contributed to İzmir’s regional renewable energy service and equipment industry cluster by increasing the competitiveness of its value chain, in line with the Competitiveness and Innovation Sector Operational Programme in Türkiye. 
 
+The project developed a long-term competitiveness strategy and provided professional training in the clean energy sector. A significant accomplishment was the facilitation of a €343 million investment in solar panel production, leading to the creation of 2,500 job opportunities.
+
 ## Sample Activities
 
 * Preparing a development strategy and action plan for Izmir's renewable energy services and equipment cluster.
