@@ -10,7 +10,7 @@ solutions:
 - Environment
 - Economic Growth
 regions:
-- Eastern Europe and Central Asia
+- Worldwide
 ---
 
 Rade Glomazic oversees a large portfolio of European Union (EU)-funded projects in Türkiye. With more than 20 years of experience in both technical and managerial capacities, Rade has worked on complex programs in challenging international settings, addressing topics ranging from environment and climate change to public sector governance, socioeconomic development, and sustainable development, including crosscutting issues.
