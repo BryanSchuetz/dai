@@ -13,6 +13,8 @@ solutions:
 regions: Asia and the Pacific
 country: Philippines
 promos:
+- title: Framework for Financing Water Resources Management
+  link: "/uploads/2023-05-29%20WRM%20Financing%20Framework.pdf"
 - title: Hybrid Finance Model Shows Promise in Boosting Access to Sanitation
   link: https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation
 - title: How USAID Helps Filipino Families Access Affordable Toilets and Septic Tanks
