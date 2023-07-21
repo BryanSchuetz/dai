@@ -79,12 +79,5 @@ layout: default
     Tel: +234 818 800 5248<br>
     <a href="mailto:dainigeria@dai.com">Email</a>
   </p>
-  <p>
-    <strong>Lagos, Nigeria</strong><br>
-    3a Eko Akete Close<br>
-    Off St Gregory’s College Road<br>
-    Ikoyi, Lagos<br>
-    +234 1 291 8657<br>
-  </p>
   </div>
 </div>
