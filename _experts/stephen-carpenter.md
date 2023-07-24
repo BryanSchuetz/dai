@@ -7,7 +7,7 @@ summary: 'Stephen Carpenter, Vice President for Governance, specializes in publi
 job-title: 'Vice President, Governance  '
 image: "/uploads/Carpenter.jpg"
 solutions:
-- Economic Growth
+- Include Primary and/or Secondary Solutions
 - Governance
 - Public Financial Management
 regions:
