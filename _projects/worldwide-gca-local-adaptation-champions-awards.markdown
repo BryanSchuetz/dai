@@ -17,7 +17,7 @@ Launched by [The Global Center on Adaptation](https://gca.org/llachampions/) in 
 
 DAI supported the delivery of the Local Adaptation Champions Awards 2022 through a range of activities including conceptualizing the Awards process; developing the Awards criteria and material required for the submission of entries; developing a global outreach and publicity plan; building an applications portal; managing the receipt of applications; managing the shortlisting process; and organizing a high-level Awards ceremony at COP27, Egypt.
 
-> "DAI has been an instrumental partner in helping the Global Centre for Adaptation to successfully launch its inaugural Locally Led Adaptation Champion Awards. DAI's social impact and climate expertise have enabled the competition to attract high-quality climate champions from climate-vulnerable countries and attain global reach, culminating in a successful awards ceremony at COP27".\
+> "DAI has been an instrumental partner in helping the Global Centre for Adaptation to successfully launch its inaugural Locally Led Adaptation Champion Awards. DAI's social impact and climate expertise have enabled the competition to attract high-quality climate champions from climate-vulnerable countries and attain global reach, culminating in a successful awards ceremony at COP27."\
 > **Anju Sharma**\
 > Lead, Locally-led Adaptation, Global Center on Adaptation
 
