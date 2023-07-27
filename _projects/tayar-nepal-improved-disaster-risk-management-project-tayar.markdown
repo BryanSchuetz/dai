@@ -41,3 +41,4 @@ knowledge and skills on how to be prepared and protected in earthquakes, landsli
 * Produced 4,462 copies of information, education, and communication materials related to earthquake-resistant construction technology and the electronic building permit system, which were distributed to stakeholders.  
 * Supported women to launch small businesses promoting compressed stabilized earth blocks, that are not only highly cost-effective but are eco-friendly and can be produced with limited resources. These bricks are produced locally by
 community members, using sand, soil, and 10 percent cement. This has enabled poorer families to build disaster-resilient homes at a very low cost.
+* Planted 3,500 native saplings with two municipalities to improve rural livelihoods through conservation and sustainable use of natural resources.
