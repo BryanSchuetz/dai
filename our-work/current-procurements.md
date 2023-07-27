@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFA 2023-04 Virtual Bidder's Conference Flyer](/uploads/RFA%202023-04%20Virtual%20Bidder's%20Conference%20Flyer_Final.pdf "8/2")
 * [RFA 2023-04 Social Media Analytics Activity](/uploads/RFA%202023-04%20Social%20Media%20Analytics%20Activity.pdf "8/15")
 * [RFA 2023-03 Modification 03](/uploads/RFA%202023-03%20Modification%2003.pdf "8/2")
 * [Preparation and Implementation of Shared Intellectual Service (SIS) SMEs Trade Mission to Uzbekistan](https://dai-assets.s3.amazonaws.com/rfps/GESP-RFP-066.doc "8/1")
@@ -20,4 +21,3 @@ Listed below are current solicitations. To view additional information regarding
 * [RFA–Mentorship Support–CVECA Kazakhstan](https://dai-assets.s3.amazonaws.com/rfps/Announcement%20short.pdf "8/1")
 * [Cybersecurity Capability Maturity Model (C2M2) Assessments and Improvement Roadmaps in Kosovo](https://dai-assets.s3.amazonaws.com/rfps/Form%209.27%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP_C2M2%20Kosvo.pdf "8/1")
 * [Wheel multipurpose backhoe loaders for Ukraine HOVERLA Activity](https://dai-assets.s3.amazonaws.com/rfps/RFQ-KYV-23-038_Backhoe%20Loaders.pdf "8/1")
-* [RFP-MEL Knowledge Management and Information System](https://dai-assets.s3.amazonaws.com/rfps/RFP-MEL%20Knowledge%20Management%20and%20Information%20System.pdf "7/26")
