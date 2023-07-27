@@ -1,8 +1,7 @@
 ---
-title: Somalia—People-Centered Governance Project (PCG)
+title: Somalia—People-Centered Governance Activity (PCG)
 date: 2023-07-25 13:51:00 Z
-published: false
-summary: The Somalia People-Centered Governance Project (PCG) supports local governance
+summary: The Somalia People-Centered Governance Activity (PCG) supports local governance
   in southern Somalia, helping district councils to adopt inclusive decision-making
   models, more fairly manage resources, deliver results and services for citizens,
   and—in so doing—increase citizen trust in the councils.
@@ -13,16 +12,23 @@ solutions:
 - Governance
 - Fragile States
 - Local Governance and Decentralization
+- Public Administration, Civil Service Reform, and Human Resources Management
 regions: Sub-Saharan Africa
 country: Somalia
 ---
 
-The Somalia People-Centered Governance Project (PCG) supports local governance in southern Somalia, helping district councils to adopt inclusive decision-making models, more fairly manage resources, deliver results and services for citizens, and—in so doing—increase citizen trust in the councils.
+In the summer of 2022, the new President of Somalia, Hassan Sheikh Mohamud, declared “total war” against al-Shabaab and impressive strides have been made. While there is a strong spirit of optimism among the Somali people, a security response alone is insufficient, as al-Shabaab has capitalized on a weak state and political and social marginalization of the majority of Somali citizens, to compete with licit governance. While district councils have been formed in seven districts, they have received virtually no support. By improving council functions, the Somalia People-Centered Governance Activity (PCG) offers important complementary programming to solidify gains from ongoing security, humanitarian, stabilization, and development initiatives. 
+
+PCG supports local governance in southern Somalia, helping district councils to adopt inclusive decision-making models, more fairly manage resources, deliver results and services for citizens, and—in so doing—increase citizen trust in the councils. The Activity facilitates government dialogue and engagement with citizens to strengthen the social contract, delivers bespoke support to district councils to improve their governance capabilities, and ultimately increase the legitimacy and effectiveness of local government.
  
-PCG works in 12 districts to support newly formed councils, building the capacity of officials to better perform their jobs and ensure that resources and disputes are managed fairly and with citizen participation, avoiding capture by clan groups or elites. PCG also focused on improving the performance of the councils, supporting them to identify and respond to citizen priorities and become more sustainable by delivering services, collecting revenues, and creating channels for communication with citizens. Combining embedded technical assistance, grants, and construction funds, PCG seeks to expand service delivery to 800,000 citizens. 
+PCG works in 12 districts to support newly formed councils, building the capacity of officials to better perform their jobs and ensure that resources and disputes are managed fairly and with citizen participation, avoiding capture by clan groups or elites. PCG also supports them to identify and respond to citizen priorities and become more sustainable by delivering services, collecting revenues, and creating channels for communication with citizens. Combining embedded technical assistance, grants, and construction funds, PCG seeks to expand service delivery to 800,000 citizens. 
 
 ![IMG_2340.jpg](/uploads/IMG_2340.jpg)
 
 ## Sample Activities
 
-* 
+* Identify new public-private partnerships that will expand service delivery to underserved men, women, and children in Southern Somalia.
+* Improve land administration systems by helping existing university networks to provide administrative support in upgrading these systems, including training in best practices related to conflict-sensitive land administration and promoting public awareness of land tenure and usage.
+* Partner with grantees to facilitate increased citizen engagement with district councils and enable citizens to play a more active and substantive role in district development planning processes.  
+* Facilitate training for councils on their roles and responsibilities in accordance with each state’s Local Governance Act. 
+* Support the development of realistic budgets and transparent revenue and expenditure tracking systems for the councils.
