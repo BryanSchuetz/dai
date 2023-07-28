@@ -1,6 +1,7 @@
 ---
 title: Zac Bull
 date: 2021-04-28 17:12:00 Z
+published: false
 lastname: Bull
 summary: Zac Bull is a Senior Manager for Climate Action and Resilience, based in
   DAI’s U.K. office.
