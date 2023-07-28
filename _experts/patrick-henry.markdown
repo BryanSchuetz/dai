@@ -14,7 +14,7 @@ regions:
 order: 4
 ---
 
-Patrick Henry is Vice President of DAI’s Sustainable Business Group, leading the data-driven approaches to design unique solutions that bridge the gaps for clients in supplier development and responsible business solutions. In this role, Patrick’s team provides a broad range of analytics programs supporting our clients needs from supplier development through financial inclusion.
+Patrick Henry is Vice President of DAI’s Sustainable Business Group, leading the data-driven approaches to design unique solutions that bridge the gaps for clients in supplier development and responsible business solutions. In this role, Patrick’s team provides a broad range of analytics programs supporting client needs from supplier development through financial inclusion.
 
 In Guyana, Patrick led the [Centre for Local Business Development](http://corporate.exxonmobil.com/en/company/worldwide-operations/locations/guyana/news-releases/20170626-centre-for-local-business-development-in-georgetown) from inception to sustained results in moving hundreds of suppliers through a pioneering program that resulted in them winning work and building long-term capacity to support the nascent sector. In Mozambique, Patrick conceptualized a novel model of blending international best practices with local expertise for supplier development through a newly created local enterprise. 
 
