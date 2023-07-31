@@ -1,6 +1,7 @@
 ---
 title: Chris Rose
 date: 2017-01-25 15:32:00 Z
+published: false
 lastname: Rose
 summary: Chris Rose is a Project Director for Climate Change and the Environment with
   DAI's EU business.
