@@ -27,8 +27,13 @@ promos:
   link: https://usaidpubs.exposure.co/more-water-for-everyone
 - title: Project YouTube Channel
   link: https://www.youtube.com/channel/UCjCX20yI9s4GSmiLxcmvsmQ
-- title: "Mozambique Launches its First-Ever National \nBiodiversity Information System"
+- title: Mozambique Launches its First-Ever National Biodiversity Information System
   link: "/uploads/Mozambique%20SPEED%20-%20biodiversity%20portal%20writeup-%20branded.pdf"
+- title: 'Q&A with SPEED’s Fabio Scala: Helping the Government of Mozambique Drive
+    Reforms to Bolster the Economy'
+  link: https://dai-global-developments.com/articles/helping-the-government-of-mozambique-drive-reforms-to-bolster-the-economy-a-q-a-with-fabio-scala/
+- title: 'VIDEO: How SPEED Adapted & Strengthened Capacity to Counter Wildlife Crimes'
+  link: https://www.youtube.com/watch?v=EU8JDgQKpbs
 layout: project
 ---
 
