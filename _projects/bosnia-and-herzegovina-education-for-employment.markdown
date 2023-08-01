@@ -1,8 +1,8 @@
 ---
 title: Bosnia and Herzegovina—Education for Employment
 date: 2020-07-01 10:45:00 Z
-summary: The Education for Employment project supports the Government of BiH to increase
-  the responsiveness of its education sector to labor market needs and works to increase
+summary: The Education for Employment project supported the Government of BiH to increase
+  the responsiveness of its education sector to labor market needs and worked to increase
   institutional capacities and coordination within the education sector at all levels.
 start: 2020
 end: 2023
@@ -16,9 +16,9 @@ country: Bosnia and Herzegovina
 
 Addressing the mismatch between the supply of, and demand for, labor in Bosnia and Herzegovina (BiH) is a core priority for the nation’s government. Although establishing a systemwide skills development sector remains the long-term goal in BiH, progress in implementing countrywide strategies has been constrained by the lack of coordination across all levels.
 
-The European Union (EU)-funded Education for Employment project supports the Government of BiH to increase the responsiveness of its education sector to labor market needs and works to increase institutional capacities and coordination within the education sector at all levels. The project components include strengthening lifelong learning career guidance systems;  developing qualifications and standards at the higher education level; promoting new teacher training programs at the initial and in-service level; and advancing measures to improve human resources development across the education system.
+The European Union (EU)-funded Education for Employment project supported the Government of BiH to increase the responsiveness of its education sector to labor market needs and worked to increase institutional capacities and coordination within the education sector at all levels. The project components included strengthening lifelong learning career guidance systems;  developing qualifications and standards at the higher education level; promoting new teacher training programs at the initial and in-service level; and advancing measures to improve human resources development across the education system.
 
-Our team’s efforts are designed to lead to students achieving higher levels of attainment in high-demand skills, including those related to entrepreneurial and digital competencies. In doing so, the project will contribute to higher numbers of successful transitions into decent employment, with an education system that responds to labor market needs nationally and globally.
+Our team’s efforts were designed to lead to students achieving higher levels of attainment in high-demand skills, including those related to entrepreneurial and digital competencies. In doing so, effort introduced career guidance in primary and secondary schools, establishing guidance corners established in 18 pilot schools. The team also created a “Rulebook and Guide for the Recognition of Non-Formal Education and Informal Learning,” developed more than 100 teacher training programs across eight public universities, and conducted and created handbooks for assessments. 
 
 ![GAP OLD BRIDGE IN MOSTAR.JPG](/uploads/GAP%20OLD%20BRIDGE%20IN%20MOSTAR.JPG)
 
