@@ -25,7 +25,7 @@ The Macro-Economic Stabilization and Reform (MESR) project, funded by the U.S. A
 
 MESR also works with the Government of Egypt to analyze, monitor, and evaluate the impact of public investments and economic policies on men and women, while ensuring that women are well represented in training and capacity development efforts, engaged in economic policy dialogue, and prepared for managerial and leadership opportunities. While ambitious in its expected results, MESR comes at a critical time for Egypt and provides invaluable technical assistance to support macroeconomic stabilization.
 
-![cairo.jpg](/uploads/cairo.jpg)
+![EGCI Launch panel.JPG](/uploads/EGCI%20Launch%20panel.JPG)
 
 ## Sample Activities
 
