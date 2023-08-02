@@ -34,7 +34,7 @@ promos:
   link: https://devinit.org/blog/what-can-we-expect-uk-aid-global-nutrition/
 ---
 
-The Technical Assistance to Strengthen Capabilities (TASC) Project contributed to processes that support improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). TASC was led by DAI with [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/) as consortium partners and was a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) programme. 
+The Technical Assistance to Strengthen Capabilities (TASC) Project contributed to processes that support improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). Our partners were [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/) and TASC was a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) programme. 
 
 TASC worked to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status. It achieved this by strengthening the enabling environment for nutrition at the global and country levels, ultimately delivering policies and programmes that support the reduction of malnutrition. 
 
@@ -44,13 +44,13 @@ To sustain and expand action on nutrition, TASC provided demand-driven technical
 
 ## Sample Activities
 
-* Analyse finance for nutrition actions (e.g. costing of multi-sectoral plans, budget analysis, and financial tracking)
+* Analyse finance for nutrition actions—such as costing of multi-sectoral plans, budget analysis, and financial tracking.
 * Support transition to the SUN Movement 3.0 Strategy (2021-2025).
 * Conduct multi-country reviews of nutrition plans. 
 * Support SUN Movement’s learning agenda.
-* Support the FCDO on nutrition-related programme design and implementation (development of strategic cases; programme review; placement of consultants to boost technical capacity on nutrition; and other technical support)
+* Support the FCDO on nutrition-related programme design and implementation (development of strategic cases; programme review; placement of consultants to boost technical capacity on nutrition; and other support).
 * Facilitate knowledge management, learning, and capacity building (case studies, a COVID-19 tracker with monthly updates, various technical guidance notes, webinars for FCDO staff, and wider audiences).
-* Support FCDO to measure the progress of its five-year Child Wasting Innovation Programme (previously called Progressing Action on Resilient Nutrition Systems through Innovation and Partnership) through a feedback mechanism survey covering nine countries in Africa and South Asia. The FAQ is available in
+* Support the FCDO to measure the progress of its five-year Child Wasting Innovation Programme (previously called Progressing Action on Resilient Nutrition Systems through Innovation and Partnership) through a feedback mechanism survey covering nine countries in Africa and South Asia. The FAQ is available in
 [English](/uploads/FAQs%20CWIP%20feedback%20mechanism_2023_en.pdf) and [French](/uploads/FAQs%20CWIP%20feedback%20mechanism_2023_fr.pdf).
  
 ## Select Results
