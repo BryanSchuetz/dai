@@ -21,7 +21,8 @@ In 2023, DAI is supporting the delivery of the Local Adaptation Champions Awards
 > **Anju Sharma**\
 > Lead, Locally-led Adaptation, Global Center on Adaptation
 
-**Applications are open for 2023**
+**Applications are open for 2023**\
+\
 The Awards are open to any individual, organization, or group of partners worldwide, who have implemented or are in the process of implementing climate change adaptation/resilience interventions.
 
 Four winners will receive a cash prize of €15,000 and be invited to an Award Ceremony at COP28 in Dubai, which will take place from 30 November to 12 December 2023.
