@@ -21,22 +21,24 @@ promos:
 
 Recent years have seen the Egyptian economy struggle to stabilize, with weak economic governance at the macro and microeconomic levels, contributing to distortions that have hampered private sector growth and dampened Egypt’s economic development. The recent devaluation of the Egyptian pound has helped encourage foreign direct investment and increased exports, but there remain macroeconomic issues, such as the public debt and high inflation, that continue to inhibit economic growth in Egypt.
 
-The Macro-Economic Stabilization and Reform (MESR) project, funded by the U.S. Agency for International Development, addresses Egypt’s macroeconomic challenges, assists with implementing reforms expected by the International Monetary Fund (IMF), and sets the stage for broad-based economic growth and achievement of the Sustainable Development Strategy 2030. The IMF’s arrangement under its Extended Fund Facility (EFF) with Egypt creates a sense of urgency for reforms and encourages government champions to take ownership. Complementing the EFF arrangement, MESR focuses on human capacity building and institutional development to promote sustainability of reforms and empowers government staff to improve capital investment processes and the effectiveness of public finance systems.
+The Macro-Economic Stabilization and Reform (MESR) project, funded by the U.S. Agency for International Development, addresses Egypt’s macroeconomic challenges, assists with implementing reforms expected by the International Monetary Fund (IMF), and sets the stage for broad-based economic growth and achievement of the Sustainable Development Strategy 2030. The IMF’s arrangement under its Extended Fund Facility (EFF) with Egypt creates a sense of urgency for reforms and encourages government champions to take ownership. Complementing the EFF arrangement, MESR focuses on human capacity building and institutional development to promote the sustainability of reforms and empowers government staff to improve capital investment processes and the effectiveness of public finance systems.
 
 MESR also works with the Government of Egypt to analyze, monitor, and evaluate the impact of public investments and economic policies on men and women, while ensuring that women are well represented in training and capacity development efforts, engaged in economic policy dialogue, and prepared for managerial and leadership opportunities. While ambitious in its expected results, MESR comes at a critical time for Egypt and provides invaluable technical assistance to support macroeconomic stabilization.
 
 ![cairo.jpg](/uploads/cairo.jpg)
 
-### Sample Activities
+## Sample Activities
 
-* Review outstanding capital investment projects and incorporate lessons learned from this initiative into the development of a standardized appraisal methodology.
-* Develop cross-sector, spatial, and gender analysis tools to improve decision support for project appraisals.
-* Analyze and assess different forms of alternative financing schemes.
-* Conduct legal and regulatory review of the public investment landscape.
-* Develop and conduct training to build capacity for planning and monitoring units in government entities.
+* Assist Egypt to develop a methodology for calculating its green gross domestic product.
+* Support the Government of Egypt to institutionalize its new Unified Fiscal Law.
+* Design and pilot a participatory budgeting initiative, which the Government of Egypt plans to scale nationwide.
+* Design a statewide strategic management system to monitor Egypt’s progress in achieving its Sustainable Development Strategy ([Egypt Vision 2030](http://sdsegypt2030.com/?lang=en)).
+ 
+## Select Results
 
-### Select Results
-
-* Supported the Ministry of Planning and Economic Development to publish the country’s first Gender-Responsive Sustainable Development Planning Manual.
-* Trained the media and communications units of the Ministry of Finance and the Ministry of Planning and Economic Development to communicate their work more effectively through various media platforms. MESR provided the units with in-house video production units, laptops specialized in handling video editing software, cameras, lighting, audio, and mobile journalism equipment.
-* Helped develop the [Egyptian Governorate Competitiveness Index](https://www.zawya.com/en/economy/gcc/egypt-launches-governorate-competitiveness-index-q5zmzn03) to foster positive competition among governorates and spur private investment into their competitive economic sectors. It also assists decision makers to adopt tailored economic policies for each governorate. 
+* Pioneered a new methodology for calculating Egypt’s gross domestic product based on the country’s economic census results, resulting in a [significant gross domestic product increase](https://www.egypttoday.com/Article/3/113079/Egypt-s-GDP-led-to-a-11-5-increase-by).
+* Supported Egypt to increase its score on the Open Budget Index.
+* Supported the Government of Egypt to transition from line item–based budgeting to program-based budgeting.
+* Developed the [Egyptian Governorate Competitiveness Index](https://www.zawya.com/en/economy/gcc/egypt-launches-governorate-competitiveness-index-q5zmzn03) to foster positive competition among governorates and spur private investment into their competitive economic sectors.
+* Developed an [automated system](https://mped.gov.eg/DynamicPage?id=77&lang=en) for public investment projects and supported its linkage with the Ministry of Finance’s budget system, enabling real-time exchange of information.
+* Developed gender-responsive planning and budgeting [manuals](https://mped.gov.eg/DynamicPage?id=104&lang=en), and accompanying training, to ensure gender equality and social inclusion in government spending.
