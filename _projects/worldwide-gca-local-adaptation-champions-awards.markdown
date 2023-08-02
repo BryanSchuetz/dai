@@ -27,3 +27,5 @@ The Awards are open to any individual, organization, or group of partners worldw
 Four winners will receive a cash prize of €15,000 and be invited to an Award Ceremony at COP28 in Dubai, which will take place from 30 November to 12 December 2023.
 
 [Learn more or apply here.](https://adaptationportal.gca.org/llahub/llachampions)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6qyoalqbVQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
