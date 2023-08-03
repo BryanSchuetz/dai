@@ -7,7 +7,7 @@ summary: Ric Goodman’s focus is on solutions to extreme poverty and vulnerabil
   goods and services to populations in remote areas, often in fragile ecosystems and
   environments, where people’s livelihoods are inherently fragile.
 job-title: Technical Services Director, Resilience
-image: "/uploads/Ric%20Goodman.jpg"
+image: "/uploads/Ric%20Goodman%202023-66.jpg"
 solutions:
 - Agriculture and Food Security
 - Fragile States
