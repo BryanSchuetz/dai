@@ -8,7 +8,7 @@ summary: Keith is an experienced development executive who has worked over the p
   focused on infrastructure, agriculture, health, reintegration of ex-combatants,
   grants management, and governance. Keith was named to lead DAI’s HMG Business Unit
   in 2019.
-image: https://assetify-dai.com/contacts/keith-smith.jpg
+image: "/uploads/Keith%20Smith%202023-17.jpg"
 group: Management
 sort-order: 1
 ---
