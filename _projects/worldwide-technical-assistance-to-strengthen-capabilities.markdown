@@ -44,14 +44,13 @@ To sustain and expand action on nutrition, TASC provided demand-driven technical
 
 ## Sample Activities
 
-* Analyse finance for nutrition actions—such as costing of multi-sectoral plans, budget analysis, and financial tracking.
-* Support transition to the SUN Movement 3.0 Strategy (2021-2025).
-* Conduct multi-country reviews of nutrition plans. 
-* Support SUN Movement’s learning agenda.
-* Support the FCDO on nutrition-related programme design and implementation (development of strategic cases; programme review; placement of consultants to boost technical capacity on nutrition; and other support).
-* Facilitate knowledge management, learning, and capacity building (case studies, a COVID-19 tracker with monthly updates, various technical guidance notes, webinars for FCDO staff, and wider audiences).
-* Support the FCDO to measure the progress of its five-year Child Wasting Innovation Programme (previously called Progressing Action on Resilient Nutrition Systems through Innovation and Partnership) through a feedback mechanism survey covering nine countries in Africa and South Asia. The FAQ is available in
-[English](/uploads/FAQs%20CWIP%20feedback%20mechanism_2023_en.pdf) and [French](/uploads/FAQs%20CWIP%20feedback%20mechanism_2023_fr.pdf).
+* Strengthening the policy and advocacy environments through improving and costing multisectoral plans, budget analysis, and financial tracking.
+* Building nutrition capacity by promoting the [multisectoral planning (MSP) for nutrition toolkit](https://scalingupnutrition.org/news/mqsun-toolkit-multi-sectoral-planning-nutrition) and developing technical assistance guidance.
+* Supporting the transition to the SUN Movement 3.0 Strategy (2021-2025) through governance reform.
+* Tracking FCDO nutrition investments by supporting FCDO to quantify its [Official Development Assistance (ODA)](https://devinit.org/blog/whats-changing-about-uks-efforts-on-global-nutrition/) spending for [2019](https://devinit.org/blog/latest-data-uk-fcdo-nutrition-spending/); [2020](https://devinit.org/blog/what-can-we-expect-uk-aid-global-nutrition/); [2021](https://devinit.org/resources/fcdos-aid-spending-for-nutrition-2021/).
+* Working with FCDO on food systems and nutrition with private-sector actors.
+* Advocating on the climate-nutrition intersection by supporting WHO on behalf of FCDO on the new [Initiative on Climate Action and Nutrition (I-CAN)](https://www.who.int/news-room/events/detail/2023/05/25/default-calendar/initiative-on-climate-action-and-nutrition-(i-can)).
+* Supporting evidence synthesis: for example, developing guidance for FCDO on preventing and managing child wasting and for the integration of nutrition into the cholera response.
  
 ## Select Results
 
