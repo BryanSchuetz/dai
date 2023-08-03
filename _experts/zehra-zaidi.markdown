@@ -6,7 +6,7 @@ summary: Zehra Zaidi is the Senior Director, Inclusive Social Development for DA
   UK and Europe units and has designed and led programs focused on education, innovation,
   governance, and social entrepreneurship.
 job-title: Senior Director, Inclusive Social Development
-image: "/uploads/Zehra1.jpg"
+image: "/uploads/Zehra%20Zaidi%202023-222.jpg"
 solutions:
 - Governance
 - Education
@@ -15,7 +15,7 @@ regions:
 - Worldwide
 ---
 
-Zehra Zaidi is the Senior Director, Inclusive Social Development for DAI’s UK and Europe units and has designed and led programs focused on education, innovation, governance, and social entrepreneurship. She has worked in challenging political and operational environments including South and Central Asia, East Africa, and the Middle East on programs supported by multiple donors. 
+Zehra Zaidi is the Senior Director of Inclusive Social Development for DAI’s UK and Europe units and has designed and led programs focused on education, innovation, governance, and social entrepreneurship. She has worked in challenging political and operational environments including South and Central Asia, East Africa, and the Middle East on programs supported by multiple donors. 
 
 Zehra has worked extensively with parliaments, political parties, electoral bodies, and civil society organizations in a range of contexts across Kenya, Lebanon, Myanmar, Pakistan, and Tajikistan to support institutional strengthening and reform, as well as enabling successful models of public-private partnerships.
 
