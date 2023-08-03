@@ -7,7 +7,7 @@ summary: Chris leads the U.K.'s HMG business partnering team, which provides fin
   operations and support to all programs within the HMG business unit. His main area
   of expertise lies within project finance, and throughout his tenure, he has worked
   on multiple programs across the globe with a variety of donors.
-image: "/uploads/Chris%20Gibbins-48629b.jpg"
+image: "/uploads/Chris%20Gibbons%202023-117.jpg"
 group: Management
 sort-order: 9
 ---
