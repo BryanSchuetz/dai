@@ -12,3 +12,4 @@ regions: Sub-Saharan Africa
 country: West Africa
 ---
 
+DAI will facilitate capacity development, institutional strengthening, networking, and collaboration among nascent and established community-based organizations, private sector actors, civil society actors, and government and intergovernmental institutions.
