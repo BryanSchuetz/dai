@@ -6,7 +6,7 @@ summary: Cathy Shaw is Director, Frontiers Team/Know-How Lab. Formerly a researc
   in economic development in transition countries, Cathy has worked on long-term programmes
   in Nigeria and Russia, eastern Europe and central Asia.
 job-title: Director, Frontiers Team/Know-How Lab
-image: https://assetify-dai.com/experts/CathyShawInner.jpg
+image: "/uploads/Cathy%20Shaw%202023-242.jpg"
 solutions:
 - Environment
 - Climate
