@@ -18,5 +18,16 @@ In Benin, Burkina Faso, Mali, and Togo, in particular, violent extremist groups 
 
 The U.S. Agency for International Development (USAID)-funded Strengthening Regional Peace and Stability in West Africa (SRPS) program works to address interregional conflicts, improve state stability, and educate local populations on how to address state instability and economic troubles. 
 
-DAI facilitates capacity development, institutiona
-l strengthening, networking, and collaboration among nascent and established community-based organizations, private sector actors, civil society actors, and government and intergovernmental institutions. These integrated tools and methods will improve the governmental and environmental instability in West Africa.  
+DAI facilitates capacity development, institutional strengthening, networking, and collaboration among nascent and established community-based organizations, private sector actors, civil society actors, and government and intergovernmental institutions. These integrated tools and methods will improve the governmental and environmental instability in West Africa.  
+
+![Long_Range_Reconnaissance_Group_MOD_45170413.jpg](/uploads/Long_Range_Reconnaissance_Group_MOD_45170413.jpg)`Mali, 2022. Photo: Wikimedia Commons/Contains public sector information licensed under the Open Government Licence v3.0.`
+
+## Sample Activities
+
+* Design public outreach strategies, in collaboration with local governments, to increase confidence and transparency within state governments.
+* Help with the integration of action plans that seek to educate local populations on human rights, peacebuilding, and the value of inclusivity and the roles of women.
+* Provide grant funding support to youth groups to engage young people in policy development and advocacy.
+* Provide technical assistance on the monitoring of violent extremist groups while implementing counter-trafficking strategies.
+* Increase the communication capabilities of governments through conferences on transborder dialogue, climate and security, and interregional communication.
+* Address dis- and mis-information media award events to highlight examples of truthful and honest journalism.
+* Increase social cohesion by grant funding youth sporting events and trustbuilding activities.
