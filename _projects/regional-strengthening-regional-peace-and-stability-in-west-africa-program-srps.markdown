@@ -23,7 +23,7 @@ The U.S. Agency for International Development (USAID)-funded Strengthening Regio
 
 DAI facilitates capacity development, institutional strengthening, networking, and collaboration among nascent and established community-based organizations, private sector actors, civil society actors, and government and intergovernmental institutions. The program works to prevent conflict, counter violent extremism, and contribute to a more stable region.
 
-![Long_Range_Reconnaissance_Group_MOD_45170413.jpg](/uploads/Long_Range_Reconnaissance_Group_MOD_45170413.jpg)`Mali, 2022. Photo: Wikimedia Commons/Contains public sector information licensed under the Open Government Licence v3.0.`
+[iphone 359.JPG](/uploads/iphone%20359.JPG)
 
 ## Sample Activities
 
