@@ -33,4 +33,4 @@ DAI facilitates capacity development, institutional strengthening, networking, a
 * Provide technical assistance on the monitoring of violent extremist groups while implementing counter-trafficking strategies.
 * Increase the communication capabilities of governments through conferences on transborder dialogue, climate and security, and interregional communication.
 * Address dis- and mis-information media award events to highlight examples of truthful and honest journalism.
-* Increase social cohesion by grant funding youth sporting events and trustbuilding activities.
+* Increase social cohesion by funding youth sporting events and trustbuilding activities through grants.
