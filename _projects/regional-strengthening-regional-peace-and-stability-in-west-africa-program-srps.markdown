@@ -1,5 +1,5 @@
 ---
-title: Regional—Strengthening Regional Peace and Stability in West Africa program
+title: Regional—Strengthening Regional Peace and Stability in West Africa Program
   (SRPS)
 date: 2023-08-03 13:48:00 Z
 summary: The Strengthening Regional Peace and Stability in West Africa program builds
@@ -23,7 +23,7 @@ The U.S. Agency for International Development (USAID)-funded Strengthening Regio
 
 DAI facilitates capacity development, institutional strengthening, networking, and collaboration among nascent and established community-based organizations, private sector actors, civil society actors, and government and intergovernmental institutions. The program works to prevent conflict, counter violent extremism, and contribute to a more stable region.
 
-[iphone 359.JPG](/uploads/iphone%20359.JPG)
+![iphone 359.JPG](/uploads/iphone%20359.JPG)
 
 ## Sample Activities
 

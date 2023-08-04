@@ -14,7 +14,7 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: Quarterly Report
-  link: https://www.usaid.gov/sites/default/files/2023-05/INVEST%20Y6Q2%20Report%20Final.pdf
+  link: https://www.usaid.gov/invest/aug-03-2023-invest-year-6-quarter-3-report
 - title: INVEST Blog
   link: https://medium.com/usaid-invest
 - title: Blended Finance Starter Kit
@@ -30,6 +30,11 @@ promos:
   link: https://express.adobe.com/page/0CXIKvgBrJ4sz/
 - title: 'Mobilizing Finance for Health: USAID INVEST Resource Guide'
   link: https://express.adobe.com/page/eQ6SMa0E7UUIp/
+- title: 'Transaction Advisory Services 101: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/WgzROaTJkHjx3/
+- title: 'Mobilizing Institutional Investment for Impact at Scale: USAID INVEST Resource
+    Guide'
+  link: https://express.adobe.com/page/EX4epAOuBFo3o/
 ---
 
 INVEST is a flexible, efficient buy-in mechanism that helps the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an [opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
@@ -53,7 +58,7 @@ INVEST has supported transactions in enterprise development, infrastructure, and
 
 ## Select Results
 
-* Mobilized more than $1.02 billion in capital and supported 167 transactions, including 121 closed deals as of March 2023.
-* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 550 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
+* Mobilized more than $1.03 billion in capital and supported 164 transactions, including 125 closed deals as of June 2023.
+* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 579 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
 * Implemented activities with 36 USAID missions, bureaus, and independent offices in more than 80 countries across a range of sectors, including finance, clean energy, and agriculture.
-* Issued 222 subcontracts to develop and implement technical activities as of March 2023. Nearly 70 percent of members are identified as new or non-traditional partners for USAID; 39 percent are considered local entities; and 46 percent are locally established entities, helping to address USAID’s commitment to locally led development.
+* Issued 231 subcontracts to develop and implement technical activities as of June 2023. Nearly 70 percent of members are identified as new or non-traditional partners for USAID. Thirty percent are considered local entities and 34 percent are locally established entities, bolstering USAID’s commitment to locally led development.
