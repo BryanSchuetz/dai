@@ -4,7 +4,7 @@ date: 2022-01-06 14:09:00 Z
 lastname: Brock
 summary: 'Lara Brock has more than 15 years of experience in global health and development
   projects across Asia and Africa. '
-job-title: Principal Project Manager, East and Southern Africa Region
+job-title: Associate Director, East and Southern Africa Region
 image: "/uploads/Lara%20Brock.jpg"
 solutions:
 - Global Health
