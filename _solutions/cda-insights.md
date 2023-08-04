@@ -12,6 +12,14 @@ layout: solution
 <br>
 <div class="insights">
   <div>
+    <a href="/uploads/ai-in-public-service.pdf">
+      <img src="/uploads/ai-insight-thumb.png" alt="">
+      <h3>AI in Public Service</h3>
+      <p>Toward meaningful transparency and accountability of AI algorithms</p>
+    </a>
+    <a href="/uploads/ai-in-public-service.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+  <div>
     <a href="/uploads/digital-downsides.pdf">
       <img src="/uploads/no-reward-thumbnal.jpg" alt="">
       <h3>No Reward Without Risk</h3>
