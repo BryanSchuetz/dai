@@ -1,7 +1,7 @@
 ---
 title: Zan Northrip
 date: 2016-01-21 22:18:00 Z
-job-title: Executive Vice President
+job-title: Executive Vice President, Development Consulting
 summary: Zan leads the development, marketing, and delivery of DAI’s development solutions
   for U.S., U.K., and European donor partners.
 image: "/assets/images/leaders/thumbnails/zan-northrip.jpg"
