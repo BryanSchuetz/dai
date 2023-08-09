@@ -5,7 +5,7 @@ lastname: Rahaim
 summary: 'Stephen Rahaim is a health system, private sector engagement, and social
   innovation specialist with 20 years of experience working to strengthen health systems
   in emerging and developing markets. '
-job-title: 'Senior Director, Global Health '
+job-title: Senior Global Practice Leader, Global Health Market Solutions
 image: "/uploads/Stephen%20Rahaim%20site.jpg"
 solutions:
 - Global Health
