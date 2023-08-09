@@ -23,7 +23,7 @@ promos:
 
 The Afghanistan Value Chains–Crops (AVC) project promoted rapid, inclusive, and lasting growth in the agriculture sector. This approach combined market systems development, which addresses market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners. This combined approach promoted behavior change, drove innovation, and accelerated economic growth in a way that ensures lasting and large-scale transformational market system change.
 
-In its final year, the project addressed the food emergency affecting 22 percent of Afghans and utilized its existing partnerships with more than 200 agribusinesses to reach Afghans across the country. The project supported 25,000 farmers to grow wheat for their own consumption and supply to the domestic market. The project also provided seeds, fertilizers, and training to 10,000 rural women to create gardens that will supplement the food needs of their households. These activities resulted in the production of more than 30,000 metric tons of wheat with an estimated value of $3.6 million—enough to feed 345,000 Afghans. 
+Since 2018, the project has partnered with 259 agribusinesses, exported $44 million worth of high-value crops, and facilitated $196 million in sales of firms and farms, $23.4 million in investment, and $17 million in agricultural loans. Despite unprecedented challenges, AVC-Crops had significant achievements in developing agricultural value chains in partnership with agribusinesses in 34 provinces of Afghanistan, touching the lives of 100,000 households.
 
 ![Afghanistan Crops.png](/uploads/Afghanistan%20Crops.png)
 
@@ -40,13 +40,12 @@ In its final year, the project addressed the food emergency affecting 22 percent
 
 * As part of its COVID-19 response, the project invested $77,000 to incentivize exports through new routes and transport means, resulting in 92 shipments to Canada, the United States, Australia, Germany, Saudi Arabia, and Japan worth $4.5 million (a 58:1 return on investment). These and other pre-COVID activities resulted in $6.4 million in additional investment in agriculture and $10.6 million in incremental exports.
 * Sponsored the first [Afghanistan National Young Innovators in Agriculture Competition](https://www.usaid.gov/afghanistan/news-information/press-releases/Oct-29-2019-USAID-Supports-Young-Innovators-Tackling-Agriculture-Problems).
-* Established partnerships with 99 agribusinesses.
-* Facilitated $49.2 million in exports.
-* Assisted in the investment of $21 million.
-* Enabled firms in accessing $13 million in business loans.
+* Established partnerships with 259 agribusinesses.
+* Facilitated $196 million in sales of firms and farms.
+* Assisted in the investment of $23 million.
+* Enabled firms in accessing $17 million in business loans.
 * Assisted 19,500 farmers (30 percent women and 35 percent young people) to access modern production and quality-enhancing technologies.
 * Facilitated an 18 percent increase in household income.
 * Facilitated a 24 percent increase in the production of key products.
 * Trained 6,322 individuals.
-* Helped 96 firms to benefit directly from project activities.
 * Helped create 1,075 new full-time employment jobs.
