@@ -6,7 +6,7 @@ summary: Specializing in public finance, Eunice Heredia-Ortiz has helped governm
   in many countries transform their fiscal policy and management, laying the foundations
   for more efficient and accountable use of public resources, better public service
   delivery, and improved living standards.
-job-title: Chief of Party, Guatemala National Institutions Strengthening Project
+job-title: Development Specialist, Public Finance
 image: https://assetify-dai.com/experts/innereunice_0.jpg
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization
