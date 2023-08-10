@@ -3,9 +3,9 @@ title: DAI in Nigeria
 permalink: "/who-we-are/global-reach/nigeria/contacts/management-business"
 summary: Nigeria is Africa’s most populous nation and largest economy, a country of
   almost unimaginable promise. But like many emerging nations it faces the development
-  challenges that come with industrialization and growth. With an office in Abuja,
-  our extensive in-country team works with public and private sector clients to realize
-  Nigeria's extraordinary potential.
+  challenges that come with industrialization and growth. Our extensive in-country
+  team works with public and private sector clients to realize Nigeria's extraordinary
+  potential.
 hero: true
 layout: node
 ---
