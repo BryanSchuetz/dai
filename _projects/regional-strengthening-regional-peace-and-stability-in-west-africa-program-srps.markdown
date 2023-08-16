@@ -19,7 +19,7 @@ For decades, West Africa has experienced the destabilization of state government
 
 In Benin, Burkina Faso, Mali, and Togo, in particular, violent extremist groups threaten the democratic process, leading to instability and crises within state governments. Water scarcity, reduced food and economic security, and violent competition over natural resources have only worsened widespread violence. 
 
-The U.S. Agency for International Development (USAID)-funded Strengthening Regional Peace and Stability in West Africa (SRPS) program works to address interregional conflicts, improve state stability, and educate local populations on how to address state instability and economic troubles. 
+The U.S. Agency for International Development (USAID)-funded Strengthening Regional Peace and Stability in West Africa (SRPS) program works to address interregional conflicts, improve state stability, and support the resilience of local communities. 
 
 DAI facilitates capacity development, institutional strengthening, networking, and collaboration among nascent and established community-based organizations, private sector actors, civil society actors, and government and intergovernmental institutions. The program works to prevent conflict, counter violent extremism, and contribute to a more stable region.
 
