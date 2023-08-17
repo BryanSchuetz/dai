@@ -6,13 +6,14 @@ summary: Javier Agosto is a proven leader with demonstrated technical and operat
   skills needed to deliver complex projects. His early professional career passion
   for environmental management and conservation cemented a broader commitment to good
   governance.
-job-title: Senior Lead Specialist, Governance
+job-title: Chief of Party, Honduras Justicia Efectiva Contra la Criminalidad y Corrupción
 image: "/uploads/web%20Javier%20Agosto.jpg"
 solutions:
 - Governance
 - Legislative Strengthening
 - Local Governance and Decentralization
 - Justice, Citizen Security, and Rule of Law
+- Anti-corruption, Transparency, and Accountability
 regions:
 - Latin America and the Caribbean
 ---
