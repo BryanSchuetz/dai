@@ -38,4 +38,5 @@ LRMA strengthens the legal framework that supports access to accurate ownership 
 * Establishing a formal relationship with Ombudsperson KP for the Protection against Harassment of Women at the workplace, a key stakeholder in ensuring women’s right to inheritance in land. 
 * Provided a customized 2-day awareness course on legal drafting and land settlement and registration for 15 young women lawyers of Women Lawyers Forum (from tribal areas), the first of its kind. 
 * Developed a messaging framework on women’s right to inheritance for women of newly formed merged districts.
- 
+* Four villages in Khyber Pakhtunkhwa, Pakistan participate in land registration. 
+* Provided GIS equipment to resolve the boundaries of four villages and helped the government establish a Boundary Commission to engage tribal elders to initiate reconciliation.
