@@ -20,6 +20,9 @@ promos:
 - title: USAID Announces New Four-Year Activity to Increase Resilience through Agriculture
     in South Sudan
   link: https://ss.usembassy.gov/usaid-announces-new-four-year-activity-to-increase-resilience-through-agriculture-in-south-sudan/
+- title: Fostering Gender Equality and Social Inclusion in Agriculture as a Resilience-Building
+    Pathway in South Sudan
+  link: https://dai-global-developments.com/articles/fostering-gender-equality-and-social-inclusion-in-agriculture-as-a-resilience-building-pathway-in-south-sudan/
 ---
 
 South Sudan’s rural areas have poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and gender-based violence. 
