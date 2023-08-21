@@ -1,7 +1,6 @@
 ---
 title: Christy Owen
 date: 2023-08-14 13:48:00 Z
-published: false
 lastname: Owen
 summary: Christy Owen is a development professional with more than 25 years of experience
   in the areas of natural resource management, climate finance, private sector engagement,
