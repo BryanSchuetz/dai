@@ -11,3 +11,4 @@ layout: node
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
 * [RFP 2023-10 DD Convening Technical Partner](/uploads/RFP%202023-10%20DD%20Convening%20Technical%20Partner.pdf "9/1")
+* [RFP 2023-10 Mod 1](/uploads/RFP%202023-10%20Mod%201.pdf "9/1")
