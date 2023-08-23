@@ -57,5 +57,5 @@ Most of our emissions in Scope 3 are caused by business travel. We have not excl
 
 In 2022 DAI completed emissions data collection for 2021 across our global corporate offices. We have made progress in reducing our emissions across all three scopes (see graph), and we are delighted to report that our collective corporate emissions were down 23 percent on 2019 from 4,267 to 3,288 tCO2e. This drop is mainly due to fewer flights taken, lower emissions from purchased electricity, and a reduction in fuel and energy-related activities. However, some emission categories increased, including homeworking, waste generation, and capital goods. These changes are mainly due to shifting working patterns as a result of the pandemic and better reporting of our footprint. For 2023, we are focusing on embedding emissions reduction practices into our policies and processes to drive down emissions and report our progress transparently.
 
-**Please find our DAI Global UK Reduction Plan <a href="https://dai-assets.s3.amazonaws.com/DAI%20Global%20UK%20Carbon%20Reduction%20Plan%202022.pdf">here.</a>**
+**Please find our DAI Global UK Reduction Plan <a href="https://dai-assets.s3.amazonaws.com/our-work/HMG_Carbon_Reduction_.pdf">here.</a>**
 
