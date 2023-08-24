@@ -19,8 +19,8 @@ country: Nigeria
 promos:
 - title: DAI’s Joe Abah Speaks on the Nigeria 2023 Elections at EUSDGN Project Event
   link: https://www.dai.com/news/dais-joe-abah-speaks-on-the-nigeria-2023-elections-at-eu-sdgn-project-event
-- title: Reflecting on Progress and Prospects
-  link: uploads/DAI%20Photo%20Book_230816_180632.pdf
+- title: 
+  link: 
 ---
 
 Nigeria has significant security challenges and is confronted with instability and conflict on several fronts. The upcoming general elections in 2023 and in 2027 present a chance to improve the democratic process. 
