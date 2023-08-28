@@ -1,8 +1,6 @@
 ---
 title: Ukraine Placeholder Page
 permalink: "/ukraine-placeholder"
-redirect_from:
-- "/our-work/projects/ukraine-cybersecurity-for-critical-infrastructure-activity"
 layout: default
 ---
 
