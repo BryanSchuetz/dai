@@ -28,30 +28,27 @@ The team has continued planned activities throughout the period since Russia’s
 
 ![ukraine cyber-7ddcb9.jpg](/uploads/ukraine%20cyber-7ddcb9.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * In collaboration with the government, review existing or draft cybersecurity legislation, policies, and strategies, and develop an approach for the legal, regulatory, and institutional frameworks to create a modern, robust legislative framework responsive to the country’s current and future needs.
 * Improve national preparedness through assessments of security in selected critical infrastructure operators leading to the development of a Cyber Maturity Model.
 * Develop custom scenarios and deliver large-scale tabletop exercises to test and reinforce developed response procedures to cyberattacks against critical infrastructure.
-* Develop and support new degree programs in cybersecurity at more than 50 higher education institutions across the country.
-* Facilitate operational partnership, technical trainings, threat data sharing and expertise exchanges between leading Ukrainian government agencies and U.S. government agencies responsible for cybersecurity of critical infrastructure.
+* Develop and support new degree programs in cybersecurity at more than 50 higher education institutions.
+* Facilitate operational partnership, technical training, threat data sharing, and expertise exchanges between leading Ukrainian government agencies and U.S. government agencies responsible for cybersecurity of critical infrastructure.
 * Equip special basement bomb shelter premises of government bodies with secure video communication and remote work infrastructure.
-* Provide forward-deployable fiber repair and maintenance labs to perform repairs in the field and sustain country Internet connectivity.
-* Support UkrEnergo in strengthening the company’s cybersecurity services and enhancing its technical capabilities in cyber readiness, cyber resistance, and cyber protection. Develop a custom solution to enable secure remote data acquisition, caching, transmission, and ingestion for all UkrEnergo operational technology (OT) telemetry, in line with secure smart grid data acquisition strategies.
-* Secure Endpoints and Servers of government and critical infrastructure  facilities. Implement a novel, hybrid Software as a service (SaaS) and on-prem solution using TrendMicro, Palo Alto Networks, CrowdStrike and Cisco Systems to safeguard over 12,000 endpoints against cyber threats.
-* Conduct national Capture-the-Flag (CTF) competition, drawing 771 participants from 256 teams to compete using and refining skills in malware analysis, digital forensics, web security, applied cryptography, steganography, mobile security, professional programming, and coding.
+* Provide forward-deployable fiber repair and maintenance labs to perform repairs in the field and sustain country internet connectivity.
 * Build the capacity of security operations center analysts, system designers, risk managers, and auditors on topics that are relevant to their responsibilities.
-* Raise awareness within government entities, among the private sector and among the Ukrainian population at large about cybersecurity threats and means of protection.
+* Raise awareness within government entities, among the private sector, and among the Ukrainian population at large about cybersecurity threats and means of protection.
 
-### Select Results
+## Select Results
 
+* Conducted a national competition that drew 771 participants from 256 teams to compete using and refining skills in malware analysis, digital forensics, web security, applied cryptography, steganography, mobile security, professional programming, and coding.
+* Developed 14 new cybersecurity professional standards to enhance the Ukrainian National Cybersecurity Workforce Framework, a set of professional standards that guide the development of educational and training curricula.
 * Supported the development and adoption of a new National Cybersecurity Strategy, formalized in a Presidential Decree in August 2021.
-* Prepared the Roadmap for implementation of the National Cybersecurity Strategy and research on the cybersecurity workforce needs.  
-* Provided technical advice during the drafting of a new Law on Critical Infrastructure. The Ukrainian Parliament adopted the law and the president signed it into law, laying out the parameters for managing critical infrastructure and mandates for further legislation, including the introduction of cyber insurance.
-* Launched a Small and Medium Business Accelerator, “CyberAccelerator UA,” which provided more than 100 hours of training to 10 cybersecurity companies.
-* Launched the Chief Technology Officer Peer Mentoring Program, which matched Ukrainian mentees and U.S. Chief Information Security Officer mentors and led to hundreds of hours of professional exchanges.
-* Supported the establishment of a Cybersecurity Higher Education Program involving 14 universities representing 10 oblasts across the country. 
-* Supported five universities to adopt computer science courses in their mainstream curricula, enrolling 368 students. The project developed and promoted the courses and will continue to facilitate partnerships with higher education institutions.
-* Activated the RangeForce platform to provide hands-on training to up to 10,000 top students in cybersecurity concentrations. 
-* Provided professional training to critical infrastructure operators and government employees for certification in globally recognized credentials, including Certified Information Systems Security Professional, Certified Network Defender, and Certified Ethical Hacker. 
-* Provided support to operationalize the UA30 Cyber Center under the State Special Communications Service of Ukraine, an important element in the framework of the country’s cybersecurity strategy. The center houses Ukraine’s Computer Emergency Response Team as well as teams monitoring and analyzing potential threats and vulnerabilities. The Activity provided branding and communications assistance to support the launch event attended by President Zelensky and Vice Prime Minister Fedorov.
+* Developed the CyberTracker platform, a tool for outlining the cybersecurity sector’s development and visualizing and monitoring the implementation of the National Cybersecurity Strategy.
+* Supported the draft of legal acts underpinning Ukraine’s National Plan for the Protection and Security and Stability of Critical Infrastructure.
+* Equipped government mobile rapid response technical teams with field-deployable technical equipment and software for sensor routing, general supervisory control and data acquisition security, and networking, as well as custom incident response kits.
+* Launched a Small and Medium Business Accelerator called CyberAccelerator UA, which provided more than 100 hours of training to 10 cybersecurity companies.
+* Established a Cybersecurity Higher Education Program involving 56 universities representing 15 oblasts across the country.
+* Activated the RangeForce cybersecurity experiential learning platform to provide hands-on training to up to 10,000 top students in cybersecurity concentrations.
+* Provided professional training to critical infrastructure operators and government employees for certification in globally recognized credentials, including Certified Information Systems Security Professional, Certified Network Defender, and Certified Ethical Hacker.
