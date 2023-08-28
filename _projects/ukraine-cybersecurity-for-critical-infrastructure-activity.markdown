@@ -26,8 +26,6 @@ The Activity improves Ukraine’s cybersecurity posture in critical infrastructu
 
 The team has continued planned activities throughout the period since Russia’s full-scale invasion, while maintaining active dialogue with a wide range of Ukrainian stakeholders to identify and prioritize evolving requirements in cybersecurity capacity building, based on the war’s impact on the beneficiary operating environment. Despite the challenges of wartime conditions, Ukraine continues to make progress in building cybersecurity resilience, including expanding the breadth and depth of its international network and partnerships. USAID’s contribution to these efforts has been instrumental to their success, and the Activity plays a key role in responding to the dynamic cybersecurity requirements of Ukraine’s critical infrastructure community.
 
-![ukraine cyber-7ddcb9.jpg](/uploads/ukraine%20cyber-7ddcb9.jpg)
-
 ## Sample Activities
 
 * In collaboration with the government, review existing or draft cybersecurity legislation, policies, and strategies, and develop an approach for the legal, regulatory, and institutional frameworks to create a modern, robust legislative framework responsive to the country’s current and future needs.
