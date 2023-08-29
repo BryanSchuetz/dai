@@ -28,7 +28,7 @@ This requires a shift in Agency programming toward greater integration and colla
 
 By enhancing USAID's effectiveness, the ACE program contributes to positive, sustainable development outcomes globally with a focus on Agency programs in the environment, energy, and infrastructure sectors.
 
-![Fiji.png](/uploads/Fiji.png)
+![ACE.jpg](/uploads/ACE.jpg)
 
 ## Sample Activities
 
