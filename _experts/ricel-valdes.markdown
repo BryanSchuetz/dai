@@ -1,13 +1,13 @@
 ---
 title: Ricel Valdes
 date: 2023-08-29 15:38:00 Z
-published: false
 lastname: Valdes
 summary: Ricel Valdes is an international development professional, focused on democracy
   and governance, with more than 14 years of experience working with the U.S. Agency
   for International Development and other donors across 25 countries and more than
   30 projects.
 job-title: Senior Portfolio Director, Central America and Mexico
+image: "/uploads/Ricel%20Linkedin%20profile%20pic.jpg"
 solutions:
 - Governance
 regions:
