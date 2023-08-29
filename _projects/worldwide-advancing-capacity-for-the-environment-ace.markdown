@@ -15,6 +15,9 @@ solutions:
 - Energy
 regions: Worldwide
 country: Worldwide
+promos:
+- title: ACE Fact Sheet
+  link: "/uploads/USAID-ACE-Program-Fact-Sheet%20(1).pdf"
 ---
 
 The Advancing Capacity for the Environment (ACE) program facilitates the U.S. Agency for International Development (USAID)’s work to fight climate change, conserve biodiversity and manage natural resources, improve land governance, and expand access to secure, modern energy and resilient infrastructure. [ACE](https://www.climatelinks.org/resources/advancing-capacity-environment-ace-program-fact-sheet) strengthens capacities for technical leadership and effective programming through integrated support in four areas: communications, knowledge management, training, and organizational development.
