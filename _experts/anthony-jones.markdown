@@ -1,12 +1,12 @@
 ---
 title: Anthony Jones
 date: 2023-08-29 10:15:00 Z
-published: false
 lastname: Jones
 summary: As a Senior Principal Specialist in Local Governance, Anthony Jones leverages
   his local government experience to provide technical assistance for existing projects
   and secure new contract opportunities.
 job-title: Senior Principal Specialist, Local Governance
+image: "/uploads/Anthony%20Jones.jpg"
 solutions:
 - Governance
 - Local Governance and Decentralization
