@@ -14,13 +14,13 @@ country: Guyana
 
 Guyana’s [Centre for Local Business Development](https://centreguyana.com/)—[managed by DAI](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development) since its launch in 2017—recently hosted the [2021 Guyana Supplier Forum](https://guyanasupplierforum.com/). Sponsored by ExxonMobil Guyana and the Stabroek Block Co-Venturers Hess and CNOCC, the virtual event provided a platform for Guyanese suppliers to learn about existing and upcoming opportunities for local businesses in the country’s oil and gas sector. Attendees received up-to-date information on procurement processes, key contacts, and upcoming tenders from ExxonMobil Guyana and its Prime Contractors.
 
+![Guyana Forum 3-9fa119.jpg](/uploads/Guyana%20Forum%203-9fa119.jpg)`Participants network at a previous Guyana Supplier Forum. The 2021 event took place virtually.`
+
 <!--more-->
 
 Held from February 1-5, the Forum welcomed more than 700 local businesses. More than 400 businesses participated in a live Q&A session with ExxonMobil Guyana, Guyana Deepwater Offshore/SBM, Saipem, TechnipFMC, Guyana Shorebase Inc. (GYBSI), G-Boats, Schlumberger, Halliburton, Baker Hughes, Noble Drilling Services, Stena Drilling Ltd., and NABI-KCL. Presentations also featured Guyana’s Ministry of Natural Resources, the Centre, and the Private Sector Commission.
 
 “The Forum provided a great opportunity for Guyanese businesses to interact directly with ExxonMobil Guyana and its Prime Contractors. The Centre is pleased to have organized a successful virtual event and will continue to support local businesses in the coming year to reach their goals,” said Centre Director [Natasha Gaskin-Peters](https://www.dai.com/who-we-are/our-team/natasha-gaskin-peters).
-
-![Guyana Forum 3-9fa119.jpg](/uploads/Guyana%20Forum%203-9fa119.jpg)`Participants network at a previous Guyana Supplier Forum. The 2021 event took place virtually.`
 
 In his welcome remarks, ExxonMobil’s Guyana President Alistair Routledge affirmed the company’s long-term commitment to support socioeconomic development and uplift the quality of life in the communities in which it operates.
 
