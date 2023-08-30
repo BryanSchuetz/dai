@@ -917,10 +917,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Zimbabwe",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/zimbabwe-technical-assistance-to-the-zimbabwe-agricultural-growth-programme-zagp\">ZAGP</a> (EC)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/zimbabwe-technical-assistance-to-the-zimbabwe-agricultural-growth-programme-zagp\">ZAGP</a> (EC)<br>- <a href=\"https://www.dai.com/our-work/projects/zimbabwe-accountability-and-citizen-engagement-zimace\">ZIMACE</a> (FCDO)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -1072,10 +1072,10 @@
       "type": "Feature",
       "properties": {
         "title": "Global Projects based in the United Kingdom",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds\">EACDS</a> (FCDO) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">AAS Standing Offer</a> (DFAT) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">Agricultural Services Panel </a> (MFAT)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-centre-for-disaster-protection\">Disaster Protection</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-social-protection-approaches-to-covid-19-expert-advice-service-space\">SPACE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities\">TASC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/social-protection-technical-assistance-advice-and-resources-staar\">STARR</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-climate-ambition-support-alliance-phase-2-casa2\">CASA2</a> (BEIS)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds\">EACDS</a> (FCDO) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">AAS Standing Offer</a> (DFAT) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">Agricultural Services Panel </a> (MFAT)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-centre-for-disaster-protection\">Disaster Protection</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-social-protection-approaches-to-covid-19-expert-advice-service-space\">SPACE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities\">TASC</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/social-protection-technical-assistance-advice-and-resources-staar\">STARR</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-climate-ambition-support-alliance-phase-2-casa2\">CASA2</a> (BEIS)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health\">EACDS2</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-global-evaluation-and-monitoring-framework-agreement-gemfa-lot-4\">GEMFA</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/unicef-program-evaluations\">Program Evaluation</a> (UNICEF)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 8
+        "marker-symbol": 11
       },
       "geometry": {
         "coordinates": [
