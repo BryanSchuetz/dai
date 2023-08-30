@@ -1,6 +1,11 @@
 ---
 title: DAI to Implement Scottish Government Climate Just Communities Program in Malawi
 date: 2023-08-30 09:07:00 Z
+summary: DAI is delighted to be selected to lead the Scottish Government's Climate
+  Just Communities program in Malawi, a participatory project to support those most
+  affected by the climate crisis to identify their own priorities and build their
+  resilience.
+social-image: "/uploads/DSC_0516.JPG"
 ---
 
 Last week, the First Minister of Scotland, Humza Yousaf, took the opportunity to launch the Scottish Government’s Climate Just Communities (CJC) program during his introduction to a lecture by U.S. Special Presidential Envoy for Climate John Kerry at the Edinburgh International Festival. 
