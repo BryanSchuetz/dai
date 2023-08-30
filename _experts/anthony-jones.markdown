@@ -26,4 +26,4 @@ As a Senior Principal Specialist in Local Governance, Anthony leverages his loca
 
 * M.A., economics, University of Toledo
 * Masters, public administration, University of Toledo
-*B.S., business administration, Bowling Green State University
+* B.S., business administration, Bowling Green State University

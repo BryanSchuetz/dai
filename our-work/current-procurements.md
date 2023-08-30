@@ -10,8 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
-* [RFP_MoA Gap Analysis, Vulnerability Assessment, and ISMS Support in North Macedonia](/uploads/RFP_MoA%20Gap%20Analysis,%20Vulnerability%20Assessment,%20and%20ISMS%20Support%20in%20North%20Macedonia.pdf "9/22")
-* [TechStart-Request for EoI](/uploads/TechStart-%20Request%20for%20EoI%20Advertisement%5B42%5D.pdf "9/25")
-* [Trade Off Method RFP_Kosovo Rapid Response](/uploads/Trade%20Off%20Method%20RFP_Kosovo%20Rapid%20Response%5B7%5D.pdf "9/8")
+* [RFP_MoA Gap Analysis, Vulnerability Assessment, and ISMS Support in North Macedonia](https://dai-assets.s3.amazonaws.com/rfps/macedonia-rfp.pdf "9/22")
+* [TechStart-Request for EoI](https://dai-assets.s3.amazonaws.com/rfps/techstart-rfp.pdf "9/25")
 * [RFP 2023-10 DD Convening Technical Partner](/uploads/RFP%202023-10%20DD%20Convening%20Technical%20Partner.pdf "9/1")
 * [RFP 2023-10 Mod 1](/uploads/RFP%202023-10%20Mod%201.pdf "9/1")
