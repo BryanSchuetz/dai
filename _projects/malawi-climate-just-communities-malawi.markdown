@@ -1,6 +1,14 @@
 ---
 title: 'Malawi—Climate Just Communities: Malawi'
 date: 2023-08-30 12:27:00 Z
+start: 2023
+end: 2025
+client: The Scottish Government
+solutions:
+- Economic Growth
+- Climate
+regions: Sub-Saharan Africa
+country: Malawi
 ---
 
 Climate justice is a people-centered, human rights-based approach that aims to share the benefits of equitable global development and the burdens of climate change fairly while building trust between countries. It recognizes that the poor and vulnerable are the first to be affected by climate change, exacerbating existing inequalities, and will suffer the most, despite having done little or nothing to cause the problem. The approach builds upon three pillars—distributive justice, procedural justice, and transformative justice, and ensures that local understanding and participatory design are central to delivering highly relevant and sustainable programs.  
@@ -20,7 +28,10 @@ DAI's delivery partners are IIED, LINK Education, LINK Community Development, Wa
 
 ### Sample Activities 
 
-* Conduct a needs assessment to identify relevant government (national and local) priorities as well as an assessment of the current donor landscape to ensure interventions align with and complement existing activities and strategic priorities.  
-* Establish an advisory steering group that consists of partner country and local government representatives.  
+* Conduct a needs assessment to identify relevant government (national and local) priorities as well as an assessment of the current donor landscape to ensure interventions align with and complement existing activities and strategic priorities. 
+
+* Establish an advisory steering group that consists of partner country and local government representatives.
+  
 * Develop a program delivery plan to meet CJC objectives with tailored interventions for marginalized populations in climate-vulnerable communities.  
+
 * Collaborate with the two other lots to contribute to a wider theory of change of the Climate Justice Fund. 
