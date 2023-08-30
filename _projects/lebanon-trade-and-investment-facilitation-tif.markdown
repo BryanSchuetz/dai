@@ -53,3 +53,4 @@ TIF’s priority sectors are tourism, agriculture and agrifoods, manufacturing, 
 * Provided 25 firms with transaction advisory support.
 * Closed a $1 million investment with an Egyptian fashion investor group for Atelier Jean Louis Sabaji—a Lebanese luxury clothing brand. The investment will finance fashion shows in Egypt and the development of five standalone stores in the country over the next three years.
 *  Signed a second grant agreement with the Lebanese management consulting firm Euromena Consulting, following their support to 10 agro-food processors. The first collaboration yielded $668,000 in sales and created 14 jobs. 
+* Helped Made By Nature Beyrouthy to support 90 Lebanese agriculture businesses with product refinement and market access. These businesses created 963 on-farm jobs and sold their produce at the monthly farmers' market. TIF's grant also helped Made By Nature Beyrouthy to open a profitable retail space.
