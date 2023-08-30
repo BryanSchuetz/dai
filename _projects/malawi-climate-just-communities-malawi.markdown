@@ -9,22 +9,18 @@ DAI’s Climate Just Communities (CJC) Malawi project forms part of a flagship p
 
 Following a three-month scoping phase, DAI will design and implement interventions with our local delivery partners to: 
 
-Empower communities to identify their own priorities to be addressed through climate justice support and build resilience to the local impacts of climate change. 
-
-Empower the most marginalized people within those communities to take action in building resilience to the local impacts of climate change. 
-
-Empower communities to advocate for climate justice and local equity. 
-
-Create long-term, sustainable change within communities in line with the three pillars of climate justice. 
+* Empower communities to identify their own priorities to be addressed through climate justice support and build resilience to the local impacts of climate change. 
+* Empower the most marginalized people within those communities to take action in building resilience to the local impacts of climate change. 
+* Empower communities to advocate for climate justice and local equity. 
+* Create long-term, sustainable change within communities in line with the three pillars of climate justice. 
 
 DAI's delivery partners are IIED, LINK Education, LINK Community Development, Water Witness International, and Water Witness Malawi. 
 
-Sample Activities 
+![DSC_0516.JPG](/uploads/DSC_0516.JPG)
 
-Conduct a needs assessment to identify relevant government (national and local) priorities as well as an assessment of the current donor landscape to ensure interventions align with and complement existing activities and strategic priorities.  
+### Sample Activities 
 
-Establish an advisory steering group that consists of partner country and local government representatives.  
-
-Develop a program delivery plan to meet CJC objectives with tailored interventions for marginalized populations in climate-vulnerable communities.  
-
-Collaborate with the two other lots to contribute to a wider theory of change of the Climate Justice Fund. 
+* Conduct a needs assessment to identify relevant government (national and local) priorities as well as an assessment of the current donor landscape to ensure interventions align with and complement existing activities and strategic priorities.  
+* Establish an advisory steering group that consists of partner country and local government representatives.  
+* Develop a program delivery plan to meet CJC objectives with tailored interventions for marginalized populations in climate-vulnerable communities.  
+* Collaborate with the two other lots to contribute to a wider theory of change of the Climate Justice Fund. 
