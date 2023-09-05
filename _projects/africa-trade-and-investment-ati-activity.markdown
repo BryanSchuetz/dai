@@ -1,9 +1,9 @@
 ---
 title: Africa—Prosper Africa Trade and Investment (ATI)
 date: 2021-10-07 15:40:00 Z
-summary: The Africa Trade and Investment (ATI) Activity is a whole-of-government platform
-  to help African and U.S. businesses double two-way trade and investment, thereby
-  solidifying Africa’s place as a significant trading partner of the United States.
+summary: 'The U.S. Agency for International Development (USAID) Africa Trade and Investment
+  (ATI) program is designed to bolster the Agency’s ability to boost trade and investment
+  to, from, and within the African continent. '
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
@@ -14,34 +14,40 @@ solutions:
 regions: Sub-Saharan Africa
 country: Sub-Saharan Africa, North Africa
 promos:
+- title: Grants and Subcontracts Hub
+  link: https://www.atiprogram.com/
 - title: Administrator Samantha Power Launches $30 Million Tradeboost Program
   link: https://www.usaid.gov/news-information/press-releases/jun-29-2022-administrator-samantha-power-launches-30-million-tradeboost-program
 - title: 'USAID Delivers on Prosper Africa Goals with Africa Trade and Investment
     Program '
   link: https://www.usaid.gov/news-information/press-releases/oct-21-2021-usaid-delivers-prosper-africa-goals-africa-trade-and-investment
+- title: Prosper Africa Plans to Invest $170 Million to Boost African Exports and
+    U.S. Investment by $2 Billion
+  link: https://www.prosperafrica.gov/news/prosper-africa-plans-to-invest-170-million-to-boost-african-exports-and-u-s-investment-by-2-billion/
 ---
 
-The Prosper [Africa Trade and Investment (ATI)](https://www.atiprogram.com/) program is a five-year, flexible buy-in mechanism managed by the U.S. Agency for International Development (USAID)’s Bureau for Africa. USAID’s flagship effort under the [Prosper Africa](https://www.prosperafrica.gov/) initiative, ATI boosts trade, increases investment, and supports healthy business climates across the African continent. ATI works with USAID missions, bureaus, and independent offices to mobilize enterprise-driven solutions and achieve development outcomes across North and sub-Saharan Africa.  
+The U.S. Agency for International Development (USAID) Africa Trade and Investment (ATI) program is designed to bolster the Agency’s ability to boost trade and investment to, from, and within the African continent. As USAID’s flagship effort under the Prosper Africa initiative, the continent-wide program will expand and accelerate two-way trade and investment between African nations and the United States.  
 
-As a demand-driven mechanism, ATI is flexible and responsive. ATI brings together a tested network of partners that can work across the intersection of trade and investment, deploying proven approaches testing new finance solutions, and building partnerships for sustainability and scale.
+The program works together with the African private sector to achieve Africa’s vision for inclusive economic growth. Over the five-year program lifecycle, ATI will generate thousands of jobs across the African continent and within the United States, deliver billions in exports and investments, mobilize private sector-driven solutions, and create healthy business environments.  
 
-ATI is designed to unlock billions in exports and investments and generate thousands of jobs across African nations and the United States. We work hand-in-hand with buy-in clients to shape activities that unlock business opportunities and meet private sector needs. 
+As a demand-driven mechanism, ATI is flexible and responsive. ATI brings together a tested network of partners that can work across the intersection of trade and investment, deploying proven approaches testing new finance solutions, and building partnerships for sustainability and scale. 
+
+The platform is collectively funded by all users (Prosper Africa and participating USAID Buy-in Missions and Offices) and aims for cost-effective, rapid, and flexible deployment of the most critical shared services. The more ATI can scale, the more the costs are shared. 
   
-![Zambia 000.JPG](/uploads/Zambia%20000.JPG)
+![Coast Apparel 2.jpg](/uploads/Coast%20Apparel%202.jpg)
 
-### Sample Activities
+## Sample Activities
 
-* Source and triage deal opportunities.
-* Provide market intelligence, such as trade and investment landscapes, capital mapping, trade demand mapping, and more.
-* Facilitate and promote trade opportunities.
-* Identify policy roadblocks to unlock transactions.
-* Structure new finance solutions, such as blended finance models.
-* Organize investor and buyer missions.
-* Engage trade facilitation service providers.
-* Support individual deal opportunities, particularly those with a U.S. nexus. 
-* Design and implement other activities that drive trade and investment into and out of African markets. 
+* Map trade and investment opportunities.
+* Provide trade competitiveness support, matchmaking, and transaction support.
+* Fund instrument structuring and provide capital-raising support.
+* Provide feasibility studies, transaction advisory, and capital markets advisory.
+* Improve access to finance.
+* Provide policy analysis, regulatory impact assessments, and reform support.
 
-### Select Results
+## Select Results
 
-* Facilitated a partnership with WEConnect, a global network connecting women-owned businesses to qualified buyers around the world. 
-* Participated in a buyer-seller webinar in Nairobi, Kenya, co-hosted by the Kenya Manufacturers’ Association and USAID Kenya/East Africa. The session brought together 35 textile and apparel companies, including two buyers from The Children’s Place. 
+* Leveraged $180 million in private-sector co-investment.
+* Closed 410 trade deals, valued at $443 million. 
+* Closed 188 investment deals, valued at $250.7 million.
+* Awarded $71.3 million in grants and subcontracts.   
