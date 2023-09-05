@@ -18,9 +18,6 @@ promos:
   link: https://www.atiprogram.com/
 - title: Administrator Samantha Power Launches $30 Million Tradeboost Program
   link: https://www.usaid.gov/news-information/press-releases/jun-29-2022-administrator-samantha-power-launches-30-million-tradeboost-program
-- title: 'USAID Delivers on Prosper Africa Goals with Africa Trade and Investment
-    Program '
-  link: https://www.usaid.gov/news-information/press-releases/oct-21-2021-usaid-delivers-prosper-africa-goals-africa-trade-and-investment
 - title: Prosper Africa Plans to Invest $170 Million to Boost African Exports and
     U.S. Investment by $2 Billion
   link: https://www.prosperafrica.gov/news/prosper-africa-plans-to-invest-170-million-to-boost-african-exports-and-u-s-investment-by-2-billion/
