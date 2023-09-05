@@ -32,7 +32,9 @@ By enhancing USAID's effectiveness, the ACE program contributes to positive, sus
 
 ## Sample Activities
 
-* Support the planning, roll-out, and implementation of USAID’s Climate Strategy.
+* Support the planning, roll-out, and implementation of USAID’s new Climate Strategy globally.
+* Design and deliver the Practical, InnoVative, On the Job Training (PIVOT) change management program to advance private sector engagement in climate change action.
 * Manage and update USAID’s Climatelinks.org, Land-Links.org, Urban-Links.org, and BiodiversityLinks.org websites.
 * Design curriculum and multifaceted learning materials for different levels of learners.
 * Co-create a Knowledge Management Strategic Plan.
+* Create communications campaigns for USAID’s Save our Seas Initiative to advance policy objectives in marine protection.
