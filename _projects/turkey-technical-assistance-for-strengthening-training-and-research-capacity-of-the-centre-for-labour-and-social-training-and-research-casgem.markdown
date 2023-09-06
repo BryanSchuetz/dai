@@ -2,9 +2,9 @@
 title: Türkiye—Technical Assistance for Strengthening Training and Research Capacity
   of the Centre for Labour and Social Training and Research (ÇASGEM)
 date: 2020-08-14 11:26:00 Z
-summary: This project supports Türkiye's Training and Research Centre for Labour and
-  Social Security, medical, and rehabilitation professionals by developing new learning
-  modules on occupational health and safety.
+summary: This project supported Türkiye's Training and Research Centre for Labour
+  and Social Security, medical, and rehabilitation professionals by developing new
+  learning modules on occupational health and safety.
 start: 2020
 end: 2023
 client: European Union
@@ -18,7 +18,7 @@ Occupational health and safety (OHS) remains a key concern in Türkiye. In 2017,
 
 Improving OHS in Türkiye is imperative. In support of this effort, DAI implemented the first phase of the Technical Assistance for Strengthening Institutional Capacity of the Centre for Labour and Social Training and Research (ÇASGEM) program from 2015 to 2017. Our work with ÇASGEM and in-depth knowledge of its institutional needs now guide our experience in implementing the intervention's second phase.
  
-The current project supports ÇASGEM, medical, and rehabilitation professionals through new learning modules. The program also works with ÇASGEM to implement capacity-building activities necessary to meet the goals on requirements of safety and security in labor and social life. 
+The second phase supported ÇASGEM, medical, and rehabilitation professionals through new learning modules. The program also worked with ÇASGEM to implement capacity-building activities necessary to meet the goals on requirements of safety and security in labor and social life. Our experts conducted 85 training sessions (benefiting 1,961 participants), created 20 virtual reality scenarios and videos in four industrial sectors, and developed a series of educational books designed to instill a safety-conscious culture from an early age.
 
 ## Sample Activities
 
