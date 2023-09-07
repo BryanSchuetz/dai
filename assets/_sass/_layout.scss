@@ -347,7 +347,7 @@ ul.dropdown {
   box-shadow: -5px 5px 5px rgba($nav-black, 0.1);
   li {
     float: left;
-    clear: right;
+    // clear: right; Sems to be causing issues with the dropdowns in mobile safari and safari preview
     width: 100%;
     margin: 0;
     border-bottom: 1px solid rgba($slate, 0.05);
