@@ -1,7 +1,6 @@
 ---
 title: Karen Hussman
 date: 2023-09-07 18:56:00 Z
-published: false
 lastname: Hussman
 summary: Karen Hussmann is a public policy expert with extensive experience in governance,
   anti-corruption, and global health sector integrity.
