@@ -55,7 +55,7 @@ As a rule, no. Typically we implement programs funded by international donors, n
 
 ## Does DAI offer internships?
 
-DAI does not have a formal internship program. Periodically, targeted internship opportunities arise and when they do, we post information about them on our [careers page](/working-dai/job-opportunities). When offered, internships are paid; the individuals selected must be eligible to work in the country of the internship without company sponsorship. We encourage anyone who is interested to monitor our website and apply through the site for opportunities of interest to them.
+DAI does not have a formal internship program. Periodically, targeted internship opportunities arise and when they do, we post information about them on our [careers page](https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC). When offered, internships are paid; the individuals selected must be eligible to work in the country of the internship without company sponsorship. We encourage anyone who is interested to monitor our website and apply through the site for opportunities of interest to them.
 
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq
