@@ -1,6 +1,7 @@
 ---
 title: Muhammad Shoaib
 date: 2019-09-30 14:22:00 Z
+published: false
 lastname: Shoaib
 summary: Muhammad Shoaib has more than 15 years of experience managing and implementing
   complex programs in difficult operating environments across Pakistan.
