@@ -30,3 +30,8 @@ The Partners for Transparency (PfT) program supports locally driven solutions th
 ## Select Results
 
 * Provided technical assistance for the design of corruption risk maps in Cartagena to train public officials in corruption risk management. Four administrative units from the Mayor’s Office presented their maps to 100 stakeholders for evaluation. The risk maps make public officials aware of transparency issues, for which they can create oversight measures to mitigate misspending of public funds.
+* Supported nine civil society groups to adopt the Global Standard for CSO Accountability.
+* Assisted 15 companies to join the Anti-Corruption Business Commitment in Cartagena, Buenaventura, and Cordoba to promote integrity and transparency. 
+* Trained 172 journalists trained in investigative skills, 85 in the use of public procurement information, and 69 in access to public information.
+* Enrolled more than 700 people virtually, and 200 people graduated from in-person versions at Anti-Corruption Citizen Schools.
+* Helped establish 18 Anti-Corruption Citizen Agendas with citizen oversight priorities with the participation of more than 200 organizations.
