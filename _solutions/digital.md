@@ -68,5 +68,3 @@ We use this foundation to support client decision-making and to build customized
 **[Digital Trainings](/our-work/solutions/digital-acceleration-solutions/trainings)**—New digital tools and approaches are entering the market every day. CDA helps keep teams up to date, tailoring our digital workshops to client objectives. 
 
 **Cybersecurity**—Helping countries raise the quality of their cybersecurity ecosystems through country-led programs so that information systems are better staffed and defended and more resilient.
-
-To learn more, download our [Services Overview](/uploads/CDA%202-pager_REV1910_10012019.pdf).
