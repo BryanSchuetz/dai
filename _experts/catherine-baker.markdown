@@ -1,6 +1,7 @@
 ---
 title: Catherine Baker
 date: 2022-03-07 20:23:00 Z
+published: false
 lastname: Baker
 summary: Catherine Baker has more than 10 years of experience in recruitment, business
   development, and human resource management for programs funded by the U.S. Agency
