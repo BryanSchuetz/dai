@@ -11,6 +11,9 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions:
 - Worldwide
+articles:
+- name: 'Breaking the Cycle of Poverty: Considering Scarcity in Development Programming'
+  article_file: https://devtechsys.com/insights/2022/10/06/breaking-the-cycle-of-poverty-considering-scarcity-in-development-programming/
 ---
 
 Ever since her first economics course in high school, Audra Killian has loved learning about how the world works. This fascination has led her to international economic development, and more recently to public financial management (PFM). Audra began her career in development as a microfinance intern in Gulu, Uganda, where she supported female entrepreneurs through the disbursement of micro-loans. She later served as a Youth Development Volunteer in the Peace Corps in Morocco for two years, where she ran a *dar chebab* (youth center), advised a local women’s nongovernmental group, implemented two grants, and supported a rugmaking cooperative. During her service, she worked with the local government and saw how the proper management of public resources is key to a developing and strong community. 
