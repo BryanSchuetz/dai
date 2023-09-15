@@ -1,10 +1,11 @@
 ---
 title: "Regional—Critical Infrastructure \nDigitalization and Resilience (CIDR)"
 date: 2021-09-29 15:48:00 Z
-summary: The Critical Infrastructure Digitalization and Resilience (CIDR) activity
-  assists key stakeholders and experts to assess cybersecurity gaps and priorities,
-  making recommendations, and mapping courses of action to improve cybersecurity in
-  the Western Balkans, Black Sea Region, and South Caucasus.
+summary: 'The Critical Infrastructure Digitalization and Resilience program assists
+  partner governments and in-country organizations to work with key stakeholders and
+  experts to assess cybersecurity gaps and priorities, make recommendations, and map
+  courses of action to improve the cybersecurity of critical infrastructure and key
+  institutions. '
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
@@ -21,7 +22,7 @@ The Critical Infrastructure Digitalization and Resilience (CIDR) program is a fi
   
 CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, where countries in recent years have come under more diverse and complex cyberattacks. CIDR is currently providing assistance in Albania, Georgia, Kosovo, Moldova, North Macedonia, and Serbia. This includes assistance in workforce development, cybersecurity assessment, cybersecurity governance, and information sharing of cyberattacks, threats, and solutions.
 
-Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure are defended and resilient and can continue to provide citizens with essential services.
+Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure is defended and resilient and can continue to provide citizens with essential services.
 
 ![CIDR pic 1 .jpeg](/uploads/CIDR%20pic%201%20.jpeg)`Prime Minister of Moldova Dorin Recean, left at the front table, shakes hands with U.S. Ambassador to Moldova Kent Logsdon during a presentation at the April 2023 meeting of the CIDR-facilitated Critical Infrastructure Cybersecurity Working Group. Photo: USAID Moldova.`
 
