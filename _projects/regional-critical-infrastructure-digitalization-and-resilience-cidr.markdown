@@ -17,9 +17,9 @@ country: Eastern Europe and Eurasia
 
 Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
 
-The Critical Infrastructure Digitalization and Resilience (CIDR) program is a five-year, flexible mechanism managed by DAI and the U.S. Agency for International Development (USAID)’s Bureau for Europe and Eurasia. Under CIDR, USAID missions and others enlist the CIDR team to help host nations work with key stakeholders and experts to assess cybersecurity gaps and priorities, make recommendations, and map courses of action to improve cybersecurity.
-
-CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, where countries in recent years have come under more diverse and complex cyberattacks. CIDR is currently providing assistance in Albania, Kosovo, Moldova, North Macedonia, and Serbia. This includes assistance in workforce development, cybersecurity assessment, cybersecurity governance, and information sharing of cyberattacks, threats, and solutions.
+The Critical Infrastructure Digitalization and Resilience (CIDR) program is a five-year regional program managed by DAI for the U.S. Agency for International Development (USAID)’s Bureau for Europe and Eurasia. CIDR assists partner governments and in-country organizations to work with key stakeholders and experts to assess cybersecurity gaps and priorities, make recommendations, and map courses of action to improve the cybersecurity of critical infrastructure and key institutions. 
+  
+CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, where countries in recent years have come under more diverse and complex cyberattacks. CIDR is currently providing assistance in Albania, Georgia, Kosovo, Moldova, North Macedonia, and Serbia. This includes assistance in workforce development, cybersecurity assessment, cybersecurity governance, and information sharing of cyberattacks, threats, and solutions.
 
 Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure are defended and resilient and can continue to provide citizens with essential services.
 
