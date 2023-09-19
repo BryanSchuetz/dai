@@ -41,7 +41,7 @@ Since 2018, the project partnered with 259 agribusinesses, exported $44 million 
 * Pivoted from a value chain development activity to a humanitarian assistance program, following the fall of the Afghan government in August 2021.
 * Procured $10 million worth of agricultural inputs and foodstuffs, and engaged 55,000 rural households to address food insecurity.
 * Assisted 55,000 rural households in the form of crop production inputs and food for work assistance.
-* Produced 45,000 megatons of wheat, 30,000 megatons of vegetables, 11,000 megatons of rice, and 15,000 megatons of legumes—enough to feed 600,000 individuals for a six-month period.
+* Produced 45,000 metric tons of wheat, 30,000 metric tons of vegetables, 11,000 metric tons of rice, and 15,000 metric tons of legumes—enough to feed 600,000 individuals for a six-month period.
 * Generated 100,000 man/days of work, resulting in the rehabilitation of 1,277 kilometers of irrigation canals, 17 karezes, 147 springs, 33,389 contour trenches, and built 258 check dams.
 * As part of its COVID-19 response, the project invested $77,000 to incentivize exports through new routes and transport means, resulting in 92 shipments to Canada, the United States, Australia, Germany, Saudi Arabia, and Japan worth $4.5 million (a 58:1 return on investment). These and other pre-COVID activities resulted in $6.4 million in additional investment in agriculture and $10.6 million in incremental exports.
 * Sponsored the first [Afghanistan National Young Innovators in Agriculture Competition](https://www.usaid.gov/afghanistan/news-information/press-releases/Oct-29-2019-USAID-Supports-Young-Innovators-Tackling-Agriculture-Problems).
