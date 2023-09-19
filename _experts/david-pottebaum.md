@@ -2,24 +2,28 @@
 title: David Pottebaum
 date: 2016-01-21 22:18:00 Z
 lastname: Pottebaum
-summary: David Pottebaum has more than 27 years of technical and managerial experience
-  focusing on institutional and organizational development, public administration
-  transparency and accountability, policy reform, and rural agricultural development.
-job-title: Chief of Party, Thailand
+summary: 'Dr. David Pottebaum is a Senior Advisor and Development Economist, serving
+  as a resource for project management and implementation; democracy and governance;
+  conflict mitigation and recovery; monitoring, evaluation, and learning; research;
+  and data analysis initiatives. '
+job-title: 'Senior Advisor and Development Economist '
 image: "/uploads/David%20Pottebaum%20NEW.jpg"
 solutions:
 - Governance
 - Countering Extremism
+- Local Governance and Decentralization
 regions:
 - Asia and the Pacific
 layout: expert
 ---
 
-David Pottebaum has more than 27 years of technical and managerial experience focusing on institutional and organizational development, public administration transparency and accountability, policy reform, and rural agricultural development. For more than 16 years he has led and managed recovery and reconciliation projects and operations in complex settings in Southeast and South Asia. 
+Dr. David Pottebaum is a Senior Advisor and Development Economist, serving as a resource for project management and implementation; democracy and governance; conflict mitigation and recovery; monitoring, evaluation, and learning; research; and data analysis initiatives. 
 
-David has served as U.S. Agency for International Development (USAID) Chief of Party on five long-term projects in Southeast and South Asia over the past 14 years. He most recently served as the Chief of Party on the Enhancing Governance, Accountability and Engagement (ENGAGE) Project in the Philippines, where he led the design and implementation of governance, accountability, and local government and nongovernmental organization capacity-building initiatives. Prior to this, he served as Chief of Party on the USAID-funded Thailand Sapan Project, Bangladesh Promoting Governance, Accountability, Transparency and Integrity project, Indonesia Support for Peaceful Democratization project, and Indonesia Program Support Initiative.
+He has more than 30 years of technical and managerial experience focusing on institutional and organizational development, university and nonprofit organization capacity strengthening, public administration transparency and accountability, and local governance. He has broad experience designing strategies for large- and small-scale development projects, and in project planning, results-based management, and monitoring and evaluation. 
 
-Prior to his work with DAI, David served for five years on the United Nations Development Programme (UNDP)/Cambodia Resettlement and Reintegration Project and its successor project. Earlier, in Thailand, he worked with the UN Border Relief Operations, managing humanitarian relief and development efforts for villages affected by instability on the Thai-Cambodia border.
+David has served as Chief of Party on six long-term projects in South and Southeast Asia implemented by DAI over the past 20 years, including the design and implementation of more than 1,000 grant awards to local and international nongovernmental organizations. He recently served as the Chief of Party on the Together Activity in Thailand, where he led the design and implementation of conflict mitigation, governance, and capacity-building initiatives. Prior to this, he served as Chief of Party on the [Philippines Enhancing Governance, Accountability, and Engagement Project](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage); [Thailand Sapan Project](https://www.dai.com/our-work/projects/thailand-sapan); [Bangladesh Promoting Governance, Accountability, Transparency, and Integrity Project](https://www.dai.com/our-work/projects/bangladesh-promoting-governance-accountability-transparency-and-integrity-progati); [Indonesia Support for Peaceful Democratization Project](https://www.dai.com/our-work/projects/indonesia-support-peaceful-democratization-spd); and Indonesia Program Support Initiative.
+
+Prior to his work with DAI, he worked for five years on the UNDP/Cambodia Resettlement and Reintegration Project and its successor project. Earlier, in Thailand, he worked with the UN Border Relief Operations, managing development and humanitarian relief efforts for villages affected by instability on the Thai-Cambodia border. 
 
 * Ph.D., applied economics, Cornell University
 * M.S., agricultural economics, University of Minnesota
