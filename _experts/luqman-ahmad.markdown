@@ -10,7 +10,7 @@ regions:
 - Worldwide
 ---
 
-Luqman Ahmad is responsible for three businesses focused on achieving development impact for both public and private sector clients. Providing strategic direction and support, Luqman oversees DAI’s HMG Government Business Unit and European Union Business Unit, as well as our Sustainable Business Group, which serves private industry.
+Luqman Ahmad is responsible for two businesses focused on achieving development impact for both public and private sector clients. Providing strategic direction and support, Luqman oversees DAI’s HMG Government Business Unit and our Sustainable Business Group, which serves private industry.
 
 Luqman has more than 25 years of experience advising on economic growth and government reform and has served in managerial, leadership, and technical roles. As a consultant, he has worked with clients in more than 20 countries, designing policies, programs, and interventions that have improved lives by making economies stronger and governments more effective. In his various leadership and management roles, he has overseen programs covering a range of areas including market development, investment climate reform, labor market and skills development, inclusive economic growth, and economic governance.
 
