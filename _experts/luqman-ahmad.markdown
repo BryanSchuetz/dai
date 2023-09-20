@@ -2,8 +2,9 @@
 title: Luqman Ahmad
 date: 2022-03-14 15:14:00 Z
 lastname: Ahmad
-summary: 'Luqman Ahmad is responsible for three businesses focused on achieving development
-  impact for both public and private sector clients. '
+summary: 'Luqman Ahmad is responsible for DAI''s UK and Sustainable Business Development
+  businesses, focused on achieving development impact for both public and private
+  sector clients. '
 job-title: Senior Vice President, Commercial Consulting Businesses
 image: "/uploads/Luqman%20-%20Turkiye%20Alumni%20Event,%20May%202023%20(2).png"
 regions:
