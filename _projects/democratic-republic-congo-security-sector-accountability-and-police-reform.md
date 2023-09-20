@@ -17,7 +17,7 @@ solutions:
 regions:
 - Sub-Saharan Africa
 country:
-- Decomcratic Republic of the Congo
+- Democratic Republic of the Congo
 promos:
 - title: Nurturing a Culture of Law and Justice in the DRC
   link: https://dai-global-developments.com/articles/nurturing-a-culture-of-law-and-justice-in-the-drc

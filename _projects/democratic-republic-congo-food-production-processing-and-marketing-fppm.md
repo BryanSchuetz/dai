@@ -14,7 +14,7 @@ solutions:
 regions:
 - Sub-Saharan Africa
 country:
-- Democratic Republic of Congo
+- Democratic Republic of the Congo
 layout: project
 ---
 
