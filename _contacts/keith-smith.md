@@ -1,6 +1,7 @@
 ---
 title: Keith Smith
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: 'Senior Vice President '
 email: keith_smith@dai.com
 summary: Keith is an experienced development executive who has worked over the past
