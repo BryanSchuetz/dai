@@ -7,7 +7,7 @@ summary: 'Dr. David Pottebaum is a Senior Advisor and Development Economist, ser
   conflict mitigation and recovery; monitoring, evaluation, and learning; research;
   and data analysis initiatives. '
 job-title: 'Senior Advisor and Development Economist '
-image: "/uploads/David%20Pottebaum%20NEW.jpg"
+image: "/uploads/PottebaumD_Bio%20Photo%20A0047%209Mar23.jpg"
 solutions:
 - Governance
 - Countering Extremism
