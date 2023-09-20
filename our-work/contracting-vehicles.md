@@ -47,6 +47,10 @@ layout: node
 * [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
 * Lot C: Promoting Global Prosperity (Partner to IMC Worldwide)
 
+# U.K. Foreign, Commonwealth & Development Office (FCDO)
+
+* Lot 1: Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
+
 # U.K. Government (Crown Commercial Service)
 
 Cyber Security Services 3 (CS3) Flexible Commercial Agreement: cybersecurity-related consultancy and advice, penetration testing, incident response, and managed security services (2022-2025)
