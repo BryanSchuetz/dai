@@ -8,7 +8,7 @@ social-image: "/uploads/Screenshot%202023-09-22%20at%208.48.33%20AM.png"
 
 DAI is delighted to announce that [Keith Butcher](https://www.dai.com/who-we-are/board/keith-butcher) has joined the firm’s Board of Managers. Butcher is a co-founder of both [ButcherJoseph & Co.](https://butcherjoseph.com/) and [Mosaic Capital Partners](https://www.mosaic-cp.com/), where he provides investment and advisory services to mid-sized companies across various sectors.
 
-![2023 DAI Board.jpeg](/uploads/2023%20DAI%20Board.jpeg)`DAI Board, from left, 
+![2023 DAI Board.jpeg](/uploads/2023%20DAI%20Board.jpeg)`DAI Board, from left, Ike Osakwe, Elizabeth Littlefield, Butcher, Maria Otero, Betsey Nelson, Jim Boomgard, Daniel Heaney, Gail Steinel, and Juan Pujadas.`
 
 For more than two decades, Butcher has been a leading advocate for employee ownership and inclusive capitalism. His team’s initiatives have enabled more than 400 companies to establish broad-based employee ownership, benefitting more than a million employees by allowing them to share in the equity they help generate. Among his successes is DAI’s [award-winning](https://www.dai.com/news/dai-employee-ownership-initiative-wins-prestigious-award) global [employee ownership program](https://www.dai.com/who-we-are/employee-owners).
  
