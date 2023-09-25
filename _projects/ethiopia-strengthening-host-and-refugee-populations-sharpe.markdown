@@ -32,7 +32,7 @@ promos:
   link: "/uploads/SHARPE_Factsheet_Poultry%20%20in%20Gambella.pdf"
 - title: 'Applying the MSD Approach with Refugees & Host Communities, SHARPE Learning
     #1'
-  link: "/uploads/Applying%20the%20MSD%20Approach%20with%20Refugees%20&%20Host%20Communities,%20SHARPE%20Learning%20%231.pdf"
+  link: "/uploads/applying-msd-approach.pdf"
 - title: 'Dollo Ado Refugee Businesses Report '
   link: "/uploads/Dollo%20Ado%20Refugee%20Businesses%20Report%20.pdf"
 - title: Gambella Refugee Businesses Report
