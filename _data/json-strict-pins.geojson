@@ -883,7 +883,7 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Zambia",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta\">SUN TA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-local-impact-governance-activity-local-impact\">Local Impact</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-enhanced-capacity-and-compliance-with-international-aviation-standards\">Enhanced Capacity</a> (EU)",
+        "description": "- <a   href=\"https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta\">SUN TA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-local-impact-activity\">Local Impact</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-enhanced-capacity-and-compliance-with-international-aviation-standards\">Enhanced Capacity</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
         "marker-symbol": 3
