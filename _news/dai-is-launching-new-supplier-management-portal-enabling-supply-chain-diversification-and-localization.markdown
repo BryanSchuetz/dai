@@ -38,4 +38,4 @@ The SMP’s Reporting package enables operators, regulators, and suppliers to pl
 
 The software seamlessly tracks local content categories including procurement, workforce, capacity development, and investments, and has been built to be configurable to relevant local content legislation, regulation, and policy. It has been previously deployed and configured to requirements in a variety of local content regulatory environments, including Kazakhstan, Mexico, and Sierra Leone. The evaluative and analytical capabilities of the tool are relied upon by multinationals, suppliers, and government authorities. 
 
-If you would like to learn more about the SMP please [email us](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=SMP+-+Contact+form&to=smpinfo@dai.com) or visit [dai.com/smp.](https://supplier-management-portal-dai.com/)
+If you would like to learn more about the SMP please [email us](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=SMP+-+Contact+form&to=smpinfo@dai.com) or visit [dai.com/smp.](https://smp.dai.com/)
