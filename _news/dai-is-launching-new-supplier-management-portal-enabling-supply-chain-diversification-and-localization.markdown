@@ -8,13 +8,13 @@ solutions:
 - Sustainable Business
 regions: Worldwide
 summary: 'DAI will launch an innovative digital tool to help diversify and localize
-  corporate supply chains. The [Supplier Management Portal (SMP)](https://supplier-management-portal-dai.com/),
+  corporate supply chains. The [Supplier Management Portal (SMP)](https://smp.dai.com/),
   launching in the third quarter, is a cloud-based platform that connects large-scale
   buyers to local small, and medium-sized enterprises (SMEs). '
 social-image: "/uploads/SMP%20announcement%20link%20preview.png"
 ---
 
-DAI will launch an innovative digital tool to help diversify and localize corporate supply chains. The [Supplier Management Portal (SMP)](https://supplier-management-portal-dai.com/), launching in the third quarter, is a cloud-based platform that connects large-scale buyers to local small, and medium-sized enterprises (SMEs). 
+DAI will launch an innovative digital tool to help diversify and localize corporate supply chains. The [Supplier Management Portal (SMP)](https://smp.dai.com/), launching in the third quarter, is a cloud-based platform that connects large-scale buyers to local small, and medium-sized enterprises (SMEs). 
 
 The SMP enables multinationals to access new markets and verified local suppliers, and empowers them to measure and report their impact on the local economy. In turn, SMEs gain access to new business opportunities with large-scale buyers.  
 
