@@ -7,7 +7,7 @@ summary: Jeremy Keeton is an environmental and water resources management profes
   Asia, and South America.
 job-title: Deputy Chief of Party, Indonesia Integrated Urban Water Sanitation and
   Hygiene (IUWASH Tangguh) program
-image: https://assetify-dai.com/experts/Keeton%20inner.jpg
+image: "/uploads/Jeremy%20Keeton%20new.jpg"
 solutions:
 - Climate
 - Environment
