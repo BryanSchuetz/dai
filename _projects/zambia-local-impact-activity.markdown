@@ -35,3 +35,4 @@ Local Impact capitalizes on the momentum of recent policy initiatives and builds
 
 * Supported Zambia’s Cabinet Office to formulate a simplified, citizen-friendly version of the National Decentralization Policy (2023-2026) and its implementation plan. The simplified and illustrated versions helps citizens understand and make use of the documents as the decentralization drive takes shape.
 * Supported Zambia’s Cabinet Office—through the Decentralization Secretariat—to review, standardize, and validate data collection tools for the Constituency Development Fund (CDF). Digitizing the CDF dashboards will enable real-time monitoring of all projects in the country and inform decisions around the prudent use of government funds.
+* Supported the Local Government Association of Zambia in hosting its 67th Annual Conference, where the project organized high-level side meetings for the USAID Zambia Mission to interact with government officials.
