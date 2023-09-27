@@ -5,12 +5,13 @@ lastname: Evans
 image: "/uploads/Dan%20Evans%20headshot%20in%20Gorongosa.jpg"
 ---
 
-Daniel Evans is an environmental scientist, project manager, and international development specialist focused on climate, land, and natural resource management. I work to promote sustainability, conserve biodiversity and critical landscapes, value ecosystem services, and mitigate and adapt to climate change. I have:
+Daniel Evans is an environmental scientist, project manager, and international development specialist focused on climate, land, and natural resource management. He brings over 20 years of experience in ecological research, project management, and technical leadership, and a diverse background combining scientific research, synthesis, strategy and business development, and training.
 
-- More than twenty years of experience in ecological research, project management, and technical leadership;
+Prior to joining DAI in 2020 as the Senior Activity Manager for USAID's Integrated Natural Resource Management project, Daniel was a senior technical advisor to RTI International and climate change and biodiversity advisor for USAID.
 
-- A diverse background combining scientific research, synthesis, and communications; strategy and business development; teaching and training; and
+Daniel also spent six years as associate editor for the Ecological Society of America's peer-reviewed journal *Frontiers in Ecology and the Environment* between 2014 and 2020.
 
-- Proven ability to forge partnerships with researchers and practitioners, senior executives, and policymakers
+Daniel is both the founder and principal advisor to Integrated Conservation Partners, an environmental consulting firm that promotes sustainable international development through natural resource conservation, research, environmental restoration, and resilience to climate change.
+
 * M.A., ecology and conservation, environmental management and policy, University of Texas
 * B.A., biology, University of Colorado Boulder 
