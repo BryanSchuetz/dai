@@ -21,7 +21,5 @@ Prior to joining DAI in 2020 as the Senior Activity Manager for USAID's Integrat
 
 Daniel also spent six years as associate editor for the Ecological Society of America's peer-reviewed journal *Frontiers in Ecology and the Environment* between 2014 and 2020.
 
-Daniel is both the founder and principal advisor to Integrated Conservation Partners, an environmental consulting firm that promotes sustainable international development through natural resource conservation, research, environmental restoration, and resilience to climate change.
-
 * PhD, M.P.A., ecology and conservation, environmental management and policy, University of Washington
 * B.A., biology, University of Colorado Boulder 
