@@ -1,7 +1,6 @@
 ---
 title: Bosnia and Herzegovina—Fiscal Reform Activity
 date: 2023-09-27 13:32:00 Z
-published: false
 summary: 'The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal
   sector reform in a way that increases efficiency, reduces tax compliance costs,
   and aligns the country’s regulatory framework with changes in the European and international
@@ -16,6 +15,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: 'Bosnia and Herzegovina '
 ---
+
+Despite Bosnia and Herzegovina’s (BiH’s) advancements in fiscal sector reform, direct taxes remain burdensome due to complex legal and institutional arrangements across tax administrations. The U.S. Agency for International Development has designed the Fiscal Reform Activity to enhance tax legislation and tax administration efficiency, reducing tax compliance burdens and costs, and aligning the country’s regulatory framework with international tax standards.   
 
 The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal sector reform in a way that increases efficiency, reduces tax compliance costs, and aligns the country’s regulatory framework with changes in the European and international tax environment. 
 
