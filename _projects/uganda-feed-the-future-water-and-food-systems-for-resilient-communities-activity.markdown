@@ -1,6 +1,6 @@
 ---
 title: Uganda—Feed the Future Water and Food Systems for Resilient Communities Activity
-date: 2023-09-28 21:04:00 Z
+date: 2023-09-28 09:04:00 Z
 summary: 'The Feed the Future Water and Food Systems for Resilient Communities Activity
   addresses water and food insecurity in three water catchments encompassing the Karamoja
   region and parts of the Teso and Bugisu subregions of northeast Uganda. '
