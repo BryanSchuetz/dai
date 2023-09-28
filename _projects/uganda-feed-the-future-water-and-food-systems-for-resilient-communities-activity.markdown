@@ -28,4 +28,6 @@ With our partners, we are enhancing market systems, strengthening relevant insti
 * Design an Inclusive Partnership Facility to allocate funds for technical assistance, training, and co-investment in non-infrastructure activities with local partners. 
 * Design a Climate-Resilient Infrastructure Facility to allocate funds construction of infrastructure such as boreholes, valley tanks, piped water systems, latrines, livestock markets, agricultural storage, and irrigation.
 * Strengthen the governance and management of water points, water utilities, watersheds, and rangelands. 
-
+* Improve the quality of sanitation facilities and products in communities and at the household level and engage the private sector. 
+* Improve the quality of sanitation facilities in schools.
+* Increase adoption of good, climate-smart agricultural practices.
