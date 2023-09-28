@@ -1,7 +1,6 @@
 ---
 title: Uganda—Feed the Future Water and Food Systems for Resilient Communities Activity
 date: 2023-09-28 21:04:00 Z
-published: false
 summary: 'The Feed the Future Water and Food Systems for Resilient Communities Activity
   addresses water and food insecurity in three water catchments encompassing the Karamoja
   region and parts of the Teso and Bugisu subregions of northeast Uganda. '
@@ -16,6 +15,8 @@ regions: Sub-Saharan Africa
 country: Uganda
 ---
 
+The Kyoga Basin in northeast Uganda faces food insecurity that is on the edge of emergency. Violent cattle raids endanger lives, livestock, and livelihoods and deter private investment. Intensifying climate extremes, crop failures, rising pests, and price hikes resulting from supply shortages due to COVID-19 and the war in Ukraine are additional factors putting a strain on natural resources such as the watershed landscape, as well as human hygiene and health.
+
 The Uganda Feed the Future Water and Food Systems for Resilient Communities Activity addresses water and food insecurity in three water catchments encompassing the Karamoja region and parts of the Teso and Bugisu subregions of northeast Uganda. This area is home to nomadic pastoralists whose livelihoods are at risk due to violent cattle raiding and the effects of climate change such as drought and flooding. This part of Uganda also suffers from fragmented markets, chronic underinvestment in public services, and a lack of private-sector investment.
  
 With our partners, we are enhancing market systems, strengthening relevant institutions, expanding access to climate-resilient services, and—in two of the most vulnerable of the 20 districts covered by the activity—employ “graduation” approaches to assist the ultra-poor. All our initiatives incorporate conflict sensitivity, local leadership, climate change adaptation, and approaches inclusive of women, young people, the elderly, persons with disabilities, and indigenous groups.
@@ -23,4 +24,8 @@ With our partners, we are enhancing market systems, strengthening relevant insti
 ![Uganda FtF IAM project - climate smart agriculture Karamoja 2.jpg](/uploads/Uganda%20FtF%20IAM%20project%20-%20climate%20smart%20agriculture%20Karamoja%202.jpg)
 
 ## Sample Activities
+
+* Design an Inclusive Partnership Facility to allocate funds for technical assistance, training, and co-investment in non-infrastructure activities with local partners. 
+* Design a Climate-Resilient Infrastructure Facility to allocate funds construction of infrastructure such as boreholes, valley tanks, piped water systems, latrines, livestock markets, agricultural storage, and irrigation.
+* Strengthen the governance and management of water points, water utilities, watersheds, and rangelands. 
 
