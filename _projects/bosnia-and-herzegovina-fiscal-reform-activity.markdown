@@ -30,5 +30,5 @@ The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal sec
 * Improve the legislative framework for direct taxation.
 * Reduce the number of parafiscal fees, which are taxes or duties on a specific product or service, usually paid to a public authority other than the tax authority.
 * Recommend and support the implementation of digital solutions to improve tax authorities' performance and taxpayer services.
-* Support the adoption of BEPS to improve tax collection and adhere to international standards.
+* Support the adoption of [base erosion and profit shifting](https://www.oecd.org/tax/beps/about/) tax planning strategies to improve tax collection and adhere to international standards.
 * Support tax authorities to improve the fiscal ecosystem to diminish the high compliance costs that have a negative impact on the business environment.
