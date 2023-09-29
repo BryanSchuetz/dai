@@ -21,7 +21,7 @@ The Uganda Feed the Future Water and Food Systems for Resilient Communities Acti
  
 With our partners, we are enhancing market systems, strengthening relevant institutions, expanding access to climate-resilient services, and—in two of the most vulnerable of the 20 districts covered by the activity—employ “graduation” approaches to assist the ultra-poor. All our initiatives incorporate conflict sensitivity, local leadership, climate change adaptation, and approaches inclusive of women, young people, the elderly, persons with disabilities, and indigenous groups.
   
-![Uganda FtF IAM project - climate smart agriculture Karamoja 2.jpg](/uploads/Uganda%20FtF%20IAM%20project%20-%20climate%20smart%20agriculture%20Karamoja%202.jpg)
+![climate smart agriculture Karamoja 2.jpg](/uploads/climate%20smart%20agriculture%20Karamoja%202.jpg)
 
 ## Sample Activities
 
