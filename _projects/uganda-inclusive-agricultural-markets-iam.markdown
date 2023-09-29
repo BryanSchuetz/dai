@@ -18,6 +18,8 @@ promos:
   link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 - title: 'Improving Farmers'' Access to Quality Inputs '
   link: https://daiglobal.exposure.co/improving-farmers-access-to-quality-inputs
+- title: 'Blog: A Market Systems Approach to Climate-Smart Agriculture in Uganda'
+  link: https://dai-global-developments.com/articles/a-market-systems-approach-to-climate-smart-agriculture-in-uganda/?utm_source=daidotcom
 ---
 
 The Feed the Future Inclusive Agricultural Markets (IAM) activity works to increase incomes and improve livelihoods in Uganda by promoting agriculture-led economic growth.
