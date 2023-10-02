@@ -20,4 +20,6 @@ Dan Langfitt is an international development professional with more than 12 year
 
 In his most recent job overseas, Dan served on the leadership team of the U.S. Agency for International Development (USAID)'s Strengthening Livelihoods and Resilience Activity in the eastern DRC and supported a team of Congolese professionals learning to do development differently to help the conflict-stricken emerge from the cycle of recurring crises and humanitarian aid more competitive and inclusive, and with a socio-economic system that is more resilient in the face of future shocks and stresses. 
 
-Prior to working at DAI, he managed a community agro-forestry project in Haiti's Artibonite Valley. 
+Prior to working at DAI, he managed a community agro-forestry project in Haiti's Artibonite Valley.
+
+* B.A., international studies, Middlebury College 
