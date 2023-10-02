@@ -1,12 +1,12 @@
 ---
 title: Dan Langfitt
 date: 2023-09-13 03:28:00 Z
-published: false
 lastname: Langfitt
 summary: Dan Langfitt is an international development professional with more than
   12 years of experience at both the community and country levels, including almost
   nine years at DAI.
 job-title: 'Principal Specialist, Resilience and Stability practice '
+image: "/uploads/web%20Dan%20Langfitt.jpg"
 solutions:
 - Fragile States
 - Stabilization
