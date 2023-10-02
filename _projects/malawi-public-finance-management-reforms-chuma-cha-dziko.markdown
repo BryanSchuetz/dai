@@ -6,7 +6,7 @@ summary: DAI works with the Government of Malawi, the Ministry of Finance, Econo
   use of public resources and support the growth of the economy and development of
   Malawi.
 start: 2019
-end: 2024
+end: 2025
 client: European Union
 solutions:
 - Governance
