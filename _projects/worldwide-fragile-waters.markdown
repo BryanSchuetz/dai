@@ -22,6 +22,10 @@ The Fragile Waters mechanism provides U.S. Agency for International Development 
  
 ## Sample Activities
  
-* Assist local actors to analyze key issues and build a rigorous evidence base to facilitate implementation of high-level interventions.
-* Strengthen the capacity of local organizations, actors, and networks to develop, plan, finance, prepare for, and respond and adapt to crises. 
-* Expand the use and uptake of actionable, contextualized knowledge that USAID can apply to enhance water security in the situations where Fragile Waters operates.
+Assist local actors to analyze key issues and build a rigorous evidence base to facilitate implementation of high-level interventions;
+Strengthen the capacity of local organizations, actors, and networks to develop, plan, finance, prepare for, and respond and adapt to crises; and
+Expand the use and uptake of actionable, contextualized knowledge that USAID can apply to enhance water security in the situations where Fragile Waters operates.
+ 
+Fragile Waters will be led by Chief of Party Monica Ramos, who has 20 years of experience as a leader in the humanitarian-development-peace sector, including serving as UNICEF’s Global WASH Cluster Coordinator and on USAIDs Bureau of Humanitarian Assistance Surge Relief Group. Monica will be supported by DAI’s Heather Skilling as DCOP and by Alyssa Hill as Operations, Finance, and Grants Director.
+ 
+Our partners Mercy Corps and World Resources Institute bring to the project additional analytical prowess, implementation expertise, and experience in strengthening local capacity in fragile contexts.
