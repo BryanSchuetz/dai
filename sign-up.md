@@ -25,12 +25,12 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
         <div>
 					<p><input class="topic-checks" id="fielddjnwuu-0" name="cm-fo-djnwuu" type="checkbox" value="12358953"
 						/>
-						<label for="fielddjnwuu-4">Natural Resources Management</label></p>
+						<label for="fielddjnwuu-4">Environment, Climate and Energy</label></p>
 				</div>
 				<div>
 					<p><input class="topic-checks" id="fielddjnwuu-0" name="cm-fo-djnwuu" type="checkbox" value="12358953"
 						/>
-						<label for="fielddjnwuu-0">DAI Global Health</label></p>
+						<label for="fielddjnwuu-0">Global Health</label></p>
 				</div>
 				<div>
 					<p><input class="topic-checks" id="fielddjnwuu-1" name="cm-fo-djnwuu" type="checkbox" value="12359018"
@@ -41,6 +41,10 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 					<p><input class="topic-checks" id="fielddjnwuu-3" name="cm-fo-djnwuu" type="checkbox" value="12359020"
 						/>
 						<label for="fielddjnwuu-3">Sustainable Business Group</label></p>
+				</div>
+        <div>
+					<p><input id="27228304" name="cm-fo-djnwuu" type="checkbox" value="27228304" class="topic-checks" />
+						<label for="27228304">DAI Alumni Network</label></p>
 				</div>
         <div style="display: none !important;"><label>Latent Space </label><input aria-label="Latent Space" id="fieldddiukjyh" maxlength="200" name="cm-f-ddiukjyh"></div>
 			</p>
