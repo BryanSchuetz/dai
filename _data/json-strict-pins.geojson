@@ -160,10 +160,10 @@
       "properties": {
         
         "title": "Active Projects in Somalila",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/somalia-eu-support-to-policy-dialogue-on-investment-climate\">SPDI</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/somalia-eu-support-to-policy-dialogue-on-investment-climate\">SPDI</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/somalia-people-centered-governance-project-pcg\">PCG</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -177,10 +177,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Bosnia and Herzegovina",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-further-support-to-public-finance-management\">Public Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-education-for-employment\">Education for Employment</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-technical-assistance-in-the-energy-sector-eu4energy\">EU4Energy</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-further-support-to-public-finance-management\">Public Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-education-for-employment\">Education for Employment</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-technical-assistance-in-the-energy-sector-eu4energy\">EU4Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-fiscal-reform-activity\">Fiscal Reform</a> (USAID)",
         "marker-color": "#6699cc",
         "marker-size": "Small",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
@@ -470,10 +470,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in the Democratic Republic of the Congo",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/democratic-republic-of-the-congo-drc-strengthening-livelihoods-and-resilience-slr-activity\">SLR</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/democratic-republic-of-the-congo-drc-strengthening-livelihoods-and-resilience-slr-activity\">SLR</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/drc-integrated-governance-activity-pbg-follow-on\">GGA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -555,10 +555,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Uganda",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/uganda-inclusive-agricultural-markets-iam\">IAM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/uganda-developing-market-oriented-and-environmentally-sustainable-beef-meat-industry\"></a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/uganda-inclusive-agricultural-markets-iam\">IAM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/uganda-developing-market-oriented-and-environmentally-sustainable-beef-meat-industry\"></a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/uganda-feed-the-future-water-and-food-systems-for-resilient-communities-activity\">FTF Water & Food</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -572,10 +572,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Malawi",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/malawi-public-finance-management-reforms-chuma-cha-dziko\">PFMR</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-governance-for-solutions-gfs-activity\">GfS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-energy-program-wala-malawi\">Wala</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-support-to-the-malawian-revenue-authority-mra\">MRA</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/malawi-public-finance-management-reforms-chuma-cha-dziko\">PFMR</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-governance-for-solutions-gfs-activity\">GfS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-energy-program-wala-malawi\">Wala</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-support-to-the-malawian-revenue-authority-mra\">MRA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/malawi-climate-just-communities-malawi\">CJC</a> (ScotGov)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 5
       },
       "geometry": {
         "coordinates": [
@@ -607,10 +607,10 @@
       "properties": {
         
         "title": "Active Projects in Liberia",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/liberia-civil-society-activity-csa\">CSA</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/liberia-civil-society-activity-csa\">CSA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/liberia-good-governance-activity-gga\">LEAD</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -968,10 +968,10 @@
       "type": "Feature",
       "properties": {
         "title": "Global Projects Based in the United States",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-policy-link\">Policy LINK</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/southeast-asia-addressing-labor-exploitation-in-fishing-in-asean-alfa\">ALFA</a> (USDL)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-advancing-capacity-for-the-environment-ace\">ACE</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-policy-link\">Policy LINK</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/southeast-asia-addressing-labor-exploitation-in-fishing-in-asean-alfa\">ALFA</a> (USDL)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-advancing-capacity-for-the-environment-ace\">ACE</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-fragile-waters\">Fragile Waters</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 8
+        "marker-symbol": 9
       },
       "geometry": {
         "coordinates": [
