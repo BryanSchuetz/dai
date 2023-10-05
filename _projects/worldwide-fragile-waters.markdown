@@ -21,7 +21,7 @@ The Fragile Waters mechanism provides U.S. Agency for International Development 
 
 Fragile Waters allows local organizations, and other stakeholders to sequence, layer, and integrate water security activities; make effective programming decisions; develop robust and resilient local water, sanitation, and hygiene systems capable of adapting to stress; and address water-related drivers of fragility and vulnerability resulting from conflicts, weather events, and climate shocks.
 
-![NLWE_Sampling_Chekka-a2fd1b.JPG](/uploads/NLWE_Sampling_Chekka-a2fd1b.JPG)
+![aaaUGP Trip.jpg](/uploads/aaaUGP%20Trip.jpg)
  
 ## Sample Activities
  
