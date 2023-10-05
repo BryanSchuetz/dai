@@ -45,21 +45,21 @@ In the course of our work with international donors and the Nigerian state and f
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/2020-annual-report-thumbnail.jpg" alt="Placeholder image">
+              <img src="/uploads/nigeria-2022.png" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">2020 Annual Report</p>
+                <p class="title is-4">2022 Annual Report</p>
               </div>
             </div>
             <div class="content">
-              <p>In 2020, we expanded our capacity to develop proposals in several sectors. We increased our efforts to diversify our client base by bidding for work with AFD, the World Bank, and the African Development Bank.</p>
+              <p>2022 was a productive year supporting our clients in the fields of governance, education, health, and security, and a year of progress for the corporate team in catalyzing growth, driving integration across our development programs, and building value for the company.</p>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/nigeria-annual-report-2020.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="https://dai-assets.s3.amazonaws.com/global-offices/DAI%20in%20Nigeria%202022%20End%20of%20Year%20Report%20%28003%29.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -85,7 +85,7 @@ In the course of our work with international donors and the Nigerian state and f
           </footer>
         </div>
       </div>
-    </div>  
+    </div>    
   </div>
 </div> 
 
