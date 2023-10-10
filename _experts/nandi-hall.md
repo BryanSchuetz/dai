@@ -5,7 +5,7 @@ lastname: Hall
 summary: Nandi Hall is Director of Economic Growth, with more than 15 years of experience
   working in international development in both the private and nongovernmental sector.
 job-title: Senior Director, Economic Growth
-image: "/uploads/Nandi%20Profile_crop2.jpg"
+image: "/uploads/Hall,%20Nandi%204.jpg"
 solutions:
 - Peace-Building and Political Transition
 - Economic Growth
