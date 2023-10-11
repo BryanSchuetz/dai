@@ -6,7 +6,7 @@ summary: Zehra Zaidi is the Senior Director, Human Development for DAI’s UK an
   units and has designed and led programs focused on education, innovation, governance,
   and social entrepreneurship.
 job-title: Senior Director, Human Development
-image: "/uploads/Zehra1.jpg"
+image: "/uploads/Zehra%20-%20square.png"
 solutions:
 - Governance
 - Education
