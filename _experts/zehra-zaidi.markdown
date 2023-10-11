@@ -23,5 +23,5 @@ Most recently, Zehra was Team Leader for an [education challenge fund](https://w
 
 Zehra has advised the Government of Pakistan on governance and education policy reform and previously held senior roles with the Asia Foundation, UNHCR, and IOM. She holds a postgraduate degree from the University of Oxford and supports numerous Pakistani NGOs and education enterprises as a mentor and honorary board member.
 
-* M.Sc., Program Management, University of Oxford
+* M.Sc., Major Program Management (International Development), University of Oxford
 * B.A., Political Science (with specialization in peace and conflict studies), University of Waterloo
