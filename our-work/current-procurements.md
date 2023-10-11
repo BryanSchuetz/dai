@@ -12,4 +12,3 @@ Listed below are current solicitations. To view additional information regarding
 
 * [ RFP No. RFP-DC-23-0007_ Procurement of Loading Equipment for Grain in Ports and Transshipment Facilities](https://dai-assets.s3.amazonaws.com/rfps/Attachment%20B%20VOLUME%20II%20Price%20Schedule.pdf "11/10")
 * [Municipal Financial Management Information System through Cloud Based ERP Solution](/uploads/FMIS%20Advertisement.pdf "10/15")
-* [RFA-2023-05 Cybersecurity Training in Laos](/uploads/RFA-2023-05_Cybersecurity%20Training%20in%20Laos-95aa7e.pdf "10/7")
