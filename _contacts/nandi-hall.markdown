@@ -10,7 +10,7 @@ summary: Nandi Hall is Senior Director of Sustainable Growth, with more than 20 
   Office (FCDO) and Department for Business, Energy and Industrial Strategy (BEIS),
   the World Bank, the Swiss Agency for Development Cooperation, and British International
   Investment (BII).
-image: "/uploads/Nandi%20Profile_crop2.jpg"
+image: "/uploads/Hall,%20Nandi%204.jpg"
 group: Management
 sort-order: 4
 ---
