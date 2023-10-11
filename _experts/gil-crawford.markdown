@@ -5,7 +5,7 @@ lastname: Crawford
 summary: Prior to founding MicroVest, Gil Crawford worked in the Latin American Financial
   Markets Division at the International Finance Corporation, and prior to that he
   founded the Seed Capital Development Fund.
-job-title: Board Chair and Investment Committee Chair, MicroVest
+job-title: Board Member and Investment Committee Chair, MicroVest
 image: "/uploads/Gil-Crawford-1.png"
 solutions:
 - DAI Capital
