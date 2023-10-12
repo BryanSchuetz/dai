@@ -6,7 +6,7 @@ summary: 'Implementation of EU legislation in Ukraine environmental protection o
   and standards to be reflected in domestic law. This project addresses the relevant
   laws, specifically addressing waste management and air quality. '
 start: 2019
-end: 2023
+end: 2024
 client: European Union
 solutions:
 - Environment
