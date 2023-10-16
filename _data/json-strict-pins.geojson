@@ -90,10 +90,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Palestine",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp\">IPDSP</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-technology-for-youth-and-jobs-project-techstart\">TechStart</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity\">SMART</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp\">IPDSP</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-technology-for-youth-and-jobs-project-techstart\">TechStart</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity\">SMART</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j\">F4J</a> (World Bank)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
