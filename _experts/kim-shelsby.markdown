@@ -9,6 +9,7 @@ job-title: Principal Global Health Practice Specialist
 image: "/uploads/Kim%20Shelsby.jpg"
 solutions:
 - Global Health
+- supply chain
 regions:
 - Worldwide
 ---
