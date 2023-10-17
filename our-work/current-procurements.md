@@ -10,7 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
-* [Expression of Interest_EOI-ERA-23-0002 -X-Ray Train Inspection Scanning System](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0002%20-X-Ray%20Train%20Inspection%20Scanning%20System.docx.pdf "11/8")
+* [Expression of Interest_EOI-ERA-23-0002-X-Ray Train Inspection Scanning System](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0002%20-X-Ray%20Train%20Inspection%20Scanning%20System.docx.pdf "11/8")
 * [ACE RFP 001 Request for Proposals-CLEER Tool](/uploads/ACE%20RFP%20001%20Request%20for%20Proposals%20-%20CLEER%20Tool.pdf "11/18")
 * [RFP-INRM-034 RESTORE Ecological Data GHANA](https://dai-assets.s3.amazonaws.com/rfps/RFP%20-INRM-034%20RESTORE%20Ecological%20Data%20GHANA_Final.pdf "11/17")
 * [RFP-INRM-033 RESTORE Ecological Data CDI](https://dai-assets.s3.amazonaws.com/rfps/RFP%20-INRM-033%20RESTORE%20Ecological%20Data%20CDI_Final.pdf "11/17")
