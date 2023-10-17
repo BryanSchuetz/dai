@@ -10,6 +10,7 @@ image: "/uploads/Stephen%20Rahaim%20site.jpg"
 solutions:
 - Global Health
 - Market Solutions
+- supply chain
 regions:
 - Worldwide
 ---
