@@ -10,13 +10,13 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP-INRM-031 RESTORE Social Data CDI_ammended with Q&A](/uploads/RFP%20-INRM-031%20RESTORE%20Social%20Data%20CDI_ammended%20with%20Q&A.pdf "11/17")
+* [RFP-INRM-033 RESTORE Ecological Data CDI Ammended with Q and A](/uploads/RFP%20-INRM-033%20RESTORE%20Ecological%20Data%20CDI%20Ammended%20with%20Q%20and%20A.pdf "11/17")
+* [RFP-INRM-032 RESTORE Social Data GHANA_ammended with Q&A](/uploads/RFP%20-INRM-032%20RESTORE%20Social%20Data%20GHANA_ammended%20with%20Q%20and%20A.pdf "11/17")
+* [RFP-INRM-034 RESTORE Ecological Data GHANA_Ammended with Q&A](/uploads/RFP%20-INRM-034%20RESTORE%20Ecological%20Data%20GHANA_Ammended%20with%20Q%20and%20A.pdf "11/17")
 * [RFP-INRM-035 AGTA Venue and Event Mgmt](/uploads/RFP%20-INRM-035%20AGTA%20Venue%20and%20Event%20Mgmt.pdf "11/11")
 * [Expression of Interest_EOI-ERA-23-0002-X-Ray Train Inspection Scanning System](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0002%20-X-Ray%20Train%20Inspection%20Scanning%20System.docx.pdf "11/8")
 * [ACE RFP 001 Request for Proposals-CLEER Tool](/uploads/ACE%20RFP%20001%20Request%20for%20Proposals%20-%20CLEER%20Tool.pdf "11/18")
-* [RFP-INRM-034 RESTORE Ecological Data GHANA](https://dai-assets.s3.amazonaws.com/rfps/RFP%20-INRM-034%20RESTORE%20Ecological%20Data%20GHANA_Final.pdf "11/17")
-* [RFP-INRM-033 RESTORE Ecological Data CDI](https://dai-assets.s3.amazonaws.com/rfps/RFP%20-INRM-033%20RESTORE%20Ecological%20Data%20CDI_Final.pdf "11/17")
-* [RFP-INRM-032 RESTORE Social Data GHANA](https://dai-assets.s3.amazonaws.com/rfps/RFP%20-INRM-032%20RESTORE%20Social%20Data%20GHANA_Final.pdf "11/17")
-* [RFP-INRM-031 RESTORE Social Data CDI](https://dai-assets.s3.amazonaws.com/rfps/RFP%20-INRM-031%20RESTORE%20Social%20Data%20CDI_Final.pdf "11/17")
 * [RFP-DC-23-0007 Procurement of Mobile X-ray Vehicle Scanners](/uploads/RFP-DC-23-0007%20Procurement%20of%20Mobile%20X-ray%20Vehicle%20Scanners.pdf "11/8")
 * [RFP-DC-23-0007 Procurement of Loading Equipment for Grain](/uploads/RFP-DC-23-0007%20Procurement%20of%20Loading%20Equipment%20for%20Grain.pdf "11/10")
 * [RFP-DC-23-0007 Attachment D Instructions for Obtaining a Unique Entity ID (UEI) number](/uploads/Attachment%20D%20Instructions%20for%20Obtaining%20a%20Unique%20Entity%20ID%20(UEI)%20number%20.pdf "11/10")
