@@ -23,31 +23,23 @@ layout: node
 
 ## An Innovative and Holistic Approach to Supply Chain Management
 
-DAI’s comprehensive approach to supply chain management is premised on working with local partners to build their capacity to tackle supply chain challenges in the following areas:
+DAI’s comprehensive approach to supply chain management works with local partners to build their capacity to tackle supply chain challenges in the following areas:
 
 * Quantification, Forecasting, and Supply Planning
-
 * Procurement
-
 * Warehousing and Inventory Management
-
 * Distribution and Transportation, including Last Mile Delivery
-
 * Data Management
-
 * Workforce Development and Institutional Capacity Building
-
 * Pharmaceutical Management
-
 * Financing
-
 * Private Sector Outsourcing
 
 Having worked with public and private clients in almost 100 countries, DAI is uniquely positioned to identify innovations that work and adapt them to new contexts, geographies, and sectors. As a trusted partner to governments, private companies, and donors alike, DAI brings together networks, relationships, experience, and expertise to support the integrated, collaborative approach needed to sustainably strengthen critical supply chains.
 
 Whether using proprietary software to identify local suppliers for international trading partners in Guyana, helping businesses adapt to logistics bottlenecks in Afghanistan, or supporting a Logistics Management and Information System for medical supplies in Haiti, we develop sustainable solutions in partnership with local stakeholders. We document and apply our successes and learning to build supply chain resiliency, flexibility, and responsiveness.
 
-For information on how DAI can help address supply chain challenges, contact [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson).
+For information on how DAI can help address supply chain challenges, contact [Kim Shelsby](https://www.dai.com/who-we-are/our-team/kim-shelsby).
 
 ![Shipping Trucks](/uploads/suppliers.png)
 
