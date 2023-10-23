@@ -9,14 +9,15 @@ solutions:
 hero: true
 related: false
 featuresection: supply-chain
-summary: 'COVID-19 has surfaced vulnerabilities in global supply chains, forcing governments,
-  businesses, and consumers to adapt to delays and shortages in medical supplies,
-  food items, and other essential commodities. With trade slowdowns, factory closures,
-  and other economic disruptions, livelihoods—and lives—are threatened around the
-  globe. But this crisis also presents an opportunity to make supply chains dramatically
-  more resilient, flexible, and responsive.
-
-'
+summary: Renewed and ongoing conflicts, global pandemics, and economic uncertainty
+  have surfaced vulnerabilities in global supply chain strategies. Governments, businesses,
+  and consumers must adapt to delays and shortages in medical supplies, food, and
+  other essential commodities. Supply chains that have been stretched across the globe
+  in pursuit of cost savings have proven unreliable in the context of such disruptions.
+  However, these crises also present an opportunity to make supply chains more resilient,
+  flexible, and responsive. DAI works to increase resiliency in supply chains through
+  advancing opportunities to “green” the supply chain, diversify, and deepen the local
+  supplier base.
 layout: node
 ---
 
