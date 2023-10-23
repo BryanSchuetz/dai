@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Amendment No1 Q&A_RFP-DC-23-0007_Grain Loading Equipment](/uploads/Amendment%20No1%20Q&A_RFP-DC-23-0007_Grain%20Loading%20Equipment.pdf "10/30")
 * [RFP 2023-11 Pakistan Fintech Financing Facility](/uploads/RFP%202023-11%20Pakistan%20Fintech%20Financing%20Facility.pdf "11/17")
 * [RFP-INRM-031 RESTORE Social Data CDI_ammended with Q&A](/uploads/RFP%20-INRM-031%20RESTORE%20Social%20Data%20CDI_ammended%20with%20Q&A.pdf "11/17")
 * [RFP-INRM-033 RESTORE Ecological Data CDI Ammended with Q and A](/uploads/RFP%20-INRM-033%20RESTORE%20Ecological%20Data%20CDI%20Ammended%20with%20Q%20and%20A.pdf "11/17")
