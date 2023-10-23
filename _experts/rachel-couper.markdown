@@ -11,6 +11,7 @@ image: "/uploads/Rachel%20Couper.jpg"
 solutions:
 - Global Health
 - Health Governance
+- supply chain
 regions:
 - Worldwide
 ---
