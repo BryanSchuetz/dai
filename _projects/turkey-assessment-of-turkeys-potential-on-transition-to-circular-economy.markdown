@@ -33,7 +33,8 @@ Our project promotes the transition to the circular economy and is helping set u
 
 ## Select Results
 
-* Performed a high-level opening event with more than 180 participants  
+* Performed a high-level opening event with more than 180 participants.
 * Conducted training in Antalya in the context of EU circular economy with 60 participants and 19 speakers from key institutions on both local and international levels. 
 * Held hybrid circular economy workshops in Ankara with 198 in-person attendees and 175 visitors remotely from the relevant national and international public and private sector institutions/organizations.
 * Organized study visits to Belgium and the Netherlands to present to Türkiye’s Delegation best practices in circular economy models in the manufacturing sector; on digitalization in the supply chain; on recycling of construction waste; the use of recycled materials in new buildings; and green public procurement. 
+* Organized consultation meetings and participatory workshops with beneficiaries to draft objectives and expected outcomes for Türkiye's Circular Economy Strategy. This roadmap blends legislative reforms, inventive incentives, and sector-specific plans. By 2028, the nation plans to overhaul its environmental laws and waste management regulations to align with the EU Circular Economy Action Plan.
