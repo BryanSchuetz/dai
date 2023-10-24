@@ -6,7 +6,7 @@ summary: After several years working on democracy and governance for USAID, Jani
   Mans leads DAI’s Public Financial Management Practice by supporting business development,
   technical leadership, and the successful implementation of projects.
 job-title: Global Practice Lead, Public Financial Management
-image: "/uploads/Janine%20Mans-04a57e.png"
+image: "/uploads/Janine%20Mans%20web.jpg"
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
