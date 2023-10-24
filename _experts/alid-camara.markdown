@@ -13,7 +13,7 @@ regions:
 - Worldwide
 ---
 
-Alid Camara is a Senior Lead Specialist at DAI, leading program design and technical delivery assignments within the public financial management (PFM) practice of the Governance sector. He also supports other practices on initiatives that intersect public finance and economies—such as tax compliance, urban development finance, service delivery partnerships, climate finance, business environment and competitiveness, and blended finance.
+Alid Camara is a Senior Lead Specialist at DAI, leading program design and technical delivery assignments within the public financial management (PFM) practice of the Governance sector. He also supports other practices on initiatives that intersect public finance and economics—such as tax compliance, urban development finance, service delivery partnerships, climate finance, business environment and competitiveness, and blended finance.
 
 Alid’s recent assignments include assessing the effectiveness of public health expenditures in Zambia and Tanzania, infrastructure financing in the Philippines, and tax incentive strategies to promote foreign and domestic investment in Indonesia and the United States. Beyond international development, Alid has provided advisory services to corporations and investment mechanisms such as special purpose vehicles for due diligence, risk management, partnership development, and project structuring in emerging markets and middle- and low-income economies.
 
