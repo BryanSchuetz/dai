@@ -43,4 +43,5 @@ AVCP assists vulnerable farm communities and households severely impacted by con
 * Trained 2,074 individuals in short-term agricultural productivity or food security training.
 * Distributed 50 metric tons of wheat seed, 53.15 metric tons of soy seed, 1,204 metric tons of animal feed concentrate, 35 metric tons of fish feed, and 215 metric tons of poultry feed to vulnerable farm families and rural households. 
 * Created 191 full-time jobs created in livestock assisted firms.
-* Delivered and installed solar systems for 13 agribusinesses (totaling 625 panels), 66 solar stands, 60 batteries, and 41 inverters. The effort has invested more than $200,000 in solarization systems for Afghan agribusinesses. 
+* Delivered and installed solar systems for 13 agribusinesses (totaling 625 panels), 66 solar stands, 60 batteries, and 41 inverters. The effort has invested more than $200,000 in solarization systems for Afghan agribusinesses.
+* Project partner Mofeed Group established a fish feed production facility to increase the supply of high-quality, locally produced fish feed for Afghanistan’s growing fish farm sector. AVCP organized a business-to-farmer event for 70 stakeholders to promote the sector, explore investment opportunities, and strengthen collaborations. Mofeed signed 33 memoranda of understanding worth $119,101.
