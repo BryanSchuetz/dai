@@ -25,11 +25,13 @@ Implemented with Initiative Prospective Agricole et Rurale (IPAR), PSS works to 
  
 ![Senegal Water - Ariadne Van Zandbergen  Alamy Stock Photo2.jpg](/uploads/Senegal%20Water%20-%20Ariadne%20Van%20Zandbergen%20%20Alamy%20Stock%20Photo2.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Strengthen stakeholder engagement in key multisector policy initiatives.
 * Structure capacity-building activities with farmer organizations and private sector associations to include member services that address climate change and build resilience. 
 * Support outreach and consensus-building to restructure and operationalize Regional Chambres de Commerce, d’Industrie, et de Services.
 * Produce analytical agendas to inform policy implementation and reform.
 
+## Select Results
 
+* Held nine workshops, involving 1,079 participants and 210 organizations, that have improved the Directorate of Finance and Public-Private Partnerships’s public visibility, educating stakeholders about Senegal’s 2021 Public-Private Partnership Law.
