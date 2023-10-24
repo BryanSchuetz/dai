@@ -2,7 +2,7 @@
 title: Democratic Republic of the Congo—Feed the Future Strengthening Livelihoods
   and Resilience (SLR) Activity
 date: 2020-10-02 13:42:00 Z
-summary: The DRC Strengthening Livelihoods and Resilience Activity assists the Government
+summary: The DRC Strengthening Livelihoods and Resilience Activity assists the government
   to improve the resilience capacities in vulnerable households and communities and
   supports the Congolese people, households, and communities in their efforts to sustainably
   escape poverty and chronic vulnerability.
@@ -29,9 +29,13 @@ SLR works to improve the capacities of households, communities, institutions, an
 
 ![DRC river.jpg](/uploads/DRC%20river.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Improve land-based conflict resolution and social cohesion.
 * Increase access to financial services.
-* Diversify productive activities through increased private sector participation.
+* Diversify productive activities through increased private-sector participation.
 * Boost access to and availability of nutrient-dense foods and good nutrition and hygiene behaviors.
+
+## Select Results
+
+* Supported young people to begin producing chalk by providing a modern chalk-making machine, as well as training in chalk manufacturing and sales. The chalk, the first to be locally manufactured, boasts a competitive price and will lead to long-term supply partnerships with schools.
