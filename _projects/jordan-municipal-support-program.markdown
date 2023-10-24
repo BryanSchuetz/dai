@@ -21,9 +21,9 @@ Mayors and municipal councilors, as the face of government accountability and pu
 
 The Jordan Municipal Support Program works to improve local government service delivery, stimulate local economic development, and thereby strengthen the social contract in the Kingdom.
  
-The project will assist municipal “clusters”—in which multiple municipalities share tools and resources—to better serve their communities by delivering visibly improved services and infrastructure. Municipalities in each cluster will collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth.
+The project assists municipal “clusters”—in which multiple municipalities share tools and resources—to better serve their communities by delivering visibly improved services and infrastructure. Municipalities in each cluster collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth.
 
-The project will facilitate the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment. Successful service improvements and investments will build momentum for sustained individual and organizational transformation, sparking replication of successful tools and approaches that build community resilience and foster a culture of municipal excellence that embraces private enterprise and pursues local economic growth.
+The project facilitates the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment. Successful service improvements and investments will build momentum for sustained individual and organizational transformation, sparking replication of successful tools and approaches that build community resilience and foster a culture of municipal excellence that embraces private enterprise and pursues local economic growth.
 
 ![Jordan-248fc2.jpg](/uploads/Jordan-248fc2.jpg)
 
@@ -33,3 +33,7 @@ The project will facilitate the launch and sustainable management of private inv
 * Introduce a Municipal Performance and Investment Readiness tool to measure municipal service delivery performance and capacity to attract private investment. 
 * Support municipal clusters to establish strong plans and mechanisms for coordinated climate resilience and emergency response. 
 * Develop an action plan for implementing International Public Sector Accounting Standards and strengthening financial reporting. 
+
+## Select Results
+
+* With a regional weather firm, put in place a national early warning system to mitigate the impact of weather-related disasters, with a focus on flooding. 
