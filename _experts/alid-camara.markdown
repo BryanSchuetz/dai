@@ -5,7 +5,7 @@ lastname: Camara
 summary: 'Alid Camara is a Senior Lead Specialist at DAI, leading program design and
   technical delivery assignments within the public finance management (PFM) practice. '
 job-title: Senior Lead Specialist, Governance
-image: "/uploads/Alid-59a8d5.jpg"
+image: "/uploads/Alid-96223d.jpg"
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
