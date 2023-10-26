@@ -10,8 +10,10 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Amendment No. 1 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%201%20to%20ACE-RFP-001%20CLEER%20Tool.pdf)
+* [ACE RFP 001 Request for Proposals-CLEER Tool](/uploads/ACE%20RFP%20001%20Request%20for%20Proposals%20-%20CLEER%20Tool.pdf "11/18")
 * [Amendment No 2 Q&As_RFP-DC-23-0007_Grain Loading Equipment](/uploads/Amendment%20No%202%20Q&As_RFP-DC-23-0007_Grain%20Loading%20Equipment.pdf "10/30")
-* [Amendment No1 Q&A_RFP-DC-23-0007_Grain Loading Equipment](/uploads/Amendment%20No1%20Q&A_RFP-DC-23-0007_Grain%20Loading%20Equipment.pdf "10/30")
+* [Amendment No 1 Q&A_RFP-DC-23-0007_Grain Loading Equipment](/uploads/Amendment%20No1%20Q&A_RFP-DC-23-0007_Grain%20Loading%20Equipment.pdf "10/30")
 * [RFP 2023-11 Pakistan Fintech Financing Facility](/uploads/RFP%202023-11%20Pakistan%20Fintech%20Financing%20Facility-cfd8e0.pdf "11/17")
 * [RFP-INRM-031 RESTORE Social Data CDI_ammended with Q&A](/uploads/RFP%20-INRM-031%20RESTORE%20Social%20Data%20CDI_ammended%20with%20Q&A.pdf "11/17")
 * [RFP-INRM-033 RESTORE Ecological Data CDI Ammended with Q and A](/uploads/RFP%20-INRM-033%20RESTORE%20Ecological%20Data%20CDI%20Ammended%20with%20Q%20and%20A.pdf "11/17")
@@ -19,7 +21,6 @@ Listed below are current solicitations. To view additional information regarding
 * [RFP-INRM-034 RESTORE Ecological Data GHANA_Ammended with Q&A](/uploads/RFP%20-INRM-034%20RESTORE%20Ecological%20Data%20GHANA_Ammended%20with%20Q%20and%20A.pdf "11/17")
 * [RFP-INRM-035 AGTA Venue and Event Mgmt](/uploads/RFP%20-INRM-035%20AGTA%20Venue%20and%20Event%20Mgmt.pdf "11/11")
 * [Expression of Interest_EOI-ERA-23-0002-X-Ray Train Inspection Scanning System](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0002%20-X-Ray%20Train%20Inspection%20Scanning%20System.docx.pdf "11/8")
-* [ACE RFP 001 Request for Proposals-CLEER Tool](/uploads/ACE%20RFP%20001%20Request%20for%20Proposals%20-%20CLEER%20Tool.pdf "11/18")
 * [RFP-DC-23-0007 Procurement of Mobile X-ray Vehicle Scanners](/uploads/RFP-DC-23-0007%20Procurement%20of%20Mobile%20X-ray%20Vehicle%20Scanners.pdf "11/8")
 * [RFP-DC-23-0007 Procurement of Loading Equipment for Grain](/uploads/RFP-DC-23-0007%20Procurement%20of%20Loading%20Equipment%20for%20Grain.pdf "11/10")
 * [RFP-DC-23-0007 Attachment D Instructions for Obtaining a Unique Entity ID (UEI) number](/uploads/Attachment%20D%20Instructions%20for%20Obtaining%20a%20Unique%20Entity%20ID%20(UEI)%20number%20.pdf "11/10")
