@@ -17,7 +17,7 @@ DAI is pleased to announce the appointment of [Michael Apel](https://www.dai.com
 
 <!--more-->
 
-"I have had the privilege of knowing Michael for three decades,” said MicroVest co-founder Gil Crawford, who remains a member of the MicroVest Board and will continue to Chair the firm’s Investment Committee. “He is someone who operates with a values-driven mindset, humility, and a deep appreciation for the communities impacted by his investments. We are fortunate to have him lead MicroVest into its next phase of growth.”  
+"I have had the privilege of knowing Michael for three decades,” said MicroVest co-founder [Gil Crawford](https://www.dai.com/who-we-are/our-team/gil-crawford), who remains a member of the MicroVest Board and will continue to Chair the firm’s Investment Committee. “He is someone who operates with a values-driven mindset, humility, and a deep appreciation for the communities impacted by his investments. We are fortunate to have him lead MicroVest into its next phase of growth.”  
 
 MicroVest, which [joined DAI in 2021](https://www.dai.com/news/dai-acquires-international-asset-management-firm-microvest), is an asset manager that specializes in allocating private debt capital to microfinance and small and medium-sized enterprise (SME) financial institutions in emerging and frontier markets. Since its founding in 2003, MicroVest has disbursed $1.6 billion to more than 200 responsible financial institutions in 60 countries. MicroVest is a registered investment advisor and Certified B Corporation.
 
