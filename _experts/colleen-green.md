@@ -6,7 +6,7 @@ summary: Since joining DAI in 2000, Colleen Green has served as a microfinance s
   providing short-term support to bank downscaling and other programs to benefit micro,
   small, and medium-sized enterprises.
 job-title: Vice President, Economic Growth
-image: "/uploads/Colleen%20Green%20headshot.png"
+image: "/uploads/new%20colleen.jpg"
 solutions:
 - Finance and Investment
 - Economic Growth
