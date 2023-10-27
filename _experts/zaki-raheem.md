@@ -8,7 +8,7 @@ summary: 'Zaki Raheem is private sector development specialist, where he engages
 job-title: Technical Director, Sustainable Business Group
 image: "/uploads/Zaki%20Raheem.png"
 solutions:
-- Sustainable Business
+- Include Primary and/or Secondary Solutions
 - Economic Growth
 - Market Systems and Value Chain
 - Supply Chain
