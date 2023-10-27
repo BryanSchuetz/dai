@@ -7,7 +7,7 @@ summary: Connor provides expertise to energy companies on sustainable supply cha
 job-title: Lead Analyst
 image: "/uploads/Connor%20MacKenzie.png"
 solutions:
-- Sustainable Business
+- Include Primary and/or Secondary Solutions
 ---
 
 Connor MacKenzie is a Lead Analyst in DAI’s Sustainable Business Group where he works with clients to understand and address socio-economic and political challenges in emerging markets. 
