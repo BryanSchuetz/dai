@@ -1,9 +1,9 @@
 ---
 title: Jean Gilson
 date: 2016-01-21 22:18:00 Z
-job-title: Senior Vice President, Global Strategy; Board Executive Chair, MicroVest
-summary: Jean leads the firm’s work on strategy, market analysis, external relations,
-  and communications.
+job-title: Senior Vice President, DAI; Board Executive Chair, MicroVest
+summary: Jean leads the firm’s work on strategy formulation and execution, external
+  relations, communications, and brand.
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 sort-order: 10
 layout: leaders
@@ -19,8 +19,9 @@ In 1987, she headed off to the Fletcher School at Tufts University. Armed with a
 
 In 2000, Jean left DAI for a high-profile assignment with the U.S. Agency for International Development (USAID) as its first representative in Hanoi since the end of the Vietnam War. She opened that office in September 2000, and it is now a full-fledged USAID Mission. Jean later worked for two years as USAID’s Senior Policy Advisor to the Millennium Challenge Account Secretariat.
 
-A leading figure in the international development community, Jean returned to DAI in 2006 and since 2008 she has led the firm’s work on strategy formulation and execution, market analysis, external relations, communications, and brand.
+A leading figure in the international development community, Jean returned to DAI in 2006 and since 2008 she has led the firm’s work on strategy formulation and execution, external relations, communications, and brand.
 
+* Executive Chair, MicroVest
 * Member, Programs Advisory Council, [Trees for the Future](https://trees.org/post/advisory-council/)
 * SID-International Governing Council Liaison, Society for International Development, Washington, D.C. Chapter
 * Vice President, [Executive Committee](http://dai.com/news-publications/news/dai-jean-gilson-appointed-sid-global-leadership-post), Society for International Development
