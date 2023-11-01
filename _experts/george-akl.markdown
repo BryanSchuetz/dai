@@ -19,4 +19,4 @@ George Akl is an institutional governance and development expert with 25 years o
 
 As the Deputy Chief of Party for the [Lebanon Water, Sanitation, and Conservation (WSC) Project](https://www.dai.com/our-work/projects/lebanon-water-sanitation-and-conservation-wsc-project) and previous Chief of Party of the [Lebanon Water Project](https://www.dai.com/our-work/projects/lebanon-water-project-lwp), George supports the institutional strengthening of water utilities and the engagement of municipalities, local communities, the private sector, and citizens in water protection and management to improve water and wastewater services. He now leads a 40-person staff. George’s work on these projects focuses on developing strategic partnerships between utilities and other stakeholders to improve water security and services and designing innovative solutions for water utility management, water demand management, private sector engagement, and capital investment. 
 
-* Bachelor of Science, computer science and business administration
+* Bachelor of Science, computer science and business administration, Lebanese American University
