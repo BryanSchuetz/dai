@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Amendment No. 2 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%202%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/18")
 * [Amendment 1-RFP-DC-23-0008-Vehicle scanners](/uploads/Amendment%201-RFP-DC-23-0008%20-Vehicle%20scanners.pdf "11/21")
 * [Amendment No. 1 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%201%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/20")
 * [ACE RFP 001 Request for Proposals-CLEER Tool](/uploads/ACE%20RFP%20001%20Request%20for%20Proposals%20-%20CLEER%20Tool.pdf "11/18")
