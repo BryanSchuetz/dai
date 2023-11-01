@@ -7,7 +7,7 @@ summary: George Akl is an institutional governance and development expert with 2
   environment, and private sector engagement programs across the Middle East and North
   Africa.
 job-title: Deputy Chief of Party, Lebanon Water, Sanitation, and Conservation Project
-image: "/uploads/George%20Akl.jpg"
+image: "/uploads/George%20Akl%20site.jpg"
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
