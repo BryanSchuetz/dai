@@ -23,7 +23,7 @@ A leading figure in the international development community, Jean returned to DA
 
 * Executive Chair, MicroVest
 * Member, Programs Advisory Council, [Trees for the Future](https://trees.org/post/advisory-council/)
-* SID-International Governing Council Liaison, Society for International Development, Washington, D.C. Chapter
-* Vice President, [Executive Committee](http://dai.com/news-publications/news/dai-jean-gilson-appointed-sid-global-leadership-post), Society for International Development
+* SID-International Governing Council Liaison, Society for International Development, U.S. Chapter 
+* Member, Governing Council, Society for International Development (SID), Rome
 * M.A., international law and economics, Fletcher School of Law and Diplomacy
 * M.B.A. equivalence certificate, First National Bank of Chicago
