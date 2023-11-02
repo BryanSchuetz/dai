@@ -1,6 +1,7 @@
 ---
 title: Asma Kiran
 date: 2023-11-02 12:54:00 Z
+published: false
 lastname: Kiran
 summary: 'Asma Kiran is an experienced development professional dedicated to contributing
   to active citizenship rule of law, security, stabilization, responsible institutions,
