@@ -9,8 +9,8 @@ summary: Chuck Chopak is a Senior Lead Specialist in the Resilience and Stabilit
 job-title: 'Senior Lead Specialist, Resilience and Stability '
 image: https://assetify-dai.com/experts/innerchopak.jpg
 solutions:
-- Agriculture and Food Security
 - Fragile States
+- Agriculture and Food Security
 - Stability
 - Stabilization
 regions:
