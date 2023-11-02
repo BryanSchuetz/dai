@@ -5,6 +5,7 @@ lastname: Filipe
 summary: Silvestre Filipe is a governance and community engagement expert with over
   a decade of experience leading donor-led projects, particularly in Mozambique.
 job-title: 'Chief of Party, Mozambique Local Governance Strengthening (LOGOS) project '
+image: "/uploads/Silvestre%20Filipe.jpg"
 solutions:
 - Governance
 - Local Governance and Decentralization
