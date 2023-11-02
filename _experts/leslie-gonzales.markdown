@@ -2,18 +2,19 @@
 title: Leslie Gonzales
 date: 2019-12-09 08:36:00 Z
 lastname: Gonzales
-summary: Leslie Gonzales is an international development professional with nearly
-  20 years of experience designing, implementing, managing and evaluating gender,
-  youth, and stabilization programs in Africa, Asia, the Middle East, South America,
-  and Eastern Europe.
-job-title: Director, Project Delivery Team, Africa
+summary: Leslie Gonzales is a Lead Specialist in the Resilience and Stability practice
+  with more than 20 years of experience designing, implementing, managing, and evaluating
+  gender, youth, stabilization, and institutional capacity-strengthening programs
+  in Africa, Asia, the Middle East, South America, and Eastern Europe.
+job-title: Lead Specialist, Resilience and Stability
 image: "/uploads/Leslie%20Gonzalez.jpg"
 solutions:
 - Gender and Social Inclusion
 - Governance
 - Stability
+- Fragile States
 regions:
-- Sub-Saharan Africa
+- Worldwide
 ---
 
 Leslie Gonzales is a Lead Specialist in the Resilience and Stability practice with more than 20 years of experience designing, implementing, managing, and evaluating gender, youth, stabilization, and institutional capacity-strengthening programs in Africa, Asia, the Middle East, South America, and Eastern Europe. She provides expertise on a wide variety of gender equality and social inclusion (GESI) areas, youth engagement, and countering violent extremism, working with the R&S practice to increase capacities against shocks and stresses. She previously served as a GESI Expert Advisor and as the Project Team Director for DAI’s Africa project portfolio. As Director, Leslie held full technical, financial, and compliance responsibility for a portfolio of projects in Africa. She ensured high-quality programming and achievement of development outcomes and project goals.
