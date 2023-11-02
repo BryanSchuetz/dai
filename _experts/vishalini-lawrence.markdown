@@ -6,7 +6,7 @@ summary: Vishalini Lawrence is the Senior Director of DAI's Resilience and Stabi
   practice. Vishalini brings 15 years of experience leading peacebuilding, resilience,
   stabilization, and governance programs in Cambodia, Kenya, Malaysia, and Somalia.
 job-title: Senior Director, Resilience and Stability
-image: "/uploads/New%20Vishalini.jpg"
+image: "/uploads/Vishalini%20Lawrence.jpg"
 solutions:
 - Fragile States
 - Economic Growth
