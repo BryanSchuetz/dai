@@ -4,7 +4,7 @@ date: 2017-10-04 20:36:00 Z
 lastname: Casey
 summary: 'Kevin Casey is an advisor with experience bringing innovative methodologies
   to research in conflict, transitional, and stabilization contexts. '
-job-title: Advisor, Conflict, Stabilization, and Peacebuilding
+job-title: Lead Specialist, Applied Research
 image: "/uploads/Kevin%20Casey.jpg"
 solutions:
 - Fragile States
