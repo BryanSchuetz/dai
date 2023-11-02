@@ -7,6 +7,7 @@ summary: Ahmed Hassen has 14 years of experience in conflict resolution, economi
   the Horn, and currently serves as the Deputy Chief of Party for USAID’s Somalia
   People-Centered Governance Activity (PCG).
 job-title: Deputy Chief of Party, Somalia People-Centered Governance Activity
+image: "/uploads/Ahmed%20Hassen.jpg"
 solutions:
 - Governance
 - Stabilization
