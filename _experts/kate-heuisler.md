@@ -6,10 +6,10 @@ summary: Kate Heuisler is Chief of Party for the Mozambique SPEED project.
 job-title: Chief of Party, Mozambique SPEED
 image: "/uploads/New%20Kate.jpg"
 solutions:
-- Digital Acceleration
+- Fragile States
 - Economic Growth
+- Digital Acceleration
 - Innovation and Entrepreneurship
-- Digital Strategy
 regions:
 - Sub-Saharan Africa
 layout: expert
@@ -24,4 +24,3 @@ Prior to moving to Cambodia, she was based in Uganda from 2010 to 2014 as an ind
 Previously, she worked for DAI’s corporate office providing strategic and management advice to a wide range of post-crisis, civil society support, and community engagement projects, supporting in-country leaders to deliver programs that invested in people and had long-lasting results. Kate served as the Deputy Chief of Party and then Chief of Party for the DAI Small Grants Program in Timor-Leste from 2004 to 2008, supporting and growing civil society, improving private and government service delivery, and building capacity after the country’s independence from Indonesia.
 
 * M.Sc., cultural anthropology, University of Pennsylvania
-* Fluent in Spanish and Tetum
