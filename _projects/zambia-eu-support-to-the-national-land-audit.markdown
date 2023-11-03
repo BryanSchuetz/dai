@@ -1,6 +1,11 @@
 ---
 title: Zambia—EU Support to the National Land Audit
 date: 2023-11-03 14:22:00 Z
+summary: The Support to the National Land Audit project in Zambia supports the design
+  and implementation of the National Land Audit, working with the Ministry of Land
+  and Natural Resources and the Ministry of Local Government and Rural Development
+  to develop and test audit methodologies that will then be implemented in select
+  districts.
 start: 2023
 end: 2026
 client: European Union
