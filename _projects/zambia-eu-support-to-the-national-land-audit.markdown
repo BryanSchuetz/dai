@@ -20,7 +20,7 @@ Against a backdrop of escalating demand for land, a dual tenure system, underdev
 
 The Support to the National Land Audit project supports the design and implementation of the National Land Audit, working with the MLNR and the Ministry of Local Government and Rural Development to develop and test audit methodologies that will then be implemented in select districts. DAI’s support will be critical as the Government of Zambia considers a nationwide roll-out of the National Land Audit.
 
-![EU - Land Audit - Zambia.jpg](/uploads/EU%20-%20Land%20Audit%20-%20Zambia.jpg)
+![Kasama.jpg](/uploads/Kasama.jpg)
 
 ## Sample Activities
 
