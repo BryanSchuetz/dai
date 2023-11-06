@@ -41,6 +41,8 @@ promos:
   link: "/uploads/Refugee%20Businesses%20in%20Ethiopia%20Report.pdf"
 - title: SHARPE Review 2022
   link: "/uploads/SHARPE%20Review%202022.pdf"
+- title: Technical Brief - Economic Integration for Host and Refugee Communities
+  link: "/uploads/Technical%20Brief%20-%20Economic%20Integration%20for%20Host%20and%20Refugee%20Communities.pdf"
 Field name: 
 ---
 
