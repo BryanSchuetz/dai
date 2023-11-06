@@ -5,7 +5,7 @@ lastname: Knott
 summary: Tine oversees the development, marketing, and delivery of DAI’s development
   solutions for the U.S. Agency for International Development (USAID), the State Department,
   and other U.S. Government clients.
-job-title: Senior Vice President, U.S. Government Business Unit
+job-title: Executive Vice President for Strategy and Global Operations
 image: "/uploads/Tine-close.jpg"
 solutions:
 - Fragile States
