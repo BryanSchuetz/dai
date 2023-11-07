@@ -6,11 +6,11 @@ summary: 'Miriam Stankovich has rich research experience in leading complex proj
   in data protection and governance, intellectual property and technology law, regulatory
   impact assessment of emerging technologies (AI, Blockchain, IoT, Virtual/Augmented
   Reality, and 3D Printing), and technology transfer. '
-job-title: Senior Digital Policy Specialist, Center for Digital Acceleration
+job-title: Principal Digital Policy Specialist, Center for Digital Acceleration
 image: "/uploads/Mimi.jpg"
 solutions:
-- Digital Strategy
 - Digital Acceleration
+- Digital Strategy
 regions:
 - Worldwide
 articles:
