@@ -1,7 +1,7 @@
 ---
 title: Sarah Helmstadter
 date: 2020-05-19 11:16:00 Z
-job-title: Chief Operating Officer, U.S. Government Business
+job-title: 'Senior Vice President, U.S. Government Business '
 summary: Sarah Helmstadter oversees the business development and technical and operational
   delivery of DAI’s development solutions for the U.S. Agency for International Development
   (USAID), the State Department, and other U.S. Government clients.
