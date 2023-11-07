@@ -17,7 +17,7 @@ Employee-owned DAI is now a global development company with a record of deliveri
 
 [DAI’s mission is to make a lasting difference in the world](https://www.dai.com/who-we-are/mission-and-values) by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.
 
-[![DAI Timeline](/uploads/dai-timeline-screenshot.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Nvp3gPaPdAHkZGQqAK3McDCz__ybSQ1wLwUqYq2S8AA&font=Default&lang=en&timenav_position=top&hash_bookmark=true&initial_zoom=2#event-nigeria-rising)`View the DAI timeline`
+<!-- [![DAI Timeline](/uploads/dai-timeline-screenshot.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Nvp3gPaPdAHkZGQqAK3McDCz__ybSQ1wLwUqYq2S8AA&font=Default&lang=en&timenav_position=top&hash_bookmark=true&initial_zoom=2#event-nigeria-rising)`View the DAI timeline` -->
 
 DAI made its earliest mark through a series of analytical studies. In 1973, we won a contract to analyze 36 U.S. Agency for International Development (USAID) projects in Latin America and Africa.
 
