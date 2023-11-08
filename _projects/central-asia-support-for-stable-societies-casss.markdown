@@ -1,11 +1,9 @@
 ---
-title: Central Asia—Support for Stable Societies (CASSS); Countering Violent Extremism
-  in Central Asia Activity (CVECA)
+title: Central Asia—Support for Stable Societies (CASSS); Resilient Communities Activity
 date: 2022-08-17 20:04:00 Z
-summary: 'The Central Asia Support for Stable Societies activity identified and tested
-  new methods for the prevention of violent extremism in Central Asia. CVECA assists
-  hotspot communities to build resilient ecosystems that reduce risk and enhance protection
-  against violent extremism. '
+summary: 'The Central Asia Resilient Communities Activity assists hotspot communities
+  in building resilient ecosystems that reduce risk and enhance protection against
+  violent extremism. '
 start: 2018
 end: 2027
 client: U.S. Agency for International Development
@@ -31,9 +29,9 @@ CASSS applied a public health model to research, design, pilot, and evaluate CVE
 
 Through CASSS, the team came to understand how violent extremism dynamics are changing and what evidence-based interventions will be most effective in addressing violent extremism. 
 
-Based on that understanding, the Countering Violent Extremism in Central Asia Activity (CVECA), which began in 2022, empowers and capacitates individuals, families, and communities to navigate the violent extremist threat as it evolves across five countries in Central Asia. 
+Based on that understanding, the Resilient Communities Activity, which began in 2022, empowers and capacitates individuals, families, and communities to navigate the violent extremist threat as it evolves across five countries in Central Asia. 
  
-CVECA assists hotspot communities to build resilient ecosystems that reduce risk and enhance protection against violent extremism. This assistance includes building legacy networks of women leaders with the skills and standing to lead change, academics, and organizations with enhanced capacity to analyze shifting threats and communities with systems of inclusion that promote social cohesion inclusive of marginalized populations. 
+The Activity assists hotspot communities to build resilient ecosystems that reduce risk and enhance protection against violent extremism. This assistance includes building legacy networks of women leaders with the skills and standing to lead change, academics, and organizations with enhanced capacity to analyze shifting threats and communities with systems of inclusion that promote social cohesion inclusive of marginalized populations. 
  
 <iframe src="https://player.vimeo.com/video/755682248?h=cce4823054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
