@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Expression of Interest_EOI-ERA-23-0001](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0001.pdf "11/20")
 * [RFP 2023-12 ProICT Workshop](/uploads/RFP%202023-12%20ProICT%20Workshop.pdf "12/4")
 * [Amendment No 1_EOI-ERA-23-0002](/uploads/Amendment%20No%201_EOI-ERA-23-0002.pdf "11/10")
 * [Amendment No. 2 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%202%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/18")
