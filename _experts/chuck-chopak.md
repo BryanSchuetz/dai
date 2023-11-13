@@ -7,7 +7,7 @@ summary: Chuck Chopak is a Senior Lead Specialist in the Resilience and Stabilit
   food security and livelihood activities across Africa, Southeast Asia, and Latin
   America & the Caribbean.
 job-title: 'Senior Lead Specialist, Resilience and Stability '
-image: https://assetify-dai.com/experts/innerchopak.jpg
+image: "/uploads/new%20Chuck%20Chopak.JPG"
 solutions:
 - Fragile States
 - Agriculture and Food Security
@@ -25,4 +25,5 @@ After earning his doctorate, Chuck went on to lead some of the world’s most im
 
 * President, Association for International Agriculture and Rural Development
 * Ph.D., agricultural economics, Michigan State University
+* M.Sc., agricultural economics, Michigan State University
 * B.S., biology, sociology, Tulane University
