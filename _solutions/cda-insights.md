@@ -17,7 +17,7 @@ layout: solution
       <h3>Localizing Digital Public Goods</h3>
       <p>Digital public goods (DPGs) provide local actors with an alternative to expensive, proprietary digital solutions through a verified registry of open-source software, open data, open artificial intelligence models, open standards, and open content.</p>
     </a>
-    <a href="/uploads/ai-in-public-service.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    <a href="https://dai-assets.s3.amazonaws.com/Localizing%20Digital%20Public%20Goods.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <div>
     <a href="/uploads/ai-in-public-service.pdf">
