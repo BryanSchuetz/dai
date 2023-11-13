@@ -12,7 +12,6 @@ Listed below are current solicitations. To view additional information regarding
 
 * [Expression of Interest_EOI-ERA-23-0001](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0001.pdf "11/20")
 * [RFP 2023-12 ProICT Workshop](/uploads/RFP%202023-12%20ProICT%20Workshop.pdf "12/4")
-* [Amendment No 1_EOI-ERA-23-0002](/uploads/Amendment%20No%201_EOI-ERA-23-0002.pdf "11/10")
 * [Amendment No. 2 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%202%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/18")
 * [Amendment 1-RFP-DC-23-0008-Vehicle scanners](/uploads/Amendment%201-RFP-DC-23-0008%20-Vehicle%20scanners.pdf "11/21")
 * [Amendment No. 1 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%201%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/20")
@@ -22,10 +21,3 @@ Listed below are current solicitations. To view additional information regarding
 * [RFP-INRM-033 RESTORE Ecological Data CDI Ammended with Q and A](/uploads/RFP%20-INRM-033%20RESTORE%20Ecological%20Data%20CDI%20Ammended%20with%20Q%20and%20A.pdf "11/17")
 * [RFP-INRM-032 RESTORE Social Data GHANA_ammended with Q&A](/uploads/RFP%20-INRM-032%20RESTORE%20Social%20Data%20GHANA_ammended%20with%20Q%20and%20A.pdf "11/17")
 * [RFP-INRM-034 RESTORE Ecological Data GHANA_Ammended with Q&A](/uploads/RFP%20-INRM-034%20RESTORE%20Ecological%20Data%20GHANA_Ammended%20with%20Q%20and%20A.pdf "11/17")
-* [RFP-INRM-035 AGTA Venue and Event Mgmt](/uploads/RFP%20-INRM-035%20AGTA%20Venue%20and%20Event%20Mgmt.pdf "11/11")
-* [Expression of Interest_EOI-ERA-23-0002-X-Ray Train Inspection Scanning System](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0002%20-X-Ray%20Train%20Inspection%20Scanning%20System.docx.pdf "11/8")
-* [RFP-DC-23-0007 Procurement of Mobile X-ray Vehicle Scanners](/uploads/RFP-DC-23-0007%20Procurement%20of%20Mobile%20X-ray%20Vehicle%20Scanners.pdf "11/8")
-* [RFP-DC-23-0007 Procurement of Loading Equipment for Grain](/uploads/RFP-DC-23-0007%20Procurement%20of%20Loading%20Equipment%20for%20Grain.pdf "11/10")
-* [RFP-DC-23-0007 Attachment D Instructions for Obtaining a Unique Entity ID (UEI) number](/uploads/Attachment%20D%20Instructions%20for%20Obtaining%20a%20Unique%20Entity%20ID%20(UEI)%20number%20.pdf "11/10")
-* [RFP-DC-23-0007 Attachment A VOLUME I Technical Specifications](/uploads/Attachment%20A%20VOLUME%20I%20Technical%20Specifications%20.pdf "11/10")
-* [RFP-DC-23-0007 Attachment B VOLUME II Price Schedule_Procurement of Loading Equipment for Grain in Ports and Transshipment Facilities](https://dai-assets.s3.amazonaws.com/rfps/Attachment%20B%20VOLUME%20II%20Price%20Schedule.pdf "11/10")
