@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Albania: Cybersecurity Penetration Testing Services](/uploads/Albania_Pen%20testing%20Form%209.27%20Solicitation%20Template%20-%20Trade%20Off%20Method%20(RFP).pdf "12/9")
 * [RFP-ACEBA-022- Design Supply Delivery Customized Booth Stand](/uploads/RFP-ACEBA-022-%20Design%20Supply%20%20Delivery%20Customized%20Booth%20Stand%20.pdf "11/29")
 * [Expression of Interest_EOI-ERA-23-0001](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0001.pdf "11/20")
 * [RFP 2023-12 ProICT Workshop](/uploads/RFP%202023-12%20ProICT%20Workshop.pdf "12/4")
