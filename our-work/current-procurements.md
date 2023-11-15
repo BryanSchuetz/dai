@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Design, development and implementation of an Information System for “e-Monitoring”](https://dai-assets.s3.amazonaws.com/rfps/06%20a5e_Contract%20Notice%2010%20Nov%2023.pdf "2/24")
 * [RFP 2023-12 Modification 01](/uploads/RFP%202023-12%20Modification%2001.pdf "12/4")
 * [Albania: Cybersecurity Penetration Testing Services](/uploads/Albania_Pen%20testing%20Form%209.27%20Solicitation%20Template%20-%20Trade%20Off%20Method%20(RFP).pdf "12/9")
 * [RFP-ACEBA-022- Design Supply Delivery Customized Booth Stand](/uploads/RFP-ACEBA-022-%20Design%20Supply%20%20Delivery%20Customized%20Booth%20Stand%20.pdf "11/29")
