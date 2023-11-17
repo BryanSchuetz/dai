@@ -18,7 +18,7 @@ Listed below are current solicitations. To view additional information regarding
 * [Albania: Cybersecurity Penetration Testing Services](/uploads/Albania_Pen%20testing%20Form%209.27%20Solicitation%20Template%20-%20Trade%20Off%20Method%20(RFP).pdf "12/9")
 * [RFP-ACEBA-022- Design Supply Delivery Customized Booth Stand](/uploads/RFP-ACEBA-022-%20Design%20Supply%20%20Delivery%20Customized%20Booth%20Stand%20.pdf "11/29")
 * [Expression of Interest_EOI-ERA-23-0001](/uploads/Expression%20of%20Interest%20_EOI-ERA-23-0001.pdf "11/20")
-* [RFP 2023-12 ProICT Workshop](/uploads/RFP%202023-12%20ProICT%20Workshop.pdf "12/4")
+* [RFP 2023-12 ProICT Workshop](https://dai-assets.s3.amazonaws.com/rfps/RFP%202023-12%20ProICT%20Workshop.pdf "12/4")
 * [Amendment No. 2 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%202%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/18")
 * [Amendment 1-RFP-DC-23-0008-Vehicle scanners](/uploads/Amendment%201-RFP-DC-23-0008%20-Vehicle%20scanners.pdf "11/21")
 * [Amendment No. 1 to ACE-RFP-001 CLEER Tool](/uploads/Amendment%20No.%201%20to%20ACE-RFP-001%20CLEER%20Tool.pdf "11/20")
