@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP-DC-23-0009 Procurement of Flexible Intermediate Bulk Container (FIBC) Big](/uploads/RFP-DC-23-0009%20Procurement%20of%20Flexible%20Intermediate%20Bulk%20Container%20(FIBC)%20Big.pdf "11/30")
 * [Centre ToR - Research Consultant(s) Anticipatory Action in IGAD Region (1)](/uploads/Centre%20ToR%20-%20Research%20Consultant(s)%20Anticipatory%20Action%20in%20IGAD%20Region%20(1).pdf "11/30")
 * [RFP-INRM-037 Zambia Community Forests Program (CFP) Endline](/uploads/RFP-INRM-037%20%20Zambia%20Community%20Forests%20Program%20(CFP)%20Endline.pdf "12/7")
 * [Design, development, and implementation of an Information System for “e-Monitoring”](https://dai-assets.s3.amazonaws.com/rfps/06%20a5e_Contract%20Notice%2010%20Nov%2023.pdf "12/24")
