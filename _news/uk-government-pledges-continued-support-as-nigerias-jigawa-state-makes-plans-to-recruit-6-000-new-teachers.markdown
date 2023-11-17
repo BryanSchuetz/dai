@@ -8,6 +8,7 @@ regions: Sub-Saharan Africa
 clients: Foreign, Commonwealth & Development Office
 summary: The U.K. Government, through the British High Commission in Nigeria, pledged
   continued support to the Government of Jigawa State.
+social-image: "/uploads/PLANE%20teachers-c2cacc.JPG"
 country: Nigeria
 ---
 
@@ -27,4 +28,4 @@ In response, the Executive Governor of the State expressed appreciation for the 
 
 FCDO, through PLANE, will support Jigawa State during the recruitment, training, induction, and deployment of the new teachers. FCDO will also provide technical inputs in materials supply. So far, PLANE has trained 2,361 teachers in the state and donated thousands of literacy and mathematics textbooks to pupils, while also supporting teachers with guides.
 
-
+[PLANE teachers.JPG](/uploads/PLANE%20teachers.JPG)`The FCDO PLANE project works with state governments to delivery learning and training materials to teachers in Nigeria.`
