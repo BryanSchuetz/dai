@@ -27,8 +27,6 @@ The TAF is supporting the government of Rwanda in delivering the National Strate
 
 <iframe src="https://player.vimeo.com/video/886472087" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
-![RwaPhoto 1771.jpg](/uploads/RwaPhoto%201771.jpg)
-
 ### Sample Activities
 
 * Support an improved enabling environment for private sector-led growth through advisory support to the Ministry of Trade and Industry on feedback mechanisms and evidence-based problem-solving.
