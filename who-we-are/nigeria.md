@@ -37,6 +37,10 @@ Our corporate commitment to maintain long-term operational capability in Nigeria
 
 In the course of our work with international donors and the Nigerian state and federal ministries, DAI has built a rich body of knowledge and extensive networks in the private sector and at the federal, state, and local government levels. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and support partners, customers, and beneficiaries.
 
+<aside>
+  DAI is committed to providing the highest level of quality and environmental management, meeting the latest in global best practices as demonstrated by <a href="news/dai-expands-iso-9001-2015-certification-to-dai-operations-in-nigeria">our conformance</a> to the highly regarded ISO 9001:2015.
+</aside>
+
 <hr>
 <div class="bulma">
   <div class="container">
