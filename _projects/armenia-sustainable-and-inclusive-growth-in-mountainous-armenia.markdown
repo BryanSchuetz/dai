@@ -17,7 +17,7 @@ The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project take
 
 An MSD program takes a long-term, research-focused, strategic approach to identifying how specific rules and regulations, and supporting functions in the geopolitical context can be appropriated for enhanced economic productivity in the targeted area. Once such opportunities are identified, DAI will offer a partnership with a relevant smallholder farmer or business owner. DAI's role in the partnership is to create a full workplan for activities and supplement up to half the costs for this program of work, thereby reducing risk for the partner and providing funding that wouldn't otherwise be available. Committing the partner to produce half the funds helps to build independence and self-resilience that can continue after the partnership ends. As these partnerships are strategically identified and developed, a more resilient market economy ensues.
 
-![SIGMA beekeeping support for Beekeeping Forge in Armenia 2 crop.jpg](/uploads/SIGMA%20beekeeping%20support%20for%20Beekeeping%20Forge%20in%20Armenia%202%20crop.jpg)
+![SIGMA beekeeping support for Beekeeping Forge in Armenia 2 crop.jpg](/uploads/SIGMA%20beekeeping%20support%20for%20Beekeeping%20Forge%20in%20Armenia%202%20crop.jpg)`SIGMA is partnering with Beekeeping Forge in Armenia to support and promote beekeepers across the country. Photo courtesy: SIGMA.` 
 
 ## Select Activities
 
