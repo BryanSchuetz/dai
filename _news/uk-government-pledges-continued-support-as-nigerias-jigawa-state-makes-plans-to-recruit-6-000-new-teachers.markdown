@@ -14,7 +14,7 @@ country: Nigeria
 
 At a recent Education Reform Dialogue with critical stakeholders, the U.K. Government, through the British High Commission in Nigeria, pledged continued support to the Government of Jigawa State. The event, convened by the Ministry of Basic Education and the Ministry of Higher Education, Science, and Technology in Jigawa State, highlighted the new administration’s 12-point agenda, which aims to reposition the state as a centre of excellence.
 
-[IMG_1363.JPG](/uploads/IMG_1363.JPG)
+![IMG_1363.JPG](/uploads/IMG_1363.JPG)
 
 Jigawa State is working to address a crisis in student learning and other basic education challenges, including a dearth of teachers and high prevalence of out-of-school children. To do so, the state has set aside more than 2.6 billion naira to recruit, train, and induct 6,000 new teachers. This reform is in line with key recommendations from Jigawa State’s new teacher recruitment and deployment policy, which the Foreign and Commonwealth Development Office (FCDO) supported through its DAI-implemented [Partnership for Learning for All in Nigeria (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane) and [Partnership for Reform and Learning (PERL-ARC)](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) programmes.
 
@@ -24,7 +24,7 @@ During a visit with the Governor and his State Cabinet on the day of the event, 
 
 Attfield was accompanied on the visit by Dr. Joe Abah, DAI Country Director in Nigeria; Dr. Nguyan Feese, National Team Leader of the PLANE programme, and Mustapha Ahmed, PLANE’s Jigawa State Team Lead, among others.
 
-[IMG_1158.JPG](/uploads/IMG_1158.JPG)
+![IMG_1158.JPG](/uploads/IMG_1158.JPG)
 
 In response, the Executive Governor of the State expressed appreciation for the FCDO’s interventions in the state, which have spanned more than two decades. 
 
