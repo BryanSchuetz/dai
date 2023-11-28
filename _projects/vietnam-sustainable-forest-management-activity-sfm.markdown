@@ -46,3 +46,5 @@ In seven provinces, SFM is strengthening community forest management models to a
 * Developed 29 policies—5 national, 17 subnational, and 7 at the community level.
 * Mobilized more than $10 million in investment from the government and the private sector.
 * Handed over 1 million Acacia mangium seedlings to 400 households from 9 communes and 192 kilograms of seeds for 13 nurseries in 4 districts. Hoa Binh province will be able to seed 5,500 hectares of plantation forests with this high-quality planting material.
+
+<iframe src="https://player.vimeo.com/video/889039813" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
