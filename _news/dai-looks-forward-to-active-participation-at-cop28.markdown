@@ -8,12 +8,12 @@ summary: Numerous DAI-led projects and technical experts are participating in th
   [28th Conference of the Parties (COP)](https://www.cop28.com/) in Dubai, which runs
   from November 30 through December 12. COP is the decision-making body of the United
   Nations Framework Convention on Climate Change (UNFCCC).
-social-image: "/uploads/Square.jpg"
+social-image: "/uploads/Square-19609e.jpg"
 ---
 
 Numerous DAI-led projects and technical experts are participating in the [28th Conference of the Parties (COP)](https://www.cop28.com/) in Dubai, which runs from November 30 through December 12. COP is the decision-making body of the United Nations Framework Convention on Climate Change (UNFCCC).
 
-![Website Banner.jpg](/uploads/Website%20Banner.jpg)
+![Website Banner-715d5f.jpg](/uploads/Website%20Banner-715d5f.jpg)
 
 <!--more-->
 
