@@ -32,6 +32,8 @@ To assist the Government of Kosovo in strengthening systems and limit opportunit
 
 Building off that project, the Municipal Integrity Activity works with central government oversight agencies, municipalities, civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, and private sector engagement.
 
+![USAID Kosovo Municipal Integrity 1 (6).jpg](/uploads/USAID%20Kosovo%20Municipal%20Integrity%201%20(6).jpg)
+
 ## Sample Activities
 
 * Enhance public financial management, with a focus on municipal procurement.
