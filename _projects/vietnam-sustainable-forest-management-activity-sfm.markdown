@@ -16,6 +16,10 @@ country: Vietnam
 promos:
 - title: USAID Helps Vietnam's Climate Change Fight with Two New Projects
   link: https://e.vnexpress.net/news/news/usaid-helps-vietnam-s-climate-change-fight-with-two-new-projects-4269347.html
+- title: USAID Sustainable Forest Management Project - English
+  link: "/uploads/USAID%20Sustainable%20Forest%20Management%20Project%20-%20English.pdf"
+- title: USAID Sustainable Forest Management Project - Vietnamese
+  link: "/uploads/USAID%20Sustainable%20Forest%20Management%20Project%20-%20Vietnamese.pdf"
 ---
 
 Limitations on land ownership, access to markets, and high-quality seed varietals constrain people’s ability to either manage their forests effectively or derive additional benefits from that management. This results in lower levels of carbon sequestration, limits community livelihood opportunities, and contributes to degradation and encroachment on the forests themselves. By addressing the intertwined issues of economic opportunity and forest governance, the U.S. Agency for International Development’s Sustainable Forest Management (SFM) Activity supports Vietnam’s efforts to manage vital forest areas while helping its people share in the country’s rapid growth in an equitable, sustainable way.  
