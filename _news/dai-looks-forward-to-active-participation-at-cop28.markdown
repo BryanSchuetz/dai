@@ -1,9 +1,18 @@
 ---
 title: DAI Looks Forward to Active Participation at COP28
 date: 2023-11-30 11:37:00 Z
+solutions:
+- Climate
+summary: Numerous DAI-led projects and technical experts are participating in the
+  [28th Conference of the Parties (COP)](https://www.cop28.com/) in Dubai, which runs
+  from November 30 through December 12. COP is the decision-making body of the United
+  Nations Framework Convention on Climate Change (UNFCCC).
+social-image: "/uploads/cop28-fd7369.jpg"
 ---
 
 Numerous DAI-led projects and technical experts are participating in the [28th Conference of the Parties (COP)](https://www.cop28.com/) in Dubai, which runs from November 30 through December 12. COP is the decision-making body of the United Nations Framework Convention on Climate Change (UNFCCC).
+
+![cop28.jpg](/uploads/cop28.jpg)
 
 > “We are delighted to have strong representation at COP28 by our experts and projects, who reflect DAI’s leadership in equitable climate finance, clean energy, and transparent climate governance at local and national levels,” said [Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen), DAI Vice President, Environment.
 
