@@ -41,3 +41,11 @@ Building off that project, the Municipal Integrity Activity works with central g
 * Increase the government’s use of good practices in budget planning, public procurement, and contract management.
 * Support the government in advancing norms and practices that support internal audit and accountability.
 * Work with civil society, media, and the private sector to improve the integrity of public and private sector actors in public procurement.
+
+## Select Results
+
+* Trained 20 investigative journalists to publish 20 articles, 20 infographics, and 20 videos exposing procurement irregularities and highlighting best practices. This initiative reinforces transparency and accountability, promoting a more accountable and ethically sound business environment.
+* Developed a curriculum focusing on integrity, whistleblowing, and anti-corruption, and trained more than 50 businesses across Kosovo, including women-owned businesses, fostering ethical practices and transparency in local business.
+* Supported the National Audit Office in identifying 51 fraud cases from 123 audit reports, enhancing legal preparation.
+* Introduced an e-Learning online platform to empower public officials by offering comprehensive capacity-building courses, leading to enhanced citizen service delivery.
+* Supported institutions that achieved significant improvements in transparency by publishing 94 percent of procurement and financial documents on their websites in 2023, compared to 61 percent in 2022. 
