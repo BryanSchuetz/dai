@@ -1,13 +1,12 @@
 ---
 title: Luke Kozumbo
 date: 2016-01-21 22:18:00 Z
-order: 12
 lastname: Kozumbo
 summary: 'Luke Kozumbo specializes in economic analysis and issues of trade and economic
   competitiveness.
 
 '
-job-title: Senior Economist
+job-title: Lead Economist
 image: "/uploads/Kozumbo_headshot_small%5B61%5D%20copy.jpg"
 solutions:
 - Sustainable Business
@@ -17,6 +16,7 @@ solutions:
 regions:
 - Sub-Saharan Africa
 - 
+order: 12
 layout: expert
 ---
 
