@@ -42,9 +42,21 @@ The following projects and personnel will be present:
 
 * The [Climate Ambition Support Alliance](https://www.linkedin.com/company/climate-ambition-support-alliance/) (CASA), funded by the U.K. Department for Business, Energy and Industrial Strategy, will be present to provide support for the Alliance of Small Island States and the Least Developed Countries. The Alliance represents the countries most vulnerable to climate change, and CASA’s role is to support these nations in influencing the outcomes of international climate negotiations. 
 
+* The DAI team from the [USAID Economic Governance Activity](https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega) (Egypt) is supporting the following events:
+
+<aside>
+  <ul>
+    <li>On <strong>December 2</strong>, The Path Towards Institutionalizing Climate Change Governance side event at the Egyptian pavilion, Blue Zone, 15.00. Dr. Khaled Zakaria Amin,
+Lead Advisor for the project, will moderate a discussion on the efforts of the Government of Egypt towards climate change governance and how governance can improve the adoption of climate change
+solutions.</li>
+    <li>Also on <strong>December 2</strong>, Climate Change and Sustainable Development in the Arab Countries side event at the Egyptian pavilion, Blue Zone, 12.00. Project Chief of Party Hermann Thiel, will join panelists to discuss green transition governance and policy coordination, financing the green transition, alternative instruments to meet new challenges, decarbonization, and green structural transformation of Arab economies. </li>
+    <li>On <strong>December 4</strong>, The Role of Women in Advancing Climate Action side event at the Egyptian pavilion, Blue Zone, 15.00. Dr. Khaled Zakaria Amin will join panelists in presenting various
+recommendations that highlight the significant role of women through the promotion of enhanced opportunities in education, skills development, decent employment, inclusive environmental governance, and social protection.</li>
+  </ul>
+</aside>
+
 [Manuel Bueno Vera](https://www.dai.com/who-we-are/our-team/manuel-bueno), Senior Lead for Climate Finance at DAI, will host and present at [Sustainable Banking Alliance: Lessons Learned in Engaging Financial Institutions for Climate Finance](https://www.cop-28.org/climate-action-innovation-zone/sustainable-banking-alliance-lessons-learned-engaging-financial-institutions-climate-finance?&filters.event-2=Climate%20Action%20Stage&searchgroup=libraryentry-climate-action-innovation-zone). The panel is held in the Climate Action stage of the Innovation Zone on December 7. Panelists include Jacqueline Musiitwa, Senior Climate Finance Advisor for USAID.
 
 [Shola Diop](https://www.linkedin.com/in/shola-diop-86988a144/?originalSubdomain=au), Manager at [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital), is contributing to the Local Communities and Indigenous Peoples’ Platform.
 
-Hermann Theil, DAI’s Chief of Party for the USAID-funded [Economic Governance Activity](https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega) (Egypt), and his Deputy Chief of Party, Omar Abdalla, will be participating in side events in the Egyptian Pavilion.
 
