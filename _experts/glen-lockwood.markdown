@@ -1,6 +1,7 @@
 ---
 title: Glen Lockwood
 date: 2020-06-02 08:20:00 Z
+published: false
 lastname: Lockwood
 summary: 'Glen Lockwood is a seasoned project manager who studied at Princeton University
   in the United States and the Ecole Polytechnique in France before working in various
