@@ -5,7 +5,7 @@ job-title: 'Senior Vice President, U.S. Government Business '
 summary: Sarah Helmstadter oversees the business development and technical and operational
   delivery of DAI’s development solutions for the U.S. Agency for International Development
   (USAID), the State Department, and other U.S. Government clients.
-image: "/uploads/Sarah-thumbnail.jpg"
+image: "/uploads/sarah-new-leadership.png"
 sort-order: 3
 ---
 
@@ -13,7 +13,7 @@ Sarah Helmstadter oversees the business development and technical and operationa
 
 Sarah began her career in international development working on small-scale privatization in Kazakhstan, Moldova, and Ukraine. She joined DAI in 2007 and has held leadership positions in business development, program implementation, recruitment, and human resources. 
 
-![sarah leadership-42d801.jpg](/uploads/sarah%20leadership-42d801.jpg)
+![Sarah Helmstadter](/uploads/sarah-new-leadership.png)
  
 Sarah served as Regional Vice President for USG programs in Africa from 2014 to 2018. Later, as Senior Vice President of Global Workforce, Sarah was responsible for leading all aspects of talent acquisition, retention, development, and management; overseeing global human resources; and ensuring the quality and efficiency of companywide security.
 
