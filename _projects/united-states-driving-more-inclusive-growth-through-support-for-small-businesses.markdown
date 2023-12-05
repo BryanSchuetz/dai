@@ -5,6 +5,7 @@ summary: The Mastercard Center for Inclusive Growth commissioned DAI to help sha
   manage, and grow one of their signature initiatives focused on small businesses
   in the United States
 start: 2022
+end: 2026
 client: 'The Mastercard Center for Inclusive Growth '
 solutions:
 - Sustainable Business
