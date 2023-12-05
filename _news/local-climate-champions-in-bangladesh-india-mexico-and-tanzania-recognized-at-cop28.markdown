@@ -2,12 +2,14 @@
 title: Local Climate Champions in Bangladesh, India, Mexico, and Tanzania Recognized
   at COP28
 date: 2023-12-05 15:37:00 Z
-published: false
 solutions:
 - Sustainable Business
 - 
 regions: Worldwide
 projects: Worldwide—GCA Local Adaptation Champions Awards
+summary: DAI supported the delivery of the Awards in 2022 and 2023 by developing the
+  award categories, reviewing and shortlisting applications, providing publicity and
+  communications, and organizing the COP 28 award ceremony.
 social-image: "/uploads/local-government-division,-bangladesh-3.jpg"
 ---
 
