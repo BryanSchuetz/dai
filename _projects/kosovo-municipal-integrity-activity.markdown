@@ -49,3 +49,4 @@ Building off that project, the Municipal Integrity Activity works with central g
 * Supported the National Audit Office in identifying 51 fraud cases from 123 audit reports, enhancing legal preparation.
 * Introduced an e-Learning online platform to empower public officials by offering comprehensive capacity-building courses, leading to enhanced citizen service delivery.
 * Supported institutions that achieved significant improvements in transparency by publishing 94 percent of procurement and financial documents on their websites in 2023, compared to 61 percent in 2022. 
+* Supported the National Audit Office and the State Prosecutor in Kosovo in forging a formal collaboration to combat fraud and corruption in public procurement. This partnership is pivotal in combating corruption as it bridges the gap between auditing and prosecution, enabling a more robust and integrated approach.
