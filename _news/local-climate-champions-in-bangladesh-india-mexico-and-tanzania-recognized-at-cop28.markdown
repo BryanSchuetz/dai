@@ -3,6 +3,12 @@ title: Local Climate Champions in Bangladesh, India, Mexico, and Tanzania Recogn
   at COP28
 date: 2023-12-05 15:37:00 Z
 published: false
+solutions:
+- Sustainable Business
+- 
+regions: Worldwide
+projects: Worldwide—GCA Local Adaptation Champions Awards
+social-image: "/uploads/local-government-division,-bangladesh-3.jpg"
 ---
 
 The four winners of the 2023 [Local Adaptation Champions Awards](https://adaptationportal.gca.org/llahub/llachampions), organized by the Global Center on Adaptation (GCA), were announced at an awards ceremony at the COP28 climate summit in Dubai. The Awards reward exemplary, locally led efforts to address the impacts of climate change and build resilience.
