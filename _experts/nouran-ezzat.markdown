@@ -7,7 +7,7 @@ summary: 'Nouran Ezzat is a key member of DAI’s Sustainable Business Group (SB
   team. She is responsible for leading the development and execution of SBG’s long-term
   growth strategy that will further expand SBG’s service offerings and global footprint. '
 job-title: 'Vice President, Head of Growth, Sustainable Business Group '
-image: "/uploads/Nouran%20E%20Photo.jpg"
+image: "/uploads/Nouran%20Ezzat.png"
 solutions:
 - Sustainable Business
 regions:
