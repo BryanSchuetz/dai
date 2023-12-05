@@ -5,6 +5,7 @@ published: false
 summary: The Mastercard Center for Inclusive Growth commissioned DAI to help shape,
   manage, and grow one of their signature initiatives focused on small businesses
   in the United States
+start: 2022
 client: 'The Mastercard Center for Inclusive Growth '
 solutions:
 - Sustainable Business
