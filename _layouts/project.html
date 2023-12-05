@@ -11,8 +11,8 @@ layout: default
   <p class="project-detail"><strong>Region:</strong>
     {% for locale in page.regions limit:1 %}
       {% for region in site.regions %}
-        {% if locale == region.title %}
-          <a href="{% if locale == 'Worldwide' %}/our-work/the-regions{% else %}{{region.url}}{% endif %}">{{ region.title }}</a>
+        {% if locale == region.title or locale == 'North America' %}
+          <a href="{% if locale == 'Worldwide' or locale == 'North America' %}/our-work/the-regions{% else %}{{region.url}}{% endif %}">{{ region.title }}</a>
         {% endif %}
       {% endfor %}
       {% comment %}{% if locale == "Worldwide" %}
