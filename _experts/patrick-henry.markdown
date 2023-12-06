@@ -5,7 +5,7 @@ lastname: Henry
 summary: Patrick Henry is the Vice President of DAI’s Sustainable Business Group,
   which supports corporations in developing inclusive supply chains and impactful
   social investment. He leads DAI’s work with multinational corporate clients.
-job-title: Vice President, Sustainable Business Group
+job-title: Vice President, Head of DAI's Sustainable Business Group
 image: "/uploads/new%20Patrick%20Henry.png"
 solutions:
 - Sustainable Business
