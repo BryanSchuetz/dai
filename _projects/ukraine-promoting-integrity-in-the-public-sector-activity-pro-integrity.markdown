@@ -1,7 +1,6 @@
 ---
 title: Ukraine—Promoting Integrity in the Public Sector Activity (Pro-Integrity)
 date: 2023-12-07 01:08:00 Z
-published: false
 summary: The Promoting Integrity in the Public Sector Activity (Pro-Integrity) program
   addresses the root causes of corruption and tackles corruption risks at the national
   institutional level, at the local government level, and in issues related to Ukraine’s
