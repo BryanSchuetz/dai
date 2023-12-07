@@ -4,7 +4,7 @@ date: 2023-03-02 16:37:00 Z
 summary: The Municipal Integrity Activity works with Kosovo's central government oversight
   agencies, municipalities, civil society, media, and private sector actors to advance
   reform in public procurement, with a renewed emphasis on budget planning, contract
-  management, audit, integrity, and private sector engagement.
+  management, audit, integrity, anti-corruption, and private sector engagement.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
