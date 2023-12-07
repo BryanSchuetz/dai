@@ -35,6 +35,9 @@ promos:
 - title: 'Mobilizing Institutional Investment for Impact at Scale: USAID INVEST Resource
     Guide'
   link: https://express.adobe.com/page/EX4epAOuBFo3o/
+- title: Sustainable Banking Alliance - Lessons Learned for Climate Finance in Colombia
+    and Egypt
+  link: "/uploads/Sustainable%20Banking%20Alliance%20-%20Lessons%20Learned%20for%20Climate%20Finance%20in%20Colombia%20and%20Egypt.pdf"
 ---
 
 INVEST is a flexible, efficient buy-in mechanism that helps the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an [opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
@@ -59,6 +62,6 @@ INVEST has supported transactions in enterprise development, infrastructure, and
 ## Select Results
 
 * Mobilized more than $1.03 billion in capital and supported 164 transactions, including 125 closed deals as of June 2023.
-* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 579 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
+* Grew the USAID Finance and Investment Network from 26 members in 2017 to more than 579 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
 * Implemented activities with 36 USAID missions, bureaus, and independent offices in more than 80 countries across a range of sectors, including finance, clean energy, and agriculture.
-* Issued 231 subcontracts to develop and implement technical activities as of June 2023. Nearly 70 percent of members are identified as new or non-traditional partners for USAID. Thirty percent are considered local entities and 34 percent are locally established entities, bolstering USAID’s commitment to locally led development.
+* Issued 231 subcontracts to develop and implement technical activities as of June 2023. Nearly 70 percent of members are identified as new or non-traditional partners for USAID. Thirty percent are considered local entities and 34 percent are locally established entities, bolstering USAID’s commitment to locally-led development.
