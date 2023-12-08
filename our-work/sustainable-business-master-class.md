@@ -20,7 +20,7 @@ and public sector, helping them balance the commercial realities of volatile glo
 demand and sustained cost pressures with the current political momentum for increased
 local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.
 <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
-<h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Join one of our three-day Masterclass courses in 2023</h3>
+<h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Join one of our three-day Masterclass courses in 2024</h3>
 <div class="columns ">
 <div class="column is-one-fifth">
 <p style="margin-bottom:0; font-weight: bold;">Dates:</p>
@@ -28,27 +28,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="column">
 <ul style="margin-left: 2rem;">
 <li></li>
-<li>November 28- 30, Houston, USA</li>
-</ul>
-</div>
-</div>
-<div class="columns">
-<div class="column is-one-fifth ">
-<p style="margin-bottom:0; font-weight: bold;">Time:</p>
-</div>
-<div class="column">
-<ul style="margin-left: 2rem;">
-<li>09h00 - 17h00</li>
-</ul>
-</div>
-</div>
-<div class="columns">
-<div class="column is-one-fifth">
-<p style="margin-bottom:0; font-weight: bold;">Price:</p>
-</div>
-<div class="column">
-<ul style="margin-left: 2rem;">
-<li>4,500 USD per person</li>
+<li>Will be announced in January 2024</li>
 </ul>
 </div>
 </div>
@@ -74,7 +54,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 </div>
 </div>
 </div>
-<div class="container"><button onclick="window.location.href='https://form.collect.dai.com/x/RqEoih8Z';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2023</button></div>
+<div class="container"><button onclick="window.location.href='mailto:training@dai.com';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Express Your Interest in Masterclass 2024</button></div>
 </div>
 
 ## Participants are trained to:

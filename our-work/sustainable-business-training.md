@@ -32,10 +32,6 @@ To find out more please email [training@dai.com](mailto:training@dai.com).
 
 DAI's industry-leading Local Content Masterclass enables regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. The three course covers the full landscape of local content and comprises **lectures**, hands-on **group exercises**, **computer modeling**, and **video case studies**.\* The class examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
 
-Courses in 2023:
-
-* October 16 - 18, 2023 in Houston, USA
-
 [Read more about the Masterclass](http://www.dai.com/masterclass)
 
 <hr>
