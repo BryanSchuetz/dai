@@ -12,6 +12,7 @@ client: European Union
 solutions:
 - Governance
 - Education
+regions: Eastern Europe and Central Asia
 country: Boznia and Herzegovina
 ---
 
@@ -25,7 +26,7 @@ Lastly, the project leverages donor coordination to maximize impact and build up
 
 ![BiH VET.jpg](/uploads/BiH%20VET.jpg)
 
-### Select activities 
+### Sample Activities 
 
 * Supporting greater mobility between training programs and professions through the improvement of Recognition of Prior Learning (RPL) systems.
 * Developing and piloting models for the recognition of non-formal education and learning.
