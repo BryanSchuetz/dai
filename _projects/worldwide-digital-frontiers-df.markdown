@@ -5,7 +5,7 @@ summary: Digital Frontiers supports the U.S. Agency for International Developmen
   Center for Digital Development in identifying the most successful digital solutions
   and scaling their impact globally.
 start: 2017
-end: 2023
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Digital Acceleration
@@ -15,43 +15,29 @@ solutions:
 regions: Worldwide
 country: Global
 promos:
-- title: 'Digital Frontiers: At the Frontlines of Digital Development'
-  link: "/uploads/DF_AtTheFrontlines_Factsheet_final.pdf"
-- title: Guide to Digital Considerations under COVID-19 Conditions
-  link: https://www.usaid.gov/sites/default/files/documents/COVID-19_and_Digital_Development.pdf.pdf
+- title: Project Resource Library
+  link: https://www.digitalfrontiersdai.com/
 - title: 'Digital Frontiers One-Pager '
-  link: "/uploads/Digital%20Frontiers_One%20Pager_8.13.19.pdf"
-- title: 'REPORT: E-Commerce Marketplaces'
-  link: "/uploads/E-Commerce_FRMT-dae762.pdf"
-- title: 'REPORT: Farmer Management Solutions'
-  link: "/uploads/FarmerManagement_FRMT-53bd30.pdf"
-- title: 'REPORT: Expanding Mobile Phone Access and Ownership '
-  link: "/uploads/MobilePhone_FRMT-f14de6.pdf"
-- title: 'REPORT:  Digital Solutions Used by Agriculture Market System Actors in Response
-    to COVID-19 '
-  link: "/uploads/Rapid%20Analysis_External%20FRMT2.pdf"
+  link: "/uploads/DF_AtTheFrontlines_Factsheet_1page_12.11.23pdf.pdf"
 ---
 
-Across the developing world, digital technologies are accelerating change at every level of society—from mobile solutions that serve rural women’s savings groups in Tanzania to data-driven decision-making tools for natural resource planning in Honduras. The challenge is that, to date, these solutions have not matched the pace and scale of the problems they address.
+Across the developing world, digital technologies are accelerating change at every level of society. The challenge is that, to date, these solutions have not matched the pace and scale of the problems they address.
 
-[Digital Frontiers](https://www.digitalfrontiersdai.com/) is a $74.4 million buy-in mechanism available to bureaus and missions of the U.S. Agency for International Development (USAID). We work closely with USAID’s Global Development Lab (GDL), the Center for Digital Development (CDD), USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.
+Digital Frontiers is a buy-in mechanism available to Bureaus and Missions of the U.S. Agency for International Development (USAID). The project works closely with several Bureaus, particularly the USAID Inclusive Growth, Partnerships, and Innovation (IPI) Bureau’s Innovation, Technology, and Research Hub (ITR); More than 57 USAID Missions; the private sector; and international and local development organizations around the world.
 
-Digital Frontiers helps USAID have greater impact across its development portfolio by advancing digital tools and approaches in the areas of digital finance, digital inclusion, ICT for development, geospatial, and digital knowledge and insights. 
+Digital Frontiers works to advance the goals of USAID's Digital Strategy and helps USAID have greater impact across its development portfolio by advancing digital tools and approaches in the areas of digital finance, digital inclusion, cybersecurity, digital literacy, ICT policy, emerging technology, and digital agriculture.
 
-![CABI photo 2.JPG](/uploads/CABI%20photo%202.JPG)`Photo credit: CABI for the Fall Armyworm Tech Prize.`
+![New Df.jpg](/uploads/New%20Df.jpg)`WomenConnect Challenge grantee the Humanitarian OpenStreetMap Team. Photo: Ramundo Media for DAI.`
 
-### Sample Activities
+## Sample Activities
 
 * Assess a USAID Mission or Bureau’s current programs and make recommendations for how they can better leverage digital tools or approaches to improve development impact.
-* Design and implement digital programs, including anything from providing strategic support on a Country Development Cooperation Strategy to implementing a smallholder farmer targeted mobile money project. 
+* Design and implement digital programs, including anything from a global call for solutions designed as a prize/challenge to implementing a large-scale digital agriculture program. 
 * Promote best practices in the digital development field and help build the capacity of USAID staff to leverage digital approaches for development.
 
-### Select Results
+## Select Results
 
-* Implemented several activities for the [Digital Connectivity and Cybersecurity Partnership (DCCP)](https://www.usaid.gov/digital-development/digital-connectivity-cybersecurity-partnership) by working with USAID partner countries to support the development of communications infrastructure; promote transparent regulatory policies for open, competitive markets; and build partners’ cybersecurity capacity to address shared threats through engagement with the private sector, government, and civil society.
-* Launched three rounds of the [W-GDP WomenConnect Challenge](https://www.womenconnectchallenge.org/), which was established to identify and accelerate comprehensive solutions that empower women and girls to access and use digital technology to drive positive health, education, and livelihoods outcomes for themselves and their families.
-* Conducted digital agriculture assessments in Burkina Faso and Niger and developed recommendations for how USAID can take advantage of digital tools and services to increase the reach and impact of their food security and resilience activities.
-* Implemented the Feed the Future [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/), supporting the development of digital tools to combat the spread of the fall armyworm agricultural pest in sub-Saharan Africa. Digital Frontiers received 283 applications of which 88 percent were from African applicants and awarded $450,000 to six winners working with smallholder farmers in Ghana, Kenya, Malawi, Nigeria, Tanzania, and Uganda.
-* Assisted in the development of USAID’s “[How To: Create Digital ID for Inclusive Development](https://www.usaid.gov/digital-development/digital-id/how-to-guide)” guide.
-* Provided strategic support to USAID in Cambodia in creating a real-time data for adaptive management platform to improve the use of data to make evidence-based, timely, and inclusive programmatic decisions.
-* Won a [2022 USAID Digi Award](https://www.usaid.gov/digital-development/digis) for educating and training businesses and individuals, especially young people, on digital safety and cybersecurity best practices in Southeast Asia and Mongolia.
+* Reached more than 10 million women through the [WomenConnect Challenge](https://www.womenconnectchallenge.org/), a global call for solutions to improve women’s participation in everyday life by meaningfully changing the ways women access and use technology.
+* Collaborated closely with USAID to design and pilot the [Digital Ecosystem Country Assessments](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) (DECAs), a flagship initiative of USAID’s Digital Strategy to identify development opportunities and risks in a country’s digital ecosystem. Building on the initial DECAs, Digital Frontiers and USAID developed the [Digital Ecosystem Framework](https://www.usaid.gov/digital-development/digital-ecosystem-framework), a practical structure that identifies the core and cross-cutting elements of a country's digital ecosystem and guides USAID's digital development work. 
+* Reached more than 12 million people through cybersecurity awareness campaigns. These campaigns were implemented under the [Digital Connectivity and Cybersecurity Partnership](https://www.usaid.gov/digital-development/digital-connectivity-cybersecurity-partnership), through which Digital Frontiers has more than 60 discrete activities. 
+* Won a [2022 USAID Digi Award](https://www.usaid.gov/digital-development/digis/2022) for educating and training businesses and individuals, especially young people, on digital safety and cybersecurity best practices in Southeast Asia and Mongolia.
