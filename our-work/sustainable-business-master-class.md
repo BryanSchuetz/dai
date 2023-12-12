@@ -38,7 +38,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="column is-one-third">
 <div class="card">
 <div class="card-image">
-<figure class="image is-4by5">
+<figure class="image is-5by4">
 <img src="/uploads/masterclass-2024.png" alt="report cover">
 </figure>
 </div>
