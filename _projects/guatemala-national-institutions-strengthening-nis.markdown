@@ -1,7 +1,6 @@
 ---
 title: Guatemala—National Institutions Strengthening
 date: 2022-04-11 11:41:00 Z
-published: false
 summary: The Guatemala National Institutions Strengthening Project supported the Government's
   reform efforts, focused on creating a more effective and transparent public financial
   management system, which will, in turn, improve governance, reduce opportunities
