@@ -13,6 +13,9 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Middle East and North Africa
 country: Jordan
+promos:
+- title: Tackling Systemic Corruption Through Public Financial Management
+  link: https://dai-global-developments.com/articles/tackling-systemic-corruption-through-public-financial-management/
 ---
 
 Jordan’s economy has experienced a series of shocks—from waves of refugees to regional instability to COVID-19. While the Government of Jordan has introduced new tax legislation and sought to improve tax administration, upgrade the budgeting process, and streamline public expenditures management, there is still much work to be done to ensure macro-fiscal resilience while maintaining the fiscal space to deliver social goods to citizens. To support the government with this fiscal imperative, the U.S. Agency for International Development designed the Public Financial Management and Administration (PFMA) activity. PFMA works to improve the Jordanian revenue system and enhance the budget management process. 

@@ -15,6 +15,8 @@ solutions:
 regions:
 - Latin America and the Caribbean
 articles:
+- name: Tackling Systemic Corruption Through Public Financial Management
+  article_file: https://dai-global-developments.com/articles/tackling-systemic-corruption-through-public-financial-management/
 - name: Mobilizing Tax Revenue and Prioritizing Health Spending in El Salvador – A
     Case Study
   article_file: https://www.hfgproject.org/tax-reform-resource-mobilization/
