@@ -22,6 +22,8 @@ promos:
   link: https://www.usaid.gov/kosovo/news/may-10-2023-empowering-young-investigative-journalists-expose-corruption-kosovos-public-procurement
 - title: Local Knowledge Exchange Helps Bolster Municipal Accountability
   link: https://www.usaid.gov/kosovo/news/oct-10-2023-local-knowledge-exchange-helps-bolster-municipal-accountability
+- title: Tackling Systemic Corruption Through Public Financial Management
+  link: https://dai-global-developments.com/articles/tackling-systemic-corruption-through-public-financial-management/
 ---
 
 Public procurement is a government tool used to deliver goods and services such as fixing roads, building schools, or buying medical equipment for citizens. Fair competition, a level playing field, and transparency are essential to ensuring public money is spent responsibly and leads to the best value for citizens in terms of high-quality goods and services.
