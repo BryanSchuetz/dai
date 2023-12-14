@@ -2,6 +2,7 @@
 title: Local Climate Champions in Bangladesh, India, Mexico, and Tanzania Recognized
   at COP28
 date: 2023-12-05 15:37:00 Z
+is_featured: true
 solutions:
 - Sustainable Business
 - 
@@ -16,6 +17,8 @@ social-image: "/uploads/local-government-division,-bangladesh-3.jpg"
 The four winners of the 2023 [Local Adaptation Champions Awards](https://adaptationportal.gca.org/llahub/llachampions), organized by the Global Center on Adaptation (GCA), were announced at an awards ceremony at the COP28 climate summit in Dubai. The Awards reward exemplary, locally led efforts to address the impacts of climate change and build resilience.
 
 DAI supported the delivery of the Awards in 2022 and 2023 by developing the award categories, reviewing and shortlisting applications, providing publicity and communications, and organizing the COP 28 award ceremony.
+
+<!--more-->
 
 GCA attracted more than 500 applications across four categories: Women in Leadership, Innovation in Devolving Finance, Business Adaptation Solutions, and Capacity Building. The winner in each category receives €15,000 to invest in its activities and will benefit from sponsorship by the Adaptation Fund, including attending the Fund’s learning-and-sharing events.
 
