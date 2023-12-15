@@ -5,10 +5,10 @@ lastname: Ellis
 summary: Jeanne Ellis is a Director for DAI's Sustainable Business Group, where she
   manages a portfolio of projects in social impact management, local content development,
   and corporate social investment.
-job-title: Director, Sustainable Business Group
+job-title: Senior Director, Water and Energy Practice
 image: "/uploads/Jeanne%20Ellis%20(003).png"
 solutions:
-- Sustainable Business
+- Environment
 regions:
 - Worldwide
 articles:
@@ -20,11 +20,7 @@ articles:
 order: 2
 ---
 
-Jeanne Ellis is a Director for DAI’s Sustainable Business Group, where she manages a portfolio of projects in social impact management, local content development, and corporate social investment. She has 20 years of experience in designing, implementing, and overseeing social and economic development programs for donors, governments, and mining and oil and gas companies. Her technical areas of expertise include social impact assessment, IFC Performance Standards, extractive sector governance, public-private partnerships, and stakeholder engagement. Recent clients include ExxonMobil, Rio Tinto and the Nova Scotia Department of Energy and Mines.
-
-Prior to joining DAI, Jeanne worked at Deloitte and Cardno, most recently as Director for Social and Environmental Impact Management at Cardno Emerging Markets, where she was responsible for identifying, engaging, and providing technical leadership in social performance and extractive governance consulting. She also spent two years based in South Africa as the Mining Governance Advisor on the DFAT-funded Australia-Africa Partnerships Facility, where she managed the design and delivery of capacity building activities across the continent in areas such as mining policy development, contract negotiation, social and environmental impacts, fiscal and regulatory regimes, and community engagement.
-
-Jeanne has experience working in numerous countries including Australia, Bangladesh, Ecuador, Ghana, Guatemala, Guyana, Honduras, Kenya, Mozambique, Papua New Guinea, Peru, South Africa, South Sudan, Tanzania, and Uganda.
+Jeanne has over 20 years of experience in designing, implementing and overseeing development programs for USAID, Australian Aid, The World Bank and mining and energy companies.  Her technical areas of expertise include social & environmental impact assessment, corporate social investment, extractive sector governance, and private sector engagement. She recently joined the Environment Team from DAI’s Sustainable Business Group (SBG), where she served as a Director for the last 4 years,  helping corporate clients responsibly pursue their ESG commitments. Her recent SBG engagements included a green hydrogen project in Oman and carbon capture and storage projects in the US for an international energy company’s Low Carbon Solutions business. Previously she served as the Technical Director of Social and Environmental Impact Management at Cardno, where she focused on Environmental and Social Impact Assessments and management plans. In her last year at Cardno she led the Communities, Infrastructure and Environment practice. She also spent two years based in South Africa as the Mining Governance Advisor on the DFAT-funded Australia-Africa Partnerships Facility, where she managed the design and delivery of capacity building activities across the continent in areas such as mining policy development, contract negotiation, social and environmental impacts, fiscal and regulatory regimes, and community engagement.
 
 * M.A., Latin American studies, University of New Mexico
 * B.A., Spanish language and literature, Penn State University 
