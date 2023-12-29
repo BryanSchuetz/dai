@@ -14,5 +14,5 @@ Listed below are current solicitations. To view additional information regarding
 * [Provision of Safety Awareness](https://dai-assets.s3.amazonaws.com/rfps/Provision%20of%20UXO%20Safety%20and%20Awareness%20Training%20RFQ.pdf "2/24")
 * [RFP-TCA-TUR-23-0002 Horticulture Development Project_eng](/uploads/RFP-TCA-TUR-23-0002%20Horticulture%20Development%20Project_eng.pdf)
 * [REQ-ALB-23-0003: Albania Penetration Testing Services (Updated)](/uploads/REQ-ALB-23-0003_Albania%20Pen%20Testing%20RFP_rev%20FINAL%20CLEAN%2012.13.pdf "1/13")
-* [RFP-ACEBA-023-Design Supply Delivery Customized Booth Stand-Alimentaria](/uploads/RFP-ACEBA-023-%20Design%20Supply%20%20Delivery%20Customized%20Booth%20Stand-Alimentaria%20.pdf "12/30")
+* [RFP-ACEBA-023-Design Supply Delivery Customized Booth Stand-Alimentaria](/uploads/RFP-ACEBA-023-%20Design%20Supply%20%20Delivery%20Customized%20Booth%20Stand-Alimentaria%20.pdf "01/10")
 * [Design, development, and implementation of an Information System for “e-Monitoring”](https://dai-assets.s3.amazonaws.com/rfps/06%20a5e_Contract%20Notice%2010%20Nov%2023.pdf "12/24")
