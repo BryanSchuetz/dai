@@ -21,7 +21,7 @@ Our assistance enhances the policy and legal environment in the aviation sector.
 
 ![Zambia_stock photo.jpg](/uploads/Zambia_stock%20photo.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Support the Ministry of Transport and Communications in developing an aviation strategy.
 * Conduct a feasibility study regarding the separation of the airport management and Air Navigation Services functions into fully independent business entities. 
