@@ -1,6 +1,7 @@
 ---
 title: Alid Camara
 date: 2023-06-06 13:03:00 Z
+published: false
 lastname: Camara
 summary: 'Alid Camara is a Senior Lead Specialist at DAI, leading program design and
   technical delivery assignments within the public finance management (PFM) practice. '
