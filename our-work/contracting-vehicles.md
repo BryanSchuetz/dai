@@ -43,11 +43,13 @@ layout: node
 
 * International, Technical, Operational, and Professional Support Services (ITOPSS) (2018–2023)
 
-# U.K. Foreign, Commonwealth & Development Office (FCDO) Expert Advisory Call Down Services 2 (EACDS2)
+# U.K. Foreign, Commonwealth & Development Office (FCDO) 
+
+### Expert Advisory Call Down Services 2 (EACDS2)
 
 * [Lot 4: Climate Change, Nature and Global Health (2023-24)](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health)
 
-# U.K. Foreign, Commonwealth & Development Office (FCDO) Global Development Delivery Framework 
+### FCDO Global Development Delivery Framework 
 
 High Value Lots (2023-2025):
 
@@ -59,12 +61,11 @@ High Value Lots (2023-2025):
 * Lot 6: Research
 * Lot 7: Governance and Conflict
 
-# U.K. Foreign, Commonwealth & Development Office (FCDO)
-Global Evaluation and Monitoring Framework Agreement 
+### FCDO Global Evaluation and Monitoring Framework Agreement 
 
 * Low Value Lot 4: Monitoring Evaluation and Learning (2023-2025)
  
-# U.K. Foreign, Commonwealth & Development Office (FCDO) Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
+# FCDO Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
 
 * Lot 1: Strengthening and Protecting Inclusive Politics and Civic Accountability 
 
