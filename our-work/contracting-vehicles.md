@@ -59,9 +59,10 @@ High Value Lots (2023-2025):
 * Lot 6: Research
 * Lot 7: Governance and Conflict
 
-Low Value Lots (2023-2025):
+# U.K. Foreign, Commonwealth & Development Office (FCDO)
+Global Evaluation and Monitoring Framework Agreement 
 
-* Lot 4: Monitoring Evaluation and Learning
+Low Value Lot 4: Monitoring Evaluation and Learning (2023-2025)
  
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 
