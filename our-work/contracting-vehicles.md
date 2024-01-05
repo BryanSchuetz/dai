@@ -47,7 +47,9 @@ layout: node
 
 * [Lot 4: Climate Change, Nature and Global Health (2023-24)](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health)
 
-# U.K. Foreign, Commonwealth & Development Office (FCDO) Global Development Delivery Framework – High Value Lots (2023-2025):
+# U.K. Foreign, Commonwealth & Development Office (FCDO) Global Development Delivery Framework 
+
+High Value Lots (2023-2025):
 
 * Lot 1: Climate and Nature 
 * Lot 2: Health and Humanitarian
@@ -57,15 +59,19 @@ layout: node
 * Lot 6: Research
 * Lot 7: Governance and Conflict
 
+Low Value Lots (2023-2025):
 
-
+* Lot 4: Monitoring Evaluation and Learning
+ 
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 
 * Lot 1: Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
 
-# U.K. Government (Crown Commercial Service)
+# U.K. Government Crown Commercial Service (CCS), Dynamic Purchasing Systems (DPS)
 
-Cyber Security Services 3 (CS3) Flexible Commercial Agreement: cybersecurity-related consultancy and advice, penetration testing, incident response, and managed security services (2022-2025)
+* DPS for Cyber Security Services 3 (CS3) Flexible Commercial Agreement: Cyber security-related consultancy and advice, penetration testing, incident response, and managed security services (2022-2025)
+* DPS for Grant Administration Services (2022-2024)
+* DPS for Fund Administration (2023-2025)
 
 # European Commission (EC)
 
