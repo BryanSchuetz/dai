@@ -62,11 +62,11 @@ High Value Lots (2023-2025):
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 Global Evaluation and Monitoring Framework Agreement 
 
-Low Value Lot 4: Monitoring Evaluation and Learning (2023-2025)
+* Low Value Lot 4: Monitoring Evaluation and Learning (2023-2025)
  
-# U.K. Foreign, Commonwealth & Development Office (FCDO)
+# U.K. Foreign, Commonwealth & Development Office (FCDO) Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
 
-* Lot 1: Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
+* Lot 1: Strengthening and Protecting Inclusive Politics and Civic Accountability 
 
 # U.K. Government Crown Commercial Service (CCS), Dynamic Purchasing Systems (DPS)
 
