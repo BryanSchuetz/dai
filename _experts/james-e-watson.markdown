@@ -2,8 +2,9 @@
 title: James E. Watson
 date: 2021-04-28 08:01:00 Z
 lastname: Watson
-summary: James Watson leads the team that oversees the implementation and expansion of DAI’s industry-leading ethics and safeguarding program.
-job-title: 'Chief Ethics & Integrity Officer (CEIO)'
+summary: James Watson leads the team that oversees the implementation and expansion
+  of DAI’s industry-leading ethics and safeguarding program.
+job-title: Chief Ethics & Integrity Officer (CEIO)
 image: "/uploads/Watson.jpg"
 regions:
 - Worldwide
