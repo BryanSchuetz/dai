@@ -73,6 +73,10 @@ Low Value Lots (2023-2025):
 * DPS for Grant Administration Services (2022-2024)
 * DPS for Fund Administration (2023-2025)
 
+# UNICEF
+
+### Long Term Agreement for the provision of services in conducting Country Program Evaluations, Impact Evaluations and Multi-country and country-specific program evaluations (2023-2025)
+
 # European Commission (EC)
 
 ### EC Framework Contract SIEA (Services for Implementation of External Aid)
