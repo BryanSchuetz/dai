@@ -43,10 +43,9 @@ layout: node
 
 * International, Technical, Operational, and Professional Support Services (ITOPSS) (2018–2023)
 
-# U.K. Foreign, Commonwealth & Development Office (FCDO) Expert Advisory Call Down Services
+# U.K. Foreign, Commonwealth & Development Office (FCDO) Expert Advisory Call Down Services 2 (EACDS2)
 
-* [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
-* Lot C: Promoting Global Prosperity (Partner to IMC Worldwide)
+* [Lot 4: Climate Change, Nature and Global Health (2023-24)](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health)
 
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 
