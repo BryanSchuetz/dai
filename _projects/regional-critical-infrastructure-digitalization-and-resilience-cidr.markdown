@@ -14,6 +14,9 @@ solutions:
 - Fragile States
 regions: Eastern Europe and Central Asia
 country: Eastern Europe and Eurasia
+promos:
+- title: North Macedonia Completes Cybersecurity Coordination Exercise
+  link: https://dai-global-digital.com/north-macedonia-completes-cybersecurity-coordination-exercise.html
 ---
 
 Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
