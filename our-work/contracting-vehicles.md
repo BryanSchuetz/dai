@@ -77,6 +77,10 @@ Low Value Lots (2023-2025):
 
 ### Long Term Agreement for the provision of services in conducting Country Program Evaluations, Impact Evaluations and Multi-country and country-specific program evaluations (2023-2025)
 
+# UN FAO 
+
+### Long Term Agreement for the provision of services in conducting Country Programme Evaluations, Impact Evaluations, and Multi-country and country-specific program evaluations (2024-2025)
+
 # European Commission (EC)
 
 ### EC Framework Contract SIEA (Services for Implementation of External Aid)
