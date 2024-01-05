@@ -61,9 +61,9 @@ High Value Lots (2023-2025):
 * Lot 6: Research
 * Lot 7: Governance and Conflict
 
-### FCDO Global Evaluation and Monitoring Framework Agreement 
+### FCDO Global Evaluation and Monitoring Framework Agreement (GEMFA) 
 
-* Low Value Lot 4: Monitoring Evaluation and Learning (2023-2025)
+* Low Value [Lot 4: Monitoring Evaluation and Learning](https://www.dai.com/our-work/projects/worldwide-global-evaluation-and-monitoring-framework-agreement-gemfa-lot-4) (2023-2025)
  
 # FCDO Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
 
