@@ -65,7 +65,7 @@ High Value Lots (2023-2025):
 
 * Low Value [Lot 4: Monitoring Evaluation and Learning](https://www.dai.com/our-work/projects/worldwide-global-evaluation-and-monitoring-framework-agreement-gemfa-lot-4) (2023-2025)
  
-# FCDO Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
+### FCDO Conflict, Stability and Security Fund (CSSF) Framework Agreement (2023–2027) 
 
 * Lot 1: Strengthening and Protecting Inclusive Politics and Civic Accountability 
 
@@ -77,11 +77,11 @@ High Value Lots (2023-2025):
 
 # UNICEF
 
-### [Long Term Agreement for the Provision of Services in Conducting Country Program Evaluations, Impact Evaluations and Multi-country and Country-specific Program Evaluations](https://www.dai.com/our-work/projects/unicef-program-evaluations) (2023-2025)
+[Long Term Agreement for the Provision of Services in Conducting Country Program Evaluations, Impact Evaluations and Multi-country and Country-specific Program Evaluations](https://www.dai.com/our-work/projects/unicef-program-evaluations) (2023-2025)
 
 # UN FAO 
 
-### Long Term Agreement for the provision of services in conducting Country Programme Evaluations, Impact Evaluations, and Multi-country and country-specific program evaluations (2024-2025)
+Long Term Agreement for the provision of services in conducting Country Programme Evaluations, Impact Evaluations, and Multi-country and country-specific program evaluations (2024-2025)
 
 # European Commission (EC)
 
