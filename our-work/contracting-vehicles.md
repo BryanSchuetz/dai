@@ -55,7 +55,7 @@ layout: node
 
 ### FCDO Global Development Delivery Framework 
 
-High Value Lots (2023-2025):
+DAI is one of FCDO's suppliers for High Value Lots (2023-2025):
 
 * Lot 1: Climate and Nature 
 * Lot 2: Health and Humanitarian
