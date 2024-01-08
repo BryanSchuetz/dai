@@ -11,7 +11,7 @@ layout: node
 
 ### Global Health
 
-* Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management (2024-2034)
+* Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management (2024–2034)
 
 ### Environment & Energy
 
@@ -28,7 +28,6 @@ layout: node
 
 * Reading for East Africa’s Development (READ) (2023–2030)
 * Active Communities—Effective States (ACES) (2021–2026)
-* Rule of Law Technical Assistance Services (ROL) (2013–2023)
 * Public Financial Management II (PFM II) (2018–2025)
 
 ### Stability
@@ -42,10 +41,6 @@ layout: node
 # General Services Administration 
 
 * One Acquisition Solution for Integrated Services ([OASIS](https://www.dai.com/oasis)) (2020-2024)
-
-# Centers for Disease Control and Prevention (CDC)
-
-* International, Technical, Operational, and Professional Support Services (ITOPSS) (2018–2023)
 
 # U.K. Foreign, Commonwealth & Development Office (FCDO) 
 
@@ -98,10 +93,6 @@ Long Term Agreement for the provision of services in conducting Country Programm
 * Lot 5: Budget Support
 * Lot 6: Innovative Financing for Development
  
-# French Development Agency (AFD)
- 
-Framework contract Lot 1: Studies and Technical assistance for the implementation of the ‘Adapt’ Action’ Facility (2018—2022)
-
 # Kreditanstalt für Wiederaufbau (KfW)
 
 Framework Agreement for Consulting Services in Fragile Contexts (2021–2025)
