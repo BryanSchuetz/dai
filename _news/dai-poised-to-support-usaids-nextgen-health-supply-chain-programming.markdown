@@ -8,7 +8,7 @@ clients: U.S. Agency for International Development
 summary: USAID has awarded DAI a place on its Global Health Comprehensive Technical
   Assistance for Health Supply Chain and Pharmaceutical Management (Comprehensive
   TA) contract.
-social-image: "/uploads/smFreight%20logistics_tech_iStock.jpg"
+social-image: "/uploads/smZambia.jpg"
 country: Worldwide
 ---
 
@@ -16,7 +16,7 @@ DAI is pleased to announce that the U.S. Agency for International Development (U
 
 An indefinite delivery, indefinite quantity (IDIQ) contract, the Comprehensive TA IDIQ is part of the Agency’s broader Next Generation Global Health Supply Chain Suite of Programs (NextGen). 
 
-![Freight logistics_tech_iStock.jpg](/uploads/Freight%20logistics_tech_iStock.jpg)`Photo: Adobe iStock.`
+![Zambia.jpg](/uploads/Zambia.jpg)`Photo: USAID Zambia.`
 
 “We are thrilled to be among USAID’s NextGen partners in the critical work of health supply chain strengthening,” said [Sarah Helmstadter](https://www.dai.com/who-we-are/leadership/sarah-helmstadter), Senior Vice President of DAI’s U.S. Government Business. “This opportunity builds on our experience supporting USAID to strengthen local stewardship, accountability, and innovation across health supply chains. Our consortium brings together a wide range of expertise providing technical assistance to ensure medicines, health products, and related commodities reach patients through efficient and effective local systems, with the ultimate goal of improving health outcomes.”
 
