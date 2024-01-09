@@ -26,6 +26,6 @@ Over the next 10 years, USAID’s implementing partners on the Comprehensive TA 
 * **Increase the availability of quality-assured, essential health commodities**, through improved supply chain performance; and
 * **Improve pharmaceutical management systems**, including the development of high-quality pharmaceutical services and well-functioning regulatory systems. 
 
-DAI’s consortium for the Comprehensive TA IDIQ consists of major subcontractor Crown Agents and nine other distinguished partners: ClickMedix; Crowley Government Services; Dalberg Consulting U.S.; EnCompass; Freight in Time; Medication Outcomes Center, School of Pharmacy and the Institute of Global Health Sciences, University of California San Francisco; Michigan State University Department of Supply Chain Management; Pamela Steele Associates; University of North Carolina at Chapel Hill – Carolina Population Center; and VillageReach.
+DAI’s consortium for the Comprehensive TA IDIQ consists of major subcontractor Crown Agents and nine other distinguished partners: ClickMedix; Crowley Government Services; Dalberg Consulting U.S.; EnCompass; Freight in Time; Medication Outcomes Center, School of Pharmacy and the Institute of Global Health Sciences, University of California San Francisco; Axia Institute at Michigan State University; Pamela Steele Associates; University of North Carolina at Chapel Hill – Carolina Population Center; and VillageReach.
 
 For more on DAI’s supply chain solutions, [click here](https://www.dai.com/global-health-supply-chain).
