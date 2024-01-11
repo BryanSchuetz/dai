@@ -1,7 +1,7 @@
 ---
-title: Kosovo—Municipal Integrity Activity
+title: Kosovo—Municipal Integrity activity
 date: 2023-03-02 16:37:00 Z
-summary: The Municipal Integrity Activity works with Kosovo's central government oversight
+summary: The Municipal Integrity activity works with Kosovo's central government oversight
   agencies, municipalities, civil society, media, and private sector actors to advance
   reform in public procurement, with a renewed emphasis on budget planning, contract
   management, audit, integrity, anti-corruption, and private sector engagement.
@@ -32,7 +32,7 @@ However, in Kosovo, citizens, civil society organizations, and private sector ec
 
 To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the [Transparent, Effective, and Accountable Municipalities (USAID TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity, which DAI implemented from 2016 to 2022. The project supported Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM worked with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. 
 
-Building off that project, the Municipal Integrity Activity works with central government oversight agencies, municipalities, civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, anti-corruption, and private sector engagement.
+Building off that project, the Municipal Integrity activity works with central government oversight agencies, municipalities, civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, anti-corruption, and private sector engagement.
 
 ![USAID Kosovo Municipal Integrity 1 (6).jpg](/uploads/USAID%20Kosovo%20Municipal%20Integrity%201%20(6).jpg)
 
