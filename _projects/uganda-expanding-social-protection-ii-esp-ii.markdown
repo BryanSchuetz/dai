@@ -19,7 +19,7 @@ Under ESP II, DAI managed a Fund Management Team, hosted by the ESP Programme Ma
 
 Nine years after the first pilot payment, ESP officially reached all eligible beneficiaries in Uganda’s 135 districts. By the end of DAI's management of the project, 379,801 people—218,205 women and 161,596 men—were receiving their entitlement of UGX 25,000 every month. 
 
-![ESPII.jpg](/uploads/ESPII.jpg)
+<iframe src="https://player.vimeo.com/video/900865562" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
  
 ### Sample Activities
 
