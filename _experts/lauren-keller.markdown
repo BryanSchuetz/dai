@@ -1,12 +1,12 @@
 ---
 title: Lauren Keller
 date: 2024-01-12 13:57:00 Z
-published: false
 lastname: Keller
 summary: 'Lauren Keller is a development professional with more than a decade of experience
   in natural resource management, climate change, and monitoring, evaluation, and
   learning (MEL). '
 job-title: Principal Specialist, Climate Integration
+image: "/uploads/am%20Lauren%20Keller.jpg"
 solutions:
 - Environment
 - Climate
