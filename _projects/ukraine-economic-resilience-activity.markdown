@@ -25,7 +25,9 @@ promos:
   link: https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine
 ---
 
-Even before the onset of Russia’s 2022 war in Ukraine, eastern Ukraine was saddled with communities ripped apart, disrupted markets, and internally displaced people (IDP). The U.S. Agency for International Development Economic Resilience Activity (ERA) aims to boost the economic resilience of Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience ravaged. The program works to diversify the industries and improve IDP integration with the rest of the country, while also helping displaced people gain locally needed jobs and livelihood skills. 
+Even before the onset of Russia’s 2022 war in Ukraine, eastern Ukraine was saddled with communities ripped apart, disrupted markets, and internally displaced people (IDP). The U.S. Agency for International Development (USAID) Economic Resilience Activity (ERA) aims to boost the economic resilience of Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience ravaged. The program works to diversify the industries and improve IDP integration with the rest of the country, while also helping displaced people gain locally needed jobs and livelihood skills. 
+
+After supporting small businesses in the IT, innovative manufacturing, tourism, agribusiness, and biofuel sectors since 2018, first in the east, and then from the start of the war nationally, ERA is now one of USAID’s core partners implementing the Agriculture Resilience Initiative–Ukraine (AGRI-Ukraine) that was established in 2022 to bolster Ukrainian agricultural exports and alleviate the global food security crisis exacerbated by the war.
 
 ![era.jpg](/uploads/era.jpg)
 
