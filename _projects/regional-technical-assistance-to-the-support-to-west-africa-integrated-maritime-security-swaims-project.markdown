@@ -2,8 +2,8 @@
 title: Regional—Technical Assistance to the  Support to West  Africa Integrated Maritime  Security
   (SWAIMS) Project
 date: 2021-01-18 13:41:00 Z
-summary: 'Our project supports the SWAIMS programme to improve maritime security and
-  safety in the Gulf of Guinea. We are strengthening governance and law enforcement
+summary: 'Our project supported the SWAIMS programme to improve maritime security
+  and safety in the Gulf of Guinea. We strengthened governance and law enforcement
   frameworks against maritime crimes, operational capacities, and response by law
   enforcement. '
 start: 2019
@@ -17,12 +17,10 @@ country: West Africa, Mauritania
 
 The Gulf of Guinea, Nigeria, and Niger Delta suffer from major and regular maritime insecurity that range from piracy, armed robbery, and kidnapping to illegal oil bunkering, trafficking, and smuggling. 
 
-The Support to  West  Africa  Integrated  Maritime  Security (SWAIMS) programme is a multi-country intervention, covering member states of the Economic Community of West African States (ECOWAS) under the European Union-West Africa regional Indicative Programme—Benin, Burkina Faso, Cabo Verde, Côte d’Ivoire, The Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo, as well as Mauritania with a specific focus on coastal countries. 
+The Support to  West  Africa  Integrated  Maritime  Security (SWAIMS) programme was a multi-country intervention, covering member states of the Economic Community of West African States (ECOWAS) under the European Union-West Africa regional Indicative Programme—Benin, Burkina Faso, Cabo Verde, Côte d’Ivoire, The Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo, as well as Mauritania with a specific focus on coastal countries. 
 
-Our project supports the SWAIMS programme to improve maritime security and safety in the Gulf of Guinea. 
-
-Our team focuses on ensuring effective organization of the overall SWAIMS programme and operational implementation of specific activities—strengthening governance and law enforcement frameworks against maritime crimes, operational capacities, and response by law enforcement. 
-
+Our project supported the SWAIMS programme to improve maritime security and safety in the Gulf of Guinea. Among its successes, the project strengthened integrated maritime governance, facilitated joint operations in Gambia and Sierra Leone, and helped finalize Liberia's Maritime Security Strategy. SWAIMS’ maritime security workshops trained more than 300 professionals.
+ 
 <iframe src="https://player.vimeo.com/video/903388786?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Technical Assistance to the Support to West Africa Integrated Maritime Security (SWAIMS) Project"></iframe>
 
 ### Sample Activities
