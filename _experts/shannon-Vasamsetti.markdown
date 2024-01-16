@@ -6,7 +6,7 @@ summary: 'Shannon Vasamsetti has more than 13 years of experience working in int
   development at the nexus of climate change, rural livelihoods, and natural resource
   management. '
 job-title: Senior Specialist, Climate Integration
-image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
+image: "/uploads/sm%20Vasamsetti_Shannon_FULL.jpg"
 solutions:
 - Environment
 - Climate
