@@ -1,6 +1,7 @@
 ---
 title: Polly Gillingham
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Gillingham
 summary: 'Polly Gillingam joined DAI in 2000 and has 25 years of experience in the
   international development sector. '
