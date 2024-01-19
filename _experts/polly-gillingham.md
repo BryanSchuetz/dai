@@ -14,9 +14,9 @@ solutions:
 layout: expert
 ---
 
-With over 25 years of experience in the sector, Polly is responsible for our business development and strategy with DAI’s UK Government clients as well as donors such as the World Bank and Swiss Government. Since joining DAI in 2000, she has worked on both business development and delivery across a broad range of programs in our portfolio. These programs have been technically as well as geographically diverse, including programs in Nigeria (governance and economic policy development), Bangladesh (monitoring and evaluation), and South Africa (governance and business enabling environment within the forestry sector). She also acted as Technical Director of the UK-based Livelihoods Resource Centre and its successor program, CEIL PEAKS.
+With more than 25 years of experience in the sector, Polly is responsible for our business development and strategy with DAI’s UK Government clients as well as donors such as the World Bank and Swiss Government. Since joining DAI in 2000, she has worked on both business development and delivery across a broad range of programs in our portfolio. These programs have been technically as well as geographically diverse, including programs in Nigeria (governance and economic policy development), Bangladesh (monitoring and evaluation), and South Africa (governance and business enabling environment within the forestry sector). She also acted as Technical Director of the UK-based Livelihoods Resource Centre and its successor program, CEIL PEAKS.
 
 Prior to joining DAI Polly worked for a local consultancy company in Tanzania, working to build the capacity of the local consultancy and program management market. Polly’s Ph.D. research was also undertaken in Tanzania, where she focused on the political economy of, and conflicts over access to, water in Northern Tanzania.
 
-* Ph.D. Geography, University of Cambridge.
-* M.A. Geography, University of Cambridge.
+* Ph.D. geography, University of Cambridge
+* M.A. geography, University of Cambridge
