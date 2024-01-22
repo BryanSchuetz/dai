@@ -1,6 +1,7 @@
 ---
 title: Robert Bond
 date: 2017-05-19 17:43:00 Z
+published: false
 lastname: Bond
 summary: Robert Bond was most recently Chief of Party for the Ukraine Financial Sector
   Transformation (FST) project, funded by the U.S. Agency for International Development.
