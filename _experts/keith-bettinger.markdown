@@ -9,4 +9,4 @@ Keith Bettinger is Lead Specialist for Climate Change Adaptation and Disaster Ri
 * B.A., History and Political Science, Hendrix College
 * M.A., Teaching, Secondary Education, Centenary College
 * M.A., International Affairs, George Washington University
-* PhD., Geography, University of Hawaiʻi
+* PhD., Geography, University of Hawai‘i
