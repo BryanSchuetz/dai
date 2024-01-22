@@ -1,7 +1,6 @@
 ---
 title: DAI Capital Welcomes Casey Verbeck to its Leadership Team
 date: 2024-01-22 06:15:00 Z
-published: false
 solutions:
 - Finance and Investment
 regions: Worldwide
