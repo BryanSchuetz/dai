@@ -17,3 +17,6 @@ Casey Verbeck is a leader in the impact investment space, with a 25-year record 
 Casey has founded and served as CEO for two firms, leading their efforts to scale high-impact programs through alternative financing solutions and strategies. He has launched impact-focused strategies with the recording artist Sarah McLachlan, National Geographic, The Nature Conservancy, Feeding America, and many other partners. Just prior to joining DAI, he completed the design of a private debt strategy for one of the United States’ leading conservation organizations to support indigenous communities. Thematically, his fund strategies have delivered impact in areas such as economic revitalization, land and water conservation, and community wealth building. 
 
 At DAI Capital, Casey is focused on strategy, marketing, and fundraising for new and existing asset management initiatives, with an emphasis on impact investment opportunities.
+
+* Executive Education Certificate, Northwestern-Kellogg School of Business
+* Advisory Board Member, ACCION USA, New Resource Bank, MIT SOLVE, LEEDS Business School
