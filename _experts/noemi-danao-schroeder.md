@@ -4,8 +4,8 @@ date: 2016-01-21 22:18:00 Z
 lastname: Danao-Schroeder
 summary: 'Noemi Danao-Schroeder first worked internationally as a summer volunteer
   for a rural vaccination campaign in Paraguay. Today, she is a Vice President, responsible
-  for the company’s portfolio of U.S. government-funded global projects. '
-job-title: Vice President, Global Projects
+  for the company’s portfolio of U.S. government-funded projects. '
+job-title: Vice President, Implementation, USG Programs
 image: "/uploads/Noemi%20Headshot%20May2019.jpg"
 solutions:
 - Finance and Investment
