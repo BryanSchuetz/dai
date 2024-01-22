@@ -25,19 +25,23 @@ promos:
   link: https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine
 ---
 
-Even before the onset of Russia’s 2022 war in Ukraine, eastern Ukraine was saddled with communities ripped apart, disrupted markets, and internally displaced people (IDP). The U.S. Agency for International Development (USAID) Economic Resilience Activity (ERA) aims to boost the economic resilience of Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience ravaged. The program works to diversify the industries and improve IDP integration with the rest of the country, while also helping displaced people gain locally needed jobs and livelihood skills. 
+Ukraine’s efforts to win the future—emerging 
+from Russia’s full-scale war ready to accelerate 
+its development as a sovereign, independent, democratic, and prosperous state—require a dynamic, inclusive economic recovery. Through partnerships with the government and robust private sector engagement, the U.S. Agency for International Development's Economic Resilience Activity (ERA) has supported economic growth and resilience in Ukraine since 2018. 
 
-After supporting small businesses in the IT, innovative manufacturing, tourism, agribusiness, and biofuel sectors since 2018, first in the east, and then from the start of the war nationally, ERA is now one of USAID’s core partners implementing the Agriculture Resilience Initiative–Ukraine (AGRI-Ukraine) that was established in 2022 to bolster Ukrainian agricultural exports and alleviate the global food security crisis exacerbated by the war.
+After supporting small businesses in the IT, innovative manufacturing, tourism, agribusiness, and biofuel sectors since 2018, first in the east, and then from the start of the war nationally, ERA is now a core partner implementing the Agriculture Resilience Initiative–Ukraine (AGRI-Ukraine) that was established in 2022 to bolster Ukrainian agricultural exports and alleviate the global food security crisis exacerbated by the war. Under AGRI-Ukraine, ERA partners with public and private companies to complement and leverage urgently needed grain transportation and transshipment investments.
+
+ERA also directly supports the Government 
+of Ukraine, including the State Agency for Restoration and Development of Infrastructure of Ukraine (SARDI) and the State Customs Service, to upgrade 42 of Ukraine’s border crossing points. Modern and more efficient border infrastructure and customs procedures will reduce export costs and increase export capacity, enabling Ukraine to scale trade and advance its path to European Union integration. 
 
 ![era.jpg](/uploads/era.jpg)
 
 ### Sample Activities
 
-* Offer education opportunities to vulnerable populations in business and technical skills and knowledge necessary for their career and business development. 
-* Ensure support to businesses, nongovernmental groups, and institutions that serve and create benefits for vulnerable people. 
-* Provide grant support for micro, small, and medium businesses that benefit vulnerable people. 
-* Provide technical assistance and cost-share grants to conflict-affected businesses. 
-* Support education-business partnerships aimed at meeting the workforce development needs of the national and regional labor markets and private sector. 
+* Deliver equipment, architecture, and engineering design and construction services at nine priority and up to 12 additional border crossing points that improve traffic management systems, cargo processing, and terminal infrastructure and equipment for cargo and passenger processing, to increase exports and manage traffic more efficiently along the borders of Hungary, Moldova, Poland, Romania, and Slovakia. 
+* Improve standardization and efficiency with rapid upgrades of border crossing points.
+* Procure mobile truck scanners, fixed and dynamic scales, luggage and hand-held scanners, and rail cargo equipment to increase export capacity and meet international standards for cargo processing.
+* Develop and implement modern traffic management systems at select, high-volume border crossing points.
 * Promote regional exports to the European Union and other international markets. 
 * Improve access to finance for entrepreneurs and small businesses. 
 * Raise awareness of the importance of new opportunities and emerging industries for the economic future. 
