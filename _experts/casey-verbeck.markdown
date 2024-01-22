@@ -1,11 +1,11 @@
 ---
 title: Casey Verbeck
 date: 2024-01-22 13:30:00 Z
-published: false
 lastname: Verbeck
 summary: 'Casey Verbeck is a leader in the impact investment space, with a 25-year
   record of success in strategic planning, business development, sales, and marketing. '
 job-title: Managing Director, Impact Investment, DAI Capital
+image: "/uploads/sm%20casey.jpg"
 solutions:
 - DAI Capital
 regions:
