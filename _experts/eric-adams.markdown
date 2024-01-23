@@ -1,12 +1,12 @@
 ---
 title: Eric Adams
 date: 2024-01-23 08:47:00 Z
-published: false
 lastname: Adams
 summary: 'As a Senior Lead Specialist with the Finance, Investment, and Trade team,
   Eric Adams supports finance and investment activities related to business development,
   project implementation, and competitive positioning. '
 job-title: Senior Lead Specialist, Economic Growth and Investment
+image: "/uploads/Eric%20Adams.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
