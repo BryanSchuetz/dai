@@ -34,4 +34,10 @@ We are using a OneWater approach that knits together actors (community, municipa
 
 ## Select Results
 
-* Installed a tap in Khadachakra Municipality where 38 families previously had to walk 20 miles for water. 
+* Installed a tap in Khadachakra Municipality where 38 families previously had to walk 20 miles for water.
+* Established 162 water user and sanitation committees, with a 68 percent representation of marginalized populations and 50 percent women.
+* Completed a comprehensive citywide sanitation plan in seven municipalities.
+* Provided support for 20 WASH bills at the municipal level, with 15 of them receiving endorsement from respective councils.
+* Facilitated 29 municipalities to develop water use master plans, all approved by local governments.
+* Assessed 11,841 spring sources, and protected 30 water sources, safeguarding 26.45 hectares of biologically significant areas.
+* Conducted 354 capacity-building/awareness-raising sessions for water user and sanitation committees, communities, and local governments to improve WASH governance for sustainable service delivery.
