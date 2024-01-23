@@ -13,6 +13,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:
+- title: Boosting Ukrainian Grain Exports for Global Food Security
+  link: https://dai-global-developments.com/articles/boosting-ukrainian-grain-exports-for-global-food-security/
 - title: USAID-Supported Enterprise in Ukraine Repairs Lung Ventilators for Use in
     COVID-19 Crisis
   link: https://dai-global-developments.com/articles/usaid-supported-enterprise-in-ukraine-repairs-lung-ventilators-for-use-in-covid-19-crisis
