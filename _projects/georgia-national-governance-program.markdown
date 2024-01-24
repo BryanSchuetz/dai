@@ -31,3 +31,10 @@ The project strengthens accountability systems, procedures, and mechanisms withi
 * Improve institutional capacity to mitigate cybersecurity risks. 
 * Implement solutions for improving appraisal and evaluation systems and the lifecycle of human resource management.
 * Support the Anti-Corruption Secretariat and Council in strengthening anti-corruption policy formulation and planning.
+
+## Select Results
+
+* Supported the Administration of Government to increase awareness among 111 public servants (80 percent of whom were women) about the ongoing Public Administration Reform and the value of the OECD Principles for Public Administration.
+* Trained 104 members of the Administration of Government on basic cybersecurity to increase awareness of cybersecurity and information security risks and improve digital hygiene practices within the public sector.
+* Finalized the co-creation of six innovative grants with leading think tanks, research, and academic institutions, across a broad geographic spread to mentor young people through the development of evidence-based public policy briefs.
+* Launched the “Excellence in Public Sector Fellowship” to place a cohort of 25 young professionals with six prioritized executive and legislative partner institutions, introducing new perspectives into the public sector and developing a pipeline of highly skilled and innovative professionals for the civil service.
