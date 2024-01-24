@@ -15,8 +15,8 @@ country: Nigeria
 promos:
 - title: 'Breaking Barriers to Learning: Building a Stronger Education System in Nigeria'
   link: https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/
-- title: World Education Day - Hafsat's Journey
-  link: https://vimeo.com/manage/videos/905907121/comments
+- title: PLANE Website
+  link: https://planenigeria.com/
 ---
 
 The Partnership for Learning for All in Nigeria (PLANE) project works to deliver a more inclusive and effective education system and improve learning outcomes for students in their pre-primary and primary years. 
@@ -25,7 +25,7 @@ PLANE focuses on improving basic education and tackling fundamental system const
  
 In partnership with our key subcontractor FHI360, PLANE operates across Kano, Kaduna, Jigawa, the South East and South West regions, and in the federal capital territory to improve regulation and accountability of both the state and non-state sector, fostering better collaboration and connectivity and promoting successful models that contribute to innovation. 
 
-More information is available on the [**PLANE website**](https://sddirect.org.uk/project/partnership-learning-all-nigerian-education-plane).
+More information is available on the [**PLANE website**](https://planenigeria.com/).
 
 <iframe src="https://player.vimeo.com/video/818737720?h=8b2d47f003" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
