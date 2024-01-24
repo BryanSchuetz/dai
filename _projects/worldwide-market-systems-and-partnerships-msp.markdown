@@ -44,5 +44,5 @@ MSP supports USAID and its implementers to deliver durable, systemic, and inclus
 
 ## Select Results
 
-* Assisted Zambia-based sustainable honey and beeswax company, Nature’s Nectar, with its first-ever exports using an improved honey processing line. The first of its kind in Zambia, the line led to a 20 percent increase in processing efficiency, which will allow the firm to expand its smallholder farmer supplier base (half of whom are women).
+* Assisted Zambia-based Nature’s Nectar, an environmentally conscious honey processor and exporter that ethically sources raw honey from rural smallholders. Over two years, the company distributed 12,000 beehives to 1,200 smallholders and exported 90,000 kilogramss of honey, achieving $122,000 in sales.
 * Signed five partnerships in Cambodia to leverage $2.3 million from the private sector—along with $2.1 million from USAID—to improve local processing capacity for high-quality rice, ensure a more consistent supply of safe and healthy organic produce, and enable the safe and compliant production of processed agricultural commodities.
