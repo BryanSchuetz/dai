@@ -2,8 +2,10 @@
 title: Türkiye—Determination of Industrial Emissions Strategy in Accordance with Integrated
   Pollution Prevention and Control
 date: 2020-04-14 15:02:00 Z
-summary: This project supports Türkiye in its efforts to establish industrial pollution
-  prevention and control approaches.
+summary: The project promoted environmentally friendly industrial production and contributed
+  to policy development, leading to a Draft National Action Plan for Determining Türkiye's
+  Emission Strategy that serves as a roadmap for a green transition and zero pollution
+  by 2053.
 start: 2020
 end: 2023
 client: European Union
@@ -18,7 +20,7 @@ Türkiye’s economic and social development performance since 2000 has been imp
 
 On the other hand, Türkiye’s economic growth has been accompanied by a significant rise in pollutants, energy use, water consumption, and waste accumulation. The country’s economic growth has also changed consumption and production patterns, caused environmental degradation, and increased inequalities, which has been exacerbated by the increasing population and urbanisation levels. Reflecting rapid sectoral growth in energy, industry, transport, and tourism, industrial pollution problems are now one of the leading environmental issues in Türkiye. 
 
-Given that Türkiye has a growing interest to control and prevent industrial pollution, which has profound economic and social implications in the country, [our project](https://ippc.csb.gov.tr/en) plays a significant role in ensuring effective industrial pollution control. Our team supports Türkiye in its efforts to establish industrial pollution prevention and control approaches, according to the Industrial Emissions Directive (IED), as well as to build institutional and technical capacity while raising awareness concerning air pollution issues. 
+Given that Türkiye has a growing interest to control and prevent industrial pollution, which has profound economic and social implications in the country, [our project](https://ippc.csb.gov.tr/en) played a significant role in ensuring effective industrial pollution control. Our team supported Türkiye in its efforts to establish industrial pollution prevention and control approaches, according to the Industrial Emissions Directive (IED), as well as built institutional and technical capacity while raising awareness concerning air pollution issues. It promoted environmentally friendly industrial production and contributed to policy development, leading to a Draft National Action Plan for Determining Türkiye's Emission Strategy that serves as a roadmap for a green transition and zero pollution by 2053.
 
 ![Istanbul_stock(15896336632).jpg](/uploads/Istanbul_stock(15896336632).jpg)`Istanbul cityscape. Photo courtesy of Karsten Wentink from Leiden, The Netherlands / CC BY-SA.`
 
