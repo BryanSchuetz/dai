@@ -20,5 +20,5 @@ At DAI, Eric has served as a Senior Technical Director on the [Prosper Africa Tr
 
 As a Senior Lead Specialist with the Finance, Investment, and Trade team, Eric supports finance and investment activities related to business development, project implementation, and competitive positioning. 
 
-* MBA, international management, Thunderbird, American Graduate School of International Management
+* M.B.A., international management, Thunderbird, American Graduate School of International Management
 * B.A., political science, State University of New York, Binghamton
