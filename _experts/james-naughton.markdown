@@ -6,7 +6,7 @@ summary: James Naughton is a Principal at DAI’s office in the United Kingdom, 
   expertise in facilitating and promoting investment globally through blended finance
   and private investment.
 job-title: Development Principal, Economic Growth
-image: "/uploads/James%20McNaughton.jpg"
+image: "/uploads/James%20Naughton.jpg"
 solutions:
 - Economic Growth
 regions:
