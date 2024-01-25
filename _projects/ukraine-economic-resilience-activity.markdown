@@ -44,16 +44,17 @@ of Ukraine, including the State Agency for Restoration and Development of Infras
 * Improve standardization and efficiency with rapid upgrades of border crossing points.
 * Procure mobile truck scanners, fixed and dynamic scales, luggage and hand-held scanners, and rail cargo equipment to increase export capacity and meet international standards for cargo processing.
 * Develop and implement modern traffic management systems at select, high-volume border crossing points.
-* Promote regional exports to the European Union and other international markets. 
-* Improve access to finance for entrepreneurs and small businesses. 
-* Raise awareness of the importance of new opportunities and emerging industries for the economic future. 
 
 ### Select Results
 
+* Delivered $12.2 million in equipment (grain wagons, grain warehouses, mega big bags, tractors, front loaders, shipping container loaders, and more).
+* Helped 27 firms to leverage $77 million in private investment to bolster trade and grain export.
+* Completed or initiated tenders for more than 100 pieces of equipment for border crossing points worth $37 million.
+* In close partnership with SARDI, State Customs, and Ukraine Railways, ERA began feasibility and design phases worth $500,000 for planned construction.
 * Assisted 7,494 vulnerable and hard-to-reach beneficiaries—of whom 64 percent were female—since the beginning of the project with training and technical assistance.
 * Helped to raise more than $4 million in commercial capital for eastern Ukrainian small firms.
 * Assisted the Ministry of Communities and Territories Development in holding the International Marathon for Local Governments to support cities in Ukraine. Five online meetings between Ukraine’s community leaders and their counterparts from 35 countries were held, engaging more than 1,000 participants. 
-* Supported the relocation program provided by the Reform Team under the Ministry of Economy of Ukraine to facilitate the relocation of enterprises from hostilities areas to safer regions of Ukraine. 
+* Supported the relocation program provided by the Reform Team under the Ministry of Economy of Ukraine to facilitate the relocation of enterprises from hostile areas to safer regions of Ukraine. 
 * Launched a new campaign, CXID: Reload (East:Reload), designed to reposition eastern Ukraine in the hearts and minds of all Ukrainians as a region that has the potential to become a center of IT excellence and set an inspirational tone for entrepreneurs, innovators, and small business owners; inspire self-investment and entrepreneurship, and gain the attention of the national and international investor community. The campaign launch reached more than 13 million people. Although the campaign was launched before the war, it has the potential to be continued after Ukraine is liberated.   
 * Worked with a small group of “pathfinder farmers” to help them to grow cherry tomatoes that are in high demand by national retail stores which resulted in a contract to regularly ship the tomatoes to Fozzy Group, which owns more than 500 supermarkets throughout Ukraine. The [cooperative](https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine) is now in sales negotiations for the sale of new products next year and ERA is scaling up the pilot to farming communities. 
 * Worked with USAID’s State-Owned Enterprises Reform Activity and the Ministry of Economy to assist Prozorro.Sale—a state-owned enterprise—to help relocate enterprises to safer regions, principally by developing an IT-platform with a section for relocation, e-marketplace capabilities, and support services.
