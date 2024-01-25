@@ -1,6 +1,7 @@
 ---
 title: Jeremy Finch
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Senior Director, Ethics and Integrity
 email: jeremy_finch@dai.com
 summary: Jeremy heads up the internal audit and the ethics and compliance functions
