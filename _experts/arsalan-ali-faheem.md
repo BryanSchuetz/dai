@@ -19,7 +19,7 @@ articles:
 layout: expert
 ---
 
-Arsalan Ali Faheem leads DAI’s corporate team in Pakistan as Country Director. A member of DAI’s global senior leadership team, Arsalan brings more than 13 years of experience in corporate strategy and private sector development in growth markets in Africa, the Middle East, and South Asia. He is a certified director from the Pakistan Institute for Corporate Governance.
+Arsalan Ali Faheem leads DAI’s corporate team in Pakistan as Country Director and also acts as Chief of Party for the [USAID PREIA project](https://www.dai.com/our-work/projects/pakistan-regional-economic-integration-activity-preia). A member of DAI’s global senior leadership team, Arsalan brings more than 13 years of experience in corporate strategy and private sector development in growth markets in Africa, the Middle East, and South Asia. He is a certified director from the Pakistan Institute for Corporate Governance.
 
 As strategy advisor, Arsalan has been a core contributor to DAI’s global diversification strategy, advising DAI corporate platforms on service innovation and new market development key locations—including Jordan, Mexico, Pakistan, South Africa, and the United Kingdom. As a member of DAI’s International Business Group, he was part of a successful transformation team set up to expand engagement market share with the U.K. Foreign, Commonwealth & Development Office (FCDO) and European Union (EU). 
 
