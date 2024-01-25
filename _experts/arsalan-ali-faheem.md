@@ -6,7 +6,7 @@ summary: 'Arsalan Ali Faheem is the Country Director of DAI’s corporate office
   Pakistan, where he leads corporate strategy, client engagement, and new business
   development. '
 job-title: Country Director, Pakistan
-image: "/uploads/new%20Arsalan.jpg"
+image: "/uploads/Arsalan%20Ali%20Faheem%20Square.JPG"
 solutions:
 - Business Environment Reform
 - Economic Growth
