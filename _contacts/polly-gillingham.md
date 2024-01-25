@@ -1,6 +1,7 @@
 ---
 title: Polly Gillingham
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Vice President, Business Development
 email: polly_gillingham@dai.com
 summary: With over 25 years of experience in the sector, Polly is responsible for
