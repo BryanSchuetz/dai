@@ -1,7 +1,7 @@
 ---
 title: Zehra Zaidi
 date: 2023-10-11 10:49:00 Z
-job-title: Senior Director of Human Development
+job-title: Senior Director, Human Development
 email: zehra_zaidi@dai.com
 summary: Zehra Zaidi is the Senior Director of Human Development for DAI’s UK and
   Europe units and has designed and led programs focused on education, innovation,
