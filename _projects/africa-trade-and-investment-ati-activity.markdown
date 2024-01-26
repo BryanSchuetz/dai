@@ -44,7 +44,7 @@ The platform is collectively funded by all users (Prosper Africa and participati
 
 ## Select Results
 
-* Leveraged $180 million in private-sector co-investment.
-* Closed 410 trade deals, valued at $443 million. 
-* Closed 188 investment deals, valued at $250.7 million.
-* Awarded $71.3 million in grants and subcontracts.   
+* Leveraged $291 million in private-sector co-investment.
+* Closed 759 trade deals, valued at $741 million. 
+* Closed 288 investment deals, valued at $613 million.
+* Awarded $123 million in grants and subcontracts.   
