@@ -1,6 +1,7 @@
 ---
 title: Donal Cotter
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Cotter
 summary: 'Donal Cotter is an expert in economic growth programming, competitiveness,
   and market-based systems with more than 20 years of experience in international
