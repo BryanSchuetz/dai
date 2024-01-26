@@ -1,6 +1,7 @@
 ---
 title: Patrick Wieland
 date: 2022-03-24 16:08:00 Z
+published: false
 lastname: Wieland
 summary: 'Patrick Wieland is an environmental and natural resource lawyer with more
   than 16 years of experience improving environmental management in Peru. '
