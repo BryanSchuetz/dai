@@ -1,6 +1,6 @@
 ---
 title: Susannah Horton
-date: 2024-01-26 20:00:00 Z
+date: 2024-01-26 13:00:00 Z
 lastname: Horton
 summary: 'Susannah Horton is the Cybersecurity and Digital Policy Practice Lead at
   DAI’s Center for Digital Acceleration. '
