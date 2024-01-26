@@ -2,10 +2,10 @@
 title: Katja Silva-Leander
 date: 2016-01-21 22:18:00 Z
 lastname: Silva-Leander
-summary: Katja Silva-Leander is Head of Business Growth in the United Kingdom, with
+summary: Katja Silva-Leander is Senior Director, Business Growth for DAI UK, bringing
   more than 20 years of experience working in the financial services and international
   development fields.
-job-title: Head, Business Growth, UK
+job-title: Senior Director of Business Growth, DAI UK
 image: "/uploads/Katja%20Silva-Leander%202018%20(2).jpg"
 solutions:
 - Economic Growth
