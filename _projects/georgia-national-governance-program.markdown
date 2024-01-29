@@ -21,7 +21,7 @@ The geopolitical landscape in and around Georgia is shifting dramatically. But, 
  
 The project strengthens accountability systems, procedures, and mechanisms within both governing and independent oversight institutions, and enhances their ability to serve and communicate effectively with the public. This agenda includes strengthening the demand for citizen-responsive governance, supporting locally-led priorities, and empowering Georgian civil society and the private sector to demand accountability of governance institutions. The project responds to emerging national priorities such as enhanced public administration reform and public financial management, improved audit functions and transparency of public procurement, and anti-corruption capabilities that will advance Georgia’s aspirations for EU accession. The program also works to bolster cybersecurity given the threat of Russian malign influence and aggression.
 
-![ga.jpg](/uploads/ga.jpg)
+![Georgia NGP.jpg](/uploads/Georgia%20NGP.jpg)
 
 ## Sample Activities
 
