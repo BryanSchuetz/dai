@@ -43,13 +43,13 @@ The activity is expected to strengthen services for some 1.1 million Filipinos.
 
 ## Select Results
  
-* Helped about 200,000 people to access safe water supply and household sanitation services.
-* Mobilized more than $10 million in funding for water supply and sanitation projects; and another $10 million for investments supporting sustainable landscapes.
+* Helped 377,300 people to access safe water supply and household sanitation services.
+* Mobilized more than $73.7 million in funding for water supply and sanitation projects; and another $18.2 million for investments supporting sustainable landscapes.
 * Forged partnerships with public and private entities to support governance and utility reforms and sustainable livelihood activities for communities living in or around watersheds.
 * Replicated development of payment for ecosystem services in other municipalities and improved existing systems to generate more fees and better management of funds.
 * [Piloted](https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation) output-based aid and blended finance scheme for basic sanitation services of poor households. 
-* Assisted the Puerto Princesa City Water District to commission its Water Supply Improvement Project Phase II, which developed bulk water sources from Montible and Lapu-Lapu rivers. Now fully operational, the project delivers an additional 30 million liters of water supply daily to more than 48,000 consumers, addressing the intermittent water crises experienced in previous years.
-* Supported 700 community members and government officials to plant an estimated 3,000 seedlings of indigenous tree species in three hectares of land in Sitio Pag-asa, Barangay Culasian within Shangal Watershed. These efforts to restore damaged forests will increase the water storage capacity of watersheds and foster crucial upstream water resources. 
+* Assisted the Puerto Princesa City Water District to commission its Water Supply Improvement Project Phase II, which developed bulk water sources from Montible and Lapu-Lapu rivers. Now fully operational, the project delivers water daily to 193,000 consumers, with ideal pressure and high-quality assurance at affordable prices. 
 * Established a private sector partnership with the Coca-Cola Foundation Philippines Foundation and the Negros Economic Development Foundation to expand watershed protection in Negros Occidental. The three-year project will implement agroforestry and watershed conservation activities to protect the province’s sources of fresh water.
 * Launched a professional course on water governance with the University of the Philippines Centre International de Formation des Autorités et Leaders. The course equips local government officials, employees, and water districts with a holistic framework to understand and address issues surrounding water sustainability.
-*  Addressed flood-related water supply challenges in Brooke's Point, Palawan, by elevating a well’s pump head and doubling its capacity. The initiative benefited 2,090 households and will ensure better access to clean water during flood events.
+* Addressed flood-related water supply challenges in Brooke's Point, Palawan, by elevating a well’s pump head and doubling its capacity. The initiative benefited 2,090 households and will ensure better access to clean water during flood events.
+* Supported watershed stakeholders in planting an estimated 43,037 seedlings of indigenous tree species in 57 hectares and 44,878 seedlings of fruit trees in 71 hectares of land in priority watersheds in Palawan, Sarangani, and Negros Occidental to restore damaged watersheds.
