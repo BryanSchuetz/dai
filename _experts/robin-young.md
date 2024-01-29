@@ -5,7 +5,7 @@ lastname: Young
 summary: 'Robin Young leads dynamic projects designed to crowd in new market actors
   to accelerate finance. '
 job-title: Chief of Party, Colombia Equitable Finance Activity
-image: "/uploads/new%20Robin%20Young.jpg"
+image: "/uploads/sm%20Robin%20Young%20new.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
