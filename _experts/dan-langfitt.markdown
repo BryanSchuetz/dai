@@ -14,6 +14,10 @@ solutions:
 - Economic Growth
 regions:
 - Worldwide
+articles:
+- name: 'Opening the Taps of Credit: Lessons from a Credit Pilot in a High-Conflict
+    Zone in Eastern DRC'
+  article_file: https://dai-global-developments.com/articles/opening-the-taps-of-credit-lessons-from-a-credit-pilot-in-a-high-conflict-zone-in-eastern-drc/
 ---
 
 Dan Langfitt is an international development professional with experience at both the community and country levels, including more than a decade with DAI. He supports projects around the world, leads new business efforts to win proposals, and develops training and communications products related to DAI’s economic growth, resilience, and social inclusion work. Dan takes a systems approach to building resilient economies, improving rural livelihoods, and managing natural resources. He specializes in facilitating inclusive long-term change in complex systems, building teams driven by learning, designing, and administering adaptive contract mechanisms, and co-creating and testing innovations, especially in fragile and emerging markets such as Haiti, Mozambique, and the eastern Congo. He has also supported programs funded by the U.S. Agency for International Development (USAID) in Eastern Europe and West Africa in areas ranging from preparing for pandemic threats to catalyzing innovation and entrepreneurship.
