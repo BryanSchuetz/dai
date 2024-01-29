@@ -6,7 +6,7 @@ summary: Miroslav Levanic is the Chief of Party for the Afghanistan Competitiven
   of Export-Oriented Business Activity (ACEBA).
 job-title: 'Chief of Party, Afghanistan Competitiveness of Export-Oriented Business
   Activity '
-image: "/uploads/Miroslav%20Levanic.jpg"
+image: "/uploads/Miroslav%20Levanic%202.jpeg"
 solutions:
 - Economic Growth
 regions:
