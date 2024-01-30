@@ -57,7 +57,7 @@ Across the globe, we work together with a shared mission of helping people impro
 </p>
 </div>
 <div class="col-md-6">
-<img class="img-responsive hidden-xs" src="assets/build/img/global/map.svg" alt="Global Map">
+<img class="img-responsive hidden-xs" src="/uploads/careers-map.svg" alt="Global Map">
 <p class="sub--title visible-xs">Click here to view DAI opportunities in different geographic areas:</p>
 </div>
 </div>
