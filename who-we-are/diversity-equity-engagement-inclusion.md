@@ -275,3 +275,6 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
 
 <h2>Working at DAI</h2>
 <p>DAI offers rewarding careers for talented and innovative technical, managerial, and support professionals. Check out our Careers page for more information on what it’s like to work here. <a href="/careers/why-dai">Learn more</a> about life at DAI.</p>
+
+<h2>DAI Military Career Fair</h2>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/883053305?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Military Career Fair DAI"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
