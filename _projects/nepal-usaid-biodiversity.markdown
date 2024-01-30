@@ -24,7 +24,7 @@ Despite the critical importance of Nepal’s ecosystems, exploitation and enviro
 
 USAID Biodiversity (Jal Jangal) works to reduce threats to ecosystems and species, conserve nature, and enhance human well-being. Working in the Gandaki and Karnali river basins, the activity focuses on improving ecosystem health, advancing environmental and social safeguards, promoting climate resilience, and addressing environmental crime in Nepal. We work with the Government of Nepal, civil society groups, local communities, and private sector actors, contributing to an emerging multi-donor collaboration that supports Nepal’s green, inclusive, and resilient development.
  
-![Greater one horned rhino, mother and calf in Chitwan National Park, Nepal © Babu Ram Lamichhane 2 (1).JPG](/uploads/Greater%20one%20horned%20rhino,%20mother%20and%20calf%20in%20Chitwan%20National%20Park,%20Nepal%20%C2%A9%20Babu%20Ram%20Lamichhane%202%20(1).JPG)
+![Greater one horned rhino, mother and calf in Chitwan National Park, Nepal © Babu Ram Lamichhane 2 (1).JPG](/uploads/Greater%20one%20horned%20rhino,%20mother%20and%20calf%20in%20Chitwan%20National%20Park,%20Nepal%20%C2%A9%20Babu%20Ram%20Lamichhane%202%20(1).JPG)`Photo courtesy: Babu Ram Lamichhane.` 
 
 ## Sample Activities
 
