@@ -6,7 +6,7 @@ summary: Along with key partner Winrock International, DAI is building the capac
   Energy Framework—an overarching vision for the off-grid electricity and clean cooking
   sector.
 start: 2019
-end: 2023
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
