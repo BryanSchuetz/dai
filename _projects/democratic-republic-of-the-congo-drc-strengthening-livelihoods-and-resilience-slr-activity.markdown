@@ -22,6 +22,12 @@ promos:
 - title: 'Opening the Taps of Credit: Lessons from a Credit Pilot in a High-Conflict
     Zone in Eastern DRC'
   link: https://dai-global-developments.com/articles/opening-the-taps-of-credit-lessons-from-a-credit-pilot-in-a-high-conflict-zone-in-eastern-drc/
+- title: Two Practical Approaches to Meeting Emergent Needs Without Sacrificing Systemic
+    Change
+  link: https://www.msdhub.org/post/two-practical-approaches-to-meeting-emergent-needs-without-sacrificing-systemic-change
+- title: 'Going with the Grain: Stimulating Private Sector Seed Supply in the Democratic
+    Republic of the Congo’s Ituri Province'
+  link: https://agrilinks.org/post/going-grain-stimulating-private-sector-seed-supply-democratic-republic-congos-drc-ituri
 ---
 
 The Democratic Republic of the Congo (DRC) Feed the Future Strengthening Livelihoods and Resilience (SLR) Activity assists the Government of the DRC to improve the resilience of vulnerable households and communities and support the Congolese people, households, and communities in their efforts to sustainably escape poverty and chronic vulnerability. [SLR](https://beamexchange.org/practice/programme-index/316/) strengthens systems and institutional capacity; fosters inclusive economic growth and improved livelihoods; improves the availability, access, utilization, and stability of nutritious foods; and promotes gender equity and the empowerment of women and youth.
