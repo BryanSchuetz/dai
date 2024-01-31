@@ -1,5 +1,5 @@
 ---
-title: DAI Publishes Whitepaper on 2024 Local Content Trends
+title: DAI Publishes White Paper on 2024 Local Content Trends
 date: 2024-01-29 17:29:00 Z
 published: false
 solutions:
@@ -8,8 +8,8 @@ summary: 'DAI has published a new whitepaper summarizing the current trends in l
   content policy. '
 ---
 
-DAI has published a new whitepaper summarizing the current trends in local content policy.  *Local Content for Secure and Sustainable Growth: Global Trends in 2024* unpacks how the proliferation of local content across policy and strategy is affecting the energy transition, critical technologies, industry clusters and the regulatory environment.
+DAI has published a new white paper summarizing the current trends in local content policy. *Local Content for Secure and Sustainable Growth: Global Trends in 2024* unpacks how the proliferation of local content issues across policy and strategy is affecting the energy transition, critical technologies, industry clusters, and the regulatory environment.
 
-"From the significant impact of the U.S. Inflation Reduction Act to the integration of local content in national development plans in MENA. This whitepaper is a helpful summary for those in the energy sector that need to navigate the complexities of sustainable growth and localization, offering actionable insights to transform good intentions into tangible outcomes," said Patrick Henry, Vice President of DAI's Sustainable Business Group.
+"From the significant impact of the U.S. Inflation Reduction Act to the integration of local content in national development plans in MENA, this white paper is a helpful summary for anyone in the energy sector who needs to navigate the complexities of sustainable growth and localization, offering actionable insights to transform good intentions into tangible outcomes," said Patrick Henry, Vice President of DAI's Sustainable Business Group.
 
 [Learn more about DAI’s Local Content Masterclass.](https://www.dai.com/our-work/solutions/sustainable/training/master-class)
