@@ -5,6 +5,7 @@ solutions:
 - Sustainable Business
 summary: 'DAI has published a new whitepaper summarizing the current trends in local
   content policy. '
+social-image: "/uploads/solar_social.png"
 ---
 
 DAI has published a new white paper summarizing the current trends in local content policy. *Local Content for Secure and Sustainable Growth: Global Trends in 2024* unpacks how the proliferation of local content issues across policy and strategy is affecting the energy transition, critical technologies, industry clusters, and the regulatory environment.
