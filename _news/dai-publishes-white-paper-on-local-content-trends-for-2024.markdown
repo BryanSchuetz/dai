@@ -1,6 +1,6 @@
 ---
 title: DAI Publishes White Paper on 2024 Local Content Trends
-date: 2024-01-29 17:29:00 Z
+date: 2024-02-01 04:30:00 Z
 published: false
 solutions:
 - Sustainable Business
