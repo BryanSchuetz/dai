@@ -4,6 +4,12 @@ date: 2024-02-01 08:35:00 Z
 solutions:
 - DAI Capital
 regions: Worldwide
+summary: 'DAI is pleased to announce the addition of Marc Nahum to its expanding DAI
+  Capital business as Managing Director for Investor Client Relations. Nahum—an industry
+  veteran with expertise in fundraising, business development, investor relations,
+  and investment banking—will lead the development and distribution of new private
+  debt and private equity strategies for DAI Capital. '
+social-image: "/uploads/sm%20Marc.jpg"
 ---
 
 ### Senior executive will strengthen DAI Capital’s fundraising capability 
@@ -12,7 +18,9 @@ DAI is pleased to announce the addition of Marc Nahum to its expanding DAI Capit
 
 “We’re thrilled to welcome Marc to the team,” said [Gavin E.R. Wilson](https://www.dai.com/who-we-are/leadership/gavin-wilson), Chief Executive Officer of [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital). “Marc’s deep roots and relationships across the world’s capital markets afford him a comprehensive understanding of the international investment landscape and the sustainable investment opportunities that are most compelling for global investors.” 
 
-DAI Capital offers a multiproduct financial services platform focused on mobilizing and deploying private capital to spur sustainable development in emerging and frontier economies. The DAI Capital platform is based on three pillars: corporate finance, project finance, and asset management. As Managing Director, Nahum will work across all three pillars, with an initial focus on engaging commercial and institutional investors interested in the sustainable investment space. 
+![Marc.jpg](/uploads/Marc.jpg)`Marc Nahum, at right, pictured with Gavin Wilson.`
+
+[DAI Capital ](https://www.dai.com/our-work/solutions/dai-capital) offers a multiproduct financial services platform focused on mobilizing and deploying private capital to spur sustainable development in emerging and frontier economies. The DAI Capital platform is based on three pillars: corporate finance, project finance, and asset management. As Managing Director, Nahum will work across all three pillars, with an initial focus on engaging commercial and institutional investors interested in the sustainable investment space. 
 
 “Building on DAI’s global operational footprint and drawing on more than 50 years of hands-on work in developing countries, Gavin and the DAI Capital team offer a distinctive value proposition for institutional investors and high-net-worth individuals seeking to realize the potential of emerging and frontier markets,” said Nahum. “I am looking forward to working with my new colleagues.”  
 
