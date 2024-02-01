@@ -5,6 +5,7 @@ lastname: Nahum
 summary: Marc Nahum is a private equity professional with more than 25 years of experience
   in fundraising, business development, investor relations, and investment banking.
 job-title: Managing Director, Investor Client Relations, DAI Capital
+image: "/uploads/Marc%20Nahum%20sm.jpg"
 solutions:
 - DAI Capital
 regions:
