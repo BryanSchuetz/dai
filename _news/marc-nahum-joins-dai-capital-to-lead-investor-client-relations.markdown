@@ -10,7 +10,7 @@ regions: Worldwide
 
 DAI is pleased to announce the addition of Marc Nahum to its expanding DAI Capital business as Managing Director for Investor Client Relations. Nahum—an industry veteran with expertise in fundraising, business development, investor relations, and investment banking—will lead the development and distribution of new private debt and private equity strategies for DAI Capital. 
 
-“We’re thrilled to welcome Marc to the team,” said [Gavin E.R. Wilson](https://www.dai.com/who-we-are/leadership/gavin-wilson), Chief Executive Officer of DAI Capital. “Marc’s deep roots and relationships across the world’s capital markets afford him a comprehensive understanding of the international investment landscape and the sustainable investment opportunities that are most compelling for global investors.” 
+“We’re thrilled to welcome Marc to the team,” said [Gavin E.R. Wilson](https://www.dai.com/who-we-are/leadership/gavin-wilson), Chief Executive Officer of [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital). “Marc’s deep roots and relationships across the world’s capital markets afford him a comprehensive understanding of the international investment landscape and the sustainable investment opportunities that are most compelling for global investors.” 
 
 DAI Capital offers a multiproduct financial services platform focused on mobilizing and deploying private capital to spur sustainable development in emerging and frontier economies. The DAI Capital platform is based on three pillars: corporate finance, project finance, and asset management. As Managing Director, Nahum will work across all three pillars, with an initial focus on engaging commercial and institutional investors interested in the sustainable investment space. 
 
