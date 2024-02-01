@@ -17,6 +17,8 @@ promos:
   link: https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/
 - title: PLANE Blogs
   link: https://planenigeria.com/blogs/
+- title: PLANE Newsletter January 2024
+  link: "/uploads/PLANE_Newsletter_Jan_2024_Edition.pdf"
 ---
 
 The Partnership for Learning for All in Nigeria (PLANE) project works to deliver a more inclusive and effective education system and improve learning outcomes for students in their pre-primary and primary years. 
