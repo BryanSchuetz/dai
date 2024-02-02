@@ -21,7 +21,7 @@ Poland is one of the most energy-intensive economies in Europe and the Polish go
 
 Poland REFF built on the success of the DAI-led [Polish Sustainable Energy Financing Facility](https://www.dai.com/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff) (PolSEFF), which provided similar energy efficiency financing to small and medium enterprises.
 
-The project facilitated the disbursement of €128 million in sub-loans through local banks in Poland, benefiting a wide range of borrowers. The initiative has covered more than 23,000 projects, reducing energy use by 199,497.36 megawatt hours per year, equivalent to the electricity supply for a city of 22,170 inhabitants. The loans have also contributed to avoiding emissions of 45,116.69 tons of greenhouse gases annually. PolREFF engineers have also developed an Energy Savings Calculator that enables users to estimate their annual savings in kilowatt hours and Polish zloty.
+The project facilitated the disbursement of €128 million in sub-loans through local banks in Poland, benefiting a wide range of borrowers. The initiative covered more than 23,000 projects, reducing energy use by 199,497.36 megawatt hours per year, equivalent to the electricity supply for a city of 22,170 inhabitants. The loans also contributed to avoiding emissions of 45,116.69 tons of greenhouse gases annually. PolREFF engineers also developed an Energy Savings Calculator that enables users to estimate their annual savings in kilowatt hours and in Polish *zloty*.
 
 ![](https://assetify-dai.com/projects/PolReff.jpg)
 
