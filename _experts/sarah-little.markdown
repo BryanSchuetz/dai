@@ -1,6 +1,7 @@
 ---
 title: Sarah Little
 date: 2022-08-23 08:45:00 Z
+published: false
 lastname: Little
 summary: Sarah Little is a Senior Global Practice Specialist who focuses on civil
   society strengthening in governance program development and implementation.
