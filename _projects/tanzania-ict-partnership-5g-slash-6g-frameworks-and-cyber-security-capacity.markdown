@@ -7,7 +7,7 @@ summary: 'The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capa
   defend against authoritarian practices; and catalyze investments in goods and services
   related to information and communications technologies (ICT).'
 start: 2022
-end: 2023
+end: 2024
 client: U.S. Department of State, Embassy Dar es Salaam
 solutions:
 - Digital Strategy
