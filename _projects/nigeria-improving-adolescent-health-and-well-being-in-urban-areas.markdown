@@ -40,11 +40,13 @@ The program works to improve skills for healthy living and future planning; fost
 
 ## Select Results
 
-* Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, aged 15-19.
-* Launched six Youth Hubs.
-* Reached 2,012 adolescents using the locally adapted [SKILLZ United](https://borgenproject.org/tag/skillz-curriculum/) curriculum in Lagos, with 827 graduating and 720 enrolling in follow-on SKILLZ Clubs.
-* Provided contraceptive methods to 3,522 young people, of which 45 percent are new users.
-* Engaged young people throughout project implementation, particularly by forming the Youth Advisory Committees in Lagos and Kano.
-* Trained 68 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
-* Strengthened capacity of 231 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
-* Contributed to national- and state-level policy dialogue, technical working groups, and conferences.
+* Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, ages 15-19.
+* Launched six sustainable Youth Hubs.
+* Reached more than 60,000 adolescents using the locally adapted [SKILLZ](https://borgenproject.org/tag/skillz-curriculum/) United curriculum in Lagos, with 58,829 graduating and 55,338 enrolling in follow-on SKILLZ Clubs.
+* Provided contraceptive methods to 64,954 young people, of which 67 percent are new users.
+* Leveraged free family planning commodities from the state governments in Lagos and Kano to project’s Youth Hubs (the first of its kind to any project).
+* Engaged young people throughout project implementation, particularly by forming the youth advisory committees in Lagos and Kano.
+* Trained 216 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
+* Strengthened capacity of 840 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
+* Successfully integrated menstrual hygiene and nutrition to adolescent programming within both states of operation (a key approach for reaching most in-need youths).
+* Contributed to international, national, and state policy dialogues, technical working groups, and conferences.
