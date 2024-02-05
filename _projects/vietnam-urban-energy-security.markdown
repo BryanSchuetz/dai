@@ -5,7 +5,7 @@ summary: The Vietnam Urban Energy Security project promotes the deployment in ur
   centers of 400 megawatts worth of advanced distributed energy technologies, ranging
   from solar panels and storage batteries to energy-efficient vehicles.
 start: 2019
-end: 2023
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Environment

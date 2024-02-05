@@ -5,7 +5,7 @@ summary: The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) pro
   takes a market systems development (MSD) approach to bolster growth—primarily in
   the agricultural sector—in the poor rural regions of Armenia.
 start: 2022
-end: 2023
+end: 2026
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
