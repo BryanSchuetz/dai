@@ -2,20 +2,21 @@
 title: Johannes Go
 date: 2017-04-17 14:18:00 Z
 lastname: Go
-summary: 'Johannes “John” Go has grants and subcontracts management, operational,
-  and financial experience, having worked on various DAI programs since 2000. '
-job-title: Grants and Administration Director
+summary: 'Johannes “John” Go  ensures efficient and compliant operations in collaboration
+  with project teams and managers, implement streamlined processes, offer regular
+  training, and support project objectives. '
+job-title: Director of Operations, Ukrainian Management Unit
 image: "/uploads/Small%20John%20Go.jpg"
 solutions:
 - Fragile States
 - Peace-building and State-building
 regions:
+- Eastern Europe and Central Asia
 - Asia and the Pacific
 - Middle East and North Africa
-- Eastern Europe and Central Asia
 ---
 
-Johannes “John” Go has grants and subcontracts management, operational, and financial experience, having worked on various DAI programs since 2000. John is an experienced transition operations expert, with 25 years of experience. John has worked with DAI on 14 U.S. Agency for International Development (USAID) projects in fragile and unstable environments in Asia, the Middle East, Eastern Europe, and North Africa. His conflict and post-conflict experience includes Afghanistan, Burma, Indonesia, Iraq, Libya, Nepal, Sri Lanka, and Ukraine, including four projects with USAID’s Office for Transition Initiatives. John’s personal commitment to transition programming is exceptional and because of this deep commitment, he has been willing to go anywhere and take on any role.
+Johannes “John” Go ensures efficient and compliant operations in collaboration with project teams and managers, implement streamlined processes, offer regular training, and support project objectives. With a 25-year career in international development projects, he brings extensive experience and a strong track record in senior operations management roles. John excels in overseeing project operations, administration, grants, subcontracting, procurement, logistics, finance, human resources, and compliance. Known for his results-oriented leadership, commitment to excellence, and adeptness in navigating complex challenges, he has made valuable contributions to international project management, particularly in democracy, governance, economic growth, and environmental programs across diverse regions, including conflict and post-conflict areas such as Afghanistan, Burma, Indonesia, Iraq, Libya, Nepal, Sri Lanka, Thailand, and Ukraine. His key managerial strength lies in project preparation and enhancing operational systems for optimal performance.
 
 * M.A., management, corporate finance and capital markets, Gadjah Mada University
 * B.A., accounting, Atmajaya University
