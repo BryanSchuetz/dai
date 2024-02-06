@@ -35,19 +35,22 @@ Upon successful completion of Fleming Fund Phase I, the UK Department of Health 
 
 ## Sample Activities
 
+* Provide quality assurance in the lab renovation and procurement activities.
+* Improve the production of quality AMR/U/C and burden of disease data.
+* Contribute to sustainable investments at both the country and global levels to counter AMR.
 * Use an evidence-to-action approach that builds on existing assessments to enable a nuanced understanding of the antimicrobial resistance and use (AMR/AMU) challenges and opportunities, entry points, and policy constraints.
 * Foster a data for decision-making mindset, where decision-makers demand evidence for policy and stakeholders are empowered to hold those decision-makers accountable.
 * Build a national-level multisectoral coordination mechanism to effectively address the complexities of AMR/AMU, strengthening information-sharing and coordination across public and private sectors and catalysing political commitment and leadership to drive the AMR agenda.
 
 ## Select Results
 
-* Assessed and refurbished 22 animal and human health laboratories. 
-* Signed agreements with the Ministry of Health and Ministry of National Food Security & Research 
+* Assessed and refurbished 22 animal and human health laboratories.
+* Signed agreements with the Ministry of Health and Ministry of National Food Security & Research.
 * Developed operational cost plan for Pakistan’s National AMR Action Plan.
-* Provided high-tech laboratory equipment to national reference laboratories. 
-* Conducted surveys of 164 in-service field veterinarians and 443 dairy farmers to assess knowledge, attitudes, and practices regarding AMR/AMU, herd health management and laboratory use. 
-* Published a peer-reviewed research article titled “Quantification and Trends of Antimicrobial Use in Commercial Broiler Chicken Production in Pakistan” in the journal *Antibiotics*.
+* Provided high-tech laboratory equipment to national reference laboratories.
+* Conducted surveys of 164 in-service field veterinarians and 443 dairy farmers to assess knowledge, attitudes, and practices regarding AMR/AMU, herd health management and laboratory use.
+* Published a peer-reviewed research article titled “Quantification and Trends of Antimicrobial Use in Commercial Broiler Chicken Production in Pakistan” in the journal Antibiotics.
 * Conducted point prevalence surveys identifying antimicrobial use patterns across human and animal health domains.
 * Delivered training in basic and advanced AMR, biosafety and biosecurity, data analysis for whole genome sequencing, and laboratory quality management systems.
-* Developed governance manual for One Health approach to AMR across Pakistan. 
-* Supported the microbiology department in Pakistan's National Institute of Health Laboratory to pursue accreditation (ISO 15189) used by medical laboratories to certify quality management systems.
+* Developed governance manual for One Health approach to AMR across Pakistan.
+* Supported the microbiology department in Pakistan’s National Institute of Health Laboratory to pursue accreditation (ISO 15189) used by medical laboratories to certify quality management systems.
