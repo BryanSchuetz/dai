@@ -46,6 +46,10 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 					<p><input id="27228304" name="cm-fo-djnwuu" type="checkbox" value="27228304" class="topic-checks" />
 						<label for="27228304">DAI Alumni Network</label></p>
 				</div>
+        <div>
+					<p><input id="28246729" name="cm-fo-djnwuu" type="checkbox" value="28246729" class="topic-checks" />
+						<label for="28246729">DAI in Ukraine</label></p>
+				</div>
         <div style="display: none !important;"><label>Latent Space </label><input aria-label="Latent Space" id="fieldddiukjyh" maxlength="200" name="cm-f-ddiukjyh"></div>
 			</p>
 		</div>
