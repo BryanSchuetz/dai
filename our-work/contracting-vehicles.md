@@ -11,7 +11,7 @@ layout: node
 
 ### Global Health
 
-* Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management (2024–2034)
+* [Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management](https://www.dai.com/our-work/projects/worldwide-comprehensive-technical-assistance-for-health-supply-chain-and-pharmaceutical-management-comprehensive-ta) (2024–2034)
 
 ### Environment & Energy
 
