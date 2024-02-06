@@ -13,7 +13,7 @@ social-image: "/uploads/smZambia.jpg"
 country: Worldwide
 ---
 
-DAI is pleased to announce that the U.S. Agency for International Development (USAID) has awarded DAI a place on its Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management (Comprehensive TA) contract, a competitive contracting mechanism designed to ensure that USAID partner countries have sustainable access to safe, effective, quality-assured, and affordable health commodities.
+DAI is pleased to announce that the U.S. Agency for International Development (USAID) has awarded DAI a place on its Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management ([Comprehensive TA](https://www.dai.com/our-work/projects/worldwide-comprehensive-technical-assistance-for-health-supply-chain-and-pharmaceutical-management-comprehensive-ta)) contract, a competitive contracting mechanism designed to ensure that USAID partner countries have sustainable access to safe, effective, quality-assured, and affordable health commodities.
 
 ![Zambia.jpg](/uploads/Zambia.jpg)`Photo: USAID Zambia.`
 

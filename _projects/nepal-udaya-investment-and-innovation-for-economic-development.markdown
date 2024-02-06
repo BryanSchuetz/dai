@@ -21,6 +21,8 @@ Working with the Government of Nepal, Udaya seeks to pilot an approach that leve
 
 DAI works directly with SMEs to access business development services (BDS), providing support to both the supply (BDS providers) and demand (SMEs) side. Services offered by BDS providers can include business and financial management, accounting, marketing, staff training, certifications, etc. DAI's Technical Assistance Facility will enable both BDS providers and banks to access a grant challenge fund to improve SME lending and the service offering and quality of BDS services. The project also works closely with the Government of Koshi Province to support the establishment of a Risk Reduction Mechanism that will include a final-loss guarantee cover for SME lending. 
 
+![AdobeStock_189726498 Nepal Money.jpeg](/uploads/AdobeStock_189726498%20Nepal%20Money.jpeg)
+
 ### Sample Activities
 
 * Establish a technical assistance facility for improving BDS offers and strengthening SME lending.
