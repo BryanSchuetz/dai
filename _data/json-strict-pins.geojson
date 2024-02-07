@@ -900,10 +900,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Pakistan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94regional-economic-integration-activity-preia\">PREIA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip\">CDIP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace\">BRACE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity\">LRMA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-dare-data-and-research-in-education-technical-assistance-to-strengthen-provincial-federal-data-management-processes\">DARE</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-climate-finance-accelerator-cfa\">CFA</a> (U.K.DBEIS)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94regional-economic-integration-activity-preia\">PREIA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity\">LRMA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-dare-data-and-research-in-education-technical-assistance-to-strengthen-provincial-federal-data-management-processes\">DARE</a> (World Bank)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-climate-finance-accelerator-cfa\">CFA</a> (U.K. DBEIS)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-fleming-fund\">Fleming Fund</a> (U.K. DHSC)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 6
+        "marker-symbol": 5
       },
       "geometry": {
         "coordinates": [
