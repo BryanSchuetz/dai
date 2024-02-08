@@ -5,7 +5,8 @@ lastname: Kormos
 summary: Rémy Kormos has more than 30 years of experience in international business
   law, implementing business environment reform, commercial law, and judicial reform
   in developing and transitioning countries.
-job-title: Senior Counsel, Office of General Counsel
+job-title: Senior Counsel, Office of General Counsel, and Senior Advisor, Development
+  Innovations
 image: "/uploads/Remy%20Kormos-cd2e82.JPG"
 solutions:
 - Economic Growth
@@ -20,9 +21,9 @@ articles:
   article_file: https://europa.eu/capacity4dev/t-and-m-series/documents/guidelines-ndeg9-business-environment-reform
 ---
 
-Rémy Kormos is an attorney with DAI’s Office of General Counsel, providing advice on business transactions, regulatory compliance, and corporate governance. Between 2008 and 2020, Rémy was a member of DAI’s U.S. Government Development Innovations team and our Europe office’s Technical Services team, supporting business development and providing technical assistance on business enabling environment reform and private sector development projects across Sub-Saharan Africa, the Middle East and North Africa, Eastern Europe, Asia, and Latin America and the Caribbean. While in Morocco, he led the commercial law reform component of the Improving the Business Climate Program, funded by the U.S. Agency for International Development (USAID).
+Rémy Kormos is an attorney with DAI’s Office of General Counsel, providing advice on business transactions, regulatory compliance, and corporate governance. Rémy is also a member of DAI’s U.S. Government Development Innovations team and our Europe office’s Technical Services team, supporting business development and providing technical assistance on business enabling environment reform and private sector development projects across Sub-Saharan Africa, the Middle East and North Africa, Eastern Europe, Asia, and Latin America and the Caribbean. While in Morocco, he led the commercial law reform component of the Improving the Business Climate Program, funded by the U.S. Agency for International Development (USAID).
 
-Before joining DAI, Rémy was General Counsel of DPK Consulting, a USAID consulting firm specializing in judicial reform in developing countries. He served as Commercial Law Reform Liaison with the American Bar Association’s Europe and Eurasia Program in Sofia, Bulgaria, from 2002 to 2003. Between 1993 and 2001 he was a business lawyer at corporate law firms.  
+Before joining DAI in 2009, Rémy was General Counsel of DPK Consulting, a USAID consulting firm specializing in judicial reform in developing countries. He served as Commercial Law Reform Liaison with the American Bar Association’s Europe and Eurasia Program in Sofia, Bulgaria, from 2002 to 2003. Between 1993 and 2001 he was a business lawyer at corporate law firms in New York, Paris, and San Francisco.  
 
 * Master of Law, University of California
 * Juris Doctor, New York University School of Law
