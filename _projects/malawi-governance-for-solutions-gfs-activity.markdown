@@ -25,7 +25,7 @@ Through a problem-driven, iterative adaptation approach, DAI helps local stakeho
 ## Sample Activities
 
 * Launch an Innovation Fund to provide small grants and/or in-kind assistance to support coalition members to research and test innovative ideas and deliver on the most promising reform initiatives.
-* Support the government to recruit, hire, and fund additional human resources for the healthcare industry.
+* Support the government in recruiting, hiring, and funding additional human resources for the healthcare industry.
 * Apply innovative approaches to bring together the District Environment Sub-Committee, traditional leaders, and community policing structures to streamline and enhance the system for monitoring the sale of illegal charcoal in markets.
 
 ## Select Results
