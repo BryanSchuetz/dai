@@ -27,3 +27,7 @@ Through a problem-driven, iterative adaptation approach, DAI helps local stakeho
 * Launch an Innovation Fund to provide small grants and/or in-kind assistance to support coalition members to research and test innovative ideas and deliver on the most promising reform initiatives.
 * Support the government to recruit, hire, and fund additional human resources for the healthcare industry.
 * Apply innovative approaches to bring together the District Environment Sub-Committee, traditional leaders, and community policing structures to streamline and enhance the system for monitoring the sale of illegal charcoal in markets.
+
+## Select Results
+
+* Assisted eight district councils with the finalization of staff salary budgets for the fiscal year. These budgets will serve as the foundation for developing recruitment strategies to occupy essential positions in newly authorized establishments within the government. These activities contribute to GfS’ goal of improving human resources management within the Government of Malawi. 
