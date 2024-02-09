@@ -12,7 +12,6 @@ DAI has published a new white paper summarizing the current trends in local cont
 
 <div data-tf-live="01HNGE47KMSQB7SZKDGH807KB7"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
-
-"From the significant impact of the U.S. Inflation Reduction Act to the integration of local content in national development plans in MENA, this white paper is a helpful summary for anyone in the energy sector who needs to navigate the complexities of sustainable growth and localization, offering actionable insights to transform good intentions into tangible outcomes," said Patrick Henry, Vice President of DAI's Sustainable Business Group.
+"From the significant impact of the U.S. Inflation Reduction Act to the integration of local content in national development plans in MENA, this white paper is a helpful summary for anyone in the energy sector who needs to navigate the complexities of sustainable growth and localization, offering actionable insights to transform good intentions into tangible outcomes," said [Patrick Henry](https://www.dai.com/who-we-are/our-team/patrick-henry), Vice President of [DAI's Sustainable Business Group.](https://www.dai.com/our-work/solutions/sustainable-business)
 
 [Learn more about DAI’s Local Content Masterclass.](https://www.dai.com/our-work/solutions/sustainable/training/master-class)
