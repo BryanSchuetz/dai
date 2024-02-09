@@ -16,11 +16,13 @@ promos:
 - title: The Relationship Between Medium-Scale Farms and Deforestation in Sub-Saharan
     Africa
   link: https://land-links.org/document/the-relationship-between-medium-scale-farms-and-deforestation-in-sub-saharan-africa/
+- title: 'USAID LandLinks: Integrated Natural Resource Management (INRM) Activity'
+  link: https://www.land-links.org/project/integrated-natural-resource-management-inrm-activity/#project-content
 ---
 
 Coordinating and integrating biodiversity conservation with other development efforts, where appropriate, can provide a powerful opportunity to address the multifaceted challenges people face to add value and produce longer-lasting development outcomes. 
 
-With the launch of the [Environmental and Natural Resource Management (ENRM) Framework](Environmental and Natural Resource Management (ENRM) Framework), the U.S. Agency for International Development (USAID)’s commitment to integrating natural resource management (NRM), biodiversity conservation, and land and resource governance as foundational elements of the Journey to Self-Reliance is clear. Through the Integrated Natural Resource Management (INRM) Activity, DAI and its partners [provide](https://www.land-links.org/2020/10/announcing-new-mission-support-activity-for-integrated-environmental-programming/) technical assistance, facilitation, adaptive management, and innovative tools and approaches to assist USAID to drive the uptake and operationalization of the ENRM Framework in five areas:
+With the launch of the [Environmental and Natural Resource Management (ENRM) Framework](https://www.usaid.gov/environment-energy-infrastructure/enrm-framework), the U.S. Agency for International Development (USAID)’s commitment to integrating natural resource management (NRM), biodiversity conservation, and land and resource governance as foundational elements of the Journey to Self-Reliance is clear. Through the Integrated Natural Resource Management (INRM) Activity, DAI and its partners [provide](https://www.land-links.org/2020/10/announcing-new-mission-support-activity-for-integrated-environmental-programming/) technical assistance, facilitation, adaptive management, and innovative tools and approaches to assist USAID to drive the uptake and operationalization of the ENRM Framework in five areas:
  
 * Assisting missions with the analysis and development of an evidence base to support integrated ENRM programming;
 * Supporting and facilitating the design and adaptive management of ENRM programming;
