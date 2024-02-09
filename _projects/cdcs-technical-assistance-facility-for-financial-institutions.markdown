@@ -6,7 +6,7 @@ summary: 'FSG Plus supports BII in addressing two pressing priorities—i) inclu
   practice change in financial institutions. '
 start: 2021
 end: 2024
-client: Foreign, Commonwealth & Development Office
+client: British International Investment (BII)
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -37,5 +37,5 @@ FSG Plus looks for opportunities to:
 
 * Supported Veritas, an Indian Non-Bank Financial Company, in analyzing its operations, products, and services through a gender lens, seeking strategies to close gender both internally and among the client base. The TA offered significantly increased knowledge and understanding of the barriers faced by women in terms of financial access at the senior leadership level, paving the way for the design of gender-sensitive products, allowing the rollout of a gender-disaggregated analysis of the customer base, and triggering the upgrade to obtain two ISO certifications for human resource operations.   
 * Supporting Advans across Ghana, Tunisia, and Cote d’Ivoire to build its climate strategy through an assessment of its country subsidiaries' portfolio exposure to climate changes; developing training tools to help staff understand climate change-related risks and their impacts on the business sectors and to implement actions to mitigate these risks.
-* Supporting Pubali Bank Limited (PBL), Bangladesh, to develop its directed lending line and expand its green lending initiatives. The project focuses on enhancing the bank's capacity, improving its green governance; refining processes and procedures; developing a comprehensive reporting system; establishing a compliance framework; and implementing loan tracking systems in accordance with the Green Lending Principles (GLPs).
+* Supporting Pubali Bank Limited (PBL), Bangladesh, to develop its directed lending line and expand its green lending initiatives. The project focuses on enhancing the bank's capacity, improving its green governance; refining processes and procedures; developing a comprehensive reporting system; establishing a compliance framework; and implementing loan tracking systems as per the Green Lending Principles (GLPs).
 * Delivered an online event to over 140 participants and over 30 financial institutions on unlocking climate finance and gender lens investment opportunities from a local perspective in West African markets. This event will be followed by a research report to be published in June 2023. 
