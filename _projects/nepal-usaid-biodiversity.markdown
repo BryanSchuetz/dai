@@ -29,8 +29,9 @@ USAID Biodiversity (Jal Jangal) builds on past successes in Nepal’s forestry a
 ## Sample Activities
 
 * Strengthen natural resource governance capacity at municipal and provincial levels. 
-* Improve community management of [freshwater](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI) and forest resources.
+* Improve community management of freshwater and forest resources.
 * Improve management and connectivity of conservation areas and reduce human-wildlife conflict.
-* Bolster enforcement and prosecution of environmental crimes. 
+* Increase alternative income sources and conservation enterprises.
+* Improve enforcement and prosecution of environmental crime. 
 * Support national climate change planning and implementation.
 * Engage the private sector to increase finance for adaptation. 
