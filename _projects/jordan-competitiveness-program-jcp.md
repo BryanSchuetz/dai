@@ -28,15 +28,15 @@ From its impact on key sectors of the economy to its work strengthening Jordanâ€
 
 ![Devs -- JCP Pharma 1.jpg](/uploads/Devs%20--%20JCP%20Pharma%201.jpg)
 
-In 2016, DAI was additionally hired to lead the Project Management Unit of the Jordan Compact, which helped create jobs for Jordanians and Syrians by developing exports to the European Union. [This Compact](https://www.odi.org/sites/odi.org.uk/files/resource-documents/12058.pdf) between countries supported Jordan to mitigate the impact of hosting more than 700,000 registered Syrian refugees. The Compact aimed to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
+In 2016, DAI was additionally hired to lead the Project Management Unit of the Jordan Compact, which helped create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries supported Jordan to mitigate the impact of hosting more than 700,000 registered Syrian refugees. The Compact aimed to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacturing, plastics, and agriculture.
 
-###  Sample Activities
+## Sample Activities
 
 * [Position Jordanian clusters](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan) within global value chains.
 * Create [jobs for young people](https://www.jordancompetitiveness.org/stories/2018/5/13/video-with-usaid-support-oasis500-a-homegrown-seed-investor-looks-for-the-next-big-idea) and women, in and outside of Amman.
 * Lead the Project Management Unit of the Jordan Compact.
 
-###  Select Results
+## Select Results
 
 * Streamlined process for participating in the Jordan-EU Trade Agreement, which designated 18 development zones throughout the country to participate in the trade-facilitation program.
 * Published Arabic version of a comprehensive Export Guide aimed at Jordanian small- and medium-sized enterprises to encourage Jordanian exports to the European Union.Â 
