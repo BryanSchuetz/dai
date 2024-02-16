@@ -36,6 +36,8 @@ promos:
 - title: USAID Supports Central Asian National Tourism Organizations with Promoting
     Post-pandemic Tourism
   link: https://usaidcentralasia.exposure.co/building-a-stronger-central-asian-travel-brand/?fbclid=IwAR0yDDGGIyQD2KHshdLFw_Dkg65rM_OVmM1F7w0kNnY-OKyl02kqjWUuiYA
+- title: 'WOMEN ARTISANS OF CENTRAL ASIA: A LOOKBOOK JOURNEY'
+  link: https://folklife-media.si.edu/docs/folklife/cultural-sustainability/Central_Asian_Lookbook_EN.pdf
 layout: project
 ---
 
@@ -52,7 +54,7 @@ By 2026, we anticipate that the activity will have reduced the average time to m
 ## Sample Activities
 
 * Collaborate with public- and private-sector partners to develop a plan to address regional trade facilitation opportunities and [support businesses](https://medium.com/usaid-2030/tajikistans-apricot-exports-speak-for-themselves-8fdbbb2d1b84) in complying with regulations and requirements.
-* Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job readiness, and entrepreneurship.
+* Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job readiness, and [entrepreneurship](https://folklife-media.si.edu/docs/folklife/cultural-sustainability/Central_Asian_Lookbook_EN.pdf).
 * Establish an innovation facility to motivate firms to design and implement solutions to overcome specific market failures related to horticulture, transportation, and border management.
 
 ## Select Results
