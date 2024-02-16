@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
-  
+
   <body class="{% if page.ultrawide == true %}newpromo {% endif %}{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{%  if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title =='DAI Capital' or page.title == 'Sustainable Business' or page.title == 'DAI in Oman' or page.url contains '/our-work/solutions/global-health' or page.url contains '/who-we-are/diversity-equity-engagement-inclusion'-%} newpromo{%- endif -%}" >
     <div class="wrapper">
       {% include header.html %}
@@ -11,6 +11,17 @@
   <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": 5000, "setGallerySize": false }'>
 
     <!-- Hero Box Cells -->
+    <a class="gallery-cell"
+    style="background: url(/uploads/drc-hero-2024.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
+    href="https://dai-global-developments.com/articles/opening-the-taps-of-credit-lessons-from-a-credit-pilot-in-a-high-conflict-zone-in-eastern-drc/">
+      <div class="shader">
+        <div class="gallery-cell--text">
+          <h2>Opening the Taps of Credit</h2>
+          <span class="hero-bar"></span>
+          <p class="gallery-subhead">Lessons from a Credit Pilot in the DRC</p>
+        </div>
+      </div>
+    </a>
     <a class="gallery-cell"
     style="background: url(/uploads/local-content-2024-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
     href="https://www.dai.com/news/dai-publishes-white-paper-on-local-content-trends-for-2024">
@@ -124,17 +135,6 @@
         </div>
       </div>
     </a>
-    <a class="gallery-cell"
-    style="background: url(/uploads/sustainability-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-    href="/news/a-year-of-progress-toward-the-sdgs-dai-releases-its-sustainability-report-2022?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Sustainability Report 2022</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">A year of progress toward the SDGs</p>
-        </div>
-      </div>
-    </a>     
   </div>
   {% endif %}
 {%- comment -%} Check for which section we're in and build the right mini-hero for each one — We don't build one for the Careers section because that happens in the careers layout {%- endcomment -%}
@@ -145,7 +145,7 @@
         <h1 class="hero-title"> {% if page.url contains "global-reach/dai-nigeria" or page.url contains "global-reach/nigeria"%}<a class="hero-title--link" href="/who-we-are/global-reach/dai-nigeria">{{page.title}}</a>{% else %}{{page.title}}{% endif %}</h1>
         <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
         {% if page.url contains "global-reach/dai-nigeria" or page.url contains "global-reach/nigeria"%}<p class="section-nav">{%- for nav in site.data.nav-nigeria -%}
-          <a class="section-nav--link {% if page.url contains nav.link%}active {% endif %}{% unless forloop.last %}last {% endunless %}" href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %}  /  {% endunless %} 
+          <a class="section-nav--link {% if page.url contains nav.link%}active {% endif %}{% unless forloop.last %}last {% endunless %}" href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %}  /  {% endunless %}
         {%- endfor -%}</p>{% endif %}
     </div>
   </div>
@@ -159,7 +159,7 @@
           href="/who-we-are/global-reach/european-union">{{page.title}}</a>{% endif %}</h1>
       <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
       {% if page.url contains "global-reach/european-union" or page.url contains "global-reach/european-union-office"%}
-      
+
       {%- if page.url contains '-fr' -%}
         {% assign nav-list = site.data.europe-nav-fr %}
       {%- else -%}
@@ -224,18 +224,18 @@
 {% elsif page.hero and page.url contains "our-work" %}
   <div class="hero-wrap our-work {% if page.url contains "sustainable-business" or page.url contains "local-content-and-supply-chain" %} sustainable-business{% endif %}{%- if page.url contains "climate-cop" -%} cop27{%- endif -%}">
     <div class="node-hero">
-    {%- comment -%} This spaggetti of logic is HORRIBLE. Find a way to reduce the complexity here 
-    
+    {%- comment -%} This spaggetti of logic is HORRIBLE. Find a way to reduce the complexity here
+
     - if the page is a primary solution?
       |> then show the page icon
     - if the page is a Solution page AND is NOT a primary Solution page
       |> then assign to SOLUTION the first site.solution with a title that matches the pages first Solution
       |> print SOLUTION's icon
       |> include a link to the solutions main page in the title
-      - if the page is a sub-solution of Digital-Acceleration 
+      - if the page is a sub-solution of Digital-Acceleration
         |> print 'Center for Digital Acceleration' (this is a workaround that lets us keep the solution title solution like, but still lets their page have the more nuanced name)
       - else
-        |> print the solutions title 
+        |> print the solutions title
     - if the page is Digital-Acceleration
       |> print 'Center for Digital Acceleration' (we do this again here because the Digital Acceleration solution has a primary page as well as non-primary pages)
     - if SOLUTION has been populate above
@@ -292,7 +292,7 @@
       </a></h1>
       <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
       <p class="section-nav">{%- for nav in site.data.nav-covid -%}
-          <a class="covid-nav section-nav--link {% if page.url contains nav.parent%}active {% endif %}{% unless forloop.last %}last {% endunless %}" href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %}  /  {% endunless %} 
+          <a class="covid-nav section-nav--link {% if page.url contains nav.parent%}active {% endif %}{% unless forloop.last %}last {% endunless %}" href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %}  /  {% endunless %}
         {%- endfor -%}</p>
   </div>
 </div>
@@ -337,8 +337,8 @@
         {% endif %}
   {% unless page.careers == true %}
     </div>
-  {% endunless %} 
+  {% endunless %}
       {% include footer.html %}
     </div>
-  </body> 
+  </body>
 </html>
