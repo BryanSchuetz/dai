@@ -11,7 +11,7 @@ layout: node
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
 * [REQ-KYV-24-0055-Procurement of Mobile Grain Transshipment Equipment](/uploads/REQ-KYV-24-0055%20-%20Procurement%20of%20Mobile%20Grain%20Transshipment%20Equipment.pdf "3/19")
-*[RFP BE-PDF-24-056 International Consulting Firm](https://dai-assets.s3.amazonaws.com/rfps/RFP%20BE-PDF-24-056-International%20Consulting%20Firm%20to%20support%202050%20VB.pdf "3/5")
+* [RFP BE-PDF-24-056 International Consulting Firm](https://dai-assets.s3.amazonaws.com/rfps/RFP%20BE-PDF-24-056-International%20Consulting%20Firm%20to%20support%202050%20VB.pdf "3/5")
 * [REQ-KYV-24-0053 - Procurement of twenty 55 m3 Triple Axle Grain Trailers_DAI](/uploads/REQ-KYV-24-0053%20-%20Procurement%20of%20twenty%2055%20m3%20Triple%20Axle%20Grain%20Trailers_DAI.pdf "3/11")
 * [RFP REQ-KYV-24-0051 - 10 Generators](/uploads/one%20file%20RFP%20REQ-KYV-24-0051%20-%2010%20Generators.pdf "3/8")
 * [REQ-KYV-24-0053 Procurement of two Container Stuffing Equipment](/uploads/REQ-KYV-24-0056_all.pdf "3/12")
