@@ -1,12 +1,13 @@
 ---
-title: Haiti—USAID Water and Sanitation project
+title: Haiti—USAID Water and Sanitation; Water Security and Systems Strengthening
+  Activity (USAID Eau)
 date: 2018-01-01 20:11:00 Z
 summary: 'The USAID Water and Sanitation project helped local water utilities and
   fecal sludge management sites to provide improved water service to more than 300,000
   people, improved sanitation service to more than 75,000 people, and to put the local
   water utilities and fecal sludge facilities on a stable financial footing. '
 start: 2017
-end: 2023
+end: 2029
 client: U.S. Agency for International Development
 solutions:
 - Environment
@@ -36,20 +37,22 @@ promos:
 
 In Haiti, the incidence of life-threatening water-borne diseases has worsened in recent years, due in large part to the massive earthquake in 2010 and Hurricane Matthew in 2016. Today, fewer Haitians have access to improved water sources than in 1990. Haiti’s National Directorate for Water and Sanitation has become absorbed in emergency response rather than planning the effective decentralization of water security, sanitation, and hygiene (WSSH) services. Private-sector actors have attempted to fill gaps in access, but without proper regulation, these services are often unaffordable for low-income populations and cause environmental damage.
 
-To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supported infrastructure projects to expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. Working in four target communities, by 2022, the program was able to help the local water utilities and fecal sludge management sites to provide basic and improved water and sanitation services to more than 400,000 Haitians and put the local water utilities and fecal sludge facilities on a more stable financial footing.
+To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project in 2017 to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supported infrastructure projects to expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. By 2022, the program was able to help the local water utilities and fecal sludge management sites in four areas to provide basic and improved water and sanitation services to more than 400,000 Haitians and put the local water utilities and fecal sludge facilities on a more stable financial footing.
+
+Starting in 2024, USAID Eau will build on the strong foundation laid by USAID Water and Sanitation project to improve water delivery in Haiti and support the sector’s ability to withstand shocks and stressors.
+
+Using a locally driven system‐strengthening approach, USAID Eau partners with multiple stakeholders—water utilities in larger towns and smaller water systems, regional water authorities, the national water authority, civil society organizations, and private entities—to transform the water sector by helping service providers develop and implement plans to expand coverage to all target areas, gain access to finance, and better manage water resources for resilient, sustained service delivery.
 
 ![Haiti WASH web image.jpg](/uploads/Haiti%20WASH%20web%20image.jpg)
 
 ## Sample Activities
 
-* [Build the capacity of local water utilities](https://medium.com/usaid-global-waters/creating-a-roadmap-for-sustainable-water-service-delivery-in-haiti-e67128d7ac98) to improve their management strategy, reduce non-revenue water losses, and attract new customers. 
-* Strengthen the capacity of small and medium enterprises to market sanitation products. 
-* Help the government to reopen two of the fecal sludge management facilities. 
-* Establish an Enterprise Acceleration Fund to support private-sector WASH service providers with seed funding and technical mentorship.
-* Support high-impact and financially self-sustaining water supply and sanitation infrastructure projects, including pump repair, leak reduction, and new water kiosks.
-* Strengthen the enabling environment for sustainable WASH services by working with private-sector and government partners to develop regulations in key areas, such as the safe disposal of septic waste.
+* Use data for decision making and prioritize investments in a resource-constrained environment.
+* Solarize water systems to reduce reliance on expensive and unreliable energy sources.
+* Promote gender and social inclusion to mitigate the adverse effects of poor water services and poor governance on women’s safety, health, and economic opportunity.
+* Integrate water-smart approaches and climate sensitivity into service provision.
 
-## Select Results
+## Select Results of USAID Water and Sanitation
 
 * Provided 318,850 people with improved or basic water services.
 * Assisted more than 50 entrepreneurs and small enterprises.
