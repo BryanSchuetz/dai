@@ -1,6 +1,7 @@
 ---
 title: Ulrich Monthe
 date: 2023-03-21 11:00:00 Z
+published: false
 lastname: Monthe
 summary: Ulrich leads product and platform development of the Supplier Management
   Portal (SMP)
