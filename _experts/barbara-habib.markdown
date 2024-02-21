@@ -1,18 +1,16 @@
 ---
 title: Barbara Habib
 date: 2020-01-09 21:55:00 Z
-order: 11
 lastname: Habib
-summary: 'Barbara Habib is a Senior Manager for DAI''s Sustainable Business Group
-  and Project Director for its Enterprise Development Center in Mozambique. She is
-  a development professional with more than 13 years of experience managing and implementing
-  economic and community development projects. '
+summary: Barbara Habib is a Senior Manager for DAI's Sustainable Business Group and
+  Project Director for its Enterprise Development Center in Mozambique.
 job-title: Senior Manager
 image: "/uploads/Barbara_Habib_profile.png"
 solutions:
 - Sustainable Business
 regions:
 - Worldwide
+order: 11
 ---
 
 Barbara Habib is a Senior Manager for DAI's Sustainable Business Group and Project Director for MozUp, its Enterprise Development Center in Mozambique. She also serves as General Director for DAI’s local joint venture company with partner TPLA, Mozambique Enterprise for Sustainability (MES). Barbara graduated from the University of Virginia in 2005, where she obtained her degree in Commerce with concentrations in international business and management. She is a development professional with more than 15 years of experience managing and implementing local economic and community development projects, primarily in Africa and the Middle East.
