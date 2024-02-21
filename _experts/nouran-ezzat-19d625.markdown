@@ -4,7 +4,7 @@ date: 2023-12-05 13:35:00 Z
 lastname: Ezzat
 summary: Nouran Ezzat leads the development and execution of the Sustainable Business
   Group's long-term growth strategy
-job-title: Vice President, Head of Growth, Sustainable Business Group (SBG)
+job-title: 'Vice President, Head of Growth, Sustainable Business Group '
 image: "/uploads/Nouran%20webiste.png"
 solutions:
 - Sustainable Business
