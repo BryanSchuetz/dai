@@ -7,7 +7,7 @@ summary: As DAI’s chief representative in Colombia, Norberto Martinez oversees
   across all technical sectors and clients, from international donors and governments
   to private sector and other local stakeholders.
 job-title: Director of Business Development, Colombia
-image: "/uploads/norberto.jpg"
+image: "/uploads/Norberto-b5ce7d.jpg"
 regions:
 - Latin America and the Caribbean
 ---
