@@ -45,6 +45,11 @@ The Project is achieving this goal through five inter-linked objectives: 1) impr
 
 ### Select Results
 
-* 
+* Trained 34,767 people on topics, such as cultivation and harvesting of non-timber forest products, development of sustainable forest products, and training on improved law enforcement practices, such as patrolling, investigation, evidence collection, and other skills. 
+* Mobilized USD 33.6 million in investments to develop conservation-friendly enterprises (CFEs) of forest-dependent communities. 
+* Placed 141,401 hectares of forest land under improved management, contributing to 5.4 million tons of CO2 emissions being reduced, sequestered, or avoided. 
+* Developed 61 policies or plans that strengthened the Government of Vietnam’s ability to manage and protect forest resources, thereby avoiding nearly 15 million tons of CO2 through adoption of these policies. 
+* Developed and launched the innovative Forest Violation Data Management System (FVDMS), strengthening the Government of Vietnam’s ability to track, monitor, and prosecute forest violations nationally. 
+* 61,356 people received livelihood co-benefits due to the Project’s support. 
 
 <iframe src="https://player.vimeo.com/video/889039813" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
