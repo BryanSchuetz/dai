@@ -19,27 +19,11 @@ hero: true
 layout: solution
 ---
 
-# Full Life-Cycle Advisory and Project Implementation Services that Advance the Global Sustainability Agenda
+# Positioning Sustainability as a Driver of Business Growth
 
-DAI's Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, philanthropy, and telecommunications.
+DAI Sustainable Business Group supports clients to dovetail commercial and social impact goals and deliver growth by localizing supply chains and designing fit-for-purpose social investments and financial inclusion programming. We work across industries including energy, renewables, mining, and infrastructure.
 
-Whether we’re helping a multinational safely re-open garment factories during the pandemic or helping a financial institution design a climate finance program, our work is guided by 50 years of development experience around the world.
-
-We rely on data-rich technical analysis and on-the-ground relationships to structure successful service engagements and investments in developed and emerging markets, with an unwavering commitment to our clients and the countries where they work.
-
-## **Positioning Sustainability as a Driver of Business Growth**
-
-The sphere of responsibility assigned to businesses now extends beyond their balance sheets and physical premises into their adjacent communities and environments. They must navigate new frameworks, regulations, and consumer expectations focused on protecting people and planet.
-
-The new frontier of what it means to be a responsible business requires companies to drive meaningful impact and local prosperity in the communities and environments where they operate.\
-\
-Companies’ business and social impact goals should dovetail to meet these two challenges by developing inclusive supply chains and fit-for-purpose social investment. From advising global leaders in green hydrogen to building supply chain resilience for garment manufacturers in Asia, we enable our clients to put sustainable practices at the core of their plans. Our integrated approach is helping leading corporations—from retailers to energy companies—optimize operations while meeting their responsible business commitments.
-
-## Supporting corporations to optimize and localize their supply chains
-
-Our work in supply chains applies state-of-art data collection and analysis to enhance business decision making and ensure inclusive growth outcomes.
-
-Our approach delivers comprehensive programs of business upskilling and workforce training that ensure large-scale investments have the infrastructure for long-term sustainable operations and maintenance.
+We provide a comprehensive suite of capabilities that move our clients from strategy development and feasibility assessment through to piloting, implementation at scale, and impact evaluation. DAI relies on data-rich technical analysis and on-the-ground relationships to structure successful service engagements and investments in developed and emerging markets, with an unwavering commitment to our clients and the countries where they work.
 
 <aside style="margin-top: 2rem;">
 <p>Helping companies put sustainability at the core of their operations and become leaders in responsible business.</P>
