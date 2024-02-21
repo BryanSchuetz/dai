@@ -2,7 +2,7 @@
 title: Mark Pedersen
 date: 2023-12-11 22:41:00 Z
 lastname: Pedersen
-summary: ark Pedersen is a Senior Communications Manager in DAI’s Sustainable Business
+summary: Mark Pedersen is a Senior Communications Manager in DAI’s Sustainable Business
   Group where he leads communications on the Mastercard Strive USA project
 job-title: Senior Communications Manager
 image: "/uploads/Mark%20Pedersen.png"
