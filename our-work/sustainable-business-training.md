@@ -88,22 +88,6 @@ DAI leads customized courses upon request for private sector or government clien
 
 <hr>
 
-## Meet Our Trainers
-
-**Zaki Raheem—Technical Director, Sustainable Business Group**
-
-![new_Zaki Raheem (in Quito)-50e97b.jpg](/uploads/Zaki%20Raheem.png){:.float-right}
-
-[Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem) has more than 18 years’ experience as an MSME development specialist designing, advising, mentoring, and managing entrepreneurship, enterprise development, value chain development, and financial inclusion programs.
-
-* Facilitates in-person and virtual workshops for entrepreneurs and small businesses; hosts business plan competitions, startup boot camps, innovation challenges and pitch events; designs and facilitates training-of-trainers for incubators
-
-* Technical Director for the global advisory team with Shell LiveWIRE, a flagship entrepreneurship program supporting a global network of accelerator and pre-accelerator programs
-
-* Adjunct Professor at Columbia University’s School of International and Public Affairs, where he teaches a graduate-level MSME development class
-
-<hr>
-
 ## Contact Us
 
 To find out more or apply for an upcoming Masterclass or training, please email [training@dai.com](mailto:training@dai.com).
