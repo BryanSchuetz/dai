@@ -24,7 +24,7 @@ We help our clients move beyond regulatory compliance to position themselves as 
 
 ## We support businesses on their path to sustainability through the full lifecycle of their projects, from strategy to impact evaluation
 
-DAI provides a comprehensive suite of solutions that move our clients from strategy development and feasibility assessment through to piloting, implementation at scale, and impact evaluation. Our capabilities include social investment strategy development; program implementation and development of local partner capacity; reporting, monitoring, and evaluation; and application of bespoke digital tools. Our expertise includes worker and community wellbeing, local prosperity and entrepreneurship, circular economy, and natural capital solutions.
+DAI provides a comprehensive suite of solutions that move our clients from strategy development and feasibility assessment through to piloting, implementation at scale, and impact evaluation. Our capabilities include social investment strategy development; program implementation and development of local partner capacity; reporting, monitoring, and evaluation; and application of bespoke digital tools. Our expertise includes worker and community wellbeing,  financial inclusion programing, local prosperity and entrepreneurship, circular economy, and natural capital solutions.
 
 ## Case Studies
 
