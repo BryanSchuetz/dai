@@ -29,15 +29,11 @@ We rely on data-rich technical analysis and on-the-ground relationships to struc
 
 ## **Positioning Sustainability as a Driver of Business Growth**
 
-The sphere of responsibility assigned to businesses now extends beyond their balance sheets and physical premises into thir adjacent communities and environments. They must navigate new frameworks, regulations, and consumer expectations focused on protecting people and planet.
+The sphere of responsibility assigned to businesses now extends beyond their balance sheets and physical premises into their adjacent communities and environments. They must navigate new frameworks, regulations, and consumer expectations focused on protecting people and planet.
 
 The new frontier of what it means to be a responsible business requires companies to drive meaningful impact and local prosperity in the communities and environments where they operate.\
 \
-Companies’ business and social impact goals should dovetail to meet these two challenges by developing inclusive supply chains and fit-for-purpose social investment. From advising global leaders in green hydrogen to building supply chain resilience for garment manufacturers in Asia, we enable our clients to put sustainable practices at the core of their
-
-plans. Our integrated approach is helping leading corporations—from retailers to energy companies—optimize operations while meeting
-
-their responsible business commitments.
+Companies’ business and social impact goals should dovetail to meet these two challenges by developing inclusive supply chains and fit-for-purpose social investment. From advising global leaders in green hydrogen to building supply chain resilience for garment manufacturers in Asia, we enable our clients to put sustainable practices at the core of their plans. Our integrated approach is helping leading corporations—from retailers to energy companies—optimize operations while meeting their responsible business commitments.
 
 ## Supporting corporations to optimize and localize their supply chains
 
