@@ -4,10 +4,11 @@ date: 2023-05-18 07:49:00 Z
 lastname: Roantree
 summary: Scott Roantree has worked for more than 20 years in international development,
   holding senior executive roles in the private and public sectors.
-job-title: CEO, DAI Capital, Australia
+job-title: CEO, DAI Capital Australia
 image: "/uploads/scott_profilephoto%20(002).jpeg"
 solutions:
 - DAI Capital
+- DAI Capital Australia
 regions:
 - Asia and the Pacific
 ---
