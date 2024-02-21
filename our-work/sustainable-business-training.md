@@ -54,34 +54,6 @@ Leveraging design thinking principles, we provide an immersive experience for co
 
 <hr>
 
-## Energy 101 Training
-
-DAI has been a capacity-building and stakeholder engagement partner for international energy companies around the world for the last half-decade. During this period DAI has conducted dozens of Energy workshops around the world, including in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness of the Energy industry and develop the industry knowledge of various stakeholders.
-
-### Who Can Participate?
-
-So far, we have trained more than 400 individuals from the media, government, blogger activists, civil society, non-governmental organizations, environmental specialists, community leaders, mayor’s offices, governor’s offices, religious leaders, security forces, businesses, business associations, and several other stakeholder groups.
-
-The sessions cover a range of topics including:
-
-* Oil and gas fundamentals (industry characteristics, structure, players, value chain)
-
-* Oil and gas project lifecycle
-
-* Political economy dynamics in oil and gas
-
-* Development opportunities and challenges
-
-* Local content
-
-* Introduction to fiscals for oil and gas
-
-* Introduction to gas and LNG
-
-In addition to general capacity-building and awareness programs, DAI also delivers training focused on specific project phases or events. An example is the training workshop on the fundamentals of the oil & gas industry delivered to Senegal’s ESIA Technical Committee in July 2018. The workshop, held in Dakar, was organized by the Directorate of the Environment under the Ministry of Environment and Sustainable Development in coordination with the operator BP. The objective of the workshop was to give participants a deeper technical understanding of the oil and gas industry to enhance their ability to assess the Tortue-1 ESIA document. The sessions covered the industry value chain; the process by which hydrocarbons are formed; technical aspects of the upstream segment, technologies used at different phases; gas composition, process processing and the LNG market; detailed breakdowns of different production facilities; and operational aspects of oil spill response.
-
-<hr>
-
 ## Customized Courses
 
 DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Canada, Ghana, Guyana, Oman, Sierra Leone, and Tanzania.
