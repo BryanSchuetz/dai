@@ -26,6 +26,8 @@ In Vietnam and worldwide, widespread forest degradation from illicit timber harv
 
 Vietnam has 14.79 million hectares of forests that provide carbon, ecosystems, and economic services at local, national, and global scales. The country has a rapidly developing economy with a robust and growing wood processing industry. This growth has also come at a price of increased greenhouse gas emissions and environmental degradation. Despite national increases in overall tree cover, there is a reduction in total area of natural forests and forest quality in the country.  
 
+![DAI SFM banner photo .jpg](/uploads/DAI%20SFM%20banner%20photo%20.jpg)
+
 From 2020-2025, the USAID Sustainable Forest Management Project is linking communities, local authorities, the national government, and the private sector to jointly address the drivers of forest conversion and degradation in targeted areas. The project aims to avoid carbon emissions from natural forest conversion and degradation; increase carbon sequestration through better management of plantation forests; and improve the quality, diversity, and productivity of natural production forests.    
 
 Activities are centered around engagement with the private sector and improved co-management by communities, local authorities, the national Government.   
