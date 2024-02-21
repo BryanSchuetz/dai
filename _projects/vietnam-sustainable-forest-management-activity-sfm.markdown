@@ -22,11 +22,15 @@ promos:
   link: "/uploads/USAID%20Sustainable%20Forest%20Management%20Project%20-%20Vietnamese.pdf"
 ---
 
-Limitations on land ownership, access to markets, and high-quality seed varietals constrain people’s ability to either manage their forests effectively or derive additional benefits from that management. This results in lower levels of carbon sequestration, limits community livelihood opportunities, and contributes to degradation and encroachment on the forests themselves. By addressing the intertwined issues of economic opportunity and forest governance, the U.S. Agency for International Development’s Sustainable Forest Management (SFM) Activity supports Vietnam’s efforts to manage vital forest areas while helping its people share in the country’s rapid growth in an equitable, sustainable way.  
+In Vietnam and worldwide, widespread forest degradation from illicit timber harvesting, forest land conversion and poor forest management practices is leading to increased carbon emissions, which threaten the environment, communities, and livelihoods. Despite national increases in overall tree coverage, Vietnam’s natural forests are reducing in area and worsening in quality.    
 
-SFM helps the Government of Vietnam reduce carbon emissions associated with deforestation, the degradation of natural forests, and poor plantation management. SFM implements a “Green Prosperity” approach that strengthens local communities’ ability to protect their natural resource base and reduce emissions while building a strong foundation for sustainable livelihoods and equitable economic growth.
- 
-In seven provinces, SFM is strengthening community forest management models to address organizational capacity, livelihoods, finance, enforcement, and equitable benefit sharing. 
+Vietnam has 14.79 million hectares of forests that provide carbon, ecosystems, and economic services at local, national, and global scales. The country has a rapidly developing economy with a robust and growing wood processing industry. This growth has also come at a price of increased greenhouse gas emissions and environmental degradation. Despite national increases in overall tree cover, there is a reduction in total area of natural forests and forest quality in the country.  
+
+From 2020-2025, the USAID Sustainable Forest Management Project is linking communities, local authorities, the national government, and the private sector to jointly address the drivers of forest conversion and degradation in targeted areas. The project aims to avoid carbon emissions from natural forest conversion and degradation; increase carbon sequestration through better management of plantation forests; and improve the quality, diversity, and productivity of natural production forests.    
+
+Activities are centered around engagement with the private sector and improved co-management by communities, local authorities, the national Government.   
+
+The Project is achieving this goal through five inter-linked objectives: 1) improve and expand community forest management (CFM); 2) increase conservation-friendly enterprises (CFEs) in forest-dependent communities; 3) increase the functionality of law enforcement systems to address forest crimes; 4) improve production forest management practices; and 5) mobilize domestic resources for forest management and protection.  
 
 <iframe src="https://player.vimeo.com/video/555864541" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
