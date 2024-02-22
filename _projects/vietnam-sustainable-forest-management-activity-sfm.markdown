@@ -22,11 +22,11 @@ promos:
   link: "/uploads/USAID%20Sustainable%20Forest%20Management%20Project%20-%20Vietnamese.pdf"
 ---
 
-In Vietnam and worldwide, widespread forest degradation from illicit timber harvesting, forest land conversion and poor forest management practices is leading to increased carbon emissions, which threaten the environment, communities, and livelihoods. Despite national increases in overall tree coverage, Vietnam’s natural forests are reducing in area and worsening in quality.    
+In Vietnam and worldwide, widespread forest degradation from illicit timber harvesting, forest land conversion, and poor forest management practices is leading to increased carbon emissions, which threaten the environment, communities, and livelihoods. Despite national increases in overall tree coverage, Vietnam’s natural forests are reducing in area and worsening in quality.    
 
-Vietnam has 14.79 million hectares of forests that provide carbon, ecosystems, and economic services at local, national, and global scales. The country has a rapidly developing economy with a robust and growing wood processing industry. This growth has also come at a price of increased greenhouse gas emissions and environmental degradation. Despite national increases in overall tree cover, there is a reduction in total area of natural forests and forest quality in the country.  
+Vietnam has 14.79 million hectares of forests that store carbon and provide ecosystems and economic services at local, national, and global scales. The country has a rapidly developing economy with a robust and growing wood processing industry. This growth has also come at a price of increased greenhouse gas emissions and environmental degradation. Despite national increases in overall tree cover, there is a reduction in total area of natural forests and forest quality in the country.  
 
-![DAI SFM banner photo .jpg](/uploads/DAI%20SFM%20banner%20photo%20.jpg)
+![DAI SFM banner photo .jpg](/uploads/DAI%20SFM%20banner%20photo%20.jpg)`Photo: Cintapo Tran.`
 
 From 2020-2025, the USAID Sustainable Forest Management Project is linking communities, local authorities, the national government, and the private sector to jointly address the drivers of forest conversion and degradation in targeted areas. The project aims to avoid carbon emissions from natural forest conversion and degradation; increase carbon sequestration through better management of plantation forests; and improve the quality, diversity, and productivity of natural production forests.    
 
