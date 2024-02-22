@@ -31,7 +31,7 @@ The Resilience through Agriculture in South Sudan (RASS) Activity has been desig
  
 RASS works to improve the effectiveness of local systems and strengthen the capacities of community groups to achieve gender-responsive and diversified market-sensitive production; facilitate the production of diverse, nutritious foods by strengthening productivity, reducing food loss, and improving nutrition behaviors; and expand household and community opportunities for sustainable, locally driven livelihoods. Taken together, these activities will help graduate communities from crisis, emergency, and famine to less acute phases of food insecurity, and ultimately support a transition from reliance on humanitarian assistance to development and economic growth. 
 
-RASS strengthens capacities to sustain gender-responsive, diversified, and market-sensitive agricultural production; increase the availability of, access to, and utilization of diverse, safe, and affordable diet; and expand opportunities for sustainable, locally driven livelihoods, thereby graduating communities from emergency to insecure. 
+RASS strengthens capacities to sustain gender-responsive, diversified, and market-sensitive agricultural production; increase the availability of, access to, and utilization of diverse, safe, and affordable diet; and expand opportunities for sustainable, locally driven livelihoods, thereby graduating communities from emergency to insecure. Interventions to date have resulted in an 18 percent rise in the Food Consumption Score of program participants in the “acceptable” category, rising from 15 percent to 33 percent while those in the “poor” category reduced from 65 percent to 40 percent.
 
 ![sudan.jpg](/uploads/sudan.jpg)
   
@@ -46,5 +46,9 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
 
 ## Select Results
 
-* Provided 2,585 farmers with quality certified seeds in RASS’s priority counties and supplied an additional 80 seed multiplication farmers with groundnut seeds to build seed multipliers' capacity to produce adequate seeds to supply to local farmers for planting the following season, thereby increasing food production and food security. 
-* Reached 2,712 people, not including those reached through radio messages, through community townhalls and open forums to combat cultural narratives that perpetuate violence and commodify women, while also working to improve women’s skills in agriculture and nutrition. 
+* Reached 40,550 program participants with improved technologies and management practices, of whom 13,389 are farmers in 531 farmer groups engaging in field crops, vegetables, and community-based seed production.
+* Helped participants engaging in farming and other businesses to realize $1,971,809 in sales of their field crops, vegetables, livestock, honey, shea products, peanut butter, and more.
+* Trained 2,270 smallholder ruminant and non-ruminant livestock farmers on good animal husbandry practices.
+* Reached 9,067 children under the age of 5 with nutrition specific interventions which included the provision of nutrients and training of their mothers and caregivers on nutrition and good hygiene practices.
+* Organized and supported 3,193 program participants from 123 village savings and loans associations (VSLA)—improving access to finance in communities and developing a savings culture.
+* Increased the autonomy of female participants in agriculture-related decision-making by 19 percent, increasing from 34 percent to 53 percent. In addition, 15 percent of the surveyed participants, male and female, reported increased asset ownership, indicating positive progress.
