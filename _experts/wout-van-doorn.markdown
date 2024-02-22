@@ -7,6 +7,7 @@ job-title: Director, Infrastructure Finance, DAI Capital
 image: "/uploads/2023_Photo_Wout%20van%20Doorn-818f72.jpg"
 solutions:
 - DAI Capital
+- DAI Capital Australia
 regions:
 - Worldwide
 ---

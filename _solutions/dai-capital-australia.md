@@ -71,6 +71,17 @@ DAI Capital Australia works closely with project sponsors and various stakeholde
 </div>
 
 ## Our Work
-
+{% for project in site.data.australia-projects %}
+  <div class="project-desc" style="margin-bottom: 2rem; margin-top: 2rem;">
+    <img src="{{project.image}}" class="float-right" style="border: 0px;" alt="project image">
+    <h3>{{project.title}}</h3>
+    <p><strong>Location:</strong> {{project.location}}</p>
+    <p><strong>Description:</strong> {{project.description}}</p>
+    <p><strong>Engagement Deliverables:</strong> {{project.deliverables}}</p>
+    </div>
+    {% unless forloop.last %}
+  <hr>
+    {% endunless %}
+{% endfor %}
 
 
