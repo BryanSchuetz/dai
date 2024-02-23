@@ -43,7 +43,7 @@ USAID Eau builds on the USAID Water and Sanitation project’s strong foundation
 
 Using a locally driven system‐strengthening approach, USAID Eau partners with multiple stakeholders—water utilities in larger towns and smaller water systems, regional water authorities, the national water authority, civil society organizations, and private entities—to transform the water sector by helping service providers develop and implement plans to expand coverage to all target areas, gain access to finance, and better manage water resources for resilient, sustained service delivery.
 
-![Haiti WASH web image.jpg](/uploads/Haiti%20WASH%20web%20image.jpg)
+![eau.jpg](/uploads/eau.jpg)
 
 ## Sample Activities
 
