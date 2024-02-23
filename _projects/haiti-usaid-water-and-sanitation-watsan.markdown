@@ -2,10 +2,12 @@
 title: Haiti—USAID Water and Sanitation; Water Security and Systems Strengthening
   Activity (USAID Eau)
 date: 2018-01-01 20:11:00 Z
-summary: 'The USAID Water and Sanitation project helped local water utilities and
-  fecal sludge management sites to provide improved water service to more than 300,000
-  people, improved sanitation service to more than 75,000 people, and to put the local
-  water utilities and fecal sludge facilities on a stable financial footing. '
+summary: USAID Eau partners with multiple stakeholders—water utilities in larger towns
+  and smaller water systems, regional water authorities, the national water authority,
+  civil society organizations, and private entities—to transform the water sector
+  by helping service providers develop and implement plans to expand coverage to all
+  target areas, gain access to finance, and better manage water resources for resilient,
+  sustained service delivery.
 start: 2017
 end: 2029
 client: U.S. Agency for International Development
@@ -35,11 +37,9 @@ promos:
   link: "/uploads/Launch%20of%20the%20water%20resilience%20center.pdf"
 ---
 
-In Haiti, the incidence of life-threatening water-borne diseases has worsened in recent years, due in large part to the massive earthquake in 2010 and Hurricane Matthew in 2016. Today, fewer Haitians have access to improved water sources than in 1990. Haiti’s National Directorate for Water and Sanitation has become absorbed in emergency response rather than planning the effective decentralization of water security, sanitation, and hygiene (WSSH) services. Private-sector actors have attempted to fill gaps in access, but without proper regulation, these services are often unaffordable for low-income populations and cause environmental damage.
+Though facing ongoing economic, security, and climate crises, Haitian water utilities continue the remarkable improvements in service quality and management started under the U.S. Agency for International Development (USAID)’s Water and Sanitation project. The Direction Nationale de l’Eau Potable et de l’Assainissement (DINEPA) has also begun embracing its role as a regulatory agency, aided by better sector data. Despite this progress, most utilities still provide intermittent service, many have fewer than 1,000 customers, and none of Haiti’s piped water systems supply enough water for all urban residents. Haitian communities are suffering from a prolonged drought and there is no regulation of the drawdown of the aquifers. To respond to these challenges, Haitian utilities and DINEPA require assistance through the Water Security and Systems Strengthening (USAID Eau) Activity.
 
-To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project in 2017 to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supported infrastructure projects to expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. By 2022, the program was able to help the local water utilities and fecal sludge management sites in four areas to provide basic and improved water and sanitation services to more than 400,000 Haitians and put the local water utilities and fecal sludge facilities on a more stable financial footing.
-
-Starting in 2024, USAID Eau will build on the strong foundation laid by USAID Water and Sanitation project to improve water delivery in Haiti and support the sector’s ability to withstand shocks and stressors.
+USAID Eau builds on the USAID Water and Sanitation project’s strong foundation to improve water delivery in Haiti. In addition to supporting Centres Technique d’Exploitation (CTEs, water utilities in larger towns), USAID Eau will expand to work with Offices Régionaux de l’Eau Potable et de l’Assainissement (OREPAs) (regional water authorities) and DINEPA to put in place policies and regulations to improve the overall management of the water sector. We work with CTEs, as well as Comités d’Approvisionnement en Eau Potable et Assainissement (CAEPAs) (water utilities for smaller systems) and private operators, by strengthening market systems to improve access to water for marginalized populations. USAID Eau is focused on transforming the water sector by helping water utilities develop and begin implementing plans to expand coverage to all targeted areas, gain access to finance, and better manage water resources for sustained service delivery. USAID Eau’s goal and two complementary objectives will accelerate Haiti’s progress to create stronger accountability for and delivery of water services for all.
 
 Using a locally driven system‐strengthening approach, USAID Eau partners with multiple stakeholders—water utilities in larger towns and smaller water systems, regional water authorities, the national water authority, civil society organizations, and private entities—to transform the water sector by helping service providers develop and implement plans to expand coverage to all target areas, gain access to finance, and better manage water resources for resilient, sustained service delivery.
 
@@ -47,10 +47,10 @@ Using a locally driven system‐strengthening approach, USAID Eau partners with 
 
 ## Sample Activities
 
-* Use data for decision making and prioritize investments in a resource-constrained environment.
+* Provide technical assistance and support to DINEPA to develop clear standards for governance and transparency in the management of the local water systems.
+* Use the World Bank’s Water Utility Turnaround Framework to assist the CTEs to improve their management of the water systems, responsibly manage the water resources, and advance on their path towards creditworthiness.
 * Solarize water systems to reduce reliance on expensive and unreliable energy sources.
 * Promote gender and social inclusion to mitigate the adverse effects of poor water services and poor governance on women’s safety, health, and economic opportunity.
-* Integrate water-smart approaches and climate sensitivity into service provision.
 
 ## Select Results of USAID Water and Sanitation
 
