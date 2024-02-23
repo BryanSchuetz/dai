@@ -14,8 +14,18 @@ regions: Worldwide
 country: Worldwide
 ---
 
-The Climate Ambition Support Alliance Phase 2, (CASA2) provides legal, technical, strategic, diplomatic, and media support to negotiators of the United Nations Framework Convention on Climate Change (UNFCCC), including at the yearly Conference of Parties (COPs) and intercessional meetings. CASA2 supports the most vulnerable groups of countries—the Alliance of Small Island States (AOSIS) and the Least Developed Countries (LDCs)—to engage in and influence the outcomes of international climate negotiations.
+Often those countries most vulnerable to climate change, are also those that have historically contributed the least to global emissions and have fewer resources to mitigate against the devasting impact that climate change has on their communities. These same countries also often have less influencing power in international climate negotiations and related multilateral fora, where decisions are made on what global commitments and measures will be taken to tackle climate change.  
 
-Funded by the U.K. Government’s Department for Business, Energy, and Industrial Strategy, CASA2 supports negotiators as they push for progress on key milestones related to climate finance, loss and damage, and carbon markets.  
+Funded by the U.K. Government’s Department for Energy Security and Net Zero, the Climate Ambition Support Alliance 2 (CASA2) program seeks to address this disparity by creating a fairer, more inclusive negotiation process that enables the meaningful participation of climate-vulnerable country negotiators. This supports the global ambition to keep global warming to less than 1.5 degrees Celsius and reduce the prospects of rapidly escalating climate extremes and severe risks for vulnerable people and systems. 
+
+Participation is achieved by building the capacity and capability of negotiators from climate-vulnerable countries by providing training in addition to legal, technical, strategic, diplomatic, and media support.  
+
+The program is delivered by a consortium of technical experts who provide of mix of training as well as highly tailored, long-term support to senior negotiators from the Group of Least Developed Countries (LDCs), the Alliance of Small Island States (AOSIS), and the Republic of the Marshall Islands which formed the High Ambition Coalition (HAC). 
+
+CASA2 is unique in its design as all support is demand-led, at the request of negotiators and negotiating groups, to ensure continued visible climate leadership by climate-vulnerable countries in global processes. Our partners form small and agile teams and have developed close relationships with senior climate negotiators, allowing their support to be flexible and responsive to the shifting priorities and demands of international climate negotiations, and the shifting climate science, policy, and negotiations landscape.   
 
 ![COP27 plenary crop.jpeg](/uploads/COP27%20plenary%20crop.jpeg)
+
+## Select Results
+
+* Provided more than 400 people, from across 38 climate-vulnerable countries, with either training or advice and support to increase their knowledge on UNFCCC negotiations.
