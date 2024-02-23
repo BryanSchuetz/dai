@@ -34,6 +34,10 @@ promos:
   link: https://devinit.org/blog/what-can-we-expect-uk-aid-global-nutrition/
 - title: TA Support to Countries along the Nutrition Maturity Pathway
   link: "/uploads/Maturity%20Model%20Final_July2023.pdf"
+- title: FAQs  Child Wasting Innovation Program 2024 (English)
+  link: "/uploads/FAQs%20CWIP%20feedback%20mechanism_2024_en.pdf"
+- title: FAQs Child Wasting Innovation Program 2024 (French)
+  link: "/uploads/FAQs%20CWIP%20feedback%20mechanism_2024_fr.pdf"
 ---
 
 The Technical Assistance to Strengthen Capabilities (TASC) Project contributed to processes that support improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). Our partners were [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/) and TASC was a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) programme. 
