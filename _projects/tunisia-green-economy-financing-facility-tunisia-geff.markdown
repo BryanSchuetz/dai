@@ -1,6 +1,7 @@
 ---
 title: Tunisia—Green Economy Financing Facility (Tunisia GEFF)
 date: 2019-07-10 14:49:00 Z
+published: false
 summary: The Tunisia Green Economy Financing Facility (Tunisia GEFF) is a €130 million
   credit facility channeled through Tunisian banks and leasing companies to private
   sector sub-borrowers for investment in technologies and services that support the
