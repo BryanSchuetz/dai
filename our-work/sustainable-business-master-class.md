@@ -18,7 +18,7 @@ layout: solution
 The Local Content Masterclass brings together participants from the private
 and public sector, helping them balance the commercial realities of volatile global
 demand and sustained cost pressures with the current political momentum for increased
-local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. [Download our 2024 Local Content Trends white paper](https://www.dai.com/news/dai-publishes-white-paper-on-local-content-trends-for-2024)
+local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. Download our <a href="https://www.dai.com/news/dai-publishes-white-paper-on-local-content-trends-for-2024">2024 Local Content Trends</a> white paper.
 <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
 <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Join one of our three-day Masterclass courses in 2024</h3>
 <div class="columns ">
