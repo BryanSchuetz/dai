@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP# REQ-PRE-24-0004_TA on Environmental Footprint Life Cycle Assessments (LCAs) for the Textiles Sector in Pak](/uploads/RFP%23%20REQ-PRE-24-0004_TA%20on%20Environmental%20Footprint%20Life%20Cycle%20Assessments%20(LCAs)%20for%20the%20Textiles%20Sector%20in%20Pak.pdf "3/9")
 * [REQ-KYV-24-0055-Procurement of Mobile Grain Transshipment Equipment](/uploads/REQ-KYV-24-0055%20-%20Procurement%20of%20Mobile%20Grain%20Transshipment%20Equipment.pdf "3/19")
 * [RFP BE-PDF-24-056 International Consulting Firm](https://dai-assets.s3.amazonaws.com/rfps/RFP%20BE-PDF-24-056-International%20Consulting%20Firm%20to%20support%202050%20VB.pdf "3/5")
 * [REQ-KYV-24-0053 - Procurement of twenty 55 m3 Triple Axle Grain Trailers_DAI](/uploads/REQ-KYV-24-0053%20-%20Procurement%20of%20twenty%2055%20m3%20Triple%20Axle%20Grain%20Trailers_DAI.pdf "3/11")
