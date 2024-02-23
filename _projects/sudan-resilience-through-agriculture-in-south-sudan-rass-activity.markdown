@@ -24,7 +24,7 @@ promos:
     Pathway in South Sudan
   link: https://dai-global-developments.com/articles/fostering-gender-equality-and-social-inclusion-in-agriculture-as-a-resilience-building-pathway-in-south-sudan/
 - title: RASS Look Book of Impact
-  link: RASS Look Book - USAID Cleared.pdf](/uploads/RASS%20Look%20Book%20-%20USAID%20Cleared.pdf
+  link: "/uploads/RASS%20Look%20Book%20-%20USAID%20Cleared.pdf"
 ---
 
 South Sudan’s rural areas have poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and gender-based violence. 
