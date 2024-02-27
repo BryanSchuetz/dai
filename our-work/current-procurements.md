@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP-TCA-KAZ-24-0003 Terminal Operating System_eng](/uploads/RFP-TCA-KAZ-24-0003%20Terminal%20Operating%20System_eng.pdf "3/20")
 * [Amendment 1 RFP REQ-KYV-24-0053](/uploads/Amendment%201%20RFP%20REQ-KYV-24-0053.pdf "3/11")
 * [RFP# REQ-PRE-24-0004_TA on Environmental Footprint Life Cycle Assessments (LCAs) for the Textiles Sector in Pak](/uploads/RFP%23%20REQ-PRE-24-0004_TA%20on%20Environmental%20Footprint%20Life%20Cycle%20Assessments%20(LCAs)%20for%20the%20Textiles%20Sector%20in%20Pak.pdf "3/9")
 * [REQ-KYV-24-0055-Procurement of Mobile Grain Transshipment Equipment](/uploads/REQ-KYV-24-0055%20-%20Procurement%20of%20Mobile%20Grain%20Transshipment%20Equipment.pdf "3/19")
