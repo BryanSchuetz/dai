@@ -7,7 +7,7 @@ summary: 'Keith Bettinger is Lead Specialist for Climate Change Adaptation and D
   experience in climate change, natural resource management, political economy/ecology,
   and disaster risk reduction in Southeast Asia and the Pacific. '
 job-title: Lead Specialist for Climate Change Adaptation and Disaster Risk Reduction
-image: "/uploads/Keith%20Bettinger%20square.jpg"
+image: "/uploads/20221030_102802%20crop.jpg"
 solutions:
 - Climate
 regions:
