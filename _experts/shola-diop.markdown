@@ -2,7 +2,8 @@
 title: Shola Diop
 date: 2024-02-27 07:49:00 Z
 lastname: Diop
-summary: Shola Diop is an investment management professional with a decade of experience across institutional finance and not-for-profit management.
+summary: Shola Diop is an investment management professional with a decade of experience
+  across institutional finance and not-for-profit management.
 job-title: Manager, DAI Capital Australia
 image: "/uploads/shola-diop.png"
 solutions:
