@@ -32,3 +32,7 @@ Our local partners include the International Union for Conservation of Nature (I
 * Work alongside county officials to build capacity in developing and implementing policies and plans, applying new rural water service delivery models, regulating service providers, overseeing construction works, financing water service delivery, and monitoring progress. 
 * Support community-based organizations, such as water resource user associations, water user associations, water action groups, cooperatives, women’s groups, and youth groups, to advocate for water services, govern community resources, protect watersheds, and expand water services for productive uses. 
 * Foster public-private partnerships for the delivery of water for domestic and productive use, while engaging local businesses to provide technical training, business development services, engineering design, and construction as well as to introduce innovations.
+
+## Select Results
+
+* Supported delivery of the mWater Data and Information Management System. From analyzed data available on the mWater platform, users can locate functional water points and identify those that need improvement from their computers. This provides beneficial information for planning and resource allocation within Taita Taveta County government, a win for efficiency and data-driven decision-making.
