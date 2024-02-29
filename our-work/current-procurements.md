@@ -20,6 +20,3 @@ Listed below are current solicitations. To view additional information regarding
 * [RFP REQ-KYV-24-0051 - 10 Generators](/uploads/one%20file%20RFP%20REQ-KYV-24-0051%20-%2010%20Generators.pdf "3/8")
 * [Amendment 1 RFP REQ-KYV-24-0051](/uploads/Amendment%201%20RFP%20REQ-KYV-24-0051.pdf "3/8")
 * [REQ-KYV-24-0053 Procurement of two Container Stuffing Equipment](/uploads/REQ-KYV-24-0056_all.pdf "3/12")
-* [RFP-TCA-TAJ-24-0002 Off-the-shelf software_eng_final](/uploads/RFP-TCA-TAJ-24-0002%20Off-the-shelf%20software_eng_final.pdf "2/29")
-* [RFP-PCG-001 DCs Leadership Training](https://dai-assets.s3.amazonaws.com/rfps/RFP-PCG-001%20-DCs%20Leadership%20Training.pdf "2/29")
-* [RFP-PCG-002 DCs Conflict Resolution Framework Support](https://dai-assets.s3.amazonaws.com/rfps/RFP-PCG-002%20-DCs%20Conflict%20Resolution%20Framework%20Support.pdf "2/29")
