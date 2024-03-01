@@ -14,6 +14,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:
+- title: Defending Ukraine’s Critical Infrastructure from Cyber Threats
+  link: https://dai-global-developments.com/articles/defending-ukraines-critical-infrastructure-from-cyber-threats/
 - title: Cybersecurity Lessons from Ukraine
   link: https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html
 ---
@@ -48,5 +50,6 @@ The team has continued planned activities throughout the period since Russia’s
 * Equipped government mobile rapid response technical teams with field-deployable technical equipment and software for sensor routing, general supervisory control and data acquisition security, and networking, as well as custom incident response kits.
 * Launched a Small and Medium Business Accelerator called CyberAccelerator UA, which provided more than 100 hours of training to 10 cybersecurity companies.
 * Established a Cybersecurity Higher Education Program involving 56 universities representing 15 oblasts across the country.
+* Donated 4,700 IT components and 4,000 software licenses to 25 higher education institutions to adapt their facilities for the academic year, [ensuring cybersecurity students](https://www.youtube.com/watch?v=pqwXhPdR6YU) can continue to study. 
 * Activated the RangeForce cybersecurity experiential learning platform to provide hands-on training to up to 10,000 top students in cybersecurity concentrations.
 * Provided professional training to critical infrastructure operators and government employees for certification in globally recognized credentials, including Certified Information Systems Security Professional, Certified Network Defender, and Certified Ethical Hacker.
