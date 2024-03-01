@@ -14,7 +14,7 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: Quarterly Report
-  link: https://www.usaid.gov/invest/aug-03-2023-invest-year-6-quarter-3-report
+  link: https://www.usaid.gov/invest/feb-28-2024-invest-year-7-quarter-1-report
 - title: INVEST Blog
   link: https://medium.com/usaid-invest
 - title: Blended Finance Starter Kit
@@ -24,17 +24,19 @@ promos:
   link: https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note
 - title: 'Catalytic Funding 101: USAID INVEST Resource Guide'
   link: https://express.adobe.com/page/EX4epAOuBFo3o/
+- title: 'Transaction Advisory Services 101: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/WgzROaTJkHjx3/
+- title: 'A Network Approach to Engaging the Private Sector: Resource Guide'
+  link: https://new.express.adobe.com/webpage/kbZ1cRU3SCxVh
 - title: 'Catalyzing Finance for Climate Action: USAID INVEST Resource Guide'
   link: https://express.adobe.com/page/p9YjTkUYgMvoA/
 - title: 'Gender-Lens Investing: USAID INVEST Resource Guide'
   link: https://express.adobe.com/page/0CXIKvgBrJ4sz/
-- title: 'Mobilizing Finance for Health: USAID INVEST Resource Guide'
-  link: https://express.adobe.com/page/eQ6SMa0E7UUIp/
-- title: 'Transaction Advisory Services 101: USAID INVEST Resource Guide'
-  link: https://express.adobe.com/page/WgzROaTJkHjx3/
 - title: 'Mobilizing Institutional Investment for Impact at Scale: USAID INVEST Resource
     Guide'
   link: https://express.adobe.com/page/EX4epAOuBFo3o/
+- title: 'Mobilizing Finance for Health: USAID INVEST Resource Guide'
+  link: https://express.adobe.com/page/eQ6SMa0E7UUIp/
 - title: Sustainable Banking Alliance - Lessons Learned for Climate Finance in Colombia
     and Egypt
   link: "/uploads/Sustainable%20Banking%20Alliance%20-%20Lessons%20Learned%20for%20Climate%20Finance%20in%20Colombia%20and%20Egypt.pdf"
@@ -46,7 +48,7 @@ Through the large and growing INVEST partner network, USAID can access new and u
 
 [INVEST](https://www.usaid.gov/INVEST) is designed to address challenges and make it easier for USAID to work alongside the investment community. It ensures rapid [procurement](https://www.invest-procurement.com/about-procurements)—within four to six weeks—so USAID can act within investors’ timelines. It [enables](https://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/) flexible, specialized project design and implementation. And, it focuses on learning and adaptation to drive innovation in mobilizing private capital.
 
-Based in Washington, D.C., INVEST is USAID’s flagship [blended finance](https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note) initiative and includes [subcontractors](https://medium.com/usaid-invest/voices/home) such as CrossBoundary, Open Capital Advisors, and Dalberg. It has [built a network](https://www.usaid.gov/invest/partner-network-list) of more than 500 partners that provide the niche, technical expertise USAID needs on-demand. Through the large and growing Finance and Investment Network, USAID can access new and underutilized partners with the expertise USAID needs, including support for investment assessments, structuring funds, and transaction advisory services.
+Based in Washington, D.C., INVEST is USAID’s flagship [blended finance](https://www.usaid.gov/documents/using-blended-finance-generate-additionality-and-human-impact-guidance-note) initiative and includes [subcontractors](https://medium.com/usaid-invest/voices/home) such as CrossBoundary, Open Capital Advisors, and Dalberg. It has [built a network](https://www.usaid.gov/invest/partner-network-list) of almost 600 partners that provide the niche, technical expertise USAID needs on-demand. Through the large and growing Finance and Investment Network, USAID can access new and underutilized partners with the expertise USAID needs, including support for investment assessments, structuring funds, and transaction advisory services.
 
 INVEST has supported transactions in enterprise development, infrastructure, and financing instruments or funds, and worked in more than 80 countries, including [Colombia](https://medium.com/usaid-invest/blended-finance-clean-energy-and-lasting-peace-in-colombia-b6d69d79cc83), [Haiti](https://medium.com/usaid-invest/search?q=haiti), [India](https://medium.com/usaid-invest/what-usaid-india-is-learning-from-working-with-private-sector-partners-to-improve-the-delivery-of-1001e0af4cf1), [Kenya](https://medium.com/usaid-invest/search?q=kenya), [Tunisia](https://medium.com/usaid-invest/meet-the-tech-startup-transforming-the-dairy-market-in-tunisia-and-beyond-an-interview-with-moome-ad0fe44de4bd), and [Vietnam](https://medium.com/usaid-invest/search?q=vietnam).
 
@@ -61,7 +63,7 @@ INVEST has supported transactions in enterprise development, infrastructure, and
 
 ## Select Results
 
-* Mobilized more than $1.03 billion in capital and supported 164 transactions, including 125 closed deals as of June 2023.
-* Grew the USAID Finance and Investment Network from 26 members in 2017 to more than 579 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
-* Implemented activities with 36 USAID missions, bureaus, and independent offices in more than 80 countries across a range of sectors, including finance, clean energy, and agriculture.
-* Issued 231 subcontracts to develop and implement technical activities as of June 2023. Nearly 70 percent of members are identified as new or non-traditional partners for USAID. Thirty percent are considered local entities and 34 percent are locally established entities, bolstering USAID’s commitment to locally-led development.
+* Mobilized more than $1.4 billion in capital and supported 165 transactions, including 138 closed deals as of December 2023.
+* Grown the USAID Finance and Investment Network from 26 members in 2017 to more than 596 members in 2023. This diverse network has expertise in a wide range of sectors and works in 195 countries.
+* Implemented activities with 38 USAID missions, bureaus, and independent offices in 86 countries across a range of sectors, including finance, clean energy, and agriculture.
+* Issued 245 subcontracts to develop and implement technical activities as of December 2023. Approximately 70 percent of members are identified as new or non-traditional partners for USAID. Forty-three percent are considered local entities and 49 percent are locally established entities, helping to address USAID’s commitment to locally led development.

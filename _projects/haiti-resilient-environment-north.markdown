@@ -1,11 +1,9 @@
 ---
-title: "Haiti—Resilient \nEnvironment North (HRE-N)"
+title: Haiti—Projet Paysages Résilients-Nord (PPR-Nord)
 date: 2022-10-27 09:59:00 Z
-summary: The Haiti Resilient Environment North activity strengthens communities, local
-  systems, and climate resilience in Haiti’s Northern Resilience Focus Zone; it protects
-  and restores ecosystem services using a watershed management approach that fosters
-  sustainable productivity—through interventions such as enhanced agroforestry and
-  soil conservation techniques—and economic inclusion.
+summary: The Haiti *Projet Paysages Résilients-Nord* (PPR-Nord) activity build communities’
+  resilience to reduce vulnerability and to facilitate growth. PPR-Nord promotes sustainable
+  watershed management practices across households, communities, and sub-watersheds.
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
@@ -17,13 +15,18 @@ regions: Latin America and the Caribbean
 country: Haiti
 ---
 
-In northern Haiti, the Bahon, Joli Trou, and Les Perches sub-watersheds provide critical ecosystem services for local communities. Water availability, erosion control, and forested watersheds are particularly important for the sustainability of crop and livestock production on which these communities rely for income, food security, and resilience to shocks and stressors. While many households in these sub-watersheds are aware of improved natural resource management (NRM) practices and technologies, a majority live in poverty and lack the time, resources, and finances to utilize these practices in a consistent or scalable manner. With drought and increasingly intense natural disasters brought on by climate change, prioritizing the ecological health of the sub-watersheds is even more imperative. 
+In Northern Haiti, the Bahon, Joli Trou-Cormier, and Les Perches sub-watersheds provide critical environmental benefits to local communities. Water availability, erosion control, and forested watersheds are particularly important for the sustainability of crop and livestock production on which these communities rely on for income and food.
 
-To help address these issues, the U.S. Agency for International Development designed the Haiti Resilient Environment North (HRE-N) Activity, to build communities’ resilience to reduce chronic vulnerability and facilitate inclusive growth. Despite a challenging context, HRE-N, or *Projet Paysages Resilients* in French, represents an opportunity to support shifts in watershed management practices across households, communities, and sub-watersheds. 
+While many households in these sub-watersheds are aware of natural resource management (NRM) practices, a majority live in poverty and lack the time and money to put these practices to use. With drought and intense natural disasters brought on by climate change, prioritizing the ecological health of the sub-watersheds is an imperative.
 
-By systematically fostering local ownership and identifying incentives through regular engagement with stakeholders, our watershed management approach will align economic incentives with improved NRM practices. By combining this with improved organizational and technical capacity of communities and stakeholder groups, our approach ensures that HRE-N will leave behind more self-reliant local actors and interventions that lead to long-lasting change.  
+To help address these issues, the U.S. Agency for International Development designed the *Projet Paysages Résilients-Nord* (PPR-Nord) (Resilient 
+Environment North) Activity intends to build communities’ resilience to reduce vulnerability and to facilitate growth. PPR-Nord promotes sustainable watershed management practices across households, communities, and sub-watersheds.
 
-![ARM_2394.jpg](/uploads/ARM_2394.jpg)
+The project uses a community-led watershed management approach based on three pillars: local ownership, incentives, and capacity building. Therefore, for any activity to be implemented, the PPR-Nord team involves the departmental directorates of the North and North-East of the Ministries of Agriculture, Natural Resources and Rural Development (MARNDR) and Environment (MDE), communal leaders, households, landowners, community organizations, and sub-catchment management committees. Simultaneously, PPR-Nord works on improving the organizational and technical capacity of communities and project partners. This approach ensures that PPR-Nord will leave behind more self-reliant communities and interventions that lead to long-lasting impacts.
+
+The project aims to engage 50,000 farmers in environmentally and economically productive restoration activities; improve 11,000 hectares of land by forest landscape restoration practices, forestry technologies, and better land management all contributing to climate risk reduction and sustainable natural resource management; and ensure that 30 percent of women and 50 percent of young people are participating in watershed governance and leadership.
+
+![PPRN Picture1.png](/uploads/PPRN%20Picture1.png)
 
 ## Sample Activities
 
