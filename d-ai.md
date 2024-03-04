@@ -6,7 +6,6 @@ layout: default
 ---
 {% assign sortedProjects = site.projects |  sort_by: 'date' %}
 
-{% for projects in sortedProjects %}
-
-<p><strong>{project.date}</strong><a href="{project.permalink}">{project.title}</a></p>
+{% for project in sortedProjects %}
+<p><strong>{{project.date}}:</strong> <a href="{{project.url}}">{{project.title}}</a></p>
 {% endfor %}
