@@ -6,7 +6,7 @@ summary: 'The Social Protection Technical Assistance, Advice, and Resources (STA
   Facility is dedicated to expanding and improving the effectiveness of investments
   in gender-responsive social protection and social protection approaches in crises. '
 start: 2021
-end: 2024
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States

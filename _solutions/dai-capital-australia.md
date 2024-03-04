@@ -15,6 +15,7 @@ layout: solution
 ultrawide: true
 icons: true
 ---
+
 # DAI Capital Australia
 
 We draw on [decades of experience](/who-we-are/the-team?filter=dai-capital-australia) in investment mobilization and international development to prepare and raise finance for infrastructure projects in the healthcare, water, circular economy, and renewable energy sectors, primarily in Indigenous Australia and the Asia region.
