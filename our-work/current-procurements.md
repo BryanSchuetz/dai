@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Supporting Local Governance Integrity Plans through In-Kind Support to Ukraine Local Government Entities RFP-2](/uploads/Supporting%20Local%20Governance%20Integrity%20Plans%20through%20In-Kind%20Support%20to%20Ukraine%20Local%20Government%20Entities%20RFP%20-%202.pdf)
 * [RFP 24-052 Sustainable Strategy](https://dai-assets.s3.amazonaws.com/rfps/RFP%20BE-24-052-Amend%20%232-%20CGC%20Sustainable%20Strategy%20%282%29.pdf "8/31")
 * [Resilient Communities Activity 2024 APS](https://dai-assets.s3.amazonaws.com/rfps/announcement%20short.pdf "8/31")
 * [RFP-TCA-KAZ-24-0003 Terminal Operating System_eng](/uploads/RFP-TCA-KAZ-24-0003%20Terminal%20Operating%20System_eng.pdf "3/20")
