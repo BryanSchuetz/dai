@@ -14,6 +14,9 @@ solutions:
 - Natural Resource Management
 regions:
 - Worldwide
+articles:
+- name: Why Partnering is Crucial in the Fight Against Climate Change
+  article_file: https://dai-global-developments.com/articles/q-a-with-expert-christy-owen-why-partnering-is-crucial-in-the-fight-against-the-damaging-effects-of-climate-change/
 ---
 
 Christy Owen is a development professional with more than 25 years of experience in the areas of natural resource management, climate finance, private sector engagement, climate adaptation and mitigation, biodiversity conservation, and governance. She returns to DAI after more than a decade in Bangkok, Thailand, where she held leadership positions on three key climate and environment programs for the U.S. Agency for International Development (USAID)'s Regional Development Mission for Asia. 
