@@ -35,6 +35,8 @@ promos:
 
 The program helped businesses meet the standards required for exporting to regional and international markets. It worked primarily with and through business support organisations, such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It focused on providing technical cooperation to export and near-export businesses, particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.
 
+TFSA’s achievements include handing over the [TFSA Trade Hub](https://www.tfsouthernafrica.org/) and [School of Export (SoE)](https://www.schoolofexport.org/) to a sustainable legacy partner. The Hub provides a digital library of export resources that have been crucial in helping small firms begin their export journey—since 2021, 72,682 users have visited the site. The SoE learning management system offers 28 modules to help SMEs build capacity to export, grow revenue, and create jobs. Over two years, 3,623 registered users completed 2,729 courses. 
+
 <iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Sample Activities
@@ -46,14 +48,14 @@ The program helped businesses meet the standards required for exporting to regio
 
 ## Select Results
 
-* Provided 707  businesses and firms with value chain training interventions. Nearly 370 project businesses benefited from non-training interventions.
+* Provided 707 businesses and firms with value chain training interventions. Nearly 370 project businesses benefited from non-training interventions.
 * Trained 23 business support organisations.
 * Trained 90 technical staff in the government and private sector.
 * Trained 564 women-owned businesses in value chain-related topics.
 * Established 26 Export Trade Knowledge Centres.
 * Hosted or co-hosted 19 webinars which had 2,338 attendees.
 * Held five in-person trade outreach events with 808 participants.
-* Created a digital school of export with more than 1,585 registrations, more than 60 percent of which are women-led businesses.
+* Created a digital School of Export with 3,623 registrations, more than 60 percent of which are women-led businesses.
 * Trained more than 454 women-led businesses.
 * Built the capacity of 14 business support organisations to serve the needs of women in trade better.
 * Established regional communities of practice, with 17 coaches.
