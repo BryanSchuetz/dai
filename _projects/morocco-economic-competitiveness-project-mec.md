@@ -15,6 +15,9 @@ regions:
 - Middle East and North Africa
 country:
 - Morocco
+promos:
+- title: Project Improves Business Environment in Morocco in Midst of Political Upheaval
+  link: https://dai-global-developments.com/articles/project-improves-business-environment-in-morocco-in-midst-of-political-upheaval/
 layout: project
 ---
 
