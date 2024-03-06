@@ -41,3 +41,7 @@ promos:
 * Coordinate with other USAID implementing partners. Where implementing partners are working in isolation, Policy LINK can apply USAID’s collaborating, learning, and adapting (CLA) methodology and get them to work together more efficiently and effectively.  
 * Build platforms for knowledge sharing and learning. Through peer-to-peer networks, virtual and in-person dialogue, and online learning and collaboration tools, Policy LINK facilitates global learning and knowledge management for policy.
 * Publish [LINK Cast](https://policylinkglobal.org/linkcast)—a podcast centering the voices and stories of Policy LINK's partners and stakeholders working in policy spaces around the world. Episodes run 20 minutes and feature a rotating roster of co-hosts from among the program’s own experts as well as guest hosts from other organizations.  
+
+## Select Results
+
+* Partnered with the Bangladesh Safe Agro and Food Efforts Foundation to generate evidence and address food safety issues by enhancing policy instruments and processes. The team distilled 13 recommendations for establishing safe, nutritious food systems in Bangladesh, including improving inter-government coordination, encouraging private sector involvement, integrating food safety and nutrition policies, and promoting Good Agricultural Practices.
