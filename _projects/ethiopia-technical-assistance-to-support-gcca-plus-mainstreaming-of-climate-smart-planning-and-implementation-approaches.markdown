@@ -5,7 +5,7 @@ date: 2019-01-17 13:10:00 Z
 summary: The Climate-Smart PSNP project is enhancing the design and planning capacities
   of Ethiopia’s Public Works Coordination Unit and Food Security Coordination Directorate.
 start: 2018
-end: 2023
+end: 2024
 client: European Union
 solutions:
 - Environment
