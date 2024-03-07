@@ -2,10 +2,10 @@
 title: James Naughton
 date: 2022-06-08 08:31:00 Z
 lastname: Naughton
-summary: James Naughton is a Senior Principal at DAI UK working in our Global Development
-  Finance and Investment and Economic Growth teams, providing expertise in facilitating
-  and promoting investment globally through blended finance and private investment.
-job-title: Senior Principal, Global Development Finance and Investment
+summary: James Naughton is Head of Development Finance and Investment based in our
+  DAI UK office and provides expertise in facilitating and promoting investment globally
+  through blended finance and private investment.
+job-title: Head, Development Finance and Investment
 image: "/uploads/James%20Naughton.jpg"
 solutions:
 - Finance and Investment
@@ -25,7 +25,7 @@ articles:
   article_file: https://dai-global-developments.com/articles/how-can-digital-financial-services-be-utilised-in-response-to-covid-19
 ---
 
-James Naughton is a Senior Principal in our Global Development Finance and Investment and Economic Growth teams, providing expertise in facilitating and promoting investment globally through blended finance and private investment. He has over a decade of experience providing direct consulting and recommendations to banks, the private sector, and governments to develop economies and encourage investment, with significant time spent working in fragile and conflict states building capacity. 
+James Naughton is Head of Development Finance and Investment based in our DAI UK office and provides expertise in facilitating and promoting investment globally through blended finance and private investment. He has over a decade of experience providing direct consulting and recommendations to banks, the private sector, and governments to develop economies and encourage investment, with significant time spent working in fragile and conflict states building capacity. 
 
 In his work, James has led multi-factor feasibility assessments of infrastructure investment opportunities including technical, financial, and operational feasibility, conducted financial due diligence, assessment of policy and regulation constraints, assessment of business models, and facilitated investments working with investors and partner firms to execute deals. With a strong focus on Africa, James has facilitated transactions with East and Southern African firms looking to enter or grow their international markets.  
 
