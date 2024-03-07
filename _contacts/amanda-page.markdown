@@ -1,6 +1,7 @@
 ---
 title: Amanda Page
 date: 2017-01-05 21:25:00 Z
+published: false
 job-title: Vice President, Human Resources, UK and Europe
 email: amanda_page@dai.com
 summary: Amanda leads DAI Human Resources Management across UK and Europe. Prior to
