@@ -1,7 +1,6 @@
 ---
 title: MicroVest Launches New Framework for Portfolio Impact Management
 date: 2024-03-07 15:45:00 Z
-published: false
 is_featured: true
 solutions:
 - DAI Capital
