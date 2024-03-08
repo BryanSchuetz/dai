@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [Target Communities Baseline Assessment in Uzbekistan](https://dai-assets.s3.amazonaws.com/rfps/0%20TCBA%20Uz%20announcement%20ru%2Ben.pdf "3/20")
 * [RFP REQ-KYV-24-0072 - Remanufactured_Shunting_Locomotives.-b8e808](/uploads/RFP%20REQ-KYV-24-0072%20-%20Remanufactured_Shunting_Locomotives.-b8e808.pdf "4/5")
 * [RFP BE-24-052-Amend #3-CGC Sustainable Strategy](/uploads/RFP%20BE-24-052-Amend%20%233-%20CGC%20Sustainable%20Strategy.pdf "3/20")
 * [Supporting Local Governance Integrity Plans through In-Kind Support to Ukraine Local Government Entities RFP-2](/uploads/Supporting%20Local%20Governance%20Integrity%20Plans%20through%20In-Kind%20Support%20to%20Ukraine%20Local%20Government%20Entities%20RFP%20-%202.pdf "3/10")
