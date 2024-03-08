@@ -8,7 +8,7 @@ summary: 'The Digital Impact Advisory Fund (DIAF) has concluded its second round
   grant funding designed to support the digitalization of MSMEs in the Caribbean region. '
 ---
 
-The Digital Impact Advisory Fund (DIAF) has concluded its second round of grant funding designed to  support the digitalization of micro, small, and medium-sized enterprises (MSMEs) in the Caribbean region. Part of IDB Lab’s EcoMicro portfolio of projects, the fund assists businesses with a financial product or service to introduce digital solutions to their clients. As the fund’s executing agency, DAI provides technical support to the grantees and leads project impact reporting.
+The Digital Impact Advisory Fund (DIAF) has concluded its second round of grant funding designed to  support the digitalization of micro, small, and medium-sized enterprises (MSMEs) in the Caribbean region. Part of IDB Lab’s EcoMicro portfolio of projects, funded by Global Affairs Canada, the fund assists businesses with a financial product or service to introduce digital solutions to their clients. As the fund’s executing agency, DAI provides technical support to the grantees and leads project impact reporting.
 
 DAI adopted several tactics to ensure that the grantees—Techlify, Planting Seeds, and Figozo—were able to access technical support, gain new customers, and build business partnerships. To be eligible for the grant, businesses had to demonstrate that they had been in operation for at least a year and had a sound plan for using the grant. Larger grant awards allowed the grantees to make significant advances in technology, marketing, and strategy. DAI encouraged entrepreneur support organizations to publicize the funding opportunity in their networks.
 
