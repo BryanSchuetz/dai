@@ -3,6 +3,9 @@ title: Digital Impact Advisory Fund Fuels Innovation for Caribbean MSMEs
 date: 2024-03-08 17:08:00 Z
 solutions:
 - Sustainable Business
+regions: Latin America and the Caribbean
+summary: 'The Digital Impact Advisory Fund (DIAF) has concluded its second round of
+  grant funding designed to support the digitalization of MSMEs in the Caribbean region. '
 ---
 
 The Digital Impact Advisory Fund (DIAF) has concluded its second round of grant funding designed to  support the digitalization of micro, small, and medium-sized enterprises (MSMEs) in the Caribbean region. Part of IDB Lab’s EcoMicro portfolio of projects, the fund assists businesses with a financial product or service to introduce digital solutions to their clients. As the fund’s executing agency, DAI provides technical support to the grantees and leads project impact reporting.
@@ -16,7 +19,7 @@ Techlify, originally a software consulting firm, determined that there was a nee
 “The grant allowed us to build a host of features in our product pipeline well ahead of time. Some of the features we were planning to build in 2024 and 2025, were built in 2023; these include mobile app upgrades,” said Techlify CEO Joshua Kisson. “Overall, I'd say the grant pushed TechlifyHR six to 12 months into the future; we currently process payroll for 20,000-plus Guyanese employees and are aiming to get that number up to 50,000-plus by the end of 2024.”
 
 ![DSC06695.jpg](/uploads/DSC06695.jpg)
-`Vanderleia Mamade, Executive Director of Lia & Luana at the Launch event. Photo: Supplied.`
+`The team at Techlify. Photo: Techlify.`
 
 Planting Seeds was founded by a Trinidadian woman, Stephanie Pemberton. Originally a TV show inspired by Shark Tank, Planting Seeds pivoted during the pandemic to develop an e-commerce site and offer support services to MSMEs. The software development funded by DIAF accommodated Spanish speakers and unlocked a new market in Barbados. Before the grant, Planting Seeds required assistance with onboarding MSMEs; the grant helped the company to hire staff to onboard new MSMEs and allowed the team to visit rural regions of Trinidad that are not as digitally savvy and require more face-to-face support. The grant allowed for improvements in wholesale purchases and sales, which unlocked even more new customers.
 
