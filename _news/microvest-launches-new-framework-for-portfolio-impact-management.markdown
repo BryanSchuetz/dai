@@ -14,7 +14,7 @@ MicroVest, a pioneer of U.S.-based microfinance investing, this week launched it
 
 <!--more-->
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe class="video" src="https://player.vimeo.com/video/921211554?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introducing_MicroVest's_PI_Video_V28"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative; margin-bottom:2rem;"><iframe class="video" src="https://player.vimeo.com/video/921211554?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introducing_MicroVest's_PI_Video_V28"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 The launch of MicroVest’s PI coincides with the firm’s 20th anniversary and marks three years since its acquisition by DAI. Today, MicroVest forms part of the asset management division of [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital), DAI’s investment and advisory arm, which operates across three verticals: asset management, investment advisory, and project finance. 
 
