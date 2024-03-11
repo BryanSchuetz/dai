@@ -34,3 +34,5 @@ Figozo was created by two young entrepreneurs whose parents owned a small busine
 “Thanks to the support from the IDB, Figozo has experienced significant growth, with 2,084 Caribbean businesses being onboarded as subscribers to the platform since June. The team was patient with us when getting started and was always responsive to our questions. The support has helped move our business closer to our goal of being the number one platform for solopreneurs,” said Kevonne Martin, Figozo’s co-founder.
 
 Techlify, Planting Seeds, and Figozo have collectively attracted more than 2,600 MSME clients across the Caribbean, who now have access to new tools to improve their operations and contribute to the growth of the entrepreneurial ecosystem.
+
+*Learn more about [DAI’s Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).*
