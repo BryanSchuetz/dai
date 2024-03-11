@@ -28,7 +28,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="column">
 <ul style="margin-left: 2rem;">
 <li></li>
-<li>Will be announced in January 2024</li>
+<li>September 17 - 19, 2024</li>
 </ul>
 </div>
 </div>
