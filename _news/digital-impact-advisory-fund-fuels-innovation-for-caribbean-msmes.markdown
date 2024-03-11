@@ -25,6 +25,11 @@ Planting Seeds was founded by a Trinidadian woman, Stephanie Pemberton. Original
 
 “Thanks to this fund we were able to fully digitize our marketplace delivery service and were able to develop a custom API that has allowed us to service and digitize 500 SME subscribers. We were also able to set up operations in another Caribbean Island, namely the Bahamas, and have been able to digitize our account procedures to efficiently manage incoming and outgoing payments,” said Pemberton.
 
+
+
+![Page 1 - Editors Note.jpg](/uploads/Page%201%20-%20Editors%20Note.jpg)
+`Stephanie Pemberton, founder of Planting Seeds. Photo: Planting Seeds.`
+
 Figozo was created by two young entrepreneurs whose parents owned a small business in Jamaica. Witnessing how challenging it was for their parents to collect payments and manage cash flow, they created Figozo, a mobile application, to automate the process. The grant improved Figozo’s availability through software development and the rollout of a new marketing campaign targeting Caribbean MSMEs, allowing for 2,273 MSMEs to be onboarded.
 
 ![Founders,Shani Bennett (Left) Kevonne Martin(Right).jpeg.jpg](/uploads/Founders,Shani%20Bennett%20(Left)%20Kevonne%20Martin(Right).jpeg.jpg)
