@@ -7,7 +7,8 @@ summary: The Promoting Integrity in the Public Sector Activity (Pro-Integrity) p
   recovery and reconstruction
 start: 2023
 end: 2027
-client: U.S. Agency for International Development
+client: U.K. Foreign, Commonwealth & Development Office and U.S. Agency for International
+  Development
 solutions:
 - Governance
 - Anti-corruption, Transparency, and Accountability
