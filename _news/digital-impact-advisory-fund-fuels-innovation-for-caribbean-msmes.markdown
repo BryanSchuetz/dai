@@ -29,7 +29,7 @@ Planting Seeds was founded by a Trinidadian woman, Stephanie Pemberton. Original
 Figozo was created by two young entrepreneurs whose parents owned a small business in Jamaica. Witnessing how challenging it was for their parents to collect payments and manage cash flow, they created Figozo, a mobile application, to automate the process. The grant improved Figozo’s availability through software development and the rollout of a new marketing campaign targeting Caribbean MSMEs, allowing for 2,273 MSMEs to be onboarded.
 
 ![DIAF fund photo.png](/uploads/DIAF%20fund%20photo.png)
-`(L to R) Figozo Founders, Shani Bennett and Kevonne Martin. Planting Seeds Founder, Stephanie Pemberton. Photos: Figozo & Planting Seeds `
+`(L to R) Planting Seeds Founder, Stephanie Pemberton. Figozo Founders, Shani Bennett and Kevonne Martin. Photos: Figozo & Planting Seeds `
 
 “Thanks to the support from the IDB, Figozo has experienced significant growth, with 2,084 Caribbean businesses being onboarded as subscribers to the platform since June. The team was patient with us when getting started and was always responsive to our questions. The support has helped move our business closer to our goal of being the number one platform for solopreneurs,” said Kevonne Martin, Figozo’s co-founder.
 
