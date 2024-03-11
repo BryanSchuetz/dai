@@ -31,15 +31,15 @@ The COVID-19 pandemic has highlighted just how powerful social protection can be
 
 Social protection has genuine potential to address the drivers of gender inequality as well as poverty—closing gender gaps in education, health, and economic opportunities. Systems and programs can be designed or strengthened using a gender lens—examining how each element of the system can best integrate gender equality considerations. In relation to girls’ education, for example, program poverty and vulnerability assessments of the social protection system should map girls’ and boys’ access to and success in education, while benefits packages might include a scale-up of school feeding to maximize attention spans.
 
-![1E1A2125.JPG](/uploads/1E1A2125.JPG)
+A key element of STAAR's activities is supporting the FCDO’s Ukraine Humanitarian Response Programme (UHRP). UHRP assistance focuses on including Ukrainian refugees in regional social protection programs and improving linkages between humanitarian cash actors and government social protection systems in Ukraine. In particular, STAAR will support the PeReHID initiative, which was launched in 2023 as a collaboration between the Government of Ukraine, humanitarian agencies, and development partners. PeReHID supports a sustainable transition and absorption of humanitarian caseloads into an inclusive, shock-responsive national social protection system, working to strengthen Ukraine's social protection system so that it is fairer, more inclusive, and more responsive. By improving the coordination of government and humanitarian efforts and increasing the sustainability of assistance, PeReHID aims to reduce dependency on parallel interventions. 
 
+![1E1A2125.JPG](/uploads/1E1A2125.JPG)
 
 ### Sample Activities
 
 * Provide technical guidance on options for using social protection through adaption, development, phasing, coordination, and mapping of responses.
 * Advise on the application of gender and social inclusion principles when providing social protection.
 * Advise on opportunities for the social protection and humanitarian assistance nexus.
-* Support the FCDO’s Ukraine Humanitarian Response Programme.
 * Advise on localization: working with affected communities, community groups, and local government, to improve targeting, registration, distribution, and inclusion, for example.
 * Provide policy guidance on the provision of social protection.
 * Review and support the development of country-specific plans for social protection.
