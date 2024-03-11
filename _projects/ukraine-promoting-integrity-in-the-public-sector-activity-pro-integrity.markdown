@@ -18,9 +18,9 @@ country: Ukraine
 
 Nine years on from the Revolution of Dignity and one and half years since Russia’s full-scale invasion, corruption continues to be an impediment for Ukraine to realize its full potential. Despite many successes since the Revolution, including establishing a modern specialized anti-corruption architecture, corruption problems continue to pervade the government and economy, undermining public confidence in governance institutions, hindering democratic consolidation, and posing challenges for Ukraine’s ability to recover and rebuild. 
 
-Closely aligned with the U.S. Government’s strategic support for the Government of Ukraine, the U.S. Agency for International Development’s Promoting Integrity in the Public Sector Activity (Pro-Integrity) program addresses the root causes of corruption and tackles corruption risks at the national institutional level, at the local government level, and in issues related to Ukraine’s recovery and reconstruction.
+The Promoting Integrity in the Public Sector Activity (Pro-Integrity) program addresses the root causes of corruption and tackles corruption risks at the national institutional level, at the local government level, and in issues related to Ukraine’s recovery and reconstruction.
 
-Pro-Integrity works to: strengthen national level anti-corruption institutional capacity to advance corruption prevention, detection, and deterrence; strengthen anti-corruption compliance and control in local governance; and advance transparency and accountability in resilience, recovery, and reconstruction efforts.
+Pro-Integrity works to: strengthen national-level anti-corruption institutional capacity to advance corruption prevention, detection, and deterrence; strengthen anti-corruption compliance and control in local governance; and advance transparency and accountability in resilience, recovery, and reconstruction efforts.
 
 ![pro integrity.jpg](/uploads/pro%20integrity.jpg)
  
