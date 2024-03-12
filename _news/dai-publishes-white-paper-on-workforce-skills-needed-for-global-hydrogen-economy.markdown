@@ -1,6 +1,8 @@
 ---
 title: DAI Publishes White Paper on Workforce Skills Needed for Global Hydrogen Economy
 date: 2024-03-12 09:50:00 Z
+solutions:
+- Sustainable Business
 summary: 'DAI, in partnership with Reuters Events, has published a new white paper
   exploring the pathways for developing a skilled global hydrogen workforce. '
 ---
