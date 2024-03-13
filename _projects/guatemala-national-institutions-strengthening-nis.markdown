@@ -25,7 +25,7 @@ Poor budget execution rates across the board highlight the necessity for the gov
 
 In this environment, the government must restore trust in its ability to manage public resources and more equitably deliver priority public services by reforming key areas of its public financial management (PFM) targeting far-reaching impact across priority sectors. 
 
-The [Guatemala National Institutions Strengthening Project](https://www.usaid.gov/guatemala/programs/national-institutions-strengthening-project) supported the Government’s reform efforts, focused on creating a more effective and transparent public financial management (PFM) system, which will, in turn, improve governance, reduce opportunities for corruption, enhance public service delivery, and deter illegal migration.
+The [Guatemala National Institutions Strengthening Project](https://www.usaid.gov/guatemala/programs/national-institutions-strengthening-project) supported the Government’s reform efforts, focused on creating a more effective and transparent public financial management (PFM) system, which can, in turn, improve governance, reduce opportunities for corruption, enhance public service delivery, and deter illegal migration.
  
 Building on the U.S. Agency for International Development’s achievements through the predecessor [Fiscal Procurement and Reform Project](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp)—also implemented by DAI—the Guatemala National Institutions Strengthening Project supported the national Planning Secretariat, the Tax Administration, the Ministry of Finance, and the Presidential Commission for Open and Electronic Government to bolster their institutional capacities to increase tax revenue, improve budget planning and public procurement, and enhance transparency and oversight in the use of public resources. 
 
@@ -40,8 +40,12 @@ Building on the U.S. Agency for International Development’s achievements throu
 ## Select Results
 
 * Provided 27 hours of training to staff of the Superintendency of Tax Administration where they learned data management, among other skills.
+* Revitalized the civic space by supporting seven participatory and oversight mechanisms, enabling government-civil society dialogue​.
 * Enhanced fiscal transparency, public accountability, and open data mechanisms.
+* Integrated a gender equity and social inclusion approach into PFM through evidence generation and participation​.
+* Engaged more than 9,000 people through participatory and engagement mechanisms​.
 * Increased compliance with access to public information regulations.
 * Redesigned and automated tax administration key processes.
-* Improved tax compliance risk management.
+* Developed methodologies to modernize the public procurement suppliers’ registry by simplifying processes through interoperability with 11 other government systems, reducing processing times, and safeguarding against bribery to promote greater participation and competitiveness in public contracting.
+* Enhanced detection of tax fraud in international trade transactions ex-post, including eight key risk categories and 19 risk detection indicators.
 * Developed a digital government transformation pilot program.
