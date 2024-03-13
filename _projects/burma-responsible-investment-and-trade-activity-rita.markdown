@@ -29,3 +29,7 @@ We use a facilitative ecosystem-strengthening approach to increase trade and inv
 * Identify strategic corporate investment that not only offers capital, but also brings knowledge, transferable business models, and best practices.
 * Develop partnerships to support regional gender-lens investors (GLI) to identify deals in Myanmar, support local investors that want to improve their GLI capacity, and support partners to achieve GLI priorities. 
 * Develop an investment grant facility that provides additional capacity building and increases investment in enterprises operating in the most challenging and economically marginalized communities. There will be a strong focus on agro-processing, agri-technology and services, off-farm agri-enterprises, and value chain financing through out-grower models, as well as enabling investments in logistics and energy to help lower the barriers to future investment.
+
+### Select Results
+
+* Awarded a second grant to a business service organization to expand a pilot project that is addressing mangrove deforestation in a river delta region. The expansion will add 500,000 mangrove trees in a 500-acre plantation in 8 new community forests, bring about 370 new jobs, and support sustainable livelihoods for approximately 5,676 individuals in the area.
