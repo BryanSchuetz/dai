@@ -25,6 +25,8 @@ promos:
 - title: Local Government and Private Sector Collaboration Results in Higher-Quality
     Projects for Kosovo Citizens
   link: https://www.usaid.gov/kosovo/news-information/news/local-government-and-private-sector-collaboration-results-higher-quality
+- title: Social Audit Leads to Improvements in Infrastructure
+  link: https://www.usaid.gov/kosovo/news/may-24-2021-social-audit-leads-improvements-infastructure
 ---
 
 Public procurement is a government tool used to deliver goods and services such as fixing roads, building schools, or buying medical equipment for citizens. Fair competition, a level playing field, and transparency are essential to ensuring public money is spent responsibly and leads to the best value for citizens in terms of high-quality goods and services.
