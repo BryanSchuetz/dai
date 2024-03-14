@@ -9,6 +9,7 @@ job-title: Senior Director, Water and Energy Practice
 image: "/uploads/Jeanne%20Ellis%20(003).png"
 solutions:
 - Environment
+- Energy
 regions:
 - Worldwide
 articles:
