@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [SEP_ Solicitation Template-Trade Off Method RFP Final](/uploads/SEP_%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP%20Final.pdf "4/25")
+* [Attachment C Price Schedule (1)](/uploads/Attachment%20C%20Price%20Schedule%20(1).pdf "4/25")
 * [REQ-KYV-24-0071 - Procurement of Radial telescopic conveyor and Mobile grain loader_0071](/uploads/REQ-KYV-24-0071%20-%20Procurement%20of%20Radial%20telescopic%20conveyor%20and%20Mobile%20grain%20loader_0071.pdf "4/17")
 * [Target Communities Baseline Assessment in Uzbekistan](https://dai-assets.s3.amazonaws.com/rfps/0%20TCBA%20Uz%20announcement%20ru%2Ben.pdf "3/20")
 * [RFP REQ-KYV-24-0072 - Remanufactured_Shunting_Locomotives.-b8e808](/uploads/RFP%20REQ-KYV-24-0072%20-%20Remanufactured_Shunting_Locomotives.-b8e808.pdf "4/5")
