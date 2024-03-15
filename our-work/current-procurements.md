@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [answers for RFP № REQ-KYV-24-0055](/uploads/answers%20for%20RFP%20%E2%84%96%20REQ-KYV-24-0055.pdf "3/19")
 * [SEP_ Solicitation Template-Trade Off Method RFP Final](/uploads/SEP_%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP%20Final.pdf "4/25")
 * [Attachment C Price Schedule (1)](/uploads/Attachment%20C%20Price%20Schedule%20(1).pdf "4/25")
 * [REQ-KYV-24-0071 - Procurement of Radial telescopic conveyor and Mobile grain loader_0071](/uploads/REQ-KYV-24-0071%20-%20Procurement%20of%20Radial%20telescopic%20conveyor%20and%20Mobile%20grain%20loader_0071.pdf "4/17")
