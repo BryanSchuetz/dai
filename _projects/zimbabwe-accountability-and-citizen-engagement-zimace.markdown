@@ -1,5 +1,5 @@
 ---
-title: Zimbabwe Accountability and Citizen Engagement (ZIMACE)
+title: Zimbabwe—Accountability and Citizen Engagement (ZIMACE)
 date: 2023-05-26 11:28:00 Z
 summary: The Zimbabwe Accountability and Citizen Engagement (ZIMACE) program seeks
   to protect human rights and promote transparent and accountable governance across
