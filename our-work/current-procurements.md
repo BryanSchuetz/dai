@@ -17,7 +17,6 @@ Listed below are current solicitations. To view additional information regarding
 * [REQ-KYV-24-0071 - Procurement of Radial telescopic conveyor and Mobile grain loader_0071](/uploads/REQ-KYV-24-0071%20-%20Procurement%20of%20Radial%20telescopic%20conveyor%20and%20Mobile%20grain%20loader_0071.pdf "4/17")
 * [Target Communities Baseline Assessment in Uzbekistan](https://dai-assets.s3.amazonaws.com/rfps/0%20TCBA%20Uz%20announcement%20ru%2Ben.pdf "3/20")
 * [RFP REQ-KYV-24-0072 - Remanufactured_Shunting_Locomotives.-b8e808](/uploads/RFP%20REQ-KYV-24-0072%20-%20Remanufactured_Shunting_Locomotives.-b8e808.pdf "4/5")
-* [RFP BE-24-052-Amend #3-CGC Sustainable Strategy](/uploads/RFP%20BE-24-052-Amend%20%233-%20CGC%20Sustainable%20Strategy.pdf "3/21")
 * [Resilient Communities Activity 2024 APS](https://dai-assets.s3.amazonaws.com/rfps/announcement%20short.pdf "8/31")
 * [RFP-TCA-KAZ-24-0003 Terminal Operating System_eng](/uploads/RFP-TCA-KAZ-24-0003%20Terminal%20Operating%20System_eng.pdf "3/20")
 * [REQ-KYV-24-0055-Procurement of Mobile Grain Transshipment Equipment](/uploads/REQ-KYV-24-0055%20-%20Procurement%20of%20Mobile%20Grain%20Transshipment%20Equipment.pdf "3/19")
