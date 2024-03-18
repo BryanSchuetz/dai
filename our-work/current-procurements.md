@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP BE-24-052-Amend #4- CGC Sustainable Strategy](/uploads/RFP%20BE-24-052-Amend%20%234-%20CGC%20Sustainable%20Strategy.pdf "4/1")
 * [answers for RFP № REQ-KYV-24-0055](/uploads/answers%20for%20RFP%20%E2%84%96%20REQ-KYV-24-0055.pdf "3/19")
 * [SEP_ Solicitation Template-Trade Off Method RFP Final](/uploads/SEP_%20Solicitation%20Template%20-Trade%20Off%20Method%20RFP%20Final.pdf "4/25")
 * [Attachment C Price Schedule (1)](/uploads/Attachment%20C%20Price%20Schedule%20(1).pdf "4/25")
