@@ -12,4 +12,8 @@ summary: 'DAI, in partnership with Reuters Events, has published a new white pap
 Clean hydrogen is one of the most widely discussed topics in global energy markets today, drawing attention from policymakers and power producers through to leaders in heavy industry. To achieve an economy of scale and unlock 30 million jobs a year around the world by 2050, the industry needs to attract and build a well-equipped, competent workforce.
 
 <div data-tf-live="01HRF99WCZ4RN8MRCV7184JPHN"></div><script src="//embed.typeform.com/next/embed.js"></script>
+
+
+*Learn more about [DAI’s Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).*
+
  
