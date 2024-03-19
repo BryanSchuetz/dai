@@ -26,9 +26,11 @@ promos:
 layout: project
 ---
 
-The Foreign, Commonwealth & Development Office (FCDO) Partnership to Engage, Reform and Learn (PERL) programme supports governments, citizens, and evidence-based advocacy. PERL helps governments develop and implement policy by assisting them in tracking and accounting for how policies, plans, and budgets are used in delivering public goods and services to promote growth and reduce poverty. It supports citizens to engage with these processes.
+The Foreign, Commonwealth & Development Office (FCDO) Partnership to Engage, Reform and Learn (PERL) program supports governments, citizens, and evidence-based advocacy. PERL helps governments develop and implement policy by assisting them in tracking and accounting for how policies, plans, and budgets are used to deliver public goods and services to promote growth and reduce poverty. It also supports citizens' engagement with these processes.
 
-PERL is implemented through coordinated “pillars” that together support sustainable service delivery reforms: Pillar 1 is Accountable, Responsive, and Capable Government (ARC), led by DAI; Pillar 2, Engaged Citizens, is delivered by Palladium. Through PERL, DAI and Palladium work collaboratively at the federal level; in the partner states of Borno, Jigawa, Kaduna, Kano, and Yobe; and through regional learning and reform hubs in the southwest, southeast, and northeast areas of Nigeria. PERL builds on the experiences of [SPARC](https://www.dai.com/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability) and applies a problem-driven, iterative adaptation approach. FCDO's largest adaptive management in governance programme, it received an A+ in its most recent evaluation.
+PERL is implemented through coordinated “pillars” that together support sustainable service delivery reforms: Pillar 1 is Accountable, Responsive, and Capable Government (ARC), led by DAI; Pillar 2, Engaged Citizens, is delivered by Palladium. Through PERL, DAI and Palladium work collaboratively at the federal level; in the partner states of Borno, Jigawa, Kaduna, Kano, and Yobe; and through regional learning and reform hubs in the southwest, southeast, and northeast areas of Nigeria. PERL builds on the experiences of [SPARC](https://www.dai.com/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability) and applies a problem-driven, iterative adaptation approach. FCDO's largest adaptive management in governance program received an A+ in its most recent evaluation.
+
+More information is available on the [PERL ARC website](http://www.perlnigeria.net/).
 
 ![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
 
