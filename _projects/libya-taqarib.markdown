@@ -31,17 +31,21 @@ The Libya Local Governance and Civil Society (LGCS) Program, locally known as �
 
 * Design and execute strategies for service delivery at the municipal level. 
 * Use a Municipal Performance Index to gauge the administrative capacity of local governments, quantify their delivery of essential services and infrastructure, as well as monitor the corresponding public perceptions of governments’ effectiveness and legitimacy.
-* Engage local communities and community organizations to ensure that citizens have a voice in prioritizing and monitoring the expenditure of public resources.
-* Partner with community organizations to generate public support local revenue generation, public-private partnerships, city-to-city collaboration, and other tools that are important for achieving sustainable development and self-reliance.
+* Enhance the participation of residents (including persons with disabilities, women, youth, and ethnic minorities), civil society organizations, and the private sector in service improvements and decentralization policy implementation.
+* Partner with community organizations to generate public support for local revenue generation, public-private partnerships, city-to-city collaboration, and other tools that are important for achieving sustainable development and self-reliance.
+* Assist municipalities and national institutions with drafting policy documents, operational manuals, procedural templates, and regulatory standards for use in managing municipal affairs.
+* Advocate for innovative local solutions to municipal service delivery challenges to ensure they are incorporated into national legislation, regulation, and policy. 
+*Assist in the reform of national institutions that are substantially involved with Libya’s decentralization process.
 
 ## Select Results
  
-* Enrolled nearly 700 participants in professional development courses or training.
-* Supported the development of 27 COVID-19 response plans across 30 municipalities.
-* Delivered nearly $3.5 million in equipment and supplies to municipal partners, aimed at a variety of service-delivery improvements, and at responses to COVID-19.
-* Trained 1,233 individuals in community emergency response.
-* Introduced or changed 19 public policies, with citizen input.
-* Conducted more than 40 community service events across 18 partner municipalities, implemented in partnership with more than 600 volunteers, municipal staff members, and representatives from civil society. 
-* Supported the Swani bin Adam Municipality with 10 solar-powered pole lights for a playground and 14 solar-powered pole lights for the health center in the Shuhada Swani district. 
-* Supported the Ministry of Local Governance's first-ever conference for Libya’s women municipal council members. With nearly 90 women council members in attendance, the participants discussed ministry policy advancements intended to directly benefit women and made recommendations regarding further support.
-* Delivered to the Abusliem Municipality a jaw-crushing machine that [crushes concrete and most forms of rocks](https://www.facebook.com/watch/?extid=NS-UNK-UNK-UNK-IOS_GK0T-GK1C-GK2C&v=1051909622353541) and minerals for use as building material. This machine will not only facilitate the removal of war debris but will offer low-cost rebuilding options by producing materials to be used to pave roads and build and repair infrastructure. It will also generate income for the local government and restore confidence in the local population. 
+* Developed courses used to train more than 1291 municipal staff and volunteers. 
+* Created an e-learning platform with more than 190 training courses in topics related to municipal work.
+* Delivered 3,294 pieces of equipment and supplies to municipal partners for use in emergency response, street repair, park restoration, solid-waste management, street lighting, market rehabilitation, municipal media offices, and municipal environmental sanitation offices.   
+* Implementing 168 visible improvement services. 
+* Contributed to the establishment of Emergency Operations Centers in 16 partner municipalities, including their adoption of international emergency management standards tailored for local applications.
+* Conducted more than 52 social accountability activities led by civil society organizations.
+* Provided grants to 32 local organizations to support service delivery and further decentralization. 
+* Developed 19 decentralization policies and manuals to support municipal work. 
+* Conducted and published 12 case studies on innovative local solutions to municipal service delivery challenges.
+* Provided training to 82 members of the municipal guard and 31 municipal media offices. 
