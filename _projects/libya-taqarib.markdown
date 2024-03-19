@@ -35,15 +35,15 @@ The Libya Local Governance and Civil Society (LGCS) Program, locally known as �
 * Partner with community organizations to generate public support for local revenue generation, public-private partnerships, city-to-city collaboration, and other tools that are important for achieving sustainable development and self-reliance.
 * Assist municipalities and national institutions with drafting policy documents, operational manuals, procedural templates, and regulatory standards for use in managing municipal affairs.
 * Advocate for innovative local solutions to municipal service delivery challenges to ensure they are incorporated into national legislation, regulation, and policy. 
-*Assist in the reform of national institutions that are substantially involved with Libya’s decentralization process.
+* Assist in the reform of national institutions that are substantially involved with Libya’s decentralization process.
 
 ## Select Results
  
 * Developed courses used to train more than 1,291 municipal staff and volunteers. 
 * Created an e-learning platform with more than 190 training courses in topics related to municipal work.
-* Delivered 3,294 pieces of equipment and supplies to municipal partners for use in emergency response, street repair, park restoration, solid-waste management, street lighting, market rehabilitation, municipal media offices, and municipal environmental sanitation offices.   
+* Delivered 3,294 pieces of equipment and supplies to municipal partners for use in emergency response, street repair, park restoration, solid waste management, street lighting, market rehabilitation, municipal media offices, and municipal environmental sanitation offices.   
 * Implementing 168 visible improvement services. 
-* Contributed to the establishment of Emergency Operations Centers in 16 partner municipalities, including their adoption of international emergency management standards tailored for local applications.
+* Contributed to the establishment of emergency operations centers in 16 partner municipalities, including their adoption of international emergency management standards tailored for local applications.
 * Conducted more than 52 social accountability activities led by civil society organizations.
 * Provided grants to 32 local organizations to support service delivery and further decentralization. 
 * Developed 19 decentralization policies and manuals to support municipal work. 
