@@ -39,7 +39,7 @@ The Libya Local Governance and Civil Society (LGCS) Program, locally known as â€
 
 ## Select Results
  
-* Developed courses used to train more than 1291 municipal staff and volunteers. 
+* Developed courses used to train more than 1,291 municipal staff and volunteers. 
 * Created an e-learning platform with more than 190 training courses in topics related to municipal work.
 * Delivered 3,294 pieces of equipment and supplies to municipal partners for use in emergency response, street repair, park restoration, solid-waste management, street lighting, market rehabilitation, municipal media offices, and municipal environmental sanitation offices.   
 * Implementing 168 visible improvement services. 
