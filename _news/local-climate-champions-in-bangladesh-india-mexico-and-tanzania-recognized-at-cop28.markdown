@@ -63,3 +63,5 @@ The Award winners were selected by a prestigious jury comprising:
 •   Dan Jørgensen, Minister for Development Cooperation and Global Climate Policy, Denmark
 •   Ban Ki-moon, Chair of the Global Center on Adaptation Board and 8th Secretary-General of the United Nations
 •   Professor Patrick Verkooijen, CEO, Global Center on Adaptation
+
+*Learn more about [DAI’s Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).*
