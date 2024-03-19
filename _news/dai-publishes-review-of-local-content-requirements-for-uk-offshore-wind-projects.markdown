@@ -25,3 +25,5 @@ This report, which follows DAI’s 2022 review of *[U.S. Federal and State Local
 The report concludes that the United Kingdom remains cautious in navigating local content policy between—on the one hand—the successful EU legal challenge to the content requirements of the U.K. Contracts for Difference scheme, and—on the other hand—playing catch-up with the green subsidies and pro-local content measures driven by the U.S. Inflation Reduction Act and the EU’s Green Deal policies.
 
 *[Contact the report authors ](mailto:contact_sbg@dai.com)*
+
+*Learn more about [DAI’s Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).*
