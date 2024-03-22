@@ -1,11 +1,11 @@
 ---
 title: Regional—Human Capital Development Plus (HCD+)
 date: 2022-10-31 11:00:00 Z
-summary: DAI incubated HDC+, a regional advocacy and technical assistance hub that
-  contributes to increasing government commitment, funding, and accountability to
-  developing human capital across the continent.
+summary: DAI is training staff at HDC+, a regional advocacy and technical assistance
+  hub that contributes to increasing government commitment, funding, and accountability
+  to developing human capital across the continent.
 start: 2022
-end: 2023
+end: 2024
 client: Bill and Melinda Gates Foundation
 solutions:
 - Governance
@@ -19,18 +19,17 @@ We incubated HCD+ from a program sponsored within DAI into a fully registered an
 
 HCD+ has the capability to serve as an African voice for advocacy, accountability, and transparency on issues of human capital. It seeks to accelerate political commitments, decision-making, and funding for key priorities toward realizing Sustainable Development Goals No. 1-6 in Sub-Saharan Africa. 
 
-The initial phase focused on Burkina Faso, Ethiopia, Kenya, and Nigeria.
-
 ![Sud Kivu IGA photo 1.jpg](/uploads/Sud%20Kivu%20IGA%20photo%201.jpg)
 
 ## Sample Activities
 
-* Collate and review relevant documentation to map out the different approaches and distill a single set of policies, procedures, and guidelines.
-* Finalize specifications of the hub’s organizational structure, its core mandate, and core responsibilities; link organizational functionality to the systems development needed to sustain the hub’s performance over time. 
-* Develop a communication and engagement strategy to increase state-donor collaboration on technical assistance services, from design to deployment, to generate state and donor ownership of the outcome. 
-* Monitor technical assistance for work quality, effectiveness, and impact. Conduct random and planned site visits to ensure effective implementation.
+* Develop a subaward/contract model and train of staff on a sub-award software. 
+* Develop a business and sustainability plan. 
+* Train staff on compliance, procurement, and financial processes and software. 
 
 ## Select Results
 
-* Facilitated the initial setup of the organization, onboarded the preliminary team, and developed some critical processes and systems essential for the operationalization of the organization. 
-* Developed the finance, human resources, and operations, contracts, and consultancy manuals for the Hub to set up the foundational block required for Africa HCD+ operational activities.
+* Launched and fully staffed Africa HCD+. 
+* Developed all processes and procedures and trained all staff. 
+* Completed statutory registrations.  
+* Established the Governance Board.
