@@ -1,11 +1,11 @@
 ---
-title: Nigeria—John Odigie Oyegun Public Service Academy (JOOPSA)
+title: Nigeria—John Odigie Oyegun Public Service Academy (JOOPSA), Phases I, II
 date: 2022-10-05 08:49:00 Z
-summary: DAI is operationalizing the Edo State Government's John Odigie Oyegun Public
-  Service Academy (JOOPSA), to serve as a platform to train its public service to
-  deliver high-value services to citizens and accelerate other reforms.
+summary: DAI is helping the John Odigie Oyegun Public Service Academy (JOOPSA) to
+  train its public service to deliver high-value services to citizens and accelerate
+  other reforms.
 start: 2022
-end: 2023
+end: 2024
 client: Edo State Government
 solutions:
 - Governance
@@ -13,23 +13,22 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The Edo State Government has a vision of transforming Edo State into a high-performing, progressive, and self-sufficient state, and recognizes that civil service is the critical delivery engine of government for this process. The State Government established the John Odigie Oyegun Public Service Academy (JOOPSA), to serve as a platform to train its public service to deliver high-value services to citizens and accelerate other reforms.
+In 2022, the Edo State Government contracted DAI to establish the John Odigie Oyegun Public Service Academy in Benin City by developing procedures, programs, strategy, and a sustainability roadmap to meet the present and future needs of the state public service. In the first phase, the team established the Academy’s necessary building blocks, including a strategic roadmap and service offerings; governance and organizational structure; standard operating procedures; credible faculty; competent staff; necessary infrastructure; linkages to key training institutions; fit-for-purpose programs; and a visibility and branding structure. 
 
-DAI is operationalizing JOOPSA by developing procedures, programs, strategies, and a sustainability roadmap that meets the present and future needs of the state public service. We are providing technical assistance to identify and establish the Academy’s necessary building blocks—including service offerings, governance and organizational structure, standard operating procedures, credible faculty, competent staff, necessary infrastructure, linkages to key training institutions, and fit-for-purpose programs—and to design appropriate sustainability mechanisms.
+In the second phase, we are consolidating the Academy’s operations and sustainability mechanisms—including linkages to human resource systems, state administration processes, and other public service processes—and enhancing partnerships with local and international learning institutions. Taking a collaborative approach, we work closely with the Academy leadership and the new staff, providing evaluation and support services to ensure the sustainability of the organization.
 
 ![joopsa.jpg](/uploads/joopsa.jpg)
 
 ## Sample Activities
 
-* Develop procedures for startup operations, such as procedures for designing and delivering seminars that meet international standards. 
-* Identify key partnerships for program offerings, operations, and uptake of products. 
-* Seek other universities and higher institutions, vocational schools, and other public sector educational bodies to establish a credible faculty.
-* Review the competency framework and conduct a learning needs assessment to identify the minimum required programs for a public service academy.
+* Enable JOOPSA to operationalize the procedures, framework, plans, and processes.
+* Build customized sustainability mechanisms covering the Academy’s operations, financing, partnerships, and governance models. 
+* Develop a competency model working closely with the Head of Service, Civil Service Commission, and other key stakeholders, while ensuring adequate linkages with the relevant institutions, human resource systems, and processes. 
 
-## Select Results
+## Select Results (Phase I)
 
-* Developed the academy’s governance framework including board procedures and legal framework.
-* Designed programs and curriculums, with more than 100 courses specially tailored and targeted at equipping the public service.
-* Developed operational frameworks, protocols, and procedures to streamline organizational processes and operations.
-* Developed strategies, frameworks, and templates to strengthen the JOOPSA brand and positioning.
-* Established the Inter-ministerial Counterpart team to drive the Academy’s sustainability and learning reforms.
+* Developed three crucial documents: a five-year strategic plan, an implementation plan, and a costed operational plan. These documents provide standardized tools and procedures for the Academy's operations, ensuring it follows an evidence-based roadmap.
+* Designed and implemented an organizational structure for the Academy, including governance mechanisms, a Board Operations Manual, organizational structure details, establishment numbers for five years, job descriptions, staffing plans, salary structures, selection and assessment criteria, job advertisements, online application forms, and procedural manuals.
+* Established tailored courses and programs, developed relevant curricula, and recruited top-tier faculty. Outputs include a 2023 Training Calendar for JOOPSA, a Comprehensive Course Catalogue, Program and Faculty frameworks, a Learning Partnerships Identification Strategy, Program Clusters/Schools, Competency Frameworks, Curriculum outlines, Pricing Tools, and a repository of potential faculty with recruitment strategies.
+* Trained approximately 3,000 public servants from 77 ministries, departments, and agencies on resource management, vision and execution, public service tradecraft, relational resource management, digital and future-readiness, and ethics and value. 
+* Established a partnership with Nexford University. 
