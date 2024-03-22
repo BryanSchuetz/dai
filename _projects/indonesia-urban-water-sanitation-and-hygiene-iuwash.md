@@ -35,7 +35,7 @@ Better management of urban growth will be crucial to guarantee sustainable citie
 
 The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (USAID IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders, data platforms, and finance mechanisms to achieve healthy, productive, and resilient cities. USAID IUWASH Tangguh is expected to reach at least 1.5 million people with improved access to safely managed drinking water and at least 1 million people with improved access to safe sanitation services. To achieve these ambitious targets and ensure sustainability, we will develop at least 50 public-private partnerships and mobilize at least $310 million for Indonesia’s WASH and WRM sectors.
 
-IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) and its predecessor, IUWASH, brought reliable water supply to more than 3 million people and safely managed [sanitation services](https://medium.com/usaid-global-waters/strengthening-urban-indonesias-water-and-sanitation-systems-geser-si-jahat-out-with-the-bad-fa3772d5cc6b) to more 960,000 city dwellers.
+IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) and its predecessor, IUWASH, brought reliable water supply and safely managed [sanitation services](https://medium.com/usaid-global-waters/strengthening-urban-indonesias-water-and-sanitation-systems-geser-si-jahat-out-with-the-bad-fa3772d5cc6b) to more than 7.6 million Indonesians.
 
 ![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
 
