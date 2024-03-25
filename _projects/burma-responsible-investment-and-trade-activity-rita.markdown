@@ -7,7 +7,7 @@ summary: 'The Burma Responsible Investment and Trade Activity, funded by the U.S
   of the Myanmar economy by increasing the share held by responsible, accountable,
   and transparent firms. '
 start: 2020
-end: 2026
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
