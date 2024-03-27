@@ -6,7 +6,7 @@ summary: As Country Director for Nigeria, Joe Abah provides technical and strate
   inputs to DAI’s existing portfolio of projects, in addition to supporting business
   development initiatives.
 job-title: Nigeria Country Director
-image: "/uploads/Dr.-Joe-Abah.jpg"
+image: "/uploads/new%20joe.jpeg"
 solutions:
 - Governance
 - Economic Growth
