@@ -43,6 +43,9 @@ promos:
   link: "/uploads/SHARPE%20Review%202022.pdf"
 - title: Technical Brief - Economic Integration for Host and Refugee Communities
   link: "/uploads/Technical%20Brief%20-%20Economic%20Integration%20for%20Host%20and%20Refugee%20Communities.pdf"
+- title: 'SHARPE Subsidy Brief: Using grants to catalyze market systems change in
+    the context of host and refugee communities'
+  link: "/uploads/SHARPE%20Subsidy%20Brief_Using%20grants%20to%20catalyse%20market%20systems%20change%20in%20the%20context%20of%20host%20and%20refugee%20communities.pdf"
 Field name: 
 ---
 
