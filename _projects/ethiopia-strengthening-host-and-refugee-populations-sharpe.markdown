@@ -46,6 +46,14 @@ promos:
 - title: 'SHARPE Subsidy Brief: Using grants to catalyze market systems change in
     the context of host and refugee communities'
   link: "/uploads/SHARPE%20Subsidy%20Brief_Using%20grants%20to%20catalyse%20market%20systems%20change%20in%20the%20context%20of%20host%20and%20refugee%20communities.pdf"
+- title: 'BLOG: Adapting MSD Programs to Refugee Communities: Five Insights for Practitioners'
+  link: https://dai-global-developments.com/articles/adapting-msd-programs-to-refugee-communities-five-insights-for-practitioners/
+- title: 'BLOG: Bringing Together Refugees, Host Communities, and the Private Sector
+    in Ethiopia (PART 1)'
+  link: https://dai-global-developments.com/articles/bringing-together-refugees-host-communities-and-the-private-sector-in-ethiopia/
+- title: 'BLOG: Making Markets Work for Refugee and Host Communities in Ethiopia (PART
+    2)'
+  link: https://dai-global-developments.com/articles/making-markets-work-for-refugee-and-host-communities-in-ethiopia/
 Field name: 
 ---
 
