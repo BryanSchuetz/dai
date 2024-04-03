@@ -14,14 +14,12 @@ solutions:
 regions: Asia and the Pacific
 country: Nepal
 promos:
-- title: 'Water, Sanitation, and Hygiene: An Inclusive Agenda in Nepal'
+- title: 'BLOG: Water, Sanitation, and Hygiene: An Inclusive Agenda in Nepal'
   link: https://dai-global-developments.com/articles/water-sanitation-and-hygiene-an-inclusive-agenda-in-nepal/
 - title: 'Returning Dignity to Nepal''s Daughters '
   link: https://daiglobal.exposure.co/returning-dignity-to-nepals-daughters
 - link: https://www.globalwaters.org/resources/articles/meet-usaids-2023-water-warriors
   title: Meet USAID’s 2023 Water Warriors
-- link: 'BLOG: Water, Sanitation, and Hygiene: An Inclusive Agenda in Nepal'
-  title: https://dai-global-developments.com/articles/water-sanitation-and-hygiene-an-inclusive-agenda-in-nepal/
 ---
 
 Despite pockets of progress, Nepal’s water security, as measured by the metrics of equity, functionality, and ecosystem health, is among the weakest in Asia. Recent achievements, such as the reduction of open defecation, are impressive—but fragile, especially in the Karnali River Basin. The U.S. Agency for International Development (USAID)-funded Karnali Water Activity works across the Karnali River Basin in Western Nepal to promote healthy, resilient, and water-secure communities by improving water resources management practices, drinking water supply and multiple-use systems, and fecal sludge management access and treatment plants.
