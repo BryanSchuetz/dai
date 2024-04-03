@@ -30,3 +30,8 @@ The Kosovo Strengthening Public Procurement (KSPP) project, funded by the Britis
 ## Select Results
 
 * Launched the Case Management System, a module of the Kosovo e-procurement portal, which is used for all complaints against tender dossiers and contract award decisions and is considered the most advanced such system in Europe.
+* Helped the PRB Board to improve its appeal decision consistency from 50 percent to 80 percent.
+* Assisted the PRB Secretariat to be more effective in processing procurement appeals—a 14 percent improvement in time to receive appeals and appoint experts.
+* Developed 11 meaningful key performance indicators used by the National Assembly to oversee PRB performance.
+* Introduced tools to allow PRB to arrive at more consistent decisions and track PRB performance against key performance indicators. 
+* Improved three partner ministries' procurement scores; reduced overall procurement timescales by 10 days; and increased the incidence of rejected appeals from economic operators.
