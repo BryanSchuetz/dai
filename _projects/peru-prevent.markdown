@@ -20,6 +20,9 @@ promos:
 - title: 'Success Story: Building Capacity to Empower Forest Users in The Peruvian
     Amazon Environmental Crime Monitoring Network 2022'
   link: "/uploads/MONITORING_NETWORK_2022.pdf"
+- title: 'BLOG: Building Effective Monitoring Networks: A Locally Led Approach to
+    Fighting Climate Change'
+  link: https://dai-global-developments.com/articles/building-effective-monitoring-networks-a-locally-led-approach-to-fighting-climate-change/?utm_source=daidotcom
 ---
 
 Illegal activity, biodiversity loss, weak governance, and social conflict around natural resource management are threatening one of the world’s most ecologically and culturally significant ecosystems in Peru. Additionally, the lack of maintenance of these extraordinary areas has led to the country forgoing millions of dollars in tourism and thousands of job opportunities. On the other hand, Peru is home to a network of diverse, talented, committed local problem-solvers who are ready to apply creative new approaches—rooted in deep local knowledge—to address environmental crime. 
