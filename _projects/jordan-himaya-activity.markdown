@@ -24,6 +24,10 @@ Himaya works to improve—and expand access to—essential services and protecti
  
 Himaya has two objectives: 1) build the capacity of institutions charged with serving and protecting survivors of gender-based violence, emphasizing a survivor-centered approach; and 2) strengthen the legislative frameworks necessary to protect survivors and prevent and respond to gender-based violence.
 
+The project supports gender-based violence survivors to receive essential services for their protection, healing, and recovery; contribute to a stronger evidence base to inform a sustainable, survivor-centered, and Jordanian-led protection system; and engage in shaping a more equitable and inclusive society to help improve gender equality indicators in Jordan.
+
+![AWEF workshop.JPG](/uploads/AWEF%20workshop.JPG)
+
 ## Sample Activities
 
  
