@@ -13,6 +13,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Regional
 promos:
+- title: 'BLOG: Why One Health is About Building Trust'
+  link: https://dai-global-developments.com/articles/why-one-health-is-about-building-trust/
 - title: Building Trust in Uncertain Times
   link: "/uploads/TDDA%20Building%20trust%20in%20uncertain%20times.pdf"
 - title: 'Health Equity is Key to Global Health Security Goals: Learning from COVID-19'
