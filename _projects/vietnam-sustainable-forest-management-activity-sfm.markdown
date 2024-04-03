@@ -20,6 +20,9 @@ promos:
   link: "/uploads/USAID%20Sustainable%20Forest%20Management%20Project%20-%20English.pdf"
 - title: USAID Sustainable Forest Management Project - Vietnamese
   link: "/uploads/USAID%20Sustainable%20Forest%20Management%20Project%20-%20Vietnamese.pdf"
+- title: 'BLOG: Investing in Ethnically Diverse Communities to Restore and Preserve
+    Forests in Vietnam'
+  link: https://dai-global-developments.com/articles/investing-in-ethnically-diverse-communities-to-restore-and-preserve-forests-in-vietnam/
 ---
 
 In Vietnam and worldwide, widespread forest degradation from illicit timber harvesting, forest land conversion, and poor forest management practices is leading to increased carbon emissions, which threaten the environment, communities, and livelihoods. Despite national increases in overall tree coverage, Vietnam’s natural forests are reducing in area and worsening in quality.    
