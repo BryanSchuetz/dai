@@ -30,5 +30,7 @@ The project supports gender-based violence survivors to receive essential servic
 
 ## Sample Activities
 
- 
- 
+* Identify local champions and implementers from a broad range of actors, including male champions and traditional tribal or religious leaders, to support systemic change and advocacy.
+* Use an Institutional Support Fund to provide robust material support to government stakeholders, such as judicial institutions, the Family and Juvenile Protection Department, healthcare facilities, and shelters.
+* Assist the Judicial Council in strengthening the implementation of its existing policies and procedures and integrating perspectives from survivors and system stakeholders, including legal professionals and legal aid providers, into improved service delivery.
+* Develop plans and procedures to establish one-stop shops to enable the Family and Juvenile Protection Department to deliver integrated and high-quality services for survivors.
