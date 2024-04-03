@@ -13,6 +13,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
+- title: 'BLOG: Making Blended Finance Work for Climate'
+  link: https://dai-global-developments.com/articles/making-blended-finance-work-for-climate/
 - title: Quarterly Report
   link: https://www.usaid.gov/invest/feb-28-2024-invest-year-7-quarter-1-report
 - title: INVEST Blog
