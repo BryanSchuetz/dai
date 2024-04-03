@@ -1,6 +1,6 @@
 ---
 title: Jordan—Himaya Activity
-date: 2024-04-03 19:10:00 Z
+date: 2024-04-03 13:10:00 Z
 summary: The Himaya Activity works to improve—and expand access to—essential services
   and protections for survivors of gender-based violence in Jordan.
 start: 2024
