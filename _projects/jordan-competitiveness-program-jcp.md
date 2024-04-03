@@ -19,6 +19,10 @@ regions:
 - Middle East and North Africa
 country:
 - Jordan
+promos:
+- title: 'BLOG: How an Approach to Crisis in Jordan Transformed into Sustained Institutional
+    Change'
+  link: https://dai-global-developments.com/articles/how-an-approach-to-crisis-in-jordan-transformed-into-sustained-institutional-change/
 layout: project
 ---
 
