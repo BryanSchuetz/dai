@@ -3,7 +3,7 @@ title: Gail P. Steinel
 date: 2016-01-21 22:18:00 Z
 summary: Gail Steinel was for more than two decades a senior executive at Arthur Andersen,
   leading its Business Consulting Business.
-image: "/assets/images/leaders/thumbnails/gail-steinel.jpg"
+image: "/uploads/Gail%20Steinel_Edited%201.jpg"
 sort-order: 10
 layout: leaders
 ---
