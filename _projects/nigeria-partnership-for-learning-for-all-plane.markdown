@@ -21,11 +21,13 @@ promos:
   link: "/uploads/PLANE_Newsletter_Jan_2024_Edition.pdf"
 ---
 
-The Partnership for Learning for All in Nigeria (PLANE) project works to deliver a more inclusive and effective education system and improve learning outcomes for students in their pre-primary and primary years. 
+Partnership for Learning for All in Nigeria (PLANE) is a seven-year education Program, funded by the U.K. Foreign, Commonwealth and Development Office (FCDO). It aims to support and realize the Government of Nigeria’s commitment to delivering sustainable improvements in learning outcomes for all of Nigeria’s children. 
 
-PLANE focuses on improving basic education and tackling fundamental system constraints: raising the quality of teaching and learning for foundational skills while supporting improvements in school management and teaching colleges; supporting the state education sector through policy formulation, budgeting, and management reforms; and unlocking governance bottlenecks to support improvements in frontline education delivery. 
+The program engages with state and non-state actors within the basic education sub-sector to strengthen systems for improved delivery of inclusive, good-quality foundational learning, with a focus on marginalized groups, especially girls and children with disabilities. It will contribute to transformational change, enabling the delivery of effective and efficient educational services at scale to improve learning outcomes. 
  
-In partnership with our key subcontractor FHI360, PLANE operates across Kano, Kaduna, Jigawa, the South East and South West regions, and in the federal capital territory to improve regulation and accountability of both the state and non-state sector, fostering better collaboration and connectivity and promoting successful models that contribute to innovation. 
+PLANE works at the federal level and in five states (Kaduna, Kano, Jigawa, Yobe, and Borno) with legislators, state and non-state education providers, civil society organizations, teachers' unions, community leaders, learners, and parents. It also works in two regions: the southeast and southwest.
+
+The program’s anticipated impact is significant and far-reaching, with the potential to reach up to eight million children. It aims to enhance teaching and learning for approximately 1.5 million children. Additionally, PLANE's initiatives in education during emergencies are expected to benefit around 600,000 children. By targeting various aspects of the education landscape, PLANE seeks to lay the foundation for improved learning outcomes, increased accessibility, and enhanced educational quality for generations to come. 
 
 More information is available on the [**PLANE website**](https://planenigeria.com/).
 
@@ -33,17 +35,19 @@ More information is available on the [**PLANE website**](https://planenigeria.co
 
 ## Sample Activities
 
-* Improve teaching and learning in performance-focused schools and colleges—leading to the use of evidence-based teaching and learning approaches and better management.
-* Assist stakeholders in upgrading their systems to better incorporate human and financial resources, ultimately allowing them to run their operations more efficiently. Better-managed systems should lead to better results for students.
+* Embedding the use of data and evidence within the education system.
+* Supporting government system strengthening and helping unlock governance bottlenecks for better education service delivery.
+* Supporting the improvements in the regulation of the non-state sector.
+* Working with community structures and improving the inclusion and learning of marginalized children, especially girls and children with disabilities.
+* Supporting the education of children affected by conflict.
 
 ## Select Results
 
-* Worked with the governments of Kaduna, Kano, and Jigawa to [deliver learning materials](https://dai-global-developments.com/articles/breaking-barriers-to-learning-building-a-stronger-education-system-in-nigeria/) and training on inclusive foundational skills and accelerated learning to 8,389 teachers.
-* Established 191 community learning hubs with 237 facilitators.
-* Trained 45 reading ambassadors, including a significant number of female facilitators who were recruited to support community learning hubs.
-* Strengthened safeguarding referral mechanisms in all three states.
-* Supported the states in reviewing private school policies to enhance the relationship with the federal government for better service delivery.
-* Supported the states in developing an accountability framework.
-* Almost 2,000 schools, more than 5,000 teachers, and more than 350,000 learners have accessed PLANE's packages to enhance instruction and learning.
+* Made key advancements on eight systemic education reforms in Nigeria, potentially benefitting over 8 million children.
+* Supported the Kano, Kaduna, and Jigawa state governments in Nigeria to provide teaching and learning materials. Beginning and end-of-year assessments measured success rates in a representative sample. Results showed that 36.4 percent of children in Foundational Learning schools increased a level in Hausa literacy, while 47.1 percent increased a level in maths.
+* Reached 9,385 teachers and 554,648 learners with foundational learning and accelerated learning materials.
+* Supported community leaders and LGEAs in identifying and establishing 200 community learning hubs to increase education awareness and provide learning opportunities within selected communities.
+* PLANE has catalyzed links between the financial sector and non-state schools, enabling greater financial stability and growth opportunities for education providers.
+* Developed minimum standard guidelines on GESI (Gender, Equality, and Social Inclusion) that are to be implemented across all program areas of PLANE and trained 9,385 teachers on basic GEDSI components.
 
 <iframe src="https://player.vimeo.com/video/905907121?h=8b2d47f003" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
