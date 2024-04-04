@@ -19,6 +19,11 @@ promos:
   link: https://planenigeria.com/blogs/
 - title: PLANE Newsletter January 2024
   link: "/uploads/PLANE_Newsletter_Jan_2024_Edition.pdf"
+- title: PLANE Program Brief 2024
+  link: "/uploads/PLANE%20Program%20Brief_2024.pdf"
+- title: PLANE Year 1 Stories of Change 2024
+  link: "/uploads/PLANE%20Year%201%20Stories%20of%20Change_2024.pdf"
+Field name: 
 ---
 
 Partnership for Learning for All in Nigeria (PLANE) is a seven-year education Program, funded by the U.K. Foreign, Commonwealth and Development Office (FCDO). It aims to support and realize the Government of Nigeria’s commitment to delivering sustainable improvements in learning outcomes for all of Nigeria’s children. 
