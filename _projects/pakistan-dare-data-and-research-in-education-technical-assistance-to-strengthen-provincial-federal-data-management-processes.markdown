@@ -6,7 +6,7 @@ summary: DARE (Data and Research in Education) aims to improve Pakistan’s educ
   data infrastructure and enhance coordination in the sector between the country’s
   federal and provincial governments.
 start: 2022
-end: 2023
+end: 2024
 client: World Bank
 solutions:
 - Education
@@ -25,8 +25,17 @@ DAI will deliver the project with core partner Impetus Advisory Group.
 ### Sample Activities
 
 The project has three components:
-* A comprehensive study of the existing education-related databases at the federal and provincial levels will be completed. 
-* The development of a data standardization framework using the results from the first component. This data standardization framework will be a guiding document for setting up an integrated national education database that could be used as an open data portal. The TA team will work with the stakeholders and prepare a costed plan of action for setting up an integrated national education database.
-* A design, along with all required technical details, for setting up the national open data portal. 
+* Completing a comprehensive study of the existing education-related databases at the federal and provincial levels. 
+* Developing the Data Standardization Framework (DSF) in close consultation with the relevant stakeholders and using the first component's results. This DSF will be a guiding document for standardizing data collection from schools nationwide and setting up an integrated national education database that could be used as an open data portal. This includes working with stakeholders to prepare costed plans to establish an integrated national education database and implement the DSF.
+* Preparing the design and all required technical details for setting up the national open data portal.
+ 
+### Select Results
+
+* Standardized the Annual School Census (ASC) data collection process, the variables on which data is to be collected, and the definitions of variables.
+* Added questions from the Washington Group Short Questionnaire to the ASC data collection to collect data on students with functional disabilities.
+* Prepared the design and guidelines for the horizontal integration of education databases with the provincial EMIS and for the vertical integration of provincial EMIS into the National EMIS. The front end of the National EMIS will be the National Open Data Portal.
+* Drafted comprehensive data governance protocols for safety, security, and effective management of data collected from the schools.
+* Prepared four Training Manuals (one for each of the four provinces) for the conduct of ASC.
+* Prepared an ASC reporting manual to guide the provinces in preparing a comprehensive report on the data collected from the schools annually.
 
 
