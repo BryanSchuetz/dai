@@ -6,7 +6,7 @@ summary: 'Tine Knott leads our corporate strategy and operations worldwide, incl
   the strategy and marketing functions, information technology, global facilities,
   human capital, and security. '
 job-title: Executive Vice President, Strategy and Global Operations
-image: "/uploads/Tine-close.jpg"
+image: "/uploads/Tine%20Knott_2024.jpg"
 solutions:
 - Include Primary and/or Secondary Solutions
 - 
