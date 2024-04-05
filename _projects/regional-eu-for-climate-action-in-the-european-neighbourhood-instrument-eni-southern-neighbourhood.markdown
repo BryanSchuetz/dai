@@ -37,9 +37,8 @@ DAI is supporting a regional approach to support the transition towards sustaina
 
 ### Select Results
 
+* Engaged 97 local authorities from seven South Mediterranean countries to prepare 69 Sustainable Energy and Climate Action Plans, benefiting 8.7 million people.
 * Conducted training in three municipalities in Palestine on measurement, reporting, and verification of greenhouse gas mitigation, with the support of the Government of Sweden. 
-* Guided 10 Jordanian cities in completing Sustainable Energy and Climate Action Plans, which align with their Nationally Determined Contributions.  
 * Helped create a Donors Coordination Group to create synergy with international finance institutions and donors’ initiatives in the Middle East and North Africa, that have the potential to support finance of projects identified in municipal Sustainable Energy Access and Climate Action Plans.
-* Approximately 70 municipalities from all seven countries covered by the project, have been supported in preparing their plans. Technical materials (i.e. manuals, e-learning tools, etc.) are being developed by the team. 
 * Provided Help Desk Services on a regular basis to local authorities from the Maghreb and Mashreq project offices, to respond to the demand for coaching cities along with the preparation of their climate plans. 
-* Engaged more than 20 municipalities in a tree planting awareness campaign.
+* Engaged more than 20 municipalities in a tree-planting awareness campaign.
