@@ -38,3 +38,4 @@ The [Palestine Small and Medium Enterprise Assistance for Recovery and Transitio
 * Signed 25 contracts with different suppliers and delivered items to hotels that are part of the Hotel Recovery Program. The first recipient was the Retno Hotel in Ramallah, which received hotel amenities including 15 TVs, 45 phones, 15 mini refrigerators, and 30 orthopedic mattresses. 
 * Allocated $1.8 million to assist 38 Palestinian-owned hotels, creating 1,000 jobs.
 * Allocated $5.7 million to assist private-sector recovery—$3.2 million of which helped 60 small businesses to develop recovery plans. 
+* Supported the Nativity Bells Hotel in Bethlehem to install electronic key card systems as part of the hotel's strategic growth plan (which also includes digital marketing, communications, and equipment procurement).
