@@ -39,26 +39,23 @@ IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUW
 
 ![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Catalyze and facilitate local WASH and water resource management (WRM) partnerships to stimulate entrepreneurship and technology uptake, improve skills across operators and service providers, and expand and scale public-private partnerships, and other financing instruments.
-
 * Employ data, evidence, and visualizations to support decision making and spur dialogue and action.
-
 * Expand access to domestic, regional, and international finance by brokering arrangements between utilities and new financing facilities to support new connections as well as green, gender-responsive, and climate-resilient infrastructure.
 
-### Select Results (IUWASH and IUWASH PLUS)
+## Select Results (IUWASH and IUWASH PLUS)
 
 * Brought [reliable water supply](https://medium.com/usaid-global-waters/making-sanitation-services-affordable-in-indonesia-s-cities-5a2621014c1f#.s3v3zp1xo) to more than 3 million people and safely managed sanitation services to 960,000 city dwellers.
-
 * Reduced water costs for low-income households by 57 percent.
-
 * Built 3,700 infiltration ponds to recharge groundwater supply and mitigate the effects of climate change.
-
 * Strengthened the capacity of more than 60 local government institutions (water supply and wastewater operators) to serve vulnerable populations in 66 cities.
-
 * More than 183,000 people (37 percent of them women) have benefited from project training and capacity-building activities.
-
 * Leveraged more than $240 million for WASH programs.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/105875924" webkitallowfullscreen="" width="703"></iframe>
+
+## Select Results (Tangguh)
+
+* Collaborated with Kesetnana villageto reforest the watershed catchment area. The 800 new trees will increase water retention, protect the soil, and ensure more regular flow of clean water. Community members also received training to monitor the effects of tree planting on the water supply.
