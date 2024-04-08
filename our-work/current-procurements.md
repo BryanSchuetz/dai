@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.
 
+* [RFP-INRM-040-Resilience Focus Zone (RFZ) Climate Smart Agriculture (CSA) Research Activity_Ammended](/uploads/RFP-INRM-040-Resilience%20Focus%20Zone%20(RFZ)%20Climate%20Smart%20Agriculture%20(CSA)%20Research%20Activity_Ammended.pdf "4/15")
 * [RFP-INRM-040-Resilience Focus Zone (RFZ) Climate Smart Agriculture (CSA) Research Activity](/uploads/RFP-INRM-040-Resilience%20Focus%20Zone%20(RFZ)%20Climate%20Smart%20Agriculture%20(CSA)%20Research%20Activity.pdf "4/15")
 * [RFP 24-054-Provision of CB for Financial Institutions](/uploads/RFP%2024-054-Provision%20of%20CB%20for%20Financial%20Institutions.pdf "4/23")
 * [RFP-TCA-UZB-24-0002 OCR system for UZ Customs_eng_final](/uploads/RFP-TCA-UZB-24-0002%20OCR%20system%20for%20UZ%20Customs_eng_final.pdf "4/19")
