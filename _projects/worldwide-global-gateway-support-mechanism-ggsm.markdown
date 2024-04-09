@@ -26,7 +26,7 @@ The world faces a massive gap in financing for investments in new and existing i
 
 To fill the gap, the European Union’s (EU) Global Gateway initiative invests in the digitalisation, health, climate, energy, and transport sectors, as well as in education and research. Our work focuses on the transport sector by supporting actors managing or implementing EU cooperation programmes at the global, regional, and country levels to assess, design, monitor, and evaluate infrastructure interventions.
 
-In close coordination with contracting authorities and EU Delegations, our project designs, develops and implements technical assistance packages as per the request of beneficiary countries and regions. The countries include those covered by the Neighbourhood Development and International Cooperation Instrument-Global Europe (NDICI/Global Europe), mainly focusing on Africa, where the EU financing can make the biggest impact.
+In close coordination with contracting authorities and EU Delegations, our project designs, develops, and implements technical assistance packages as per the request of beneficiary countries and regions. The countries include those covered by the Neighbourhood Development and International Cooperation Instrument-Global Europe (NDICI/Global Europe), mainly focusing on Africa, where the EU financing can make the biggest impact.
 
 ![GGSM_stock.jpg](/uploads/GGSM_stock.jpg)
 
