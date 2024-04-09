@@ -5,8 +5,8 @@ redirect_from:
 - "/who-we-are/global-reach"
 - "/who-we-are/global/"
 summary: Since 1970, we have worked in more than 150 countries, and at any one time
-  we are likely to have active projects in 100 or more countries. This portfolio
-  is supported from more than a dozen corporate [locations](/faq) worldwide.  
+  we are likely to have active projects in 100 or more countries. This portfolio is
+  supported from more than a dozen corporate [locations](/faq) worldwide.
 hero: true
 layout: node
 ---
