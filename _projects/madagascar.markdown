@@ -1,5 +1,5 @@
 ---
-title: Madagascar—
+title: Madagascar—HARENA activity
 date: 2024-04-09 13:29:00 Z
 published: false
 summary: The USAID HARENA Activity works toreduce threats to biodiversity and forests,
