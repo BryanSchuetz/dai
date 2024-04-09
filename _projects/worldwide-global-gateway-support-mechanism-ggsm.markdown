@@ -20,6 +20,8 @@ country: Worldwide
 promos:
 - title: Global Gateway Transport Support Mechanism
   link: "/uploads/Global%20Gateway%20Transport%20Support%20Mechanism_WEB.pdf"
+- title: 'Map: Global Gateway Transport Support Mechanism Missions'
+  link: "/uploads/GGTSM%20-%20Map_WEB.pdf"
 ---
 
 The world faces a massive gap in financing for investments in new and existing infrastructure, and available resources could be used in a more effective way. 
