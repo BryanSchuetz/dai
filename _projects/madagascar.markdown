@@ -1,7 +1,7 @@
 ---
-title: Madagascar—Harena activity
+title: Madagascar—HARENA activity
 date: 2024-04-09 13:29:00 Z
-summary: The USAID Harena Activity works to reduce threats to biodiversity and forests,
+summary: The USAID HARENA Activity works to reduce threats to biodiversity and forests,
   improve conservation, and build resilience to climate change; develop sustainable,
   economic opportunities for the poor; and improve environmental governance in Madagascar.
 start: 2024
@@ -21,11 +21,11 @@ Madagascar has endured significant loss of biodiversity and forest cover as well
 
 Impoverished people with few options practice unsustainable forest clearing for subsistence agriculture and cash-crop production to support their livelihoods, leading to dramatic land use change. This is one of the most pervasive direct threats to Madagascar’s biodiversity and forests. Other widespread threats include unsustainable natural resource extraction, mining, and the illegal wildlife trade. 
 
-The Harena Activity, funded by the U.S. Agency for International Development (USAID), works to reduce these threats to biodiversity and forests, improve conservation, and build resilience to climate change; develop sustainable, economic opportunities for the poor; and improve environmental governance in Madagascar.
+The HARENA Activity, funded by the U.S. Agency for International Development (USAID), works to reduce these threats to biodiversity and forests, improve conservation, and build resilience to climate change; develop sustainable, economic opportunities for the poor; and improve environmental governance in Madagascar.
  
 Taking a multisectoral approach, HARENA works across local economic and social systems to address the root causes of poverty and food insecurity—drivers that lead communities in Madagascar to rely on areas of high biodiversity for their basic needs.
  
-*Harena* (Malagasy for wealth) has three themes, encompassing nature, wealth, and power: natural resource and protected area management, and biodiversity and forest conservation (nature); improved, climate-resilient livelihoods and private sector engagement for enhanced human well-being and socioeconomic outcomes (wealth); and natural resource and protected area governance (power).
+*HARENA* (Malagasy for wealth) has three themes, encompassing nature, wealth, and power: natural resource and protected area management, and biodiversity and forest conservation (nature); improved, climate-resilient livelihoods and private sector engagement for enhanced human well-being and socioeconomic outcomes (wealth); and natural resource and protected area governance (power).
  
 Focused in three geographic zones with high biodiversity value and high potential for land-based climate change mitigation, HARENA implements five strategic approaches:
  
