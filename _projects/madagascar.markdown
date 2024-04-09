@@ -1,8 +1,7 @@
 ---
 title: Madagascar—HARENA activity
 date: 2024-04-09 13:29:00 Z
-published: false
-summary: The USAID HARENA Activity works toreduce threats to biodiversity and forests,
+summary: The USAID HARENA Activity works to reduce threats to biodiversity and forests,
   improve conservation, and build resilience to climate change; develop sustainable,
   economic opportunities for the poor; and improve environmental governance in Madagascar.
 start: 2024
@@ -18,13 +17,15 @@ regions: Sub-Saharan Africa
 country: Madagascar
 ---
 
-The challenges and overarching context threatening Madagascar’s biodiversity and forests are multidimensional and complex. The country has endured significant loss of biodiversity and forest cover as well as high levels of land degradation over the past 50 years. Unfortunately, traditional conservation and land use approaches have had little impact on these trends. Corruption, insecurity, and lack of transparency and accountability have further exacerbated the threats, root causes, and drivers of these issues. Impoverished people with few options practice unsustainable forest clearing for subsistence agriculture and cash-crop production to support their livelihoods, leading to dramatic land use change. This is one of the most pervasive direct threats to Madagascar’s biodiversity and forests. Other widespread threats include unsustainable natural resource extraction, mining, and the illegal wildlife trade. At the local level, poverty and food insecurity—root causes of forest and biodiversity loss—exert pressure on natural resources. Demand is also growing for these resources as they are often viewed as a source of quick cash. Agricultural productivity is low, due to inefficient agricultural practices, and people in poor communities generally lack alternatives to economic activities that involve unsustainable natural resource extraction. These factors are all key drivers of forest and Protected Area (PA) degradation. 
+Madagascar has endured significant loss of biodiversity and forest cover as well as high levels of land degradation over the past 50 years. Unfortunately, traditional conservation and land use approaches have had little impact on these trends. Corruption, insecurity, and lack of transparency and accountability have further exacerbated the threats, root causes, and drivers of these issues. 
 
-The HARENA Activity, funded by the U.S. Agency for International Development (USAID), works to reduce threats to biodiversity and forests, improve conservation, and build resilience to climate change; develop sustainable, economic opportunities for the poor; and improve environmental governance in Madagascar.
+Impoverished people with few options practice unsustainable forest clearing for subsistence agriculture and cash-crop production to support their livelihoods, leading to dramatic land use change. This is one of the most pervasive direct threats to Madagascar’s biodiversity and forests. Other widespread threats include unsustainable natural resource extraction, mining, and the illegal wildlife trade. 
+
+The HARENA Activity, funded by the U.S. Agency for International Development (USAID), works to reduce these threats to biodiversity and forests, improve conservation, and build resilience to climate change; develop sustainable, economic opportunities for the poor; and improve environmental governance in Madagascar.
  
 Taking a multisectoral approach, HARENA works across local economic and social systems to address the root causes of poverty and food insecurity—drivers that lead communities in Madagascar to rely on areas of high biodiversity for their basic needs.
  
-The Activity has three themes, encompassing nature, wealth, and power: natural resource and protected area management, and biodiversity and forest conservation (nature); improved, climate-resilient livelihoods and private sector engagement for enhanced human well-being and socioeconomic outcomes (wealth); and natural resource and protected area governance (power).
+*HARENA* (Malagasy for wealth) has three themes, encompassing nature, wealth, and power: natural resource and protected area management, and biodiversity and forest conservation (nature); improved, climate-resilient livelihoods and private sector engagement for enhanced human well-being and socioeconomic outcomes (wealth); and natural resource and protected area governance (power).
  
 Focused in three geographic zones with high biodiversity value and high potential for land-based climate change mitigation, HARENA implements five strategic approaches:
  
@@ -34,6 +35,13 @@ Focused in three geographic zones with high biodiversity value and high potentia
 * Increasing local resilience to prepare for and adapt to climate change and other shocks; and
 * Strengthening land use management through spatial planning at the communal level and securing land rights through effective implementation of Madagascar’s land tenure policy.
 
-
+![Sifaka Lemur Park.JPG](/uploads/Sifaka%20Lemur%20Park.JPG)
  
 ## Sample Activities
+
+* Support the design and implementation of community-based land management plans.
+* Support seed and input systems to enhance farm resilience.
+* Advance business and marketing skills (with climate-smart approaches); promote contracts or other mechanisms with market-ready farming associations and cooperatives.
+* Improve smallholder producer access to a wide range of financial products and services along the value chains that allow them to engage fully in mutually advantageous market transactions.
+* Leverage social enterprises for reforestation, forest restoration, and agroforestry. 
+* Provide technical assistance to large corporations to help them improve the intended impact of corporate social programs on their communities’ economic well-being while conserving the surrounding environment. 
