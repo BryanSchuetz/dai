@@ -6,7 +6,7 @@ layout: default
 {% if page.url contains '/who-we-are/diversity-equity-engagement-inclusion' %}
 <div class="covid-news-wrapper">
   <ul>
-    {% assign deei-news = site.news | where_exp:"item","item.tags contains 'deei'" | sort:'date' | reverse  %}
+    {% assign deei-news = site.news | where_exp:"item","item.tags contains 'deei'" | sort:'date' | reverse  %} 
     {% for promo in deei-news %}
       <li class="covid-list-item">
         <a class="covid-item-link"
