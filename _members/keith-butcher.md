@@ -11,7 +11,7 @@ layout: leaders
 
 Keith is a co-founder of both ButcherJoseph & Co. and Mosaic Capital Partners. In these roles, he provides investment and advisory services to mid-sized companies across various sectors. In addition to serving on DAI’s Board of Managers, he is a board member for organizations including DAI Magister, Forest City Trading Group, Custom Profile, Sayers Technology, and Nation Safe Drivers.
 
-![Keith Butcher_Edited (1)-83a72f.jpg](/uploads/Keith%20Butcher_Edited%20(1)-83a72f.jpg)
+![Keith Butcher.jpg](/uploads/Keith%20Butcher.jpg)
  
 For more than two decades, Keith has been a leading advocate for employee ownership and inclusive capitalism. His team’s initiatives have enabled more than 400 companies to establish broad-based employee ownership, benefitting more than a million employees by allowing them to share in the equity they help generate.
  
