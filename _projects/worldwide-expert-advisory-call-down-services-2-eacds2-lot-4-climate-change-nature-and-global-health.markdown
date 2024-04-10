@@ -38,3 +38,7 @@ The Lot 4 priority objective areas are:
 * Respond to on-demand requests for support and work with users to precisely define scopes of assistance from the first idea to full terms of reference.
 * Rapidly source expertise from across a consortium of 27 partners or other specialist suppliers, often within 10 days.
 * Manage all commissioned assignments on behalf of FCDO, including contract placement and management, financial management, delivery and quality control, and duty of care.
+
+## Selected EACDS2 Lot 4 Reports and Products
+* [FCDO review. Funding request process for GC7 in 6 countries.](/uploads/FCDO%20review.%20Funding%20request%20process%20for%20GC7%20in%206%20countries.%20March%2024.pdf) March 24
+
