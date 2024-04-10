@@ -9,7 +9,7 @@ tags:
 - biodiversity
 summary: 'The Expert Advisory Call Down Services (EACDS) Lot 4: Climate Change, Nature,
   and Global Health provides rapid, quality-assured, short-term technical expertise
-  to support the development of U.K. aid programs.'
+  to support the development of U.K. Aid programs.'
 start: 2023
 end: 2024
 client: Foreign, Commonwealth & Development Office
