@@ -23,6 +23,8 @@ NASC supports FCDO’s objectives to reform food systems to promote healthy and 
  
 Technical assistance is provided as short- or long-term expertise and targets programs across all stages, from design to implementation, monitoring, evaluation, and learning. NASC’s approach revolves around ensuring good coordination, communication, engagement, capacity building, and production of high-quality deliverables. 
 
+![_H6A8888.jpg](/uploads/_H6A8888.jpg)
+
 ## Sample Activities
 
 * Supporting FCDO’s initiatives globally and at country level to end preventable deaths of mothers, babies, and children by improving nutrition through universal health coverage.
