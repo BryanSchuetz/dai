@@ -18,7 +18,7 @@ country: Worldwide
 
 DAI is pleased to publish its Sustainability Report 2023, highlighting some of the impact we have achieved in pursuit of the Sustainable Development Goals (SDGs) and documenting the progress achieved against our environmental targets and in areas such as diversity, equity, and inclusion. 
 
-In a year that saw the eruption or escalation of several crises—manmade and otherwise—DAI reacted accordingly and adapted to changing situations on the ground in Afghanistan, Haiti, Palestine, Ukraine, and other troubled places around the globe. 
+In a year that saw the eruption or escalation of several crises, DAI reacted accordingly and adapted to changing situations on the ground in Afghanistan, Haiti, Palestine, Ukraine, and other troubled places around the globe. 
 
 ![Screenshot 2024-04-10 at 4.24.31 PM.png](/uploads/Screenshot%202024-04-10%20at%204.24.31%E2%80%AFPM.png)
 
