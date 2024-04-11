@@ -31,10 +31,7 @@ DAI's delivery partners are IIED, LINK Education, LINK Community Development, Wa
 
 ### Sample Activities 
 
-* Conduct a needs assessment to identify relevant government (national and local) priorities as well as an assessment of the current donor landscape to ensure interventions align with and complement existing activities and strategic priorities. 
-
+* Conduct a needs assessment to identify relevant government (national and local) priorities and an assessment of the current donor landscape to ensure interventions align with and complement existing activities and strategic priorities. 
 * Establish an advisory steering group that consists of partner country and local government representatives.
-  
 * Develop a program delivery plan to meet CJC objectives with tailored interventions for marginalized populations in climate-vulnerable communities.  
-
-* Collaborate with the two other lots to contribute to a wider theory of change of the Climate Justice Fund. 
+* Collaborate with the two other lots to contribute to the Climate Justice Fund's wider theory of change. 
