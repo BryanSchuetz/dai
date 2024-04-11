@@ -27,7 +27,7 @@ Following a three-month scoping phase, DAI will design and implement interventio
 
 DAI's delivery partners are IIED, LINK Education, LINK Community Development, Water Witness International, and Water Witness Malawi. 
 
-![DSC_0516.JPG](/uploads/DSC_0516.JPG)
+![Picture2.jpg](/uploads/Picture2.jpg)
 
 ### Sample Activities 
 
