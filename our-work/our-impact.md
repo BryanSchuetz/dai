@@ -10,10 +10,33 @@ layout: node
 
 We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable. Integral to that mission is a commitment to uphold human rights and labor standards, promote environmental responsibility, and combat corruption in all its forms.
  
- **You can learn more about our commitment to Shaping a More Livable World** by reviewing our [UNGC Communication on Progress](https://www.dai.com/news/dai-submits-its-2020-communication-on-progress-to-the-un-global-compact) for the current and previous years below.
+ **You can learn more about our commitment to Shaping a More Livable World** by reviewing our [Sustainability Report](https://dai-assets.s3.amazonaws.com/our-work/Sustainability%20Report%202023.pdf) for the current and previous years below.
  
  <div class="bulma">
    <div class="container columns">
+    <div class="column">
+             <div class="card is-fullheight">
+         <div class="card-image">
+           <figure class="image is-3by2">
+             <img src="/uploads/sustainability-23.png" alt="Placeholder image">
+           </figure>
+         </div>
+         <div class="card-content">
+           <div class="media">
+             <div class="media-content">
+               <p class="title is-4">Sustainability Report</p>
+               <p class="subtitle is-6">2023</p>
+             </div>
+           </div>
+           <div class="content">
+             <p>"In a year that saw the eruption or escalation of several crises, DAI reacted accordingly and adapted to changing situations on the ground in Afghanistan, Haiti, Palestine, Ukraine, and other troubled places around the globe."</p>
+           </div>
+         </div>
+         <footer class="card-footer pt-0" style="padding-top: 0;" >
+           <a href="https://dai-assets.s3.amazonaws.com/our-work/Sustainability%20Report%202023.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+         </footer>
+       </div>
+     </div>
      <div class="column">
              <div class="card is-fullheight">
          <div class="card-image">
@@ -37,7 +60,9 @@ We envision a world in which communities and societies become more prosperous, f
          </footer>
        </div>
      </div>
-     <div class="column">
+   </div>
+   <div class="container columns">
+    <div class="column">
                <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
@@ -60,9 +85,7 @@ We envision a world in which communities and societies become more prosperous, f
          </footer>
        </div>
      </div>
-   </div>
-   <div class="container columns">
-     <div class="column is-half">
+     <div class="column">
              <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
@@ -85,6 +108,9 @@ We envision a world in which communities and societies become more prosperous, f
          </footer>
        </div>
      </div>
+      
+   </div>
+    <div class="container columns">
       <div class="column">
                <div class="card is-fullheight">
          <div class="card-image">
@@ -108,9 +134,7 @@ We envision a world in which communities and societies become more prosperous, f
          </footer>
        </div>
       </div>
-   </div>
-    <div class="container columns">
-      <div class="column is-half">
+      <div class="column">
                <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
