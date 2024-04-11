@@ -1,7 +1,6 @@
 ---
 title: DAI Releases Its Sustainability Report 2023
 date: 2024-04-10 16:22:00 Z
-published: false
 solutions:
 - Economic Growth
 - Governance
@@ -16,7 +15,7 @@ social-image: "/uploads/sm-af97ff.png"
 country: Worldwide
 ---
 
-DAI is pleased to publish its Sustainability Report 2023, highlighting some of the impact we have achieved in pursuit of the Sustainable Development Goals (SDGs) and documenting the progress achieved against our environmental targets and in areas such as diversity, equity, and inclusion. 
+DAI is pleased to publish its [Sustainability Report 2023](https://dai-assets.s3.amazonaws.com/our-work/Sustainability%20Report%202023.pdf), highlighting some of the impact we have achieved in pursuit of the Sustainable Development Goals (SDGs) and documenting the progress achieved against our environmental targets and in areas such as diversity, equity, and inclusion. 
 
 In a year that saw the eruption or escalation of several crises, DAI reacted accordingly and adapted to changing situations on the ground in Afghanistan, Haiti, Palestine, Ukraine, and other troubled places around the globe. 
 
