@@ -54,7 +54,26 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 </div>
 </div>
 </div>
-<div class="container"><button onclick="window.location.href='mailto:training@dai.com';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Express Your Interest in Masterclass 2024</button></div>
+<div id="eventbrite-widget-container-867394569507"></div>
+ 
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+ 
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+ 
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '867394569507',
+        iframeContainerId: 'eventbrite-widget-container-867394569507',
+ 
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 </div>
 
 ## Participants are trained to:
