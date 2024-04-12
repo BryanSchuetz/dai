@@ -1,6 +1,6 @@
 ---
 title: DAI Releases Its Sustainability Report 2023
-date: 2024-04-10 16:22:00 Z 
+date: 2024-04-10 16:22:00 Z
 published: false
 solutions:
 - Economic Growth
