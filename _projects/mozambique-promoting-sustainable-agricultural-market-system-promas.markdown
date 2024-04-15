@@ -16,6 +16,9 @@ country: Mozambique
 promos:
 - title: 'Market Systems Development: A Primer on Pro-Poor Programming'
   link: https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
+- title: Facilitating Systemic Responses to Drive Increased Farmer Access to Productive
+    Finance through the Fundo Agricola
+  link: https://www.shareweb.ch/site/Agriculture-and-Food-Security/news/Documents/2024_03_article_market3.pdf
 ---
 
 The Promoting Sustainable Agricultural Market System (PROMAS) project is creating a more competitive, inclusive, climate-resilient market in northern Mozambique. The team applies a [market systems approach](https://www.dai.com/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development) to increase the income and employment opportunities of male and female smallholder farmers, youth, and micro, small, and medium-sized enterprises (MSMEs). 
