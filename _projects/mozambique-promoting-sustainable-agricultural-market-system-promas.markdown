@@ -25,7 +25,7 @@ The Promoting Sustainable Agricultural Market System (PROMAS) project is creatin
  
 Partnering with Swiss development organization Helvetas, DAI is working to: enhance the productivity of smallholder farmers with a special focus on women and young people; improve agriculture input and output markets for smallholder farmers and MSMEs in peri-urban and rural areas; increase the availability of adequate risk management and related instruments for smallholder farmers to absorb climate change shocks; and develop policies and regulations conducive to inclusive agricultural value chain development.
  
-PROMAS draws upon an unrivaled knowledge base gained during the DAI-led [InovAgro project](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro), SDC’s flagship market systems project—to ensure PROMAS interventions deliver sustainable, high-impact results in northern Mozambique.
+PROMAS draws upon an unrivaled knowledge base gained during the DAI-led [InovAgro project](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro), SDC’s flagship market systems project—to ensure PROMAS interventions deliver sustainable, [high-impact results in northern Mozambique](https://www.dai.com/uploads/InovAgro%E2%80%99s%20Voyage%20of%20Learning%20and%20Adaptation%20for%20Market%20Systems%20Development%20in%20Northern%20Mozambique.pdf).
 
 ![IMG_1801.JPG](/uploads/IMG_1801.JPG)
  
