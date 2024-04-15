@@ -30,6 +30,9 @@ promos:
 - title: 'The Complexity of Building a Market for Certified Seeds: A Case Study from
     Mozambique'
   link: https://dai-global-developments.com/articles/the-complexity-of-building-a-market-for-certified-seeds-a-case-study-from-mozambique
+- title: InovAgro’s Voyage of Learning and Adaptation for Market Systems Development
+    in Northern Mozambique
+  link: "/uploads/InovAgro%E2%80%99s%20Voyage%20of%20Learning%20and%20Adaptation%20for%20Market%20Systems%20Development%20in%20Northern%20Mozambique.pdf"
 layout: project
 ---
 
