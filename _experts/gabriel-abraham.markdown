@@ -1,7 +1,6 @@
 ---
 title: Gabriel Abraham
 date: 2022-02-07 09:06:00 Z
-published: false
 lastname: Abraham
 summary: Gabriel Abraham has more than 25 years of experience leading local governance
   and decentralization projects worldwide.
