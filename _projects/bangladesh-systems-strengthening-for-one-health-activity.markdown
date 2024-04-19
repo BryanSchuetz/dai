@@ -5,7 +5,7 @@ published: false
 summary: The Bangladesh Systems Strengthening for One Health Activity is an initiative
   to enhance the country's capacity to prevent, detect, and respond to emerging infectious
   and endemic zoonotic diseases, while also addressing the challenge of antimicrobial
-  resistance (AMR).
+  resistance.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
@@ -18,7 +18,7 @@ country: Bangladesh
 
 The Bangladesh Systems Strengthening for One Health Activity is an initiative to enhance the country's capacity to prevent, detect, and respond to emerging infectious and endemic zoonotic diseases, while also addressing the challenge of antimicrobial resistance (AMR).
  
-DAI and its partners are strengthening an integrated One Health approach in Bangladesh, supporting the ministries responsible for health, fisheries and livestock, environment, forests, and agriculture, as well as the One Health Secretariat, private sector entities, academic institutions, and other relevant stakeholders.
+DAI and its partners are strengthening an integrated One Health approach in Bangladesh, supporting the ministries responsible for health, fisheries and livestock, environment, forests, and agriculture, as well as the One Health Secretariat, private sector entities, academic institutions, and other relevant stakeholders. Strengthened systems will be resilient, equitable, and will optimize the use of financing and non-financing resources.
  
 ## Sample Activities
 
