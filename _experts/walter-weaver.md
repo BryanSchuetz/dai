@@ -5,7 +5,7 @@ lastname: Weaver
 summary: For the last 20 years, Walter Weaver has focused his broad interests in development
   on environment projects in Asia, Latin America, the Middle East, and parts of Africa.
 job-title: Vice President, Climate Integration
-image: https://assetify-dai.com/experts/innerweaver.jpg
+image: "/uploads/Walter%20Weaver%20DAIalumni276.jpg"
 solutions:
 - Environment
 - Climate
