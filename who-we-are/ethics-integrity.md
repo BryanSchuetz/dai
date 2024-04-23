@@ -2,7 +2,7 @@
 title: Ethics and Integrity at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
-  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20July%202023-85bdc5.pdf"
+  link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code%20of%20Conduct%202024.pdf
 - title: DAI Code of Business Conduct and Ethics—Arabic
   link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20AR%20-%20Copy.pdf"
 - title: DAI Code of Business Conduct and Ethics—Spanish
