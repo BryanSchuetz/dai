@@ -60,23 +60,7 @@ layout: careers
                             <p> Ejonta’s areas of expertise include decentralization, local government strengthening and service delivery improvement, citizen participation, community development, and outreach and anticorruption strategies. Ejonta leads DAI’s Local Governance global practice area, developing and delivering integrated solutions for DAI’s projects and business development initiatives. </p>
                         </div>
                     </div>
-                </div>
-                                <div class="item item--3">
-                    <div class="box">
-                        <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/technical-03.jpg')">
-                            <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/christina-frey.mp4" data-lity>
-                                <img class="play" src="assets/build/img/icons/play.svg" alt="Play">
-                            </a>
-                        </div>
-                        <div class="info">
-                            <h2 class="item--name"> Christina Frey </h2>
-                            <h3 class="item--title"> Director, Governance  </h3>
-                            <div class="line"></div>
-                            <p> Christina specializes in sustainable development, public sector governance, and political economy analysis. A governance consultant on the Europe Technical Services team, she works on public sector projects and business development activities with a focus on governance and accountability reform, and public service delivery. </p>
-                        </div>
-                    </div>
-                </div>
-                            
+                </div>      
             </div>
         </div>
 
@@ -108,9 +92,9 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Dave Whitfield </h2>
-                            <h3 class="item--title"> Director, Regional Finance and Operations </h3>
+                            <h3 class="item--title"> Senior Director, Business Performance </h3>
                             <div class="line"></div>
-                            <p> Dave has been providing home office management and support for DAI projects since 2008. As Director of Regional Finance and Operations for Global Programs, he oversees the management of project-wide operations for an $884 million portfolio. </p>
+                            <p>Now a Senior Director, Dave began his career providing home office management and support for DAI projects in 2008. As Director of Regional Finance and Operations for Global Programs, he oversaw the management of operations for an $884 million portfolio.</p>
                         </div>
                     </div>
                 </div>
@@ -123,28 +107,12 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Miguel Baca </h2>
-                            <h3 class="item--title">Director for Strategy, Operations and Finance at USG Programs </h3>
+                            <h3 class="item--title">Senior Director for Strategy, Operations and Finance at USG Programs </h3>
                             <div class="line"></div>
                             <p> As Director for Strategy, Operations and Finance, Miguel is responsible for overseeing the creation, coordination, and implementation of effective operational and financial standards and procedures across all regions in DAI’s USG Programs Unit. </p>
                         </div>
                     </div>
-                </div>
-                                <div class="item item--3">
-                    <div class="box">
-                        <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/project_mgmt-03.jpg')">
-                            <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/kate-leuba.mp4" data-lity>
-                                <img class="play" src="assets/build/img/icons/play.svg" alt="Play">
-                            </a>
-                        </div>
-                        <div class="info">
-                            <h2 class="item--name"> Kate Leuba </h2>
-                            <h3 class="item--title"> Project Manager </h3>
-                            <div class="line"></div>
-                            <p> Since joining DAI in 2014, Kate has held progressively responsible positions in project management. Now a key member of DAI’s Center for Secure and Stable States, Kate supports DAI’s portfolio of development and security programming in fragile states. </p>
-                        </div>
-                    </div>
-                </div>
-                            
+                </div>      
             </div>
         </div>
 
@@ -176,28 +144,13 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Nate Bourns </h2>
-                            <h3 class="item--title"> Vice President, Geographic and Digital Platforms </h3>
+                            <h3 class="item--title"> Senior Vice President, Global Operations </h3>
                             <div class="line"></div>
-                            <p>Nate works across all DAI business units and corporate offices to build a next-generation operating model. He is responsible for developing and executing DAI’s digital strategy and leading the company’s corporate presence in key geographies such as Colombia, Nigeria, Pakistan, and Palestine.</p>
+                            <p>Nate works across all DAI business units and corporate offices to develop and execute corporate strategy.</p>
                         </div>
                     </div>
                 </div>
                                 <div class="item item--2">
-                    <div class="box">
-                        <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/business_dev-02.jpg')">
-                            <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/tamara-stanton.mp4" data-lity>
-                                <img class="play" src="assets/build/img/icons/play.svg" alt="Play">
-                            </a>
-                        </div>
-                        <div class="info">
-                            <h2 class="item--name"> Tamara Stanton </h2>
-                            <h3 class="item--title">Senior Principal Advisor</h3>
-                            <div class="line"></div>
-                            <p> Since 2000, Tamara has held corporate and project-level roles in new business, recruiting, and project implementation. In all positions she’s held—head of DAI’s U.S. Government Business Development Unit, Innovation and Engagement Advisor on USAID’s Grand Challenges for Development program, and new business manager—Tamara embodies DAI’s values and passion for development. </p>
-                        </div>
-                    </div>
-                </div>
-                                <div class="item item--3">
                     <div class="box">
                         <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/business_dev-03.jpg')">
                             <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/kieran-griffin.mp4" data-lity>
@@ -236,37 +189,22 @@ layout: careers
         <div class="row">
             <div class="people-list">
 
-                                <div class="item item--1">
-                    <div class="box">
-                        <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/corporate-01.jpg')">
-                            <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/tami-fries.mp4" data-lity>
-                                <img class="play" src="assets/build/img/icons/play.svg" alt="Play">
-                            </a>
-                        </div>
-                        <div class="info">
-                            <h2 class="item--name"> Tami Fries </h2>
-                            <h3 class="item--title"> Senior Director</h3>
-                            <div class="line"></div>
-                            <p> Tami specializes in information systems, management training, and participatory approaches to project and program planning. As Director in Information Technology, she manages a team of business analysts and software developers in designing, implementing, and maintaining core business information systems for DAI’s home office and field projects. </p>
-                        </div>
+              <div class="item item--1">
+                <div class="box">
+                    <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/business_dev-02.jpg')">
+                        <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/tamara-stanton.mp4" data-lity>
+                            <img class="play" src="assets/build/img/icons/play.svg" alt="Play">
+                        </a>
+                    </div>
+                    <div class="info">
+                        <h2 class="item--name"> Tamara Stanton </h2>
+                        <h3 class="item--title">Senior Principal Advisor</h3>
+                        <div class="line"></div>
+                        <p> Since 2000, Tamara has held corporate and project-level roles in new business, recruiting, and project implementation. In all positions she’s held—head of DAI’s U.S. Government Business Development Unit, Innovation and Engagement Advisor on USAID’s Grand Challenges for Development program, and new business manager—Tamara embodies DAI’s values and passion for development. </p>
                     </div>
                 </div>
-                                <div class="item item--2">
-                    <div class="box">
-                        <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/corporate-02.jpg')">
-                            <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/keith-smith.mp4" data-lity>
-                                <img class="play" src="assets/build/img/icons/play.svg" alt="Play">
-                            </a>
-                        </div>
-                        <div class="info">
-                            <h2 class="item--name"> Keith Smith </h2>
-                            <h3 class="item--title"> SVP, HMG Business Unit </h3>
-                            <div class="line"></div>
-                            <p> In the course of his career at DAI, Keith has managed a range of development projects, from infrastructure, agriculture, and health initiatives to grants management, governance, and reintegration of ex-combatants.</p>
-                        </div>
-                    </div>
-                </div>
-                                <div class="item item--3">
+            </div>
+                          <div class="item item--2">
                     <div class="box">
                         <div class="image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('assets/build/img/people/corporate-03.jpg')">
                             <a href="https://s3.amazonaws.com/dai-assets/videos/dai-people/cecile-hipos.mp4" data-lity>

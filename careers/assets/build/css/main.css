@@ -5431,8 +5431,8 @@ section.people .people-list {
 
 section.people .people-list .item {
   -webkit-box-flex: 0;
-      -ms-flex: 0 1 33%;
-          flex: 0 1 33%;
+      -ms-flex: 0 1 50%;
+          flex: 0 1 50%;
   padding: 20px 25px;
   /* IE 10+ */
 }
