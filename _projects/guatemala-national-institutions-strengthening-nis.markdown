@@ -15,6 +15,9 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Guatemala
+promos:
+- title: Tackling Systemic Corruption Through Public Financial Management
+  link: "/uploads/White%20Paper%E2%80%94Tackling%20Systemic%20Corruption%20Through%20Public%20Financial%20Management.pdf"
 ---
 
 Irregular migration from Guatemala has surged, and the U.S. Government has renewed its commitment to partner with the Government of Guatemala to address the main drivers of migration. These include a general lack of attractive employment opportunities, insufficient public services, food insecurity, and violence. These challenges are compounded by natural disasters, drought, and the COVID-19 pandemic, motivating more Guatemalans to make the perilous journey north. 
