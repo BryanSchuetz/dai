@@ -23,7 +23,7 @@ Energy, telecommunications, and electronic services allow people to work, connec
 
 The Critical Infrastructure Digitalization and Resilience (CIDR) program is a five-year regional program managed by DAI for the U.S. Agency for International Development (USAID)’s Bureau for Europe and Eurasia. CIDR assists partner governments and in-country organizations to work with key stakeholders and experts to assess cybersecurity gaps and priorities, make recommendations, and map courses of action to improve the cybersecurity of critical infrastructure and key institutions. 
   
-CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, where countries in recent years have come under more diverse and complex cyberattacks. CIDR is currently providing assistance in Albania, Georgia, Kosovo, Moldova, North Macedonia, and Serbia. This includes assistance in workforce development, cybersecurity assessment, cybersecurity governance, and information sharing of cyberattacks, threats, and solutions.
+CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, where countries in recent years have come under more diverse and complex cyberattacks. CIDR is currently providing assistance in Albania, Georgia, Kosovo, Moldova, Montenegro, North Macedonia, and Serbia. This includes assistance in workforce development, cybersecurity assessment, cybersecurity governance, and information sharing of cyberattacks, threats, and solutions.
 
 Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure is defended and resilient and can continue to provide citizens with essential services.
 
