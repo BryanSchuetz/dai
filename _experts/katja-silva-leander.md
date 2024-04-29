@@ -1,6 +1,7 @@
 ---
 title: Katja Silva-Leander
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Silva-Leander
 summary: Katja Silva-Leander is Senior Director, Business Growth for DAI UK, bringing
   more than 20 years of experience working in the financial services and international
