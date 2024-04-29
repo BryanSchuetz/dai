@@ -48,4 +48,4 @@ Building on the U.S. Agency for International Development’s achievements throu
 * Redesigned and automated tax administration key processes.
 * Developed methodologies to modernize the public procurement suppliers’ registry by simplifying processes through interoperability with 11 other government systems, reducing processing times, and safeguarding against bribery to promote greater participation and competitiveness in public contracting.
 * Enhanced detection of tax fraud in international trade transactions ex-post, including eight key risk categories and 19 risk detection indicators.
-* Developed a digital government transformation pilot program.
+* Developed a [digital government transformation pilot](/uploads/Taxpayer%20Registration_The%20Foundation%20to%20Effective%20Domestic%20Revenue%20Mobilization.pdf) program.
