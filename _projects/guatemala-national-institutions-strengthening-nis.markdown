@@ -15,6 +15,10 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Guatemala
+promos:
+- title: Want Better Domestic Revenue Mobilization? Build a Digital Taxpayer Registration
+    Tool
+  link: https://dai-global-developments.com/articles/want-better-domestic-revenue-mobilization-build-a-digital-taxpayer-registration-tool/
 ---
 
 Irregular migration from Guatemala has surged, and the U.S. Government has renewed its commitment to partner with the Government of Guatemala to address the main drivers of migration. These include a general lack of attractive employment opportunities, insufficient public services, food insecurity, and violence. These challenges are compounded by natural disasters, drought, and the COVID-19 pandemic, motivating more Guatemalans to make the perilous journey north. 
