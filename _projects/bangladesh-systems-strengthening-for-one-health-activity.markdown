@@ -20,6 +20,8 @@ The Bangladesh Systems Strengthening for One Health Activity is an initiative to
 DAI and its partners are strengthening an integrated One Health approach in Bangladesh, supporting the ministries responsible for health, fisheries and livestock, environment, forests, and agriculture, as well as the One Health Secretariat, private sector entities, academic institutions, and other relevant stakeholders. Strengthened systems will be resilient, equitable, and will optimize the use of financing and non-financing resources.
 
 The Activity builds on 15 years of dedicated efforts to institutionalize One Health practices in Bangladesh. Its integrated systems approach emphasizes long-term sustainability, encompasses empowering local leadership, implements phased systems strengthening, institutionalizes One Health practices, and optimizes resources. The Bangladesh Systems Strengthening for One Health Activity seeks both immediate results and to reinforce a resilient and enduring global health security architecture in Bangladesh.
+
+![Dhaka0008.jpg](/uploads/Dhaka0008.jpg)
  
 ## Sample Activities
 
