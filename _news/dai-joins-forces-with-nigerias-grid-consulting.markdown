@@ -21,11 +21,11 @@ From this integrated platform, supported henceforth by GRID’s team in country,
 
 “As development professionals, we see in Nigeria a fertile opportunity to make an enormous difference in people’s lives,” he added. “We are better placed to seize that opportunity as a member of the DAI family.” 
 
-![Nigeria SPARC 1.jpg](/uploads/Nigeria%20SPARC%201.jpg) `The DFID-funded SPARC project, on which DAI and GRID collaborated, raised awareness in Nigeria about how improving governance can directly benefit the public, such as by improving health care, for example.`
+![Nigeria SPARC 1.jpg](/uploads/Nigeria%20SPARC%201.jpg)`The DFID-funded SPARC project, on which DAI and GRID collaborated, raised awareness in Nigeria about how improving governance can directly benefit the public, such as by improving health care, for example.`
 
 DAI has a history of work in Nigeria going back to the 1970s, and is currently implementing half a dozen major projects for clients including the U.K. Department for International Development, the U.S. Agency for International Development, and the Chevron-funded Partnership Initiatives for the Niger Delta. The projects are coordinating water, sanitation, and hygiene initiatives; empowering women to serve as nurses and midwives in Northern Nigeria; promoting more accountable, responsive, and capable state and federal governments, and building the government’s capacity to develop pro-poor public policy; and boosting incomes through investment and market systems in the Niger Delta.
 
-GRID is a partner in most of these initiatives, and all of GRID’s active projects will remain in place, as will existing reporting relationships and points of contact for clients. “Because GRID staff are intimately familiar with DAI’s operations, we anticipate a seamless transition,” said [Judith Ogedegbe](http://www.gridconsulting.net/our-team.php), GRID’s Executive Director and a human resources management specialist. “We all look forward to exploring the learning and professional development opportunities that come with joining a truly global team.” 
+GRID is a partner in most of these initiatives, and all of GRID’s active projects will remain in place, as will existing reporting relationships and points of contact for clients. “Because GRID staff are intimately familiar with DAI’s operations, we anticipate a seamless transition,” said Judith Ogedegbe, GRID’s Executive Director and a human resources management specialist. “We all look forward to exploring the learning and professional development opportunities that come with joining a truly global team.” 
 
 **About GRID Consulting**
 
