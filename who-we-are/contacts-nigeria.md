@@ -35,19 +35,6 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
   </div>
 </div>
 <hr>
-<div class="contact">
-  <h2>Judith Ogedegbe</h2><p>Nigeria Executive Director</p>
-  <div class="contact-image">
-    <img src="/uploads/Judith%20Ogedegbe.jpg" alt="Judith Ogedegbe" />
-  </div>
-  <div class="contact-summary">
-    <p>
-      Judith Ogedegbe serves as Executive Director for DAI in Nigeria, responsible for all of DAI’s operations in Nigeria. She started her career with Shell Petroleum Development Company. Having completed her master's degree in human resource management and development, with extensive executive education from the Harvard Business School and London Business School of Finance, she has developed an executive-focused client relationship management style, serving multiple clients and organisations.</p>
-
-    <ul><li>M.A., human resource management and development, University of Manchester</li></ul>
-  </div>
-</div>
-<hr>
 {% assign contacts = site.contacts | where: 'group', 'Nigeria' | sort: 'title' %}
 {% for contact in contacts %}
 <div class="contact">
