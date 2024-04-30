@@ -2,6 +2,7 @@
 title: Gahaya Links’ Janet Nkubana, USAID’s Alex Thier to Speak on European Development
   Days Gender Panel
 date: 2013-11-14 18:05:00 Z
+clients: European Union
 summary: 'Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one
   of four speakers at the upcoming European Development Days conference, November
   26–27. She will be part of a DAI-sponsored innovation lab addressing women''s economic
@@ -9,14 +10,10 @@ summary: 'Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be on
   to international supply chains."
 
 '
-solutions: 
-regions: 
-projects: 
-clients: European Union
 layout: node
 ---
 
-![][1]{:.float-left}Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one of four speakers at the upcoming European Development Days conference, November 26–27. She will be part of a DAI-sponsored innovation lab addressing women's economic empowerment called "Harnessing public private partnerships to connect women's businesses to international supply chains." This lab includes [Alex Thier][2], the Assistant to the Administrator for Policy, Planning, and Learning at the U.S. Agency for International Development (USAID), and DAI's [Anne Simmons-Benton][3] and [Katja Silva-Leander][4].
+![][1]{:.float-left}Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one of four speakers at the upcoming European Development Days conference, November 26–27. She will be part of a DAI-sponsored innovation lab addressing women's economic empowerment called "Harnessing public-private partnerships to connect women's businesses to international supply chains." This lab includes [Alex Thier][2], the Assistant to the Administrator for Policy, Planning, and Learning at the U.S. Agency for International Development (USAID), and DAI's Anne Simmons-Benton and Katja Silva-Leander.
 
 Gahaya Links' story of how as a small business in Rwanda it has been able to reach the international marketplace with the assistance of a donor project is inspirational.
 
@@ -38,8 +35,6 @@ Meet Nkubana at [EU Dev Days][5] or follow [#EDD13][6] on Twitter as we probe ne
 
 [1]: https://assetify-dai.com/news/JanetInner.jpg
 [2]: http://www.usaid.gov/who-we-are/organization/alex-thier
-[3]: /who-we-are/our-team/anne-simmons-benton
-[4]: /who-we-are/our-team/katja-silva-leander
 [5]: /news/dai-host-lab-women-economic-empowerment-european-development-days
 [6]: https://twitter.com/search?q=%23EDD13&src=typd&f=realtime
 [7]: http://eudevdays.eu/topics/women%E2%80%99s-economic-empowerment
