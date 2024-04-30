@@ -13,6 +13,10 @@ solutions:
 - Global Health Security and Pandemic Preparedness
 regions: Asia and the Pacific
 country: Bangladesh
+promos:
+- title: U.S. to Provide $26mn to Improve Infectious Disease Prevention and Control
+    in Bangladesh
+  link: https://www.daily-sun.com/post/745984
 ---
 
 The Bangladesh Systems Strengthening for One Health Activity is an initiative to enhance the country's capacity to prevent, detect, and respond to emerging infectious and endemic zoonotic diseases, while also addressing the challenge of antimicrobial resistance (AMR).
