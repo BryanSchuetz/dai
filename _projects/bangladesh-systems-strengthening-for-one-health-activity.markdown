@@ -27,5 +27,7 @@ The Activity builds on 15 years of dedicated efforts to institutionalize One Hea
 
 * Foster improved governance, systems, protocols, and resourcing of the One Health system through informed advocacy with One Health line ministries.
 * Support existing governance structures and multisectoral platforms to address human resources for One Health through network mapping for resource optimization, workforce gap analysis, strategic planning, and career path development.
-* Develop and test surveillance plans for AMR and infectious disease outbreaks. 
+* Enhance national and local laboratory capacity for pathogen and disease detection across the One Health interfaces. 
+* Strengthen existing One Health early warning systems to prevent disease outbreaks. 
+* Strengthen existing AMR surveillance systems in human and animal interfaces and ensure interconnectivity. 
 * Develop national and subnational outbreak response through the exploration of an incident command system for Bangladesh.
