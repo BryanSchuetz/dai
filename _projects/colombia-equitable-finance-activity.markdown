@@ -31,7 +31,7 @@ For the enabling environment, the team works to enhance the availability of acti
 
 In line with the U.S. Agency for International Development's Regional Integration Strategy, EFA prioritizes five economic corridors of Programas de Desarrollo con Enfoque Territorial (PDET) municipalities, representing areas most affected by the conflict and home to 3 million Colombians, with 203 municipalities covered, thanks to more than 20 partnerships signed between private and public financial sector.
 
-![Florencia 14.jpg](/uploads/Florencia%2014.jpg)
+![Florencia 14 (1).jpg](/uploads/Florencia%2014%20(1).jpg)
 
 ## Sample Activities
 
