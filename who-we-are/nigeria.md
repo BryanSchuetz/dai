@@ -20,14 +20,7 @@ layout: node
     <img src="https://www.dai.com/uploads/Dr.-Joe-Abah.jpg" alt="Joe Abah">
     <p class="name"><strong><a href="https://www.dai.com/who-we-are/our-team/joe-abah">Joe Abah, Nigeria Country Director</a></strong></p>
     </div>  
-  </div>
-  <div class="country-people--block last">
-    <div class="countryRep">
-    <img src="/uploads/Judith%20Ogedegbe.jpg" alt="Judith Ogedegbe">
-    <p class="name"><strong><a href="/who-we-are/our-team/judith-ogedegbe">Judith Ogedegbe, Executive Director</a></strong></p>
-    </div>   
-  </div>
-</div> 
+
 
 DAI has implemented development projects in Nigeria since 1970, and after nearly 50 years of remote implementation, the company established a global operating platform in Nigeria—the first of many locally registered, fully fledged, corporate offices manned by professionals who bring technical expertise, local knowledge, and convening power. 
 
