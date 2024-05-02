@@ -26,8 +26,9 @@ promos:
 - title: 'VIDEO: Mothers in Takei Community, Kano State, unite to mobilize children
     to school'
   link: https://vimeo.com/920528530?share=copy
-- title: 
-  link: 
+- title: 'VIDEO: Adoption of Education Dashboard strengthens school support visits
+    in Kano, Kaduna, and Jigawa'
+  link: https://vimeo.com/941934977?share=copy
 Field name: 
 ---
 
