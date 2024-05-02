@@ -51,7 +51,9 @@ Most of our emissions in Scope 3 are caused by business travel. We have not excl
 
 ## Our results to date
 
-![2021 DAI emissions results.jpg](/uploads/2021%20DAI%20emissions%20results.jpg)
+![DAI_Corp Greenhouse Emissions_US.jpg](/uploads/DAI_Corp%20Greenhouse%20Emissions_US.jpg)
+
+![DAI_Corp Greenhouse Emissions_UK.jpg](/uploads/DAI_Corp%20Greenhouse%20Emissions_UK.jpg)
 
 In 2023, we provided CDP with our emissions reporting for scopes 1, 2, and 3 for our U.S. office in Bethesda (see graph). We received a ‘C’ grade, which is the global average for professional service firms. This grade indicates awareness-level engagement and highlights our understanding of how environmental issues intersect with business and how our operations affect people and ecosystems. We remain committed to continuing to improve our score and strengthening our processes and systems to drive emissions down.
 
