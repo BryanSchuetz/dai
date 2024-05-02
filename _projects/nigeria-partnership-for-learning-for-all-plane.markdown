@@ -23,6 +23,11 @@ promos:
   link: "/uploads/PLANE%20Program%20Brief_2024.pdf"
 - title: PLANE Year 1 Stories of Change 2024
   link: "/uploads/PLANE%20Year%201%20Stories%20of%20Change_2024.pdf"
+- title: 'VIDEO: Mothers in Takei Community, Kano State, unite to mobilize children
+    to school'
+  link: https://vimeo.com/920528530?share=copy
+- title: 
+  link: 
 Field name: 
 ---
 
