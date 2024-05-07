@@ -1,6 +1,7 @@
 ---
 title: Neil Borland
 date: 2024-01-26 13:02:00 Z
+published: false
 lastname: Borland
 summary: 'Neil Borland is an energy sector specialist with a deep understanding of
   and experience working in renewable energy investment and financing, electricity
