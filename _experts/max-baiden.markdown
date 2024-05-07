@@ -1,6 +1,7 @@
 ---
 title: Max Baiden
 date: 2024-01-31 12:56:00 Z
+published: false
 lastname: Baiden
 summary: Max Baiden is a Senior Manager in the Sustainable Growth team, with more
   than 10 years of experience working in International Development in both the private
@@ -22,4 +23,4 @@ Max joined Save the Children UK in 2018, where he worked as a Humanitarian Opera
 
 Max re-joined DAI in 2023 to become Project Director of the [Global Centre on Biodiversity for Climate (GCBC)](https://www.dai.com/our-work/projects/worldwide-global-centre-on-biodiversity-for-climate) and Udaya in Nepal. 
 
-B.A., International Development, University of East Anglia.
+* B.A., international development, University of East Anglia
