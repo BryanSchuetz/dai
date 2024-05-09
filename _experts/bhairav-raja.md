@@ -1,7 +1,6 @@
 ---
 title: Bhairav Raja
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Raja
 summary: 'Bhairav Raja is the Director for Responsible Business at DAI’s Sustainable
   Business Group, based in London. '
