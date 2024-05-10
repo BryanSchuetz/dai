@@ -1,6 +1,7 @@
 ---
 title: DAI’s CIDR Program Wins USAID 2023 Digital Development Award
 date: 2024-05-10 09:18:00 Z
+is_featured: true
 solutions:
 - Digital Strategy
 - Digital Acceleration
@@ -12,7 +13,6 @@ summary: 'DAI is pleased to share the news that the U.S. Agency for Internationa
   program as winner of a 2023 Digital Development Award. '
 social-image: "/uploads/Digis%20promotion%20image-square-CIDR.png"
 country: Albania, Georgia, Kosovo, Moldova, Montenegro, North Macedonia, and Serbia
-featured: true
 ---
 
 DAI is pleased to share the news that the U.S. Agency for International Development (USAID) has [named](https://www.usaid.gov/digital-development/digis) the [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program as winner of a 2023 Digital Development Award. 
