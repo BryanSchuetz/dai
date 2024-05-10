@@ -4,7 +4,7 @@ date: 2022-02-07 09:06:00 Z
 lastname: Abraham
 summary: Gabriel Abraham has more than 25 years of experience leading local governance
   and decentralization projects worldwide.
-job-title: Chief of Party, Ukraine HOVERLA
+job-title: Senior Technical Leader, Governance
 image: "/uploads/Gabriel%20Abraham03-2.jpg"
 solutions:
 - Governance
