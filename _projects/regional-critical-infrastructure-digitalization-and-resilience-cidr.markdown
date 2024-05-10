@@ -17,6 +17,14 @@ country: Eastern Europe and Eurasia
 promos:
 - title: North Macedonia Completes Cybersecurity Coordination Exercise
   link: https://dai-global-digital.com/north-macedonia-completes-cybersecurity-coordination-exercise.html
+- title: DAI’s CIDR Program Wins USAID 2023 Digital Development Award
+  link: https://www.dai.com/news/dais-cidr-program-wins-usaid-2023-digital-development-award
+- title: 'Lessons from Kosovo: How Multi-Stakeholder Coalitions Can Enhance Policy
+    and Regulatory Frameworks for Cybersecurity'
+  link: https://dai-global-digital.com/how-multi-stakeholder-coalitions-can-enhance-policy-and-regulatory-frameworks-for-cybersecurity.html
+- title: Overcoming Gender Biases to Support Cyber Workforce Development in North
+    Macedonia
+  link: https://dai-global-digital.com/overcoming-gender-biases-to-support-cyber-workforce-development-in-north-macedonia.html
 ---
 
 Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
@@ -27,7 +35,7 @@ CIDR operates in the Western Balkans, Black Sea Region, and South Caucasus, wher
 
 Ultimately, CIDR aims to help the region raise the quality of its cybersecurity through these country-led programs so that critical infrastructure is defended and resilient and can continue to provide citizens with essential services.
 
-![CIDR pic 1 .jpeg](/uploads/CIDR%20pic%201%20.jpeg)`Prime Minister of Moldova Dorin Recean, left at the front table, shakes hands with U.S. Ambassador to Moldova Kent Logsdon during a presentation at the April 2023 meeting of the CIDR-facilitated Critical Infrastructure Cybersecurity Working Group. Photo: USAID Moldova.`
+![Serbia CPW rollout March 12 2024.jpg](/uploads/Serbia%20CPW%20rollout%20March%2012%202024.jpg)` Presenting results of the "Cyber Pathways for Women: Baseline Study" in March 2024 in Belgrade, Serbia.`
 
 ## Sample Activities 
 
@@ -37,4 +45,5 @@ Ultimately, CIDR aims to help the region raise the quality of its cybersecurity 
 * Assist critical infrastructure entities to incorporate cybersecurity best practices into their planning and operations and prioritize needed investment.
 * Engage universities, training institutes, and critical infrastructure employers on ways to address the supply of and demand for trained cybersecurity workers, including through CIDR’s Cyber Pathways for Women initiatives.
 * Promote U.S. and European investment in CIDR’s focus countries to ensure high-quality and enduring cybersecurity.
-* Coordinate and support activities as part of USAID’s U.S.-Europe [Energy Bridge](https://www.usaid.gov/about-us/organization/bureau-europe-eurasia/us-europe-energy-bridge) program. 
+* Coordinate and support activities as part of USAID’s U.S.-Europe [Energy Bridge](https://www.usaid.gov/about-us/organization/bureau-europe-eurasia/us-europe-energy-bridge) program.
+* [Winner](https://www.dai.com/news/dais-cidr-program-wins-usaid-2023-digital-development-award) of a 2023 Digital Development Award.
