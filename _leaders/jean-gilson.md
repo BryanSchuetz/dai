@@ -1,7 +1,7 @@
 ---
 title: Jean Gilson
 date: 2016-01-21 22:18:00 Z
-job-title: Senior Vice President, DAI; Board Executive Chair, MicroVest
+job-title: Senior Vice President, Global Brand; Board Executive Chair, MicroVest
 summary: Jean leads the firm’s work on strategy formulation and execution, external
   relations, communications, and brand.
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"

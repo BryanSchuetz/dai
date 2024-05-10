@@ -12,9 +12,12 @@ summary: 'DAI is pleased to share the news that the U.S. Agency for Internationa
   program as winner of a 2023 Digital Development Award. '
 social-image: "/uploads/Digis%20promotion%20image-square-CIDR.png"
 country: Albania, Georgia, Kosovo, Moldova, Montenegro, North Macedonia, and Serbia
+featured: true
 ---
 
 DAI is pleased to share the news that the U.S. Agency for International Development (USAID) has [named](https://www.usaid.gov/digital-development/digis) the [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program as winner of a 2023 Digital Development Award. 
+
+<!--more-->
 
 The CIDR program is working with seven Eastern European countries to bolster their cybersecurity resilience in the face of increasing and more diverse cyberattacks targeting critical infrastructure. CIDR’s assistance focuses on accelerating cybersecurity workforce development, empowering organizations to identify and address cybersecurity threats, strengthening cybersecurity governance, and facilitating the sharing of cyber threat information. 
 
