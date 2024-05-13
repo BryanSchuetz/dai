@@ -23,7 +23,7 @@ order: 5
 layout: expert
 ---
 
-Bhairav Raja is a Trade Advisor on the USAID Africa Trade and Investment Activity. He works in the team’s cross-continental trade services. His responsibilities extend to serving as a technical lead across critical minerals workstreams. He was previously the Director and Lead for our Responsible Business Practice in DAI’s Sustainable Business Group, based in London. Bhairav has worked in a range of frontier and emerging markets in Africa and Latin America. He has designed and led private sector engagement projects for a broad client base, including governments and private and public corporations across energy, mining, financial services, and retail.
+Bhairav Raja is a Trade Advisor on the USAID Africa Trade and Investment activity, a Prosper Africa initiative. He works in the team’s cross-continental trade services. His responsibilities extend to serving as a technical lead across critical minerals workstreams. He was previously the Director and Lead for our Responsible Business Practice in DAI’s Sustainable Business Group, based in London. Bhairav has worked in a range of frontier and emerging markets in Africa and Latin America. He has designed and led private sector engagement projects for a broad client base, including governments and private and public corporations across energy, mining, financial services, and retail.
 
 He has designed solutions for small businesses in digital financial services and climate finance, guided innovation in access to finance in supplier development for energy, agribusiness, and retail supply chains, and led policy research inputs for macro policy instruments such as the European Commission’s Carbon Border Adjustment Mechanism and Sustainable Corporate Governance Initiative. He has advised and trained a range of stakeholders from small business associations, multinational corporations, government ministries, central banks, and other regulatory authorities. His work contributes to policy and innovation solutions that enhance the quality of inclusive economic growth.
 
@@ -34,3 +34,4 @@ Bhairav started his career working in some of the largest corporations in media 
 * B.A., Spanish and Portuguese, University of Bristol
 * M. Phil., development studies, University of Cambridge
 * Certified expert in climate and renewable energy finance, Frankfurt School of Management and Finance
+* Circular Economy and Sustainability Strategies, Cambridge Judge Business School
