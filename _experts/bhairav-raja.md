@@ -2,8 +2,8 @@
 title: Bhairav Raja
 date: 2016-01-21 22:18:00 Z
 lastname: Raja
-summary: 'Bhairav Raja is the Director for Responsible Business at DAI’s Sustainable
-  Business Group, based in London. '
+summary: Bhairav Raja is a Trade Advisor on the USAID Africa Trade and Investment
+  Activity. He works in the team’s cross-continental trade services.
 job-title: Trade Advisor, USAID Africa Trade and Investment Activity
 image: "/uploads/Bhairav%20Raja.png"
 solutions:
