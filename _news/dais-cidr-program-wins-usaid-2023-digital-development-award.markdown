@@ -30,6 +30,6 @@ CIDR is a five-year program of the USAID Bureau for Europe and Eurasia and curre
 * Facilitating country-led, multistakeholder cybersecurity working groups where members share information, build consensus, and advise decision makers. 
 * Supporting the drafting of cybersecurity laws and establishment of cybersecurity authorities. 
 * Working with select institutions and critical infrastructure operators to become more resilient against cyberattacks. 
-* Addressing job-market demand by building capacity among critical infrastructure staff and cybersecurity instructors, updating university curricula, and attracting more women and girls toward cybersecurity careers through the Cyber Pathways for Women activity. 
+* Addressing job-market demand by building capacity among critical infrastructure staff and cybersecurity instructors, updating university curricula, and attracting more women and girls toward cybersecurity careers through the Cyber Pathways for Women activity (photo above). 
 
 CIDR was [one of five award winners](https://www.usaid.gov/digital-development/digis) selected from nearly 230 applicants around the world. The other winners of this year's Digi Awards are the USAID Cambodia Digital Workforce Development activity, the USAID India Game of Choice, Not Chance™ initiative, the USAID Moldova Future Technologies Activity, and the USAID Zimbabwe Target, Accelerate, and Sustain Quality Care for HIV Epidemic Control program. 
