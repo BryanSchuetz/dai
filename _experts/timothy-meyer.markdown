@@ -6,6 +6,7 @@ summary: At DAI, Timothy supports the Security, Transparency, Accountability, an
   Rule of Law practice under the Governance Sector. In this role, Timothy is supporting
   business development, knowledge capture, and technical implementation around access
   to justice, with an emphasis on people-centered justice approaches.
+job-title: Lead Specialist, Governance
 image: "/uploads/sm%20Timothy%20Meyer.jpg"
 solutions:
 - Governance
