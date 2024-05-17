@@ -25,6 +25,8 @@ promos:
 - title: Overcoming Gender Biases to Support Cyber Workforce Development in North
     Macedonia
   link: https://dai-global-digital.com/overcoming-gender-biases-to-support-cyber-workforce-development-in-north-macedonia.html
+- title: Program Fact Sheet
+  link: "/uploads/CIDR%20Program%20Fact%20Sheet.pdf"
 ---
 
 Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
