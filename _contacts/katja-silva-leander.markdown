@@ -1,6 +1,7 @@
 ---
 title: Katja Silva-Leander
 date: 2024-01-26 09:42:00 Z
+published: false
 job-title: Senior Director, Business Growth
 email: Katja_Silva-Leander@dai.com
 summary: 'Katja Silva-Leander is  Senior Director of Business Growth for DAI UK, with
