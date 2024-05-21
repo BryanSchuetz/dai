@@ -10,12 +10,19 @@ solutions:
 regions: Middle East and North Africa
 projects: Jordan—Public Financial Management and Administration (PFMA)
 clients: U.S. Agency for International Development
+summary: 'Moody’s Investors Service upgraded the Government of Jordan’s credit rating.
+  “This is the first sovereign credit upgrade for Jordan in 21 years,” said Minister
+  of Finance Mohammad Al-Ississ. The credit rating upgrade was facilitated in part
+  by two DAI projects in Jordan. '
+social-image: "/uploads/moodys-cb0382.jpg"
 country: Jordan
 ---
 
 Moody’s Investors Service upgraded the Government of Jordan’s credit rating. “This is the first sovereign credit upgrade for Jordan in 21 years,” said Minister of Finance Mohammad Al-Ississ. “It is an international acknowledgment of Jordan’s ambitious reform agenda, which has significantly boosted our economic growth.”
 
 The credit rating upgrade was facilitated in part by two DAI projects in Jordan. The [Public Financial Management and Administration (PFMA)](https://www.dai.com/our-work/projects/jordan-public-financial-management-and-administration-pfma-project) Activity, funded by the U.S. Agency for International Development (USAID), strengthened Jordan’s fiscal stability and governance, while the [Macroeconomic Advisory Support for the Government of Jordan](https://www.dai.com/our-work/projects/jordan-macroeconomic-advisory-support-for-the-government-of-jordan) program, funded by the U.K. Foreign, Commonwealth & Development Office, provided crucial credit rating advice and technical assistance to the government.
+
+![moodys.jpg](/uploads/moodys.jpg)`Photo: USAID Jordan.`
 
 "This achievement is remarkable given the challenging regional backdrop of the past few years: the COVID-19 pandemic, high global energy, and food prices due to the Russia-Ukraine conflict, and, more recently, tensions emanating from the Israel-Palestine conflict," said Wissam Rabadi, Senior Lead Specialist for DAI's Economic Growth sector.
 
