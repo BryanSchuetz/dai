@@ -18,4 +18,5 @@ Abby Gross is a global health professional specializing in One Health and Global
 
 Previously, Abby worked with Population Services International (PSI) where she managed in HIV, Hepatitis, and Global Health Security projects and provided technical support in One Health. Prior to her time at PSI, she was a member of the coordination team for the ACT Accelerator Diagnostics Pillar at FIND and worked with the U.S. Centers for Disease Control where she implemented cross-border COVID-19 mitigation measures as part of the U.S. Government’s COVID-19 response. 
 
-* M.S., One Health, London School of Hygiene and Tropical Medicine and the Royal Veterinary College 
+* M.Sc., One Health, London School of Hygiene and Tropical Medicine, Royal Veterinary College
+* B.A., environmental studies, The George Washington University
