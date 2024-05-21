@@ -14,6 +14,9 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
+- title: "**Guidance Notes:** Aligning Food System Activities \nwith Healthier Diets
+    for Low-Income Households"
+  link: "/uploads/food-systems-guidance.pdf"
 - title: "**Guidance Notes:** Transforming Nutrition Outcomes"
   link: "/uploads/Transforming%20nutrition%20outcomes%5B96%5D-b5067b.pdf"
 - title: "**Brief:** TASC Project"
