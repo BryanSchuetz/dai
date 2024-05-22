@@ -12,5 +12,5 @@ Before joining DAI, Bob Bardusch spent 25 years in the financial services indust
 He is currently on the board of the Penn State College of Information Sciences and Technology and advises early-stage technology ventures.
  
 * M.B.A, University of Pittsburgh
-* M.A., information systems, University of Pittsburgh
+* M.S., information systems, University of Pittsburgh
 * B.S., architectural engineering, Penn State University
