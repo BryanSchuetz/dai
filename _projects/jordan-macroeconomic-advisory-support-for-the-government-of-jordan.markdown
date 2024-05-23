@@ -12,6 +12,9 @@ solutions:
 - Economic Growth
 regions: Middle East and North Africa
 country: Jordan
+promos:
+- title: Moody’s Upgrades Jordan’s Credit Rating
+  link: https://www.dai.com/news/moodys-upgrades-jordans-credit-rating
 ---
 
 Jordan’s economy has been buffeted by repeated shocks for more than a decade. Key risks facing Jordan include higher-than-expected tightening by the US Federal Reserve, forcing commensurate tightening by the Central Bank of Jordan; worsening food and energy security linked to geopolitical events in Eastern Europe and East Asia; climate events, including extended dry periods; and shocks to investor confidence in the emerging markets more broadly.
