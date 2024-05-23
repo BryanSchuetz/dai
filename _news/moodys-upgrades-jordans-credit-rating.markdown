@@ -1,7 +1,6 @@
 ---
 title: Moody’s Upgrades Jordan’s Credit Rating
 date: 2024-05-21 09:18:00 Z
-published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
@@ -24,7 +23,7 @@ The credit rating upgrade was facilitated in part by two DAI projects in Jordan.
 
 ![moodys.jpg](/uploads/moodys.jpg)`Photo: USAID Jordan.`
 
-"This achievement is remarkable given the challenging regional backdrop of the past few years: the COVID-19 pandemic, high global energy, and food prices due to the Russia-Ukraine conflict, and, more recently, tensions emanating from the Israel-Palestine conflict," said Wissam Rabadi, Senior Lead Specialist for DAI's Economic Growth sector.
+"This achievement is remarkable given the challenging regional backdrop of the past few years: the COVID-19 pandemic, high global energy, and food prices due to the Russia-Ukraine conflict, and, more recently, tensions emanating from the Israel-Palestine conflict," said [Feras Momani](https://www.dai.com/who-we-are/our-team/feras-momani), DAI’s Country Representative in Jordan.
 
 The milestone reflects confidence in the country’s economic policies and reforms, such as the Economic Modernization Vision and the Public Sector Modernization Roadmap. For the government, the new rating means lower borrowing costs, improved investor confidence, and greater access to international financial markets, which can lead to further economic development and infrastructure investment. For everyday citizens, the upgrade signals a more stable economic environment, potentially leading to job creation and improved public services.
 
@@ -35,4 +34,4 @@ The Macroeconomic Advisory Support Program, led by DAI and Cygnum Capital, provi
 
 Moody’s assigns credit ratings using a standardized scale of letters and numbers. Credit ratings range from Aaa, the highest rating indicating minimal risk, to C, indicating a high likelihood of default. Jordan’s new Ba3 rating is still considered “non-investment grade,” but is a big improvement from the previous B1 rating, which indicated higher risk and greater uncertainty for investors.
 
-“As Jordan celebrates this significant achievement, DAI remains committed to supporting its reform momentum and strengthening its economic resilience,” said [Feras Momani](https://www.dai.com/who-we-are/our-team/feras-momani), DAI’s Country Representative in Jordan.
+“As Jordan celebrates this significant achievement, DAI remains committed to supporting its reform momentum and strengthening its economic resilience,” said Momani.
