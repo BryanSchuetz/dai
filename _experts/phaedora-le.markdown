@@ -13,4 +13,6 @@ regions:
 - Asia and the Pacific
 ---
 
-Phaedora Le is an impact investment analyst. Phaedora has a background in public policy, having previously worked as a policy analyst for the Australian Government contributing to Australia’s fiscal policy and the delivery of public expenditure across the foreign affairs and trade portfolio. 
+Phaedora Le is an impact investment analyst. Phaedora has a background in public policy, having previously worked as a policy analyst for the Australian Government contributing to Australia’s fiscal policy and the delivery of public expenditure across the foreign affairs and trade portfolio.
+
+* Bachelor of Commerce, Monash University
