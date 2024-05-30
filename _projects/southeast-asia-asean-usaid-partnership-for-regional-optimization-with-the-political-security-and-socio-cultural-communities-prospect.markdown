@@ -2,9 +2,9 @@
 title: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization with the Political-Security
   and Socio-Cultural Communities (PROSPECT)
 date: 2019-07-25 20:20:00 Z
-summary: 'PROSPECT helps the Association of Southeast Asian Nations (ASEAN) define
-  joint measures to address transnational challenges, strengthen ASEAN’s people-to-people
-  engagement, and elevate rights and opportunities for women and other vulnerable
+summary: 'PROSPECT helped the Association of Southeast Asian Nations (ASEAN) define
+  joint measures to address transnational challenges, strengthened ASEAN’s people-to-people
+  engagement, and elevated rights and opportunities for women and other vulnerable
   groups. '
 start: 2018
 end: 2024
@@ -27,7 +27,7 @@ promos:
   link: "/uploads/ASEAN-USAID-CTIP-plan.pdf"
 ---
 
-ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernmental organization comprising 10 southeast Asian countries. Since 1977, the United States has partnered with ASEAN to promote regional cooperation on pressing issues of joint interest. ASEAN-USAID PROSPECT builds upon the achievements of its predecessor project, [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable), to continue to support ASEAN to address transnational challenges, promote transparent and effective governance, and to elevate the rights and opportunities for women and other vulnerable groups. PROSPECT is based in Jakarta, near the ASEAN Secretariat.
+ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernmental organization comprising 10 southeast Asian countries. Since 1977, the United States has partnered with ASEAN to promote regional cooperation on pressing issues of joint interest. ASEAN-USAID PROSPECT built upon the achievements of its predecessor project, [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable), and continued to support ASEAN in addressing transnational challenges, promoting transparent and effective governance, and elevating the rights and opportunities for women and other vulnerable groups. 
 
 ![ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg](/uploads/ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg)`ASEAN Youth Video Contest participants from ASEAN Member States.`
 
@@ -45,4 +45,4 @@ ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernm
 * Provided technical expertise and management to ASEAN counter-terrorism officials to develop and launch the Bali Work Plan to Prevent and Counter the Rise of Radicalization and Violent Extremism (2019–2025), laying out the framework and a menu of regional interventions to stem the rise of radicalism and violence in ASEAN.
 * Drawing upon the Practitioners’ Model Toolkit (2019), developed and piloted a Regional Training Curriculum on Victim Identification, Protection, and Return and Reintegration, resulting in more than 120 practitioners being better prepared to identify and assist victims of trafficking of persons.
 * Led the research and produced a Synthesis Report on Opportunities within ASEAN for Advancing a Multisectoral Strategy to Address Human Trafficking and Forced Labor in the Fishing Industry and held consultations with ASEAN officials and other regional stakeholders to discuss findings and recommendations.
-* Provided technical expertise and management support for the development of ASEAN’s first Gender Mainstreaming Strategic Framework as well as leading the research and supporting the launch of ASEAN’s Regional Study on Women, Peace, and Security. Both landmark efforts provide ASEAN a base of knowledge and pathway forward toward enhancing women’s civic participation and leadership as well as advancing gender equality across the entire ASEAN Community.
+* Provided technical expertise and management support for the development of ASEAN’s first Gender Mainstreaming Strategic Framework as well as leading the research and supporting the launch of ASEAN’s Regional Study on Women, Peace, and Security. Both landmark efforts provide ASEAN a base of knowledge and a pathway forward toward enhancing women’s civic participation and leadership as well as advancing gender equality across the entire ASEAN Community.
