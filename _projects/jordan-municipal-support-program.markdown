@@ -37,3 +37,4 @@ The project facilitates the launch and sustainable management of private investm
 ## Select Results
 
 * With a regional weather firm, put in place a national early warning system to mitigate the impact of weather-related disasters, with a focus on flooding. 
+* Opened the Rayaheen Al Jannah Daycare in Greater Ma’an Municipality to address needs identified by a gender audit. It is the first in Jordan to be managed and operated by municipal staff and is part of an initiative to provide childcare to working families. 
