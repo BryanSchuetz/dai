@@ -12,11 +12,14 @@ regions:
 - Worldwide
 ---
 
-Casey Verbeck is a leader in the impact investment space, with a 25-year record of success in strategic planning, business development, sales, and marketing. Immediately before joining DAI, he served as Partner and Managing Director of Business Development and Marketing for Veris Wealth Partners—a B Corp-certified impact and wealth management firm—where he developed and managed growth initiatives that helped Veris surpass $2 billion in assets under management, with a focus on community wealth building, sustainable and regenerative agriculture, climate solutions and the environment, and racial and gender equity.
+ Casey Verbeck leads the impact investing group at DAI Capital, where he focuses on mobilizing and deploying private capital in frontier and emerging markets with clear impact mandates.
 
-Casey has founded and served as CEO for two firms, leading their efforts to scale high-impact programs through alternative financing solutions and strategies. He has launched impact-focused strategies with the recording artist Sarah McLachlan, National Geographic, The Nature Conservancy, Feeding America, and many other partners. Just prior to joining DAI, he completed the design of a private debt strategy for one of the United States’ leading conservation organizations to support indigenous communities. Thematically, his fund strategies have delivered impact in areas such as economic revitalization, land and water conservation, and community wealth building. 
+With more than two decades of impact investing experience, Casey has worked globally on fund strategies that deliver impact in areas such as climate solutions, conservation, sustainable and regenerative agriculture, social justice, racial and gender equity, and community wealth building.
 
-At DAI Capital, Casey is focused on strategy, marketing, and fundraising for new and existing asset management initiatives, with an emphasis on impact investment opportunities.
+Previously, Casey served as Partner and Managing Director of Business Development and Marketing for Veris Wealth Partners, a B Corp-certified impact and wealth management firm. During his tenure, he developed and managed growth initiatives that helped Veris surpass $2 billion in assets under management,
+
+Casey has founded and served as CEO for two firms, leading their efforts to scale high-impact programs through alternative financing solutions and strategies. He has launched impact-focused strategies with the recording artist Sarah McLachlan, National Geographic, The Nature Conservancy, Feeding America, and many other partners. Just before joining DAI, he completed the design of a private debt strategy for one of the United States’ leading conservation organizations to support indigenous communities.
 
 * Executive Education Certificate, Northwestern-Kellogg School of Business
+
 * Advisory Board Member, ACCION USA, New Resource Bank, MIT SOLVE, LEEDS Business School
