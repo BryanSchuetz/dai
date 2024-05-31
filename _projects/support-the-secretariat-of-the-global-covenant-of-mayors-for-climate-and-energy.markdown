@@ -37,3 +37,13 @@ The DAI team provides systematic and continual support to the Global GCoM Secret
 * Develop regional capacities of scientific validation of inventories and Action Plans. 
 * Highlight European examples among different solutions by cities.
 * Develop concepts for public-private partnerships between cities and the private sector.
+
+## Select Results
+
+* Supported the launch of the Cities-Meet-Cities Expert Exchange program to facilitate knowledge exchange among signatory cities. Out of 78 applications, 20 cities were selected for program support in implementing local Climate Action Plans.
+* Organised the Innovate4Cities Global Marketplace, which convened cities, local governments, funders, academia, and stakeholders to foster partnerships for research and innovation, bridging the gap in local climate action implementation.
+* Supported the revision of the Common Reporting Framework on data management, including simplification, to improve data collection by signatory cities.
+* Provided on-demand technical support to 26 cities in 7 countries. Among these, 13 cities joined GCoM, 2 renewed their commitments for 2030, while 3 remain dormant signatories. Currently, 19 cities receive support as GCoM signatories.
+* Mobilized helpdesk experts, now fully operational in Oceania and Central Asia.
+* Produced 25 videos showcasing mayors and city staff discussing climate initiatives and the significance of city alliances, shared across GCoM's social media channels.
+* Assisted in organising the inaugural Business Matchmaking event between 22 EU businesses and GCoM Latin American cities, held in Panama City during UN Climate Week in 2023.
