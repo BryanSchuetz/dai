@@ -14,6 +14,9 @@ solutions:
 - Energy
 regions:
 - Worldwide
+articles:
+- name: How Cities Can Be Engines of the Sustainable Energy Transition
+  article_file: https://dai-global-developments.com/articles/q-a-with-expert-nadeya-cities-engines-of-the-sustainable-energy-transition/
 ---
 
 Nadya Boneva is an engineer and expert in environmental monitoring control and health. She has more than 25 years of experience designing and implementing projects for donors, international organizations, government, and the nongovernmental sector.
