@@ -27,6 +27,8 @@ promos:
   link: https://dai-global-digital.com/overcoming-gender-biases-to-support-cyber-workforce-development-in-north-macedonia.html
 - title: Program Fact Sheet
   link: "/uploads/CIDR%20Program%20Fact%20Sheet.pdf"
+- title: 'Ctrl+Alt+Defend: How Kosovo is Getting Ahead of Increasing Cyber Threats'
+  link: https://medium.com/usaid-2030/ctrl-alt-defend-3649d4bc9433
 ---
 
 Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
