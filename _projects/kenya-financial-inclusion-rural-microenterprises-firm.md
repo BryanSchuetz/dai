@@ -20,8 +20,6 @@ layout: project
 
 Kenya's microfinance sector is internationally recognized due largely to consistent and strategic investment by the U.S. Agency for International Development (USAID) and projects led by DAI, including our Kenya Access to Rural Finance (KARF) project (2007–2010). FIRM built on this work by expanding and innovating financial services in five areas key to Kenyans' economic well-being: agriculture, renewable and clean energy, information and communication technology, gender and youth, and policy reform. We [built the capacity of the commercial sector](http://dai-global-developments.com/articles/unlocking-capital-across-kenya-how-usaid-firm-pushed-the-frontier-of-financial-services-and-built-a-foundation-for-economic-growth?utm_source=daidotcom) to deliver customized financial products and services for entrepreneurs and busi­nesses—primarily in rural areas—now starved of the capital they need to grow.
 
-<iframe height="394" src="https://docs.google.com/file/d/0B3UwtPuQaIM7ZmctUmhQdDBoLVk/preview" width="703"></iframe>
-
 ### Sample Activities
 
 * In collaboration with FSD Kenya, a local financial services trust, create the agriculture Value Chain Finance Center (VCFC) to develop appropri­ate and sustainable finance for people and entities tied to agriculture.
