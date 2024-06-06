@@ -13,6 +13,7 @@ client: FMO (Dutch Development Bank)
 solutions:
 - Economic Growth
 regions: Worldwide
+country: Worldwide
 ---
 
 Many smaller financial institutions (FIs), particularly in low-income or post-conflict contexts, still rely heavily on paper-based systems (e.g., for loan application processes). Digitalization of these processes will introduce controls for risk and likely help foster inclusion in the FIs’ portfolios. Moreover, the COVID-19 pandemic and its economic impact have crystalized the importance of digitalization for the resilience of FIs and their clients’ livelihoods.
