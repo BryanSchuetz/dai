@@ -35,7 +35,7 @@ In Honduras, a weak state response to gang-related crime has led to unprecedente
  
 The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Justicia) project, funded by the U.S. Agency for International Development, works with local partners to improve citizen engagement with the security and justice sectors, [enhance the efficiency](https://dai-global-developments.com/articles/modernized-honduran-judicial-system-promises-lower-costs-increased-efficiency-safer-communities-and-greater-transparency) of the judicial system, and increase the effectiveness of community police. Unidos engages civil society groups at the community level in efforts to encourage citizens in the most violence-plagued neighborhoods to get involved in their own security. Only effective, collaborative relationships between local police and the communities they serve can bring the sustainable security improvements needed to foster development. The combination of safer neighborhoods and better economic opportunities will allow Hondurans to pursue their dreams at home rather than looking for them abroad.
 
-![unidos.jpg]![Actividad de enganche PPyJ_Corozal 7.jpg](/uploads/Actividad%20de%20enganche%20PPyJ_Corozal%207.jpg)
+![Actividad de enganche PPyJ_Corozal 7.jpg](/uploads/Actividad%20de%20enganche%20PPyJ_Corozal%207.jpg)
 
 ### Sample Activities
 
