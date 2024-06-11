@@ -15,6 +15,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Zambia
 promos:
+- title: USAID SUN TA 2023 Annual Report
+  link: "/uploads/USAID%20SUN%20TA%202023%20Annual%20Report.pdf"
 - title: 'Out of the Conference Room, into the Field: Hosting a Virtual Site Visit
     in Zambia'
   link: https://dai-global-digital.com/out-of-the-conference-room-into-the-field-hosting-a-virtual-site-visit-in-zambia.html
