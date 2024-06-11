@@ -12,13 +12,17 @@ solutions:
 - Global Health
 regions: Worldwide
 promos:
-- title: "**Guidance Notes:** Aligning Food System Activities \nwith Healthier Diets
-    for Low-Income Households"
-  link: "/uploads/food-systems-guidance.pdf"
-- title: "**Guidance Notes:** Transforming Nutrition Outcomes"
-  link: "/uploads/Transforming%20nutrition%20outcomes%5B96%5D-b5067b.pdf"
 - title: TASC - Overview ICAI Guidance Summary Briefs
-  link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs.pdf"
+  link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs-75c833.pdf"
+- title: "**Guidance Notes:** Improving How to Reach Those Most-at-risk of Malnutrition"
+  link: "/uploads/TASC%20Reaching%20Those%20Most%20at%20Risk%20Guidance%20May%202022.pdf"
+- title: "**Guidance Notes:** How to Promote Better Nutrition Through Social Assistance"
+  link: "/uploads/TASC%20Social%20Protection%20Nutrition%20Guidance%20May%202022.pdf"
+- title: "**Guidance Notes:** Aligning Food System Activities with Healthier Diets
+    for Low-Income Households"
+  link: "/uploads/TASC%20Food%20System%20Diets%20Guidance%20May%202022.pdf"
+- title: "**Guidance Notes:** Monitoring and Evaluation of Nutrition-Relevant Programmes"
+  link: "/uploads/TASC%20Nutrition%20Monitoring%20Guidance%20May%202022.pdf"
 ---
 
 Nutrition Action for Systemic Change (NASC) is contracted through the [Expert Advisory Call Down Service 2 (EACDS2) Lot 4: Climate, Nature and Global Health](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health) funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). EACDS technical advisory services provide rapid, quality-assured, short-term technical expertise to support the development of U.K. aid programs. 
@@ -39,3 +43,10 @@ Technical assistance is provided as short- or long-term expertise and targets pr
 * Building the capacity of FCDO advisors to develop and monitor strategic approaches to integrate nutrition across sectors, particularly in health, food, and agriculture (including commercial agriculture), social protection, humanitarian assistance, economic development, and climate, with the goal of strengthening nutrition outcomes.
 * Strengthening programming and resilience of services to treat and prevent child wasting in the face of climate change.
 * Supporting the improvement, use, and learning around nutrition information systems for decision-making.
+
+## Select results
+
+* Completed a review of 827 FCDO programs and now supporting multisectoral nutrition integration in selected priority programs in Afghanistan, Ethiopia, Somalia, the Democratic Republic of Congo, Sierra Leone, and South Sudan.
+* Engaging with seven commercial agriculture programs to support FCDO’s response to the International Commission on Aid Impact (ICAI) review of UK aid to agriculture in a time of climate change.
+* Conducted a review of nutrition-related information systems in Afghanistan, mapping all data sources (add a hyperlink to the attached Matrix Excel file), and developed a recommendation brief  (add a hyperlink to NIS brief pdf) for FCDO to improve decision-making and presented findings to partners (add hyperlink to summary of findings pdf) to strengthen the response to malnutrition.
+* Advised FCDO Zambia to invest in agri-processing to support healthy and nutritious in their private sector development program under TASC. Currently supporting FCDO Zambia to integrate nutrition more widely across their programme portfolio including in climate resilience and social protection programming.
