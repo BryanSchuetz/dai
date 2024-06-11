@@ -49,6 +49,6 @@ Technical assistance is provided as short- or long-term expertise and targets pr
 ## Select results
 
 * Completed a review of 827 FCDO programs and now supporting multisectoral nutrition integration in selected priority programs in Afghanistan, Ethiopia, Somalia, the Democratic Republic of Congo, Sierra Leone, and South Sudan.
-* Engaging with seven commercial agriculture programs to support FCDO’s response to the International Commission on Aid Impact (ICAI) review of UK aid to agriculture in a time of climate change.
+* Engaging with seven commercial agriculture programs to support FCDO’s response to the International Commission on Aid Impact (ICAI) [review of UK aid to agriculture in a time of climate change](https://icai.independent.gov.uk/review/uk-aid-to-agriculture-in-a-time-of-climate-change/).
 * Conducted a review of nutrition-related information systems in Afghanistan, mapping [all data sources](/uploads/Afghanistan%20Matrix_NIS_23.05.24.xlsx), and developed a [recommendation brief](/uploads/Afghanistan%20NIS%20Brief_23.05.24.pdf) for FCDO to improve decision-making and presented [findings](/uploads/Afghanistan%20NIS%20summary%20of%20findings%20&%20rec_28.05.24%20.pdf) to partners to strengthen the response to malnutrition.
 * Advised FCDO Zambia to invest in agri-processing to support healthy and nutritious in their private sector development program under TASC. Currently supporting FCDO Zambia to integrate nutrition more widely across their program portfolio including in climate resilience and social protection programming.
