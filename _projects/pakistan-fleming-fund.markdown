@@ -27,7 +27,7 @@ promos:
 Field name: 
 ---
 
-The Fleming Fund is a U.K. Department of Health and Social Care program, to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/). 
+The Fleming Fund is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/). 
 
 DAI's [Fleming Fund program](https://www.flemingfund.org/) in Pakistan is a collaboration with the Pakistani government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reach across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team helps incorporate One Health across program interventions. DAI is helping Pakistan become a leader in combating antimicrobial resistance, and a model for better management of antimicrobials in human and animal populations.
 
