@@ -5,7 +5,7 @@ summary: 'Local Impact supports the transformation of subnational governance in 
   to be more responsive to citizens'' needs to help the government improve both the
   enabling environment and development outcomes critical to advancing self-reliance. '
 start: 2020
-end: 2025
+end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Governance
