@@ -27,9 +27,9 @@ promos:
 Field name: 
 ---
 
-The Fleming Fund is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/). 
+The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/). 
 
-DAI's [Fleming Fund program](https://www.flemingfund.org/) in Pakistan is a collaboration with the Pakistani government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reach across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team helps incorporate One Health across program interventions. DAI is helping Pakistan become a leader in combating antimicrobial resistance, and a model for better management of antimicrobials in human and animal populations.
+DAI's Fleming Fund program in Pakistan is a collaboration with the Pakistani government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reach across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team helps incorporate One Health across program interventions, supporting Pakistan to become a leader in combating antimicrobial resistance and a model for better management of antimicrobials in human and animal populations.
 
 Upon successful completion of Fleming Fund Phase I, the UK Department of Health and Social Care approved DAI’s application to lead the Fleming Fund Phase II Country Grant in Pakistan for an additional two years (January 2024 to December 2025). DAI serves as the lead grantee responsible for the overall technical, financial, and management implementation of the project. Fleming Fund Pakistan’s other partners include the Liverpool School of Tropical Medicine, Health Security Partners, Indus Hospital Health Network, and Shifa International Hospital.
 
@@ -42,15 +42,15 @@ Upon successful completion of Fleming Fund Phase I, the UK Department of Health 
 * Contribute to sustainable investments at both the country and global levels to counter AMR.
 * Use an evidence-to-action approach that builds on existing assessments to enable a nuanced understanding of the antimicrobial resistance and use (AMR/AMU) challenges and opportunities, entry points, and policy constraints.
 * Foster a data for decision-making mindset, where decision-makers demand evidence for policy and stakeholders are empowered to hold those decision-makers accountable.
-* Build a national-level multisectoral coordination mechanism to effectively address the complexities of AMR/AMU, strengthening information-sharing and coordination across public and private sectors and catalysing political commitment and leadership to drive the AMR agenda.
+* Build a national-level multisectoral coordination mechanism to effectively address the complexities of AMR/AMU, strengthening information-sharing and coordination across public and private sectors and catalyzing political commitment and leadership to drive the AMR agenda.
 
 ## Select Results
 
 * Assessed and refurbished 22 animal and human health laboratories.
-* Signed agreements with the Ministry of Health and Ministry of National Food Security & Research.
+* Signed agreements with the Ministry of Health and the Ministry of National Food Security & Research.
 * Developed operational cost plan for Pakistan’s National AMR Action Plan.
 * Provided high-tech laboratory equipment to national reference laboratories.
-* Conducted surveys of 164 in-service field veterinarians and 443 dairy farmers to assess knowledge, attitudes, and practices regarding AMR/AMU, herd health management and laboratory use.
+* Conducted surveys of 164 in-service field veterinarians and 443 dairy farmers to assess knowledge, attitudes, and practices regarding AMR/AMU, herd health management, and laboratory use.
 * Published a peer-reviewed research article titled “Quantification and Trends of Antimicrobial Use in Commercial Broiler Chicken Production in Pakistan” in the journal Antibiotics.
 * Conducted point prevalence surveys identifying antimicrobial use patterns across human and animal health domains.
 * Delivered training in basic and advanced AMR, biosafety and biosecurity, data analysis for whole genome sequencing, and laboratory quality management systems.
