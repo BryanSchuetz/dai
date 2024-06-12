@@ -1,5 +1,5 @@
 ---
-title: Indonesia—Fleming Fund
+title: Indonesia—Fleming Fund Phases I and II
 date: 2020-10-19 09:50:00 Z
 summary: DAI’s Fleming Fund programme in Indonesia is a collaboration with the Indonesian
   government to strengthen systems using a “One Health” approach—a multisectoral approach
@@ -18,9 +18,15 @@ promos:
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
 ---
 
-The Fleming Fund is a U.K Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund programme](https://www.flemingfund.org/) in Indonesia is a collaboration with the Indonesian government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in the approach, the DAI team is helping incorporate One Health across programme interventions. DAI helps Indonesia become a leader in combating AMR, and a model for better management of antimicrobials in human and animal populations.  
+The Fleming Fund is a U.K Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). 
 
-The Fleming Fund Country Grant to Indonesia partners include Koperasi Jasa Institut Riset Eijkman (KIRE, formerly the Eijkman Institute for Molecular Biology), Health Security Partners, The Liverpool School of Tropical Medicine, and Prevalensi. 
+DAI’s [Fleming Fund program](https://www.flemingfund.org/) in Indonesia is a collaboration with the Indonesian government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in the approach, the DAI team is helping incorporate One Health across program interventions, supporting Indonesia to become a leader in combating AMR, and a model for better management of antimicrobials in human and animal populations.  
+
+After the successful completion of Phase I, DAI was awarded the Fleming Fund Phase II Indonesia grant to continue to improve Indonesia's ability to diagnose drug-resistant bacteria, generate data, and strengthen surveillance to inform policy and practice at national and international levels. 
+
+Phase I focused on laboratory infrastructure enhancement, human resource strengthening and workforce reforms, AMR and antimicrobial use surveillance systems strengthening, building foundations for AMR surveillance data use, and promoting rational use of antimicrobial medicines. Phase II will pursue intermediate outcomes relating to the quality data produced for antimicrobial resistance/consumption/use and burden, quality data analysis conducted, and quality data analysis shared with decision-makers, with the aim of progressing towards the long-term outcome of sustainable investment at country and global levels to counter AMR. 
+
+This 22-month Phase II initiative, administered through [Mott Macdonald](https://www.mottmac.com/) and led by DAI, includes a consortium comprising Utrecht University, the Liverpool School of Tropical Medicine, Health Security Partners, Prevalensi, the Koperasi Jasa Institut Riset Eijkman, and Ausvet.  
 
 ![wantimpres photo July 12 2022.jpg](/uploads/wantimpres%20photo%20July%2012%202022.jpg)
 
