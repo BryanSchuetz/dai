@@ -18,9 +18,9 @@ promos:
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
 ---
 
-The Fleming Fund is a U.K Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). 
+The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). 
 
-DAI’s [Fleming Fund program](https://www.flemingfund.org/) in Indonesia is a collaboration with the Indonesian government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in the approach, the DAI team is helping incorporate One Health across program interventions, supporting Indonesia to become a leader in combating AMR, and a model for better management of antimicrobials in human and animal populations.  
+DAI’s Fleming Fund program in Indonesia is a collaboration with the Indonesian government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in the approach, the DAI team is helping incorporate One Health across program interventions, supporting Indonesia to become a leader in combating AMR, and a model for better management of antimicrobials in human and animal populations.  
 
 After the successful completion of Phase I, DAI was awarded the Fleming Fund Phase II Indonesia grant to continue to improve Indonesia's ability to diagnose drug-resistant bacteria, generate data, and strengthen surveillance to inform policy and practice at national and international levels. 
 
