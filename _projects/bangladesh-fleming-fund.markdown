@@ -21,19 +21,17 @@ promos:
   link: https://www.mdpi.com/2079-6382/11/2/247
 ---
 
-The Fleming Fund is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). AMR is a leading cause of death globally, [research shows](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00087-3/fulltext) that 1.27 million deaths annually are attributable to drug resistance, higher than HIV/AIDS or malaria. DAI’s [Fleming Fund program](https://www.flemingfund.org/) in Bangladesh is a collaboration with the Bangladesh government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As a global leader in the approach, DAI helps incorporate One Health across program interventions, supporting Bangladesh to become a leader in combating AMR and a model for better management of antimicrobials in human and animal populations.  
+The Fleming Fund is a U.K. Department of Health and Social Care program administered through [Mott Macdonald](https://www.mottmac.com/) to help low- and middle-income countries fight antimicrobial resistance (AMR).
 
-After the successful completion of Phase I, DAI was awarded the Fleming Fund Phase II Indonesia grant to continue to improve Indonesia's ability to diagnose drug-resistant bacteria, generate data, and strengthen surveillance to inform policy and practice at national and international levels. 
+AMR is a leading cause of death globally, [research shows](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00087-3/fulltext) that 1.27 million deaths annually are attributable to drug resistance, higher than HIV/AIDS or malaria. DAI’s [Fleming Fund program](https://www.flemingfund.org/) in Bangladesh is a collaboration with the Bangladesh government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As a global leader in the approach, DAI helps incorporate One Health across program interventions, supporting Bangladesh to become a leader in combating AMR and a model for better management of antimicrobials in human and animal populations.  
 
-Phase I focused on laboratory infrastructure enhancement, human resource strengthening and workforce reforms, AMR and antimicrobial use surveillance systems strengthening, building foundations for AMR surveillance data use, and promoting rational use of antimicrobial medicines. Phase II will pursue intermediate outcomes relating to the quality data produced for antimicrobial resistance/consumption/use and burden, quality data analysis conducted, and quality data analysis shared with decision-makers, with the aim of progressing towards the long-term outcome of sustainable investment at country and global levels to counter AMR. 
-
-This 22-month Phase II initiative, administered through [Mott Macdonald](https://www.mottmac.com/) and led by DAI, includes a consortium comprising Utrecht University, the Liverpool School of Tropical Medicine, Health Security Partners, Prevalensi, the Koperasi Jasa Institut Riset Eijkman, and Ausvet.  
+In Bangladesh, Phase I focused on enhancing laboratory infrastructure, strengthening human resources, improving the AMR and antimicrobial use (AMU) surveillance system, building foundations for using AMR data and promoting the rational use of antimicrobial medicines. Phase II is building on this work to achieve four outcomes: producing high-quality AMR, AMU, antimicrobial consumption, and burden data; developing high-quality analyses of data; sharing the analyses and data with relevant decision-makers; and promoting sustainable investment to counter AMR.
 
 ## Sample Activities 
 
 * Finalize a national surveillance strategy to create sector-specific surveillance protocols and sampling strategies.  
-* Develop an advocacy strategy to gain key decision-makers’ support for AMR surveillance and its multisectoral governance structure and a national budget contribution.  
-* Implement a capacity strengthening plan, including a joint training on data management, and digital health technical support to the data coordinating centre for health. 
+* Develop an advocacy strategy to gain key decision-makers' support for AMR surveillance and its multisectoral governance structure and a national budget contribution.  
+* Implement a capacity strengthening plan, including joint training on data management and digital health technical support to the data coordinating center for health. 
 * Support the National Reference Laboratory to conduct monthly supervision visits to surveillance sites to ensure that laboratories have appropriate quality management systems in place.  
 
 ## Select Results 
