@@ -147,7 +147,7 @@ body.st-ui-overlay-active {
   }
   @include responsive(extra-ultra-wide-screens){
     @include width(14);
-    
+
   }
 }
 
@@ -817,7 +817,7 @@ a.close:hover {
 
 footer {
   background-color: $slate;
-  padding-top: 2rem; 
+  padding-top: 2rem;
   margin-top: 2rem;
 }
 .footer-inner {
@@ -1651,17 +1651,17 @@ iframe.last-month {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  height: 2100px;
+  height: 3000px;
   width: 300px;
 
   @include responsive(wide-screens) {
     width: 800px;
-    height: 5706px;
+    height: 6906px;
   }
 
   @include responsive(ultra-wide-screens) {
     width: 800px;
-    height: 5677px;
+    height: 6877px;
   }
 }
 .aside-quote {
@@ -1967,7 +1967,7 @@ a.bulma-card {
   a{
     font-size: 0.8rem;
     font-weight: 700;
-    
+
     text-transform: uppercase;
     &.active{
       color: lighten($dai-blue-01, 10%);
@@ -2120,8 +2120,8 @@ ol li::marker{
       margin-right: 16px;
       min-height: 100%;
     }
-  } 
-} 
+  }
+}
 .bulma .card-image-pad{
   padding: 1rem;
   img{
@@ -2171,7 +2171,7 @@ ol li::marker{
   }
 }
 .cop-event-header{
-  padding-left: 0; 
+  padding-left: 0;
   margin-left: 0;
 }
 .cop-event-header li{
