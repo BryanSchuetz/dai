@@ -1,6 +1,7 @@
 ---
 title: Georgia Iordanescu
 date: 2023-03-21 13:35:00 Z
+published: false
 lastname: Iordanescu
 summary: Georgia Iordanescu provides strategic vision and leadership for DAI’s global
   portfolio of clean energy and climate projects, energy sector security, governance,
