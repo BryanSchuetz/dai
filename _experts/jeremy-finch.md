@@ -8,7 +8,7 @@ summary: 'Jeremy Finch is the Senior Director for Investigations in DAI''s Globa
   frontiers in pursuit of project success and with an ever-watchful eye on transparency
   and accountability. '
 job-title: Senior Global Director, Ethics and Integrity (Investigations)
-image: "/uploads/Finch,%20Jeremy%20.jpg"
+image: "/uploads/Jeremy%20Finch_2024.jpg"
 layout: expert
 ---
 
