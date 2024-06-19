@@ -6,6 +6,7 @@ summary: 'Serafina Buzby is an international development specialist with more th
   a decade of experience in the design, implementation, and evaluation of projects
   to improve water and sanitation service delivery, public health, and social inclusion. '
 job-title: Senior Principal Specialist, Environment
+image: "/uploads/sm%20Serafina%20Buzby.jpg"
 solutions:
 - Environment
 regions:
