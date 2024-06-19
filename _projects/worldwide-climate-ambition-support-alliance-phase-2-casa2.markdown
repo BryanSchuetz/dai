@@ -22,9 +22,9 @@ Participation is achieved by building the capacity and capability of negotiators
 
 The program is delivered by a consortium of technical experts who provide a mix of training as well as highly tailored, long-term support to senior negotiators from the Group of Least Developed Countries (LDCs), the Alliance of Small Island States (AOSIS), and the Republic of the Marshall Islands which formed the High Ambition Coalition (HAC). 
 
-CASA2 is unique in its design as all support is demand-led, at the request of negotiators and negotiating groups, to ensure continued visible climate leadership by climate-vulnerable countries in global processes. Our partners form small and agile teams and have developed close relationships with senior climate negotiators, allowing their support to be flexible and responsive to the shifting priorities and demands of international climate negotiations and the shifting climate science, policy, and negotiations landscape.   
+CASA2 is unique in its design as all support is demand-led, at the request of negotiators and negotiating groups, to ensure continued visible climate leadership by climate-vulnerable countries in global processes. Our partners form small and agile teams and have developed close relationships with senior climate negotiators, allowing their support to be flexible and responsive to the shifting priorities and demands of international climate negotiations and the shifting climate science, policy, and negotiations landscape. 
 
-![COP27 plenary crop.jpeg](/uploads/COP27%20plenary%20crop.jpeg)
+<iframe src="https://player.vimeo.com/video/962367526" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}  
 
 ## Select Results
 
