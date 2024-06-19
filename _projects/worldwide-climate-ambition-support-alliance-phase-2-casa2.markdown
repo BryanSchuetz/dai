@@ -16,7 +16,7 @@ country: Worldwide
 
 Often, those countries most vulnerable to climate change are also those that have historically contributed the least to global emissions and have fewer resources to mitigate against the devasting impact that climate change has on their communities. These same countries also often have less influencing power in international climate negotiations and related multilateral fora, where decisions are made on what global commitments and measures will be taken to tackle climate change.  
 
-Funded by the U.K. Government’s Department for Energy Security and Net Zero, the Climate Ambition Support Alliance 2 (CASA2) program seeks to address this disparity by creating a fairer, more inclusive negotiation process that enables the meaningful participation of climate-vulnerable country negotiators. This supports the ambition to keep global warming to less than 1.5 degrees Celsius and reduce the prospects of rapidly escalating climate extremes and severe risks for vulnerable people and systems. 
+Funded by the U.K. Government’s Department for Energy Security and Net Zero, the [Climate Ambition Support Alliance 2](https://casaclimate.org/) (CASA2) program seeks to address this disparity by creating a fairer, more inclusive negotiation process that enables the meaningful participation of climate-vulnerable country negotiators. This supports the ambition to keep global warming to less than 1.5 degrees Celsius and reduce the prospects of rapidly escalating climate extremes and severe risks for vulnerable people and systems. 
 
 Participation is achieved by building the capacity and capability of negotiators from climate-vulnerable countries by providing training in addition to legal, technical, strategic, diplomatic, and media support.  
 
