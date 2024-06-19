@@ -20,13 +20,13 @@ promos:
 - title: Program Fact Sheet
   link: "/uploads/CIDR%20Program%20Fact%20Sheet.pdf"
 - title: Cyber Pathways for Women Fact Sheet
-  link: "/uploads/CPW%20Fact%20Sheet(1).pdf"
+  link: "/uploads/Cyber%20Pathways%20for%20Women%20Fact%20Sheet.pdf"
 - title: CIDR Georgia Fact Sheet
   link: "/uploads/CIDR%20Georgia%20Fact%20Sheet.pdf"
 - title: CIDR Moldova Fact Sheet
-  link: "/uploads/CIDR%20Moldova%20Fact%20Sheet(1).pdf"
+  link: "/uploads/CIDR%20Moldova%20Fact%20Sheet.pdf"
 - title: CIDR North Macedonia Fact Sheet
-  link: "/uploads/CIDR-MKD%20Fact%20Sheet(1).pdf"
+  link: "/uploads/CIDR%20North%20Macedonia%20Fact%20Sheet.pdf"
 ---
 
 Energy, telecommunications, and electronic services allow people to work, connect, and thrive. Unfortunately, the information networks that sustain these and other critical infrastructure come under attack by individuals and groups. When successful, these cyberattacks slow or shut down essential services, disrupting communities and businesses and causing harm to countries.
