@@ -39,3 +39,4 @@ High-quality textbooks underpin teaching and learning, and one of the first acti
 
 * Produced a visual "Data Atlas" showing the ratio between pupils and teachers, information that was previously unavailable but is important for planning teacher recruitment. 
 * Developed materials for a peer-led school evaluation to help teachers improve lessons and better engage students.
+* Certified around 1,000 personnel across 100 schools in peer-led evaluation.
