@@ -5,7 +5,7 @@ summary: 'FSG Plus supports BII in addressing two pressing priorities—i) inclu
   and ii) climate change and environmental sustainability—by catalyzing sustainable
   practice change in financial institutions. '
 start: 2021
-end: 2024
+end: 2026
 client: British International Investment (BII)
 solutions:
 - Economic Growth
@@ -16,7 +16,7 @@ country: Regional
 
 British International Investment (BII)—formerly CDC Group—is the UK Government’s development finance institution. It supports the sustainable, long-term growth of businesses across South Asia and Africa.
 
-Financial Services Group Plus (FSG Plus) is a Technical Assistance (TA) Facility for Financial Institutions that enables a systematic approach to TA delivery. It works with financial service providers to catalyze investment in low-carbon, climate-resilient projects and promote inclusive climate finance. 
+Financial Services Group Plus (FSG Plus) is a Technical Assistance (TA) Facility for Financial Institutions that enables a systematic approach to TA delivery. It works with financial service providers in South Asia and Africa to catalyze investment in low-carbon, climate-resilient projects and promote inclusive climate finance. 
 
 FSG Plus looks for opportunities to:
 * Develop new/improved products: this includes improvements to the design and distribution of financial services to make them more accessible to unserved customer segments, such as women-led businesses and small and medium-sized enterprises (SMEs) in frontier markets.
@@ -35,7 +35,7 @@ FSG Plus looks for opportunities to:
 
 ### Select Results
 
-* Supported an Indian Non-Bank Financial Company in analyzing its operations, products, and services through a gender lens, seeking strategies to close gender both internally and among the client base. The TA offered significantly increased knowledge and understanding of the barriers faced by women in terms of financial access at the senior leadership level, paving the way for the design of gender-sensitive products, allowing the rollout of a gender-disaggregated analysis of the customer base, and triggering the upgrade to obtain two ISO certifications for human resource operations. As a result of the TA received, following from project recommendations, the NBFC has now launched a product specifically targeted at urban and peri-urban women SME owners.
+* Supported an Indian Non-Bank Financial Company in analyzing its operations, products, and services through a gender lens, seeking strategies to close gender both internally and among the client base. The TA offered significantly increased knowledge and understanding of the barriers faced by women in terms of financial access at the senior leadership level, paving the way for the design of gender-sensitive products, allowing the rollout of a gender-disaggregated analysis of the customer base, and triggering the upgrade to obtain two ISO certifications for human resource operations. As a result of the TA received, following project recommendations, the NBFC has now launched a product specifically targeted at urban and peri-urban women SME owners.
 * Supported an MFI across its branches in Ghana, Tunisia, and Cote d’Ivoire to build its climate strategy through an assessment of its country subsidiaries’ portfolio exposure to climate changes; developing training tools to help staff understand climate change-related risks and their impacts on the business sectors and to implement actions to mitigate these risks.
-* Supporting a commercial bank in Bangladesh to develop its directed lending line and expand its green lending initiatives. The project focuses on enhancing the bank’s capacity, improving its green governance; refining processes and procedures; developing a comprehensive reporting system; establishing a compliance framework; and implementing loan tracking systems as per the Green Lending Principles (GLPs).
+* Supporting a commercial bank in Bangladesh to develop its directed lending line and expand its green lending initiatives. The project focuses on enhancing the bank’s capacity, improving its green governance, refining processes and procedures, developing a comprehensive reporting system, establishing a compliance framework, and implementing loan tracking systems as per the Green Lending Principles (GLPs).
 * Delivered an online event to over 140 participants and over 30 financial institutions on unlocking climate finance and gender lens investment opportunities from a local perspective in West African markets. This event will be followed by a research report to be published in the summer of 2024.
