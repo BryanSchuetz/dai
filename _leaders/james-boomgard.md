@@ -1,7 +1,7 @@
 ---
 title: James Boomgard
 date: 2016-01-21 22:18:00 Z
-job-title: President and Chief Executive Officer, Board Member
+job-title: Chief Executive Officer, Board Member
 summary: Jim has worked at the forefront of economic development issues for more than
   30 years in more than 30 countries.
 image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
