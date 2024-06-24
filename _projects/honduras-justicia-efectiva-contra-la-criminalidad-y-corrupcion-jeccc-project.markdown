@@ -1,10 +1,9 @@
 ---
-title: Honduras—Justicia Efectiva Contra la Criminalidad y Corrupción (Justicia Efectiva)
-  Activity
+title: Honduras—*Justicia Efectiva* Activity
 date: 2022-05-23 19:36:00 Z
-summary: The Justicia Efectiva Activity combats impunity and corruption by targeting
-  crime and promoting collaboration among justice institutions and counterparts from
-  civil society, the private sector, academia, and other nonstate actors in Honduras.
+summary: "*Justicia Efectiva* combats impunity and corruption by targeting crime and
+  promoting collaboration among justice institutions and counterparts from civil society,
+  the private sector, academia, and other nonstate actors in Honduras."
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
@@ -26,7 +25,7 @@ Impunity in Honduras remains persistently high, which is exacerbated by corrupti
 
 Through these themes, *Justicia Efectiva* strengthens democracy and the rule of law in Honduras by supporting civil society oversight and addresses the needs of vulnerable groups by improving judicial services, to rebuild the social contract between the government and its people. In doing so, the project tackles the root governance issues that underlie drivers of irregular migration, such as violence, impunity, and insecurity.
  
-![JECCC Conventionality_SPSNov-18-05302-10inch.jpg](/uploads/JECCC%20Conventionality_SPSNov-18-05302-10inch.jpg)
+![honduras 1.jpg](/uploads/honduras%201.jpg)
 
 ## Sample Activities
 
@@ -40,8 +39,11 @@ Through these themes, *Justicia Efectiva* strengthens democracy and the rule of 
 
 ## Select Results
  
-* Trained 386 justice operators in strategic criminal prosecution, gender sensitivity, evidence manage, due process, and environmental crime. 
-* Supported 16 civil society groups in sustained advocacy interventions to promote merit-based procedures in the election of senior justice authorities.
-* Facilitated the approval of a national open data policy.
-* Created a national youth network to raise awareness and combat technology-facilitated gender-based violence.
-* Reduced the 400-case backlog in a court in Tegucigalpa, in collaboration with the Public Defender’s Office.
+* Rolled out a transformative local justice system model in seven municipalities, strengthening multi-sectoral coordination and promoting a people-centered justice system.
+* Developed survivor-centered practices and innovations to streamline the justice sector’s response times for cases of gender-based violence and property crimes.
+* Elevated citizen advocacy for anti-corruption reform and civil society oversight of the criminal justice system.
+* Promoted the delivery of innovative complementary justice services for gender-based violence survivors and the development of creative campaigns to tackle technology-facilitated gender-based violence.
+* Reduced case backlogs in key courts and prosecutorial offices, reducing bureaucracy and delivering timely responses to victims.
+Expanded access to justice and elevated the decision-making power of indigenous people, women, young people, and the LGBTQI+ community in the criminal justice system.
+
+![Honduras 2.jpg](/uploads/Honduras%202.jpg)
