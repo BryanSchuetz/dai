@@ -1,5 +1,5 @@
 ---
-title: Honduras—*Justicia Efectiva* Activity
+title: Honduras—Justicia Efectiva Activity
 date: 2022-05-23 19:36:00 Z
 summary: "*Justicia Efectiva* combats impunity and corruption by targeting crime and
   promoting collaboration among justice institutions and counterparts from civil society,
