@@ -11,6 +11,8 @@ DAI today announced the appointment of [Tine Knott](https://www.dai.com/who-we-a
 Knott will continue to report to Dr. Boomgard.
 Before assuming her current role, Knott served as Executive Vice President for Strategy and Global Operations and before that as Senior Vice President of DAI’s U.S. Government Business, the company’s largest business unit.
 
+![Tine Knott_2024-ace61f.jpg](/uploads/Tine%20Knott_2024-ace61f.jpg)
+
 “I am honored to take on this new leadership role,” said Knott. “Our clients—governments, investors, and businesses all over the world—face escalating challenges on numerous fronts, from climate change and the energy transition to inclusive economic growth and global health security. DAI is extraordinarily well equipped to help our customers take on such challenges. I am committed to ensuring that DAI remains an assured and responsive partner in our collective efforts to shape a more livable world.” 
 
 Knott joined DAI in 2011. In 2017, she launched and led DAI’s Center for Secure and Stable States with a mission to raise the bar for development and security programming in fragile environments. For the three years prior, she was Managing Director for Governance, Transition, and Stability, responsible for the company’s governance, stabilization, political transition, countering violent extremism, peacebuilding, citizen security, and public financial management portfolio.
