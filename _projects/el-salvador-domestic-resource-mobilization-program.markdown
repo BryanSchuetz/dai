@@ -14,6 +14,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: El Salvador
 promos:
+- title: How Increasing Tax Revenue Shapes the Lives of Salvadorans
+  link: https://dai-global-developments.com/articles/how-increasing-tax-revenue-shapes-the-lives-of-salvadorans/
 - title: When Tax Reform Leads to Increased Funding for Health Services
   link: https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services
 ---
