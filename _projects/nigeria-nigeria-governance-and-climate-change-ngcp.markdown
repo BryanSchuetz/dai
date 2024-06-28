@@ -1,5 +1,5 @@
 ---
-title: Nigeria— Nigeria Governance and Climate Change (NGCP)
+title: Nigeria— Nigeria Governance and Climate Change Programme (NGCP)
 date: 2024-06-28 09:48:00 Z
 summary: 'The Nigeria Governance and Climate Change (NGCP) program is focused on supporting
   coalitions to influence governments in resolving climate and governance problems
@@ -17,7 +17,7 @@ country: Nigeria
 
 The Nigerian government recognizes the devastating effects of climate change on socio-economic development. However, poor governance and stakeholder engagement hinder climate resilience efforts despite growing awareness about climate change impacts. Effective collective action for mitigation and resilience remains elusive.
 
-The Foreign, Commonwealth & Development Office (FCDO) funded Nigeria Governance and Climate Change (NGCP) is focused on supporting coalitions to influence governments in resolving climate and governance problems affecting the poorest and vulnerable communities. It aims to increase state government income from internally generated revenue, mainstream climate action in state government policy, planning, and budgets, and strengthen election delivery and credibility. The program is implemented in Kaduna, Kano, and Jigawa in north-western Nigeria, with targeted strategic engagement at the federal and regional levels.
+The Foreign, Commonwealth & Development Office (FCDO) funded Nigeria Governance and Climate Change Programme (NGCP) is focused on supporting coalitions to influence governments in resolving climate and governance problems affecting the poorest and vulnerable communities. It aims to increase state government income from internally generated revenue, mainstream climate action in state government policy, planning, and budgets, and strengthen election delivery and credibility. The program is implemented in Kaduna, Kano, and Jigawa in north-western Nigeria, with targeted strategic engagement at the federal and regional levels.
 
 NGCP builds on the successes of predecessor projects—such as [Accountable, Responsive, and Capable Government (ARC)](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) and [State Partnership for Accountability, Responsiveness, and Capability (SPARC)](https://www.dai.com/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability)—which have underpinned governance reform in Nigeria for more than 20 years.
 
