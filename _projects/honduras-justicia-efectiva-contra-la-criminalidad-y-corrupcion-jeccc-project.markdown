@@ -14,6 +14,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: Honduras
 promos:
+- title: Project Wins USAID DRG Thinking and Working Politically Case Competition
+  link: https://www.drglinks.org/twpcasecompresults
 - title: USAID Launches Next-Generation Project to Reduce Impunity and Corruption
     in Honduras
   link: https://www.dai.com/news/usaid-launches-next-generation-project-to-reduce-corruption-in-honduras
