@@ -1,11 +1,12 @@
 ---
 title: Chana Rabiner
-date: 2024-06-28 13:27:00 Z
+date: 2024-06-28 12:27:00 Z
 lastname: Rabiner
 summary: 'Chana Rabiner is a Global Health Specialist with 20 years of experience
   working in more than 30 countries in Africa, Asia, and Central America to build
   sustainable health systems. '
 job-title: Lead Specialist, Global Health
+image: "/uploads/Chana%20Rabiner.jpg"
 solutions:
 - Global Health
 regions:
