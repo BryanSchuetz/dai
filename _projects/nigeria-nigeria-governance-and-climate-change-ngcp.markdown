@@ -11,7 +11,6 @@ end: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate
-- Governance
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
@@ -34,7 +33,7 @@ Strengthened state planning, budgeting, and policies to ensure better service de
 
 ![Picture1-8e0a89.png](/uploads/Picture1-8e0a89.png)  
 
-##Sample Activities
+## Sample Activities
 
 * Facilitating coalitions of reformers in government, civil society, the private sector, politicians, and others who have an interest in positive change in governance, climate mitigation, adaptation and resilience, rapid population growth, and service delivery problems. 
 * Enhancing public financial management systems with searchable databases and toolkits on ease of doing business, local government planning, gender conflict, and social inclusion.
