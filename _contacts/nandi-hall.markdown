@@ -13,6 +13,6 @@ summary: Nandi Hall is Senior Director of Sustainable Growth, Climate and Enviro
   for Development Cooperation, and British International Investment (BII).
 image: "/uploads/Hall,%20Nandi%204.jpg"
 group: Management
-sort-order: 4
+sort-order: 2
 ---
 
