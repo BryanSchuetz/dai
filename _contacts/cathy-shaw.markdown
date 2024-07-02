@@ -9,13 +9,12 @@ summary: 'Cathy Shaw is the Director of DAI UK''s Evidence, Learning & TA Facili
   Central Asia. Since joining DAI in 2001, Cathy has acted as project director for
   a range of European Union and Foreign, Commonwealth & Development Office (FCDO)-funded
   projects in eastern Europe and the Caucasus, and east and southern Africa, focusing
-  on climate change and resilience issues. She also previously managed the [Evidence
-  on Demand (EoD)](https://www.dai.com/our-work/projects/worldwide-evidence-demand-core-services)
-  program, which provided quality-assured research and evidence materials and rapid
-  response call-down services for climate and environment, infrastructure, and livelihoods
-  programs worldwide. '
+  on climate change and resilience issues. She also previously managed the Evidence
+  on Demand (EoD) program, which provided quality-assured research and evidence materials
+  and rapid response call-down services for climate and environment, infrastructure,
+  and livelihoods programs worldwide. '
 image: "/uploads/Cathy%20Shaw%202023-242.jpg"
 group: Management
-sort-order: 8
+sort-order: 4
 ---
 

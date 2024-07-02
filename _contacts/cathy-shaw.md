@@ -1,8 +1,7 @@
 ---
 title: Cathy Shaw
-date: 2016-01-21 22:18:43.395000000 Z
-group: Programme Management
-image: https://assetify-dai.com/contacts/cathy-shaw.jpg
+date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Project Management
 email: cathy_shaw@dai.com
 summary: Cathy has been with the company since 2001 and in that time has worked as
@@ -14,6 +13,8 @@ summary: Cathy has been with the company since 2001 and in that time has worked 
   for European Commission and U.K. Department for International Development projects
   addressing climate change at national and regional levels. She has significant experience
   in delivering multicountry projects.
+image: https://assetify-dai.com/contacts/cathy-shaw.jpg
+group: Programme Management
 sort-order: 3
 ---
 
