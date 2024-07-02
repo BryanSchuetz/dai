@@ -14,6 +14,6 @@ summary: Zehra Zaidi is the Senior Director of Human Development for DAI’s UK 
   models of public-private partnerships.
 image: "/uploads/Zehra%20-%20square.png"
 group: Management
-sort-order: 5
+sort-order: 3
 ---
 
