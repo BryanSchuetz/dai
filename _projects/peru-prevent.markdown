@@ -31,7 +31,7 @@ The Prevent activity was designed to help Peruvian institutions and actors [more
 
 Prevent supported Peru’s problem-solvers to work more effectively as catalysts, conveners, enforcers, and innovators, mobilizing locally driven solutions to some of the region’s most entrenched environmental governance challenges. Using a local systems approach, DAI worked to ensure that Prevent left behind strong environmental monitoring and enforcement capabilities; better, more widespread understanding of the shared value of natural resources and the extensive costs of their degradation; clearer, reinforced linkages demonstrating that effective environmental justice leads to tangible economic and social benefits for all; and an environmental justice system that more fully engages and represents the interests, capabilities, and contributions of women and indigenous communities.
 
-The team [trained 5,500 justice operators](https://preveniramazonia.pe/proyecto-prevenir-de-usaid-cinco-anos-en-la-prevencion-y-reduccion-de-delitos-ambientales-en-la-amazonia-peruana/) and helped to formulate more than 30 environmental crime regulations.
+Prevent strengthened the capacities 5,500 justice operators, helped formulate more than 30 regulations to tackle environmental crimes, and promoted local monitoring networks that contribute to the [improved management](https://preveniramazonia.pe/proyecto-prevenir-de-usaid-cinco-anos-en-la-prevencion-y-reduccion-de-delitos-ambientales-en-la-amazonia-peruana/) of 200,000 hectares of forests.
 
 <iframe src="https://player.vimeo.com/video/536984275" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
