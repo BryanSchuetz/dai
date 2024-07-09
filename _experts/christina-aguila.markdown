@@ -1,6 +1,7 @@
 ---
 title: Christina Aguila
 date: 2018-06-06 17:13:00 Z
+published: false
 lastname: Aguila
 summary: Christina Aguila provides program design services, technical analysis and
   implementation, and project management for multinational energy companies, trade
