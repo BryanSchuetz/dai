@@ -1,5 +1,5 @@
 ---
-title: Nigeria— Nigeria Governance and Climate Change Programme (NGCP)
+title: Nigeria—Governance and Climate Change Programme (NGCP)
 date: 2024-06-28 09:48:00 Z
 summary: 'The Nigeria Governance and Climate Change (NGCP) program is focused on supporting
   coalitions to influence governments in resolving climate and governance problems
