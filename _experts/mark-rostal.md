@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 regions:
-- Middle East and North Africa
+- Worldwide
 - 
 layout: expert
 ---
