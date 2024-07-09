@@ -14,7 +14,7 @@ solutions:
 regions: Asia and the Pacific
 country: Nepal
 promos:
-- title: USAID Biodiversity (Jal Jangal) Y1 Newsletter
+- title: USAID Biodiversity Newsletter
   link: "/uploads/USAID%20Biodiversity%20(Jal%20Jangal)%20Y1%20Newsletter.pdf"
 ---
 
