@@ -8,7 +8,7 @@ summary: 'The Support the Secretariat of the GCoM for Climate and Energy project
   2030 Agenda and the Sustainable Development Goals, and other United Nations'' initiatives
   on climate change and cities. '
 start: 2020
-end: 2024
+end: 2025
 client: European Union
 solutions:
 - Environment
