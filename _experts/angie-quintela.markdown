@@ -1,7 +1,6 @@
 ---
 title: Angie Quintela
 date: 2018-09-26 18:12:00 Z
-published: false
 lastname: Quintela
 summary: Angie Quintela is a Senior Project Manager.
 job-title: Senior Specialist, Operations, Development Innovations
