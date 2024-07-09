@@ -1,11 +1,9 @@
 ---
 title: Colombia—Destination Nature Activity (DNA)
 date: 2022-11-17 13:46:00 Z
-summary: 'DNA addresses the root causes of environmental degradation and reduces major
-  drivers of land use change that contribute to greenhouse gas emissions by using
-  nature tourism as a tool for conservation, while supporting the livelihoods of rural
-  citizens, who represent the growing conservation constituency for Colombia’s natural
-  wealth. '
+summary: 'The Destination Nature Activity conserves biodiversity and reduces greenhouse
+  gas emissions by supporting rural communities to make a living from sustainable
+  nature tourism. '
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
@@ -21,12 +19,16 @@ Coinciding with the Peace Accords, Colombia's international tourist arrivals sur
 
 The Destination Nature Activity (DNA) is an innovative new program that embraces the emerging nature tourism industry as a central pillar for the Government of Colombia to achieve its environmental ambitions, while also meeting its social and economic commitments in the [2016 Peace Accord](https://en.wikipedia.org/wiki/2016_Colombian_peace_agreement_referendum).
  
-DNA addresses the root causes of environmental degradation and reduces major drivers of land use change that contribute to greenhouse gas emissions by using nature tourism as a tool for conservation, while supporting the livelihoods of rural citizens, who represent the growing conservation constituency for Colombia’s natural wealth. 
+DNA conserves biodiversity and reduces greenhouse gas emissions by supporting rural communities to make a living from sustainable nature tourism. Nature tourism is a productive activity that enables sustainable land use and encourages biodiversity conservation, and this activity works with communities to build sustainable business models for Colombia’s nature tourism sector. 
+
+DNA is developing an innovative and holistic model based on the concept of Regenerative Nature Tourism (RNT), which arises from the interaction and balance between healthy ecosystems, community well-being, traveler experience and businesses economic sustainability. Strengthening the community’s livelihood and the consequent improvement in their quality of life must be achieved through strategies that simultaneously contribute to biodiversity’s conservation and community well-being, which allows the creation of high added value experiences for people who wish to contribute through purposeful travel.  
 
 ![DNA.jpg](/uploads/DNA.jpg)
  
 ## Sample Activities
 
-* Work with local destination management organizations to improve competitiveness of nature tourism experiences, generate market demand and local employment, and sustainably manage high conservation value natural assets. 
-* Improve collaborative governance between destination management organizations and environmental authorities to balance tourist traffic with sustainable carrying capacity of ecologically sensitive tourism destinations.
+* Design regenerative nature tourism experiences that contribute to ecosystem regeneration and biodiversity conservation.
+* Integrate communities into the nature tourism market systems.
+* Provide travelers with authentic experiences to generate demand for nature tourism.
+* Improve local governance and sustainable destination planning and management.
 * Increase public and private investment in nature tourism to generate revenue dependent upon low emissions land use and protecting biodiversity for its suite of ecosystem services.
