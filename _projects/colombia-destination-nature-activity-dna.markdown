@@ -23,7 +23,7 @@ DNA conserves biodiversity and reduces greenhouse gas emissions by supporting ru
 
 DNA is developing an innovative and holistic model based on the concept of Regenerative Nature Tourism (RNT), which arises from the interaction and balance between healthy ecosystems, community well-being, traveler experience and businesses economic sustainability. Strengthening the community’s livelihood and the consequent improvement in their quality of life must be achieved through strategies that simultaneously contribute to biodiversity’s conservation and community well-being, which allows the creation of high added value experiences for people who wish to contribute through purposeful travel.  
 
-![DNA.jpg](/uploads/DNA.jpg)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/981466944?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="USAID Colombia Destination Nature Activity"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
  
 ## Sample Activities
 
