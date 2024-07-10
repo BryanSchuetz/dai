@@ -12,4 +12,4 @@ group: Management
 sort-order: 5
 ---
 
-Chris leads the U.K.'s HMG business partnering team, which provides financial operations and support to all programs within the HMG business unit. His main area of expertise lies within project finance, and throughout his tenure, he has worked on multiple programs across the globe with a variety of donors.
+Chris Gibbons leads the U.K.'s business partnering team, which provides financial operations and support to all programs within the U.K. business unit. His main area of expertise lies within project finance, and throughout his tenure, he has worked on multiple programs across the globe with a variety of donors.
