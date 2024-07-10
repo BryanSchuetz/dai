@@ -22,7 +22,7 @@ Dwindling water availability, increasing pollution, and accelerating climate cha
 
 Part of the U.S. Agency for International Development's broader efforts to improve water management and governance in the region, the Water Services Project (WSP) aims to improve the quality of—and access to—water services in urban areas serviced by ANDA.
  
-The WSP team works to implement reforms to improve the regularity of water service, promote transparency in how tariffs are applied, build public confidence in ANDA, and stem non-revenue water loss due to failing infrastructure and poor billing practices. 
+Building off [support to ANDA](https://dai-global-developments.com/articles/how-increasing-tax-revenue-shapes-the-lives-of-salvadorans/) that started in a [previous project](https://www.dai.com/our-work/projects/el-salvador-domestic-resource-mobilization-program), WSP team works to implement reforms to improve the regularity of water service, promote transparency in how tariffs are applied, build public confidence in ANDA, and stem non-revenue water loss due to failing infrastructure and poor billing practices. 
 
 ![DRM 1.png](/uploads/DRM%201.png)
  
