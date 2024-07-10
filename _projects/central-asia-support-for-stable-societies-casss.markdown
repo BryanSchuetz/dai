@@ -43,6 +43,8 @@ The Activity assists hotspot communities to build resilient ecosystems that redu
 
 ## Select Results
 
+
+* The Resilient Communities Activity completed a mentorship program in Aktobe and Taraz, Kazakhstan, with a roundtable event and final training for mentors, bringing together 41 stakeholders to review the results of the initiative, which has supported 22 former low-level extremism offenders with psychosocial and legal support in overcoming reintegration hurdles.
 * CASSS [published an article](https://usaidcentralasia.exposure.co/uzbeklanguage-cartoon-helps-strengthen-family-ties-prevents-violent-extremism) highlighting grantee Tarjumon.uz, a local media company. Tarjumon.uz developed Ali’s Adventures, an Uzbek-language cartoon that highlights positive parenting and healthy familial relations in a contemporary family. The cartoon reached 1,128 students and 369 parents, aiming to help young people develop stronger support networks and reduce their susceptibility to radicalization. 
 * CASSS conducted a mixed-methods research design with field research and online research components. The activity completed data collection in December 2019 and reported all research results by May 2020. Based on these results, the activity developed a Central Asian Violent Extremism Risk Framework to guide programming. 
 * In Kazakhstan, CASSS partnered with CSO IDEA Foundation to develop and test a PVE curriculum for technical and vocational education and training colleges. Piloting with 75 students in Zhezkazgan showed that the curriculum led to significant reductions in perceptions of marginalization and significant improvements in critical thinking and self-esteem. 
