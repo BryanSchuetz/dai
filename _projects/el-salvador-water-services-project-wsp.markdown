@@ -22,5 +22,12 @@ promos:
 Dwindling water availability, increasing pollution, and accelerating climate change have led to growing water insecurity in El Salvador. Part of the U.S. Agency for International Development's broader efforts to improve water management and governance in the region, the Water Services Project (WSP) aims to improve the quality of—and access to—water services in urban areas serviced by El Salvador’s National Administration of Aqueducts and Sewers (ANDA).
  
 The WSP team implements reforms to improve the regularity of water service, promote transparency in how tariffs are applied, build public confidence in ANDA, and stem non-revenue water loss due to failing infrastructure and poor billing practices. 
+
+![DRM 1.png](/uploads/DRM%201.png)
  
 ## Sample Activities
+
+* Implement performance improvements around energy efficiency and cost recovery. 
+* Improve public communications and transparency. 
+* Support efforts to strengthen monitoring and accountability systems necessary to ensure high-quality, reliable water services are available equitably in targeted areas.
+* Promote stakeholder participation in the regulatory process, particularly women, supporting the connection between consumers, associations, civil society groups, and regulatory bodies, and ensuring that data is high quality and shared publicly.
