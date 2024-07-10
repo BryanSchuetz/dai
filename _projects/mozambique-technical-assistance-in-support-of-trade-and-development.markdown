@@ -19,7 +19,7 @@ country: Mozambique
 
 Despite promising developments, Mozambique remains one of the poorest countries in the world and continues to suffer from tensions that date back to the [civil war](https://en.wikipedia.org/wiki/Mozambican_Civil_War). The COVID-19 pandemic has also put significant pressure on the economy of Mozambique, which was on the road to recovery from the natural disasters that devastated significant parts of the country. 
 
-The Technical Assistance in Support of Trade and Development for the Promove Comércio programme works to improve the trade and business environment in Mozambique. It is part of a wider partnership—the Promove Comércio programme—between the Government of Mozambique and the European Union. Our work falls under two of three components.    
+The [Technical Assistance in Support of Trade and Development for the Promove Comércio programme](https://promovecomercio.org/) works to improve the trade and business environment in Mozambique. It is part of a wider partnership—the Promove Comércio programme—between the Government of Mozambique and the European Union. Our work falls under two of three components.    
 
 DAI works with the Ministry of Industry and Trade to improve government coordination and the implementation of the Economic Partnership Agreement (EPA) and the World Trade Organization’s trade facilitation agreement reforms. By reaching effective implementation of EPA provisions, importers will be able to benefit from reduced import duty on European Union products, while exporters will be able to benefit from opportunities from applying rules of origin which will lead to added value on exports from Mozambique to the European Union.
 
