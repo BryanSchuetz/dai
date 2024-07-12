@@ -20,6 +20,6 @@ The Partnerships for Green Investment (PAGI) program employs nature-based soluti
  
 Focusing on Cambodia, Indonesia, Lao PDR, Myanmar, the Philippines, Thailand, and Vietnam, PAGI works to advance systemic change in the agricultural, forestry, and other land use sectors to reduce greenhouse gas emissions at scale through inclusive and sustainable approaches, thereby accelerating the region’s transition to net-zero economies. 
 
-
+[DSC07320.JPG](/uploads/DSC07320.JPG)
  
 ## Sample Activities
