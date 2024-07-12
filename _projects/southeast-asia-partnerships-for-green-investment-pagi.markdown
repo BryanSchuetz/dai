@@ -1,7 +1,6 @@
 ---
 title: Southeast Asia—Partnerships for Green Investment (PAGI)
 date: 2024-07-12 13:30:00 Z
-published: false
 summary: The Partnerships for Green Investment (PAGI) program employs nature-based
   solutions to achieve greater emissions reduction, climate resilience, biodiversity
   protection, inclusiveness, and benefit sharing across Southeast Asia.
