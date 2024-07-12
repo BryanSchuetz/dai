@@ -59,5 +59,5 @@ In 2023, we provided CDP with our emissions reporting for scopes 1, 2, and 3 for
 
 While emissions for our U.K. office continue to track down, we saw a small uptick under scope 3. This is primarily attributable to a COVID bounce-back on travel. We are continuing to update our systems, tools, and procedures to minimize the need for travel where possible and, where necessary, use lower-carbon options as the default.
 
-**Please find our DAI Global UK Reduction Plan <a href="https://dai-assets.s3.amazonaws.com/our-work/HMG_Carbon_Reduction_.pdf">here.</a>**
+**Please find our DAI Global UK Reduction Plan [here](/uploads/HMG_Carbon_Reduction_.pdf).**
 
