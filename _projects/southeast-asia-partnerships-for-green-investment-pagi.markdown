@@ -26,7 +26,7 @@ Focusing on Cambodia, Indonesia, Lao PDR, Myanmar, the Philippines, Thailand, an
 ## Sample Activities
 
 * Form strategic partnerships with regional, local, and international organizations, platforms, and progressive private sector actors and financiers to implement activities for opportunities that show promise for attracting investment.
-* Build the capacity of regional and global institutions to develop impactful public-private parternerships, effectively mobilize and manage resources, and share lessons and best practices to advance regional priorities. 
+* Build the capacity of regional and global institutions to develop impactful public-private partnerships, effectively mobilize and manage resources, and share lessons and best practices to advance regional priorities. 
 * Identify and develop appropriate financial instruments for sustainable land use.
 * Develop potential forest conservation and restoration projects adjacent to major sourcing areas.
  
