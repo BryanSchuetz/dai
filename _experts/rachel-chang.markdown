@@ -1,6 +1,7 @@
 ---
 title: Rachel Chang
 date: 2024-01-24 11:06:00 Z
+published: false
 lastname: Chang
 summary: Rachel Chang is a Digital Specialist for DAI’s Center for Digital Acceleration
   in the cybersecurity and digital policy practice area.
