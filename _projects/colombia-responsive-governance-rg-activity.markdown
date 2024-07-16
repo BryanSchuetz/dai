@@ -28,14 +28,18 @@ Working at the intersection of public financial management (PFM), local governan
 
 ### Sample Activities
 
-* Improve local government service delivery and implementation of the Peace Accords.
-* Empower municipalities to deliver visible improvements in health, education, and infrastructure services.
-* Encourage meaningful civic engagement by civil society and private sector actors.
-* Strengthen the Government of Colombia’s capacity to meet citizen demands.
+* Strengthen national government policies, systems, mechanisms, and institutions to improve public service delivery in targeted municipalities.
+* Enhance municipal public financial management to comply with national standards, increase revenues, and promote the implementation of the Peace Agreement.
+* Collaborate with civil society, the media, academia, and the private sector to strengthen and increase their participation in local governance processes and the implementation of the Peace Agreement.
+* Strengthen the capacity of oversight institutions to monitor public resources in the health, education, and infrastructure sectors. RG collaborates with the Comptroller General’s Office, the Inspector General’s Office, local controllers, and municipal representatives, known as Personerías.
+* Employ a rapid response mechanism to adapt to evolving contexts by collaborating with strategic local partners to identify emerging dynamics, opportunities, and challenges specific to the local context.
 
 ### Select Results
 
-* Supported the Colombian government to launch its National Observatory of Logistics, Transportation, Mining, and Energy planning tool will allow national, departmental, and local governments to develop and implement better public policies to improve road connectivity and bring more development opportunities to rural communities in conflict-affected territories.
+* Mobilized $66.6 million through the approval of 132 projects aimed at strengthening the implementation of the Peace Agreement.
+* Provided technical assistance for the Community Roads for Total Peace program, which mobilized $120 million through solidarity agreements. This initiative improves Colombia's tertiary road network with active participation from community-based organizations.
+
+
 * Initiated a course on social auditing with the participation of 60 social leaders, covering essential governance-related topics. The 10-session course addresses essential concepts regarding the government structure, participation and protection mechanisms for citizens, Peace Agreement implementation, human rights, social auditing, and public accountability exercises. 
 * Supported 27 conflict-affected municipalities in Colombia to prioritize crucial investment projects. The municipalities of Montelíbano and El Doncello will receive $1.1 million—from mining royalties—to improve rural public infrastructure, benefiting approximately 2,225 people.
 * Developed a tool to reduce the risk of delays in service delivery that may result from information being lost during a recent change of administrations, ensuring fewer disruptions in service delivery to rural communities. The tool was shared with 34 target municipalities.
