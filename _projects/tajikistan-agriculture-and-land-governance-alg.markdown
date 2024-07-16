@@ -20,6 +20,12 @@ promos:
 - title: USAID Supporting 20,000 Vulnerable Households in Khatlon with Agriculture
     Inputs to Improve Food Security
   link: https://tj.usembassy.gov/usaid-supporting-vulnerable-households-in-khatlon-with-agriculture-inputs/
+- title: 'VIDEO: Family Poultry Production in 12 Districts of Khatlon'
+  link: https://www.youtube.com/watch?v=Dwui3ktFDhs
+- title: 'VIDEO: Agency Banking in Tajikistan'
+  link: https://www.youtube.com/watch?v=m6ak2G1LdP8
+- title: 'VIDEO: Fostering the Linkages between Input Suppliers and Farmers'
+  link: https://www.youtube.com/watch?v=aqD_HpX6--0
 ---
 
 For more than a decade, the U.S. Agency for International Development (USAID) has supported Tajikistan’s agriculture-led economic growth and improved nutrition outcomes in Khatlon. Now the Feed the Future Tajikistan Agriculture and Land Governance (ALG) activity [moves beyond](https://www.usaid.gov/tajikistan/press-releases/sep-18-2020-usaid-launches-36-million-program) these previous investments to catalyze growth by enabling the local private sector to develop and expand market opportunities and work with government and civil society to drive systemic reforms in the enabling environment for agriculture that allow smallholders and private sector firms to invest and upgrade land through improved registration and administration. Of equal importance, ALG ensures that women, youth, and vulnerable groups in remote areas in Khatlon are not left behind in the climb, integrating them into market-led opportunities in processing, value addition, and livelihood diversification while deepening their resilience through nutrition-sensitive crop adoption and behavior change. Combined, these efforts will enable Tajikistan to strengthen its journey to self-reliance and reduce its over-reliance on remittances from neighboring Russia. 
