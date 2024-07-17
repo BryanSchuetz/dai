@@ -16,8 +16,8 @@ country: Colombia
 promos:
 - title: Project Facebook Page
   link: https://www.facebook.com/Programa-Gobernabilidad-Responsable-de-USAIDColombia-102022655377659/
-- title: 
-  link: 
+- title: 'VIDEO: Supporting the LGBTQ+ Community in Colombia'
+  link: https://vimeo.com/985701424
 ---
 
 The Responsive Governance (RG) Activity enhances good governance, public financial management, and effective public service delivery in conflict-affected municipalities in Colombia. To increase citizen trust in the Colombian Government, RG strengthens public officials and institutions’ capacity to effectively plan, finance, and deliver vital public services, such as health and education. RG also empowers citizens to participate in their communities and promotes government accountability and responsiveness to citizen interests. RG is implemented in 34 municipalities.
