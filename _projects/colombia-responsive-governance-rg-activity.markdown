@@ -16,7 +16,7 @@ country: Colombia
 promos:
 - title: Project Facebook Page
   link: https://www.facebook.com/Programa-Gobernabilidad-Responsable-de-USAIDColombia-102022655377659/
-- title: 'VIDEO: Supporting the LGBTQ+ Community in Colombia'
+- title: 'VIDEO: Supporting the LGBTIQ+ Community in Colombia'
   link: https://vimeo.com/985701424
 - title: 'VIDEO: Improving Lives in Rural Colombia'
   link: https://vimeo.com/985722813
@@ -27,6 +27,8 @@ promos:
 The Responsive Governance (RG) Activity enhances good governance, public financial management, and effective public service delivery in conflict-affected municipalities in Colombia. To increase citizen trust in the Colombian Government, RG strengthens public officials and institutions’ capacity to effectively plan, finance, and deliver vital public services, such as health and education. RG also empowers citizens to participate in their communities and promotes government accountability and responsiveness to citizen interests. RG is implemented in 34 municipalities.
  
 Working at the intersection of public financial management (PFM), local governance, and conflict programming, RG seizes a moment of opportunity to promote effective governance and support Colombian institutions and systems as they enter the next phase of peace implementation. With Colombian partner organizations Transparencia por Colombia, Pastoral Social, and Corpovisionarios, RG builds on the decentralization efforts supported by the U.S. Agency for International Development and the Government of Colombia to emphasize visible and sustainable improvements in service delivery and implementation of the Peace Accords.
+
+RG fosters the inclusion of the LGBTIQ+ community, promoting local public policies and active social participation. The involvement of this community in the Territorial Planning Councils and other decision-making bodies has been actively encouraged by RG, thus ensuring that their voices are heard, contributing to closing gaps, and promoting a life free of violence for all.
  
 ![Mujeres Valientes Constructoras de Paz IV.png](/uploads/Mujeres%20Valientes%20Constructoras%20de%20Paz%20IV.png)
 
