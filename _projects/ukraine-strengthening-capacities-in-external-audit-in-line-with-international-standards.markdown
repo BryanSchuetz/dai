@@ -24,7 +24,7 @@ External audit is an explicit part of the PFM strategy. However, the organizatio
 
 This European Union project supports the ACU to reform its external audit of budgetary funds in line with the government’s PFM strategy. One of the project’s main goals is to strengthen the ACU’s institutional external audit capacities to be consistent with international principles and standards. Project components address legislative approximation and regulatory changes, institutional development, improvement of audit methodology, and strengthening follow-up mechanisms and communication on the main results of the ACU’s work.
 
-![Ukraine_PFM Audit.jpg](/uploads/Ukraine_PFM%20Audit.jpg)
+![ukraine audit.jpg](/uploads/ukraine%20audit.jpg)
 
 ## Sample Activities
 
