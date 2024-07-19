@@ -10,9 +10,9 @@ start: 2021
 end: 2026
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Water Security, Sanitation, and Hygiene
 - Energy
-- Water and Sanitation Services and Management
+- Environment
 regions: Middle East and North Africa
 country: Lebanon
 promos:

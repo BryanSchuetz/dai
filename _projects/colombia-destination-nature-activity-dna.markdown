@@ -27,8 +27,15 @@ DNA is developing an innovative and holistic model based on the concept of Regen
  
 ## Sample Activities
 
-* Design regenerative nature tourism experiences that contribute to ecosystem regeneration and biodiversity conservation.
+* Design regenerative nature tourism experiences contributing to ecosystem regeneration and biodiversity conservation.
 * Integrate communities into the nature tourism market systems.
 * Provide travelers with authentic experiences to generate demand for nature tourism.
 * Improve local governance and sustainable destination planning and management.
 * Increase public and private investment in nature tourism to generate revenue dependent upon low emissions land use and protecting biodiversity for its suite of ecosystem services.
+
+## Select Results
+
+* Created *Descubriendo Destinos*, (Discovering Destinations) a *Shark Tank*-like event where experts evaluate entrepreneurs’ products and services based on innovation, creativity, and alignment with regenerative tourism. The experts are representatives from prominent tourism companies with extensive expertise in developing, promoting, and marketing tourism products, nationally and internationally.
+* Created *Metí la Pata* (colloquially translates to “I screwed up”) event where nature tourism entrepreneurs share their company’s failures, lessons learned, and insights on overcoming these incidents.
+* Supported the organization of the first Latin American and Caribbean Summit of the Global Sustainable Tourism Council hosted by the Government of Colombia as part of the implementation of the country’s Sustainable Tourism Policy. 
+* Developed the first Regenerative Nature Tourism Travel Guide of Colombia.
