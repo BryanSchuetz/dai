@@ -35,7 +35,7 @@ DNA is developing an innovative and holistic model based on the concept of Regen
 
 ## Select Results
 
-* Created *Descubriendo Destinos*, (Discovering Destinations) a Shark Tank-like event where experts evaluate entrepreneurs’ products and services based on innovation, creativity, and alignment with regenerative tourism. The experts are representatives from prominent tourism companies with extensive expertise in developing, promoting, and marketing tourism products, nationally and internationally.
+* Created *Descubriendo Destinos*, (Discovering Destinations) a *Shark Tank*-like event where experts evaluate entrepreneurs’ products and services based on innovation, creativity, and alignment with regenerative tourism. The experts are representatives from prominent tourism companies with extensive expertise in developing, promoting, and marketing tourism products, nationally and internationally.
 * Created *Metí la Pata* (colloquially translates to “I screwed up”) event where nature tourism entrepreneurs share their company’s failures, lessons learned, and insights on overcoming these incidents.
 * Supported the organization of the first Latin American and Caribbean Summit of the Global Sustainable Tourism Council hosted by the Government of Colombia as part of the implementation of the country’s Sustainable Tourism Policy. 
 * Developed the first Regenerative Nature Tourism Travel Guide of Colombia.
