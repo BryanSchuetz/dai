@@ -27,5 +27,3 @@ At the heart of DAI Magister's approach is a commitment to providing essential g
 DAI Magister’s global deal experience, coupled with deep sector expertise and rigorous execution, enables it to tackle the most complex transactions with confidence. This unique combination of skills and knowledge allows DAI Magister to identify and bring forward the best opportunities for clients, ultimately achieving maximum value in every deal.
 
 For more information, please visit [www.daimagister.com](https://www.daimagister.com)
-
-
