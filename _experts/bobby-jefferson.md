@@ -25,4 +25,5 @@ Before joining DAI in 2016, he served as Vice President and Director of the Cent
 He serves as a board member and advisor for enterprises including THINKMD, ClickMedix, DataElevates, Covelocity.Health, SimPrints, the Mentor Capital Network, and the gBeta MedTech Black Founders Accelerator program, where he mentors Black entrepreneurs and their startups.
 
 * B.S., computer science, American University
-* Diversity, Equity, and Inclusion Committee Chair, SID Washington
+* At-Large Member, Board of Directors, SID, United States
+* Diversity, Equity, and Inclusion Committee Chair, SID, United States
