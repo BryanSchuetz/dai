@@ -12,23 +12,20 @@ related: false
 solutions:
 - DAI Capital
 hero: true
-layout: solution
 ultrawide: true
+layout: solution
 ---
 
 # Capital Advisory
 
-In November 2020, DAI concluded a majority investment in Magister Advisors to form DAI Magister, a strategic partnership enabling DAI to directly connect businesses in emerging and frontier markets with equity investors through Magister’s advisory business.
+In November 2020, a strategic partnership was formed when DAI completed a majority investment in Magister Advisors, resulting in the creation of DAI Magister. This pivotal merger enabled DAI to establish direct connections between businesses in Europe/U.S. and emerging markets and investors/acquirers through Magister's advisory business, significantly expanding its reach and capabilities.
 
-DAI’s capital advisory arm focuses on developing and executing growth financing and sell-side mergers and acquisitions. We provide full transaction advisory services for deals between $30 million and $2 billion, focusing on the climate, fintech, tech-enabled commerce, and tech-communication sectors. Our services include: 
+DAI Magister is a leading investment bank that specializes in advising international technology and climate companies, with a particular focus on strategic sell-side mergers and acquisitions (M&A) and growth financings. The firm offers comprehensive financial advisory services for transactions across a diverse range of sectors, including climate tech, B2B SaaS, fintech, deep tech and healthcare technology. Their expertise spans Europe, the United States, Africa, the Middle East and North Africa (MENA) region, and other emerging markets.
 
-- Developing tailored capital structures that balance the short- and long-term capital needs of the client’s business
-- Structuring, negotiating, and executing transactions to raise capital
-- Preparing businesses and assets for investment from local and international investors
-- Identifying suitable financial and strategic investors from a range of private and public institutions
-- Addressing other strategic issues, such as corporate governance and risk mitigation
+At the heart of DAI Magister's approach is their commitment to providing essential guidance and strategic financial advice to CEOs and investors throughout the entire deal process. Their experienced and entrepreneurial team brings a highly successful track record in M&A and growth financings across multiple sectors, ensuring clients receive unparalleled support at every stage of their transaction.
 
-Further, [DAI Magister](https://www.daimagister.com) advises asset managers and other investors seeking to deploy capital in frontier and emerging markets, assisting them to identify investment opportunities, execute investments, and exit their investments. 
+DAI Magister's global deal experience, coupled with their deep sector expertise and rigorous execution, enables them to tackle the most complex transactions with confidence. This unique combination of skills and knowledge allows them to identify and bring forward the best opportunities for their clients, ultimately achieving maximum value in every deal.
+
 
 For more information, please visit [www.daimagister.com](https://www.daimagister.com)
 
