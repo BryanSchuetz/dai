@@ -23,11 +23,12 @@ The credit rating upgrade was facilitated in part by two DAI projects in Jordan.
 
 ![moodys.jpg](/uploads/moodys.jpg)`Photo: USAID Jordan.`
 
-"This achievement is remarkable given the challenging regional backdrop of the past few years: the COVID-19 pandemic, high global energy, and food prices due to the Russia-Ukraine conflict, and, more recently, tensions emanating from the Israel-Palestine conflict," said [Feras Momani](https://www.dai.com/who-we-are/our-team/feras-momani), DAI’s Country Representative in Jordan.
+"This achievement is remarkable given the challenging regional backdrop of the past few years: the COVID-19 pandemic, high global energy and food prices due to the Russia-Ukraine conflict, and, more recently, tensions emanating from the Israel-Palestine conflict," said [Feras Momani](https://www.dai.com/who-we-are/our-team/feras-momani), DAI’s Country Representative in Jordan.
 
 The milestone reflects confidence in the country’s economic policies and reforms, such as the Economic Modernization Vision and the Public Sector Modernization Roadmap. For the government, the new rating means lower borrowing costs, improved investor confidence, and greater access to international financial markets, which can lead to further economic development and infrastructure investment. For everyday citizens, the upgrade signals a more stable economic environment, potentially leading to job creation and improved public services.
 
 USAID’s PFMA Activity has been pivotal in supporting Jordan’s efforts to enhance its fiscal stability and governance. In detailing its rationale for the upgrade, Moody’s highlighted the “digitalization of tax services and use of artificial intelligence to monitor tax compliance, harmonization of custom duties, unification of tax administration…and the installation of track and trace systems.” 
+
 These advancements are directly attributable to the initiatives spearheaded by PFMA. By providing staff and technical assistance to the Ministry of Finance, PFMA also helped oversee Jordan’s Extended Fund Facility (EFF) with the International Monetary Fund; the successful conclusion of the first review of the EFF was another key factor in Moody’s decision.
 
 The Macroeconomic Advisory Support Program, led by DAI and Cygnum Capital, provides credit rating advisory services and technical assistance to the government, helping Jordan implement effective reforms and maintain a stable economic environment. The program has built capacity within Jordan’s financial institutions, ensuring the Kingdom is better prepared to handle future economic challenges and sustain long-term growth.
