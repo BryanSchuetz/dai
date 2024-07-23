@@ -29,6 +29,8 @@ To kickstart the program, DAI is:
 
 DAI’s delivery partners are Tandem, Beed, SAFAL, Dolma, VRock, and Opportunities Unlimited. 
 
+![226.3986-3aa3c5.jpg](/uploads/226.3986-3aa3c5.jpg)
+
 ### Sample Activities 
 
 * Understand market and government failures limiting firms from growing, creating jobs, and enhancing competitiveness in focal sectors. 
