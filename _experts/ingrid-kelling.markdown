@@ -2,7 +2,10 @@
 title: Ingrid Kelling
 date: 2024-06-21 07:16:00 Z
 lastname: 'Kelling '
-summary: 'Associated Director, Economic '
+summary: Ingrid is an Associate Director in DAI U.K.'s Economic Growth business unit,
+  where she specializes in project delivery and technical expertise in sustainable
+  development programs addressing environmental, economic, and social dimensions to
+  create resilient and inclusive communities worldwide.
 job-title: Associate Director, Economic Growth
 image: "/uploads/Ingrid%20Kelling-e937de.jpg"
 solutions:
