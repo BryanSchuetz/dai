@@ -36,6 +36,8 @@ In the course of our work with international donors and the Nigerian state and f
   DAI is committed to providing the highest level of quality and environmental management, meeting the latest in global best practices as demonstrated by <a href="news/dai-expands-iso-9001-2015-certification-to-dai-operations-in-nigeria">our conformance</a> to the highly regarded ISO 9001:2015.
 </aside>
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/989549355?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DAI Nigeria Office Intro Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 <hr>
 <div class="bulma">
   <div class="container">
