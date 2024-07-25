@@ -2,7 +2,7 @@
 title: Joris Van Der Putten
 date: 2024-02-21 08:15:00 Z
 lastname: Van Der Putten
-summary: Joris Van Der Putten brings has more than over 25 years of experience in
+summary: Joris Van Der Putten has more than over 25 years of experience in
   international healthcare.
 job-title: Director, DAI Capital Australia
 image: "/uploads/joris-van-der-putten.jpg"
