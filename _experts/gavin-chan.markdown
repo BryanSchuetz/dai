@@ -5,7 +5,7 @@ lastname: chan
 summary: Gavin Chan started his career in project and structured finance at BNP Paribas
   in Sydney, Australia, before moving to New York to advise Utilities and Infrastructure
   Funds on mergers, acquisitions,  and restructuring transactions.
-job-title: Vice President, DAI Capital
+job-title: Partner, DAI Capital
 image: "/uploads/Gavin%20Chan.JPG"
 solutions:
 - DAI Capital
