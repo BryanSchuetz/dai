@@ -29,8 +29,8 @@ promos:
 - title: 'The Viral Success of Horticulturalist Chat Groups: An Uzbek ICT4Ag Case
     Study'
   link: https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html?utm_source=daidotcom
-- title: 'TRADE FOR TOMORROW: One Man''s Transformation from Farmhand to Entrepreneur'
-  link: https://stories.usaid.gov/trade-for-tomorrow/#page-1
+- title: 'TRADE FOR TOMORROW VIDEO: One Man''s Transformation from Farmhand to Entrepreneur'
+  link: https://www.usaid.gov/stories/trade-for-tomorrow
 layout: project
 ---
 
