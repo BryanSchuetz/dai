@@ -59,3 +59,8 @@ IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUW
 ## Select Results (Tangguh)
 
 * Collaborated with Kesetnana villageto reforest the watershed catchment area. The 800 new trees will increase water retention, protect the soil, and ensure more regular flow of clean water. Community members also received training to monitor the effects of tree planting on the water supply.
+* Revised or helped create 43 new laws, policies, or regulations that promote access to improved water, sanitation, and hygiene services. 
+* Mobilized $174 million in new funding to water sector via 30 public-private partnerships.
+* Trained 2,300 water workers.
+* Helped 25 institutions to adopt new data management systems.
+* Trained 3,322 people in climate change adaptation and sustainable landscapes.
