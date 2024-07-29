@@ -38,10 +38,15 @@ In Bangladesh, Phase I focused on enhancing laboratory infrastructure, strengthe
 
 ## Select Results 
 
-* Finalized the National AMR Surveillance Strategy endorsed by the Bangladeshi Government. 
-* Finalized sector-specific surveillance plans for human, animal, and aquatic sectors, using a One Health approach.
-* Revised government-sponsored AMR sectoral working groups and reorganized or created the relevant committees.
-* Completed assessment of targeted laboratories and finalized plans for refurbishment. 
-* Completed data management assessments in all laboratories and data coordination centers. 
-* Completed training of trainers program on basic microbiology, biosafety and biosecurity, laboratory data management, and advanced microbiology. 
-* Completed a survey to assess antimicrobial use in human health, poultry, and fishery sectors. 
+* Finalised the National AMR Surveillance Strategy using a One Health approach, which the Bangladeshi Government endorsed.
+* Refurbished six Human Health (HH) and 5 Animal Health (AH) laboratories, and maintenance works completed. 
+* Procured equipment, consumables, and reagents for 12 laboratories (5 in AH, 6 in HH, and 1 in the aquatic sector).  
+* Developed national AMR Data Dashboard with a One Health approach. Live AMR data from all sentinel sites (HH, AH and Aqua sectors) and private sector is now available at the website of the Institute of Epidemiology, Disease Control and Research (IEDCR). 
+* Supported the development of sectoral surveillance protocols, sampling strategies, and laboratory protocols on biosafety, biosecurity, and standard operative procedures for laboratory functioning.
+* Increased AMR data quantity achieved through the inclusion of the private sector in the passive AMR surveillance (public-private partnership).
+* Finalized sector-specific surveillance plans for human, animal, and aquatic sectors, using a One Health approach. 
+* Strengthened AMR governance and coordination through functioning committees and working groups. Regular committee meetings are now held, and members are engaging in key activities that support better decision-making.
+* Conducted antimicrobial usage (AMU) Study with a One Health approach and follow-up Point Prevalence Surveys (PPS). 
+* Facilitated the production of seven issues of the AMR Newsletter by the National AMR Coordination Centre.
+* Completed 18 trainings on basic and advanced microbiology (249 participants), biosafety and biosecurity, and laboratory data management. 
+* Developed National External Quality Assessment Services (EQAS) Program and completed training for National Reference Laboratories (NRLs) to build their capacity as National EQAS providers.  
