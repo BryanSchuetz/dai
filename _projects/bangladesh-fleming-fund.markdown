@@ -27,12 +27,14 @@ AMR is a leading cause of death globally, [research shows](https://www.thelancet
 
 In Bangladesh, Phase I focused on enhancing laboratory infrastructure, strengthening human resources, improving the AMR and antimicrobial use (AMU) surveillance system, building foundations for using AMR data and promoting the rational use of antimicrobial medicines. Phase II is building on this work to achieve four outcomes: producing high-quality AMR, AMU, antimicrobial consumption, and burden data; developing high-quality analyses of data; sharing the analyses and data with relevant decision-makers; and promoting sustainable investment to counter AMR.
 
-## Sample Activities 
+## Sample Activities for Phase II
 
-* Finalize a national surveillance strategy to create sector-specific surveillance protocols and sampling strategies.  
-* Develop an advocacy strategy to gain key decision-makers' support for AMR surveillance and its multisectoral governance structure and a national budget contribution.  
-* Implement a capacity strengthening plan, including joint training on data management and digital health technical support to the data coordinating center for health. 
-* Support the National Reference Laboratory to conduct monthly supervision visits to surveillance sites to ensure that laboratories have appropriate quality management systems in place.  
+* Review and update the National AMR surveillance strategy 
+* Review and update the AMR surveillance protocols in the animal health, human health, and aquaculture sectors.
+* Develop AMR surveillance protocols in the food and environmental sector.
+* Assess and strengthen AMR reporting to the national AMR dashboard by seven new laboratories (three human health, two animal health, and two aquaculture).
+* Support internal procurement systems at laboratories to quality assure equipment maintenance and supply of consumables across sectors.
+* Train laboratory staff on microbiology, epidemiology, quality management, and data collection to improve the quality of Phase I data. 
 
 ## Select Results 
 
