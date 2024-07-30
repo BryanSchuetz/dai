@@ -15,6 +15,8 @@ solutions:
 regions: Asia and the Pacific
 country: Pakistan
 promos:
+- title: 'Policy Brief: Antimicrobial Resistance Surveillance in Healthy Food Animals'
+  link: "/uploads/Antimicrobial%20Resistance%20Surveillance%20in%20Healthy%20Food%20Animal-11.pdf"
 - title: Fleming Fund Program Receives Award for Improving Responsible Drug Use in
     Pakistan
   link: https://www.dai.com/news/fleming-fund-program-receives-award-for-improving-responsible-drug-use-in-pakistan
