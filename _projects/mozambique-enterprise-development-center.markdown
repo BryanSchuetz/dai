@@ -1,8 +1,8 @@
 ---
 title: Mozambique—MozUp Enterprise Development Center
 date: 2020-02-05 16:09:00 Z
-summary: 'DAI will establish and operate an Enterprise Development Center in Mozambique.
-  The center will collaborate with the government of Mozambique and the private sector
+summary: 'DAI established and operates an Enterprise Development Center in Mozambique.
+  The center collaborates with the government of Mozambique and the private sector
   to provide Mozambican enterprises with skills to participate in a variety of growth
   industries in the country. '
 start: 2019

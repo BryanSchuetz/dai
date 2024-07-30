@@ -3,7 +3,7 @@ title: Uganda—Sustainable Market Inclusive Livelihood Pathways to Self-Relianc
   (SMILES)
 date: 2023-05-18 15:21:00 Z
 summary: The Sustainable Market Inclusive Livelihood Pathways to Self-Reliance program
-  (SMILES) seek to address rural refugee livelihood challenges in Uganda.
+  (SMILES) seeks to address rural refugee livelihood challenges in Uganda.
 start: 2022
 end: 2027
 client: IKEA Foundation
