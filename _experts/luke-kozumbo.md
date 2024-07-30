@@ -14,7 +14,7 @@ solutions:
 - Social Strategy
 - Supply Chain
 regions:
-- Sub-Saharan Africa
+- 
 - 
 order: 12
 layout: expert
