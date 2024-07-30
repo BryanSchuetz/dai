@@ -2,6 +2,7 @@
 title: Nicolas Campos Vasquez
 date: 2024-07-30 09:50:00 Z
 lastname: Campos Vasquez
+summary: Nicolas is a Senior Manager with DAI’s Sustainable Business Group.
 job-title: Senior Manager
 image: "/uploads/Nico.png"
 solutions:
@@ -16,8 +17,8 @@ For eight years, Nicolas worked in the public sector in Chile, developing and im
 
 Nicolas is Chilean and now lives in Washington D.C.
 
-•	M.S., environment and sustainability management, Georgetown University
-•	M.S., strategic communications, Adolfo Ibáñez University
-•	Bachelor’s degree in geography, Pontifical Catholic University of Chile
+* M.S., environment and sustainability management, Georgetown University
+* M.S., strategic communications, Adolfo Ibáñez University
+* Bachelor’s degree in geography, Pontifical Catholic University of Chile
 
 
