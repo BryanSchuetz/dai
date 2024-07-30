@@ -1,11 +1,10 @@
 ---
 title: Louise Flynn
 date: 2020-01-03 19:04:00 Z
-order: 2
 lastname: Flynn
 summary: Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety,
   security, and environment programs globally.
-job-title: Director, Sustainable Business Group
+job-title: Technical Director, Sustainable Business Group
 image: "/uploads/LF.jpeg"
 solutions:
 - Sustainable Business
@@ -14,6 +13,7 @@ regions:
 articles:
 - name: Three Key Elements in Developing Local Content Policy for the Renewables Sector
   article_file: https://dai-global-developments.com/articles/three-key-elements-in-developing-local-content-policy-for-the-renewables-sector?utm_source=daidotcom
+order: 2
 ---
 
 Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety, security, and environment programs globally. As an environmental consultant for more than 25 years, she has managed environmental impact assessments (EIAs) and environmental safety and health impact assessments (ESHIAs) for major energy and sustainable development projects to the value of $3 million.
