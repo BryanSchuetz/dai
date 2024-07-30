@@ -15,7 +15,7 @@ country: Uganda
 
 The IKEA Foundation is one of the world’s largest private funders committed to helping refugees achieve economic self-reliance and sustainable livelihoods.
 
-The Sustainable Market Inclusive Livelihood Pathways to Self-Reliance program (SMILES) seek to address rural refugee livelihood challenges in Uganda. SMILES aims to help ultra-poor refugee and Ugandan (host community) households in the Kikuube and Kyegegwa Districts graduate from food insecurity and fragile livelihoods to self-reliance and resilience.
+The Sustainable Market Inclusive Livelihood Pathways to Self-Reliance program (SMILES) seeks to address rural refugee livelihood challenges in Uganda. SMILES aims to help ultra-poor refugee and Ugandan (host community) households in the Kikuube and Kyegegwa Districts graduate from food insecurity and fragile livelihoods to self-reliance and resilience.
 
 The project combines a graduation approach, led by AVSI, and a market systems development (MSD) approach, led by DAI in partnership with the United Nations High Commissioner for Refugees (UNHCR), REPARLE, Innovations for Poverty Action (IPA), and the University of Makerere.
 
