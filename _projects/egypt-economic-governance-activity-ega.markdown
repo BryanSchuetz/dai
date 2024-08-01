@@ -17,16 +17,8 @@ country: Egypt
 
 The Government of Egypt has achieved an encouraging degree of macroeconomic stabilization in the past several years, coupled with regulatory, policy, and civil service reforms to create space for private sector growth. Yet, Egypt’s economic governance reforms must be broader and deeper if it is to achieve its development vision of improving public welfare by creating enough quality jobs to meet the massive demographic challenge it now faces. The reforms must strengthen a weak institutional framework and begin to reverse socioeconomic inequities.
 
-The Egypt Economic Governance Activity (EGA) works with the government to support the country’s investment climate by strengthening inclusive governance and supporting the government’s structural reform program.
+The Egypt Economic Governance Activity (EGA) supports the investment climate through enhancing economic governance and promoting administrative and institutional development in line with Egypt’s Sustainable Development Strategy (SDS) 2030; the National Anti-Corruption Strategy; and the Administrative Reform Vision of Egypt. In doing so, the project supports the efforts of the government to enhance the quality of public administration through adopting more inclusive and efficient tools that reflect the needs and priorities of citizens and the private sector, thus promoting a favorable investment climate in Egypt.
  
-EGA assists with Egypt’s economic and good governance reforms by:
- 
-* Supporting the reform process.
-* Building capacity in public administration, including rolling out anticorruption training across the government at all levels of the civil service.
-* Improving local service delivery, with an emphasis on innovative e-governance. 
- 
-Together, these efforts should increase participation and inclusion in Egypt’s governance reforms, enhance the transparency and accountability of government services, improve government effectiveness, and combat corruption—all of which will boost Egypt’s attractiveness as a destination for foreign investment. DAI’s “sustainable reform” approach to EGA promotes multilevel sustainability by applying a nuanced understanding of the political economy and a management stance that supports government actors from behind the scenes.
-
 ![EGA.jpg](/uploads/EGA.jpg)
   
 ## Sample Activities
