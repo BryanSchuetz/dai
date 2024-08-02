@@ -7,6 +7,7 @@ summary: Jaime Warne is a Project Director in the Governance Practice of DAI’s
   projects for international donor agencies, governments, civil society, and private
   clients worldwide.
 job-title: 'Project Director, Governance '
+image: "/uploads/Jaime%20Warne.jpg"
 solutions:
 - Governance
 - Justice, Citizen Security, and Rule of Law
