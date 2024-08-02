@@ -21,4 +21,5 @@ He currently oversees a portfolio of EU and Millennium Challenge Corporation-fun
  
 Jaime has worked extensively in Southeast Asia, including a recent two-year posting in Yangon, Myanmar, where he supported the delivery of a major U.K. government-funded inclusive economic growth program. His current projects are in Southern and West Africa, the Middle East, and Asia. He also manages projects in fragile and conflict-affected settings, including Iraq, Somalia, and Pakistan’s Balochistan region.
   
-* B.A., international relations, University of Melbourne, Australia, * L.L.M., international economic law, University of London
+* B.A., international relations, University of Melbourne, Australia
+* L.L.M., international economic law, University of London
