@@ -1,7 +1,6 @@
 ---
 title: Jaime Warne
 date: 2024-08-02 08:41:00 Z
-published: false
 lastname: Warne
 summary: Jaime Warne is a Project Director in the Governance Practice of DAI’s European
   Union unit. He brings 20 years of experience in international development, implementing
@@ -15,7 +14,7 @@ regions:
 - Worldwide
 ---
 
-Jaime Warne is a Project Director in the Governance Practice of DAI’s European Union (EU) business unit. He brings 20 years of experience in international development, implementing projects for international donor agencies, governments, civil society, and private clients worldwide.
+Jaime Warne is a Project Director in the Governance Practice of DAI’s European Union (EU) business unit. He brings 20 years of experience in international development, implementing projects for donor agencies, governments, civil society, and private clients worldwide.
  
 He currently oversees a portfolio of EU and Millennium Challenge Corporation-funded projects led by DAI, focusing on accountable and responsive government and public service delivery, rule of law, and justice institutions. Jaime also specializes in projects addressing cross-sectoral development cooperation issues, such as aid coordination, policy dialogue, budget support, monitoring, evaluation, and adaptive programming.
  
