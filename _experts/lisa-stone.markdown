@@ -2,7 +2,7 @@
 title: Lisa Stone
 date: 2020-02-10 13:59:00 Z
 lastname: 'Stone '
-summary: 'Dr. Lisa Stone is an accomplished medical and public health consultant with
+summary: 'Lisa Stone is an accomplished medical and public health consultant with
   experience in public health policy, planning, and programs for nonprofit and governmental
   health agencies. '
 job-title: 'Epidemiology Adviser '
@@ -21,4 +21,4 @@ As the medical director and statewide hospital preparedness director for public 
 Her international work has focused on emergency preparedness and response, epidemic outbreak response, and the [One Health approach](https://www.who.int/features/qa/one-health/en/) to [preparedness and response](https://www.dai.com/our-work/projects/worldwide-preparedness-and-response-pr) in resource-poor environments. She has developed curricula and toolkits, and conducted numerous workshops to promote One Health country preparedness and response for outbreaks, including avian influenza, ebola, and outbreaks of unknown etiology. Her work has supported the development of multisectoral, operational, national, and sub-national preparedness and response plans in developing countries. 
 
 * M.D., George Washington University
-* MPH, Harvard University
+* M.P.H., Harvard University
