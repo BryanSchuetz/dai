@@ -1,6 +1,7 @@
 ---
 title: Katie Vaughan
 date: 2020-06-02 08:22:00 Z
+published: false
 lastname: Vaughan
 summary: 'Katie Vaughan is an international development and project management professional
   supporting the finance and operations team in the Sustainable Business Group. '
