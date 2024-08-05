@@ -1,6 +1,7 @@
 ---
 title: Lisa Stone
 date: 2020-02-10 13:59:00 Z
+published: false
 lastname: 'Stone '
 summary: 'Lisa Stone is an accomplished medical and public health consultant with
   experience in public health policy, planning, and programs for nonprofit and governmental
