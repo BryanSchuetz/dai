@@ -5,7 +5,7 @@ summary: 'The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Wel
   program empowers young Nigerians to think about their futures differently and access
   the skills, social capital, and resources needed to realize their aspirations. '
 start: 2020
-end: 2025
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
