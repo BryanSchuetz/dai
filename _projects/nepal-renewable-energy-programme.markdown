@@ -47,7 +47,7 @@ The expected outcomes are:
 * 28 farmers benefitted from solar irrigation pumps.
 * Reduced carbon emissions by 20,525 tCo2e. 
 * 154,261 people benefitted from clean energy solutions, of which 79,062 are women or belong to marginalized/disadvantaged groups. 
-* Supported the federal, provincial, and local governments in Nepal to enact 50 policies.     
+* Supported the federal, provincial, and local governments in Nepal to adopt 50 policies.     
 * Developed and disseminated over 70 knowledge products.
 
 
