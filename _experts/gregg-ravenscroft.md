@@ -1,6 +1,7 @@
 ---
 title: Gregg Ravenscroft
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Ravenscroft
 summary: Gregg Ravenscroft, DAI's Commercial Director in our Europe office, has a
   track record improving operational capacity and profitability across multiple project
