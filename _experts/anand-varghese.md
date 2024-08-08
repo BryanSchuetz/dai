@@ -7,7 +7,7 @@ summary: 'As Senior Director of DAI’s Center for Digital Acceleration, Anand V
   digital technology into their work and strengthen digital ecosystems around the
   world. '
 job-title: Senior Director, Center for Digital Acceleration
-image: https://assetify-dai.com/experts/anand%20inner.jpg
+image: "/uploads/Anand%20Varghese_Edited.jpg"
 solutions:
 - Governance
 - Digital Acceleration
