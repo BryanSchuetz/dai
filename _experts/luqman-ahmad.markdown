@@ -2,10 +2,10 @@
 title: Luqman Ahmad
 date: 2022-03-14 15:14:00 Z
 lastname: Ahmad
-summary: 'Luqman Ahmad is responsible for DAI''s UK and Sustainable Business Development
+summary: 'Luqman Ahmad is responsible for DAI''s U.K. and Sustainable Business Development
   businesses, focused on achieving development impact for both public and private
   sector clients. '
-job-title: Senior Vice President & Managing Director DAI Global UK
+job-title: 'Senior Vice President and Managing Director, U.K. Business Unit '
 image: "/uploads/Luqman%20-%20Turkiye%20Alumni%20Event,%20May%202023%20(2).png"
 regions:
 - Worldwide
