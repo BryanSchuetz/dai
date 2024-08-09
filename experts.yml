@@ -3,8 +3,9 @@
 
 {% capture newline %}
 {% endcapture %}
- {% for expert in site.experts %}- name: "{{ expert.title | downcase }}"
-   image: "{%- if expert.image contains "uploads" -%}https://www.dai.com{{ expert.image }}{%- else -%}{{ expert.image }}{%- endif -%}"
-   title: "{{ expert.job-title}}"
-   link: "https://www.dai.com{{expert.url}}"
- {% endfor %}
+{% for expert in site.experts %}{% unless expert.published == false %} 
+- name: "{{ expert.title | downcase }}"
+  image: "{%- if expert.image contains "uploads" -%}https://www.dai.com{{ expert.image }}{%- else -%}{{ expert.image }}{%- endif -%}"
+  title: "{{ expert.job-title | replace: ',', " " }}"
+  link: "https://www.dai.com{{expert.url}}"
+{% endunless %}{% endfor %}
