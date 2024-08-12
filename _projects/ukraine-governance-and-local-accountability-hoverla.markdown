@@ -27,15 +27,17 @@ promos:
 
 Ukraine continues along the path of decentralization, but there is an urgent need to secure the gains of the past six years of reform. Stakeholders in Ukraine, including the current administration, understand that the expansion of the institutions of democratic local governance is critical to raising local living standards and reducing out-migration, achieving more balanced regional economic development, improving accountability, and enhancing citizen confidence. 
 
-The Ukraine Governance and Local Accountability (HOVERLA) program builds upon accomplishments from the U.S. Agency for International Development’s previous governance support to complete the necessary legal framework for decentralization and mitigate against backsliding, support the operation of newly consolidated communities, improve services delivered to citizens, and advance citizen engagement at all levels.
+The USAID Governance and Local Accountability (HOVERLA) Activity facilitates the creation of Ukrainian local governance systems and processes that are more self-reliant, accountable to citizens, inclusive, and able to provide services. HOVERLA works with 103 communities in 12 oblasts and collaborates primarily with the Ministry for Restoration to progress and strengthen the decentralization reform. To address the challenges of war, HOVERLA expanded its support to assist partner communities with emergency response, continuation of service delivery, and reconstruction planning.
  
 HOVERLA works to ensure that Ukraine's system of local self-governance is increasingly institutionalized and effective, that subnational governments are more self-reliant, and that citizens can play an increasingly influential role in local governance processes.
+
+HOVERLA fosters citizen participation and engagement in local governance processes in Ukraine. it focuses on raising awareness, developing citizen engagement tools, and building the capacity of civil society organizations to enhance oversight activities. The team works to enhance the economic and financial resilience of communities and build their capacity to exercise the powers envisaged by law. With Ukraine's acquisition of European Union candidate status and its associated obligations, improving the quality and accessibility of municipal services and ensuring their alignment with European standards has become more important.
 
 ![vru_1sept2020_1-1f7e56.jpeg](/uploads/vru_1sept2020_1-1f7e56.jpeg)
 
 ## Sample Activities
 
-* Ensure the content of proposed primary or secondary legislation or amendments is evidence-based, in keeping with European standards, and rationalized within the local legal system and cultural environment. 
+* Ensure the content of proposed primary or secondary legislation or amendments is evidence-based, in keeping with European standards and rationalized within the local legal system and cultural environment. 
 * Support the development of subnational governance action plans.
 * Support effective systems of financial control and external audit of the local level. 
 * Increase local and subnational government capacity to perform budget fiscal and administrative roles.  
