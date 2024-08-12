@@ -43,6 +43,13 @@ HOVERLA works to ensure that Ukraine's system of local self-governance is increa
 
 ## Select Results
 
-* Donated IT equipment to 25 communities and three Oblasts State Administrations of Poltava, Volyn, and Lviv to better respond to the emergency situations and challenges on the ground. HOVERLA partners received laptops, printers, and supplementing pieces of IT equipment, which will be directed to the emergent needs of the local and oblast authorities to provide residents with continued services.
+* Helped develop 32 laws and 71 legislative briefs—including the Law on Administrative and Territorial Structure, Budget Code Amendment, Law on Service in Local Government Bodies, Law on Administrative Procedure, Law on Cross-Border Cooperation, and Draft Law on Amendments to Administrative Procedure—playing a key role in strengthening a self-sufficient and capable local self-governance system.
+* Procured emergency response commodities to bolster the resilience of communities affected by Russia’s aggression and to enhance the capacity of local governments to address war-related needs. The support included 100 backhoe loaders, 672 generators, 136 woodchippers, 25 sets of kitchen equipment and furniture, 65 sets of firefighting pneumatic tools, 650 firefighting uniforms, and 250 multifunctional tents.
+* Supported 106 local governments in developing and implementing local acts, such as asset management, local revenue generation, and establishing firefighting brigades.
+* Facilitated 37 inter-municipal agreements between Ukrainian communities and nine international partnerships with United States and European communities. 
+* Assisted communities in preparing project proposals for the Interreg NEXT Poland-Ukraine 2021-2027 Programme, leading to the approval of seven projects valued at €5.6 million.
+* Built the capacity of 9,851 government officials in key local government functions like development and spatial planning, cross-border cooperation, and administrative procedures.
+* Supported 32 civil society organizations in conducting advocacy initiatives, including participatory budgeting, social services, and inclusive governance.
+* Facilitated hands-on community engagement for youths and youth leaders through various programs such as internships and youth councils.
 * Hosted [historic forum](https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine) with more than 300 participants to set the legislative agenda for 2022. 
 * [Provided fire extinguishers, chainsaws, extension cords, and other tools](https://daiglobal.exposure.co/pivoting-in-war-time) to partner municipalities and the Military Administration in Poltava Oblast, which will help local authorities maintain the civil protection system and serve citizens, including internally displaced people. 
