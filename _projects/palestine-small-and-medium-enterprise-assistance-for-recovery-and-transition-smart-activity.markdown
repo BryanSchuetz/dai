@@ -19,23 +19,25 @@ promos:
   link: https://www.dai.com/news/usaid-launches-private-sector-support-project-in-palestine-with-congressional-leaders-in-attendance
 ---
 
-Palestinian small and medium enterprises (SMEs) have long had to cope with persistent challenges—a local market with limited purchasing power, restrictions on the movement of goods and people, limited access to export markets, and more. The COVID-19 crisis put unanticipated pressure on an already constrained economy. The May 2021 conflict between Israeli forces and Hamas inflicted further damage on the private sector, in Gaza especially. 
+Micro, small, and medium enterprises (MSMEs) are the bedrock of the Palestinian economy, accounting for approximately 96 percent of Palestinian firms in the West Bank, East Jerusalem, and the Gaza Strip. Their resilience to economic shocks and their export capacity are essential to Palestinians’ stability, livelihoods, and futures. 
 
-The [Palestine Small and Medium Enterprise Assistance for Recovery and Transition (SMART)](https://www.smartproject.ps/en) project operates in Gaza as well as the West Bank, offering a combination of immediate financial support for small and medium enterprises (SMEs) and sustainable systemic strengthening. SMART helps Palestinian SMEs and startups rapidly recover from shocks and put them on a path to revitalization, creating job opportunities for a growing—and young—population. 
+However, Palestinian MSMEs and startups have long experienced barriers to growth. These include a local market with limited purchasing power, restrictions on the movement of goods and people, and limited access to export markets, among others. 
+
+The [Small and Medium Enterprise Assistance for Recovery and Transition (SMART)](https://www.smartproject.ps/en) project, funded by the U.S. Agency for International Development (USAID), supports Palestinian MSMEs and startups to regain productivity following economic shocks (the COVID-19 pandemic and, since October 2023, the Gaza war); grow; and expand. Through a package of grants and technical assistance, SMART invests in the Palestinian private sector to improve firms’ competitiveness, create jobs, and promote economic growth. In parallel, the project works with private sector organizations to mitigate policy and institutional constraints to competitiveness and trade. 
 
 ![0A9A5085.JPG](/uploads/0A9A5085.JPG)
 
 ## Sample Activities
 
-* Support interventions that facilitate women and youth’s access to employment opportunities.
-* Build firms’ capacity to produce products and services for specific markets with the quality and adherence to standards those markets demand.
-* Connect firms to buyers and buyer networks abroad.
-* Assist startups and SMEs to adopt modern business practices and attain bankable or investment-ready status.
-* Provide targeted institutional and human capacity support to advance a policy agenda to bolster competitiveness and trade.
+* Support firms to get back to markets, access new local and export markets, increase sales and export revenue, and generate employment opportunities. 
+* Promote the growth of MSMEs that are owned or managed by women, or where women make up at least half the workforce. 
+* Support firms that are well-positioned to enhance their environmental sustainability through the introduction of solar panels, more efficient water systems, or recycling and/or upcycling initiatives, among others. 
+* Support farmers, cooperatives, and MSMEs in the economically distressed northern West Bank to adapt to long-term barriers to growth. 
 
 ## Select Results
 
-* Signed 25 contracts with different suppliers and delivered items to hotels that are part of the Hotel Recovery Program. The first recipient was the Retno Hotel in Ramallah, which received hotel amenities including 15 TVs, 45 phones, 15 mini refrigerators, and 30 orthopedic mattresses. 
-* Allocated $1.8 million to assist 38 Palestinian-owned hotels, creating 1,000 jobs.
-* Allocated $5.7 million to assist private-sector recovery—$3.2 million of which helped 60 small businesses to develop recovery plans. 
-* Supported the Nativity Bells Hotel in Bethlehem to install electronic key card systems as part of the hotel's strategic growth plan (which also includes digital marketing, communications, and equipment procurement).
+* Supported 304 private sector firms and institutions. 
+* Invested $27.7 million in the Palestinian private sector.
+* Helped client firms to increase annual sales by $6.8 million.
+* Helped client firms to reach 45 export markets.
+* Supported firms created 499 new jobs.
