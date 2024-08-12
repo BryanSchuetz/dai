@@ -1,11 +1,11 @@
 ---
 title: Nasser Lama
 date: 2024-08-06 13:23:00 Z
-published: false
 lastname: Lama
 summary: Nasser Lama started his career in Silicon Valley, where he spent the first
   19 years working for public, private, and startup companies in the high-tech industry.
 job-title: Chief of Party, Lebanon Trade and Investment Facilitation (TIF) Activity
+image: "/uploads/Nasser%20Lama%20old.jpg"
 solutions:
 - Economic Growth
 - Trade
