@@ -24,7 +24,7 @@ In 2009, Nasser began working for donor-funded projects focused on economic deve
 
 Before joining the [Trade and Investment Facilitation (TIF) Activity](https://www.dai.com/our-work/projects/lebanon-trade-and-investment-facilitation-tif), Nasser worked for DAI from 2012 to 2020 on the [Industry Value Chain Development (LIVCD)](https://www.dai.com/our-work/projects/lebanon-industry-value-chain-development-livcd) project in Lebanon and on the [Regional Agricultural Development Program (RADP–East)](https://www.dai.com/our-work/projects/regional-agricultural-development-program-radp-east) in Afghanistan.
 
-In his most recent work before joining TIF, Mr. Lama consulted for Lebanese and Jordanian industrial companies to assist them in increasing productivity, revenue, profitability, and sustainability.
+In his most recent work before joining TIF, Nasser consulted for Lebanese and Jordanian industrial companies to assist them in increasing productivity, revenue, profitability, and sustainability.
 
 * B.S., mechanical engineering, University of Houston
 * M.S., mechanical engineering, University of Memphis
