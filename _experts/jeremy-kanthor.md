@@ -9,7 +9,7 @@ job-title: Vice President, Development Innovations
 image: https://assetify-dai.com/experts/KathorInner.jpg
 solutions:
 - Governance
-- Global Health
+- 
 - Fragile States
 - Security and Justice
 regions:
