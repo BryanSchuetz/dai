@@ -26,5 +26,5 @@ Before joining the [Trade and Investment Facilitation (TIF) Activity](https://ww
 
 In his most recent work before joining TIF, Nasser consulted for Lebanese and Jordanian industrial companies to assist them in increasing productivity, revenue, profitability, and sustainability.
 
-* M.S., mechanical engineering, University of Houston
+* B.S., mechanical engineering, University of Houston
 * M.S., mechanical engineering, Memphis State University
