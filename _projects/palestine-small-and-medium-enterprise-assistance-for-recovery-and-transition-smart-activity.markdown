@@ -25,7 +25,7 @@ However, Palestinian MSMEs and startups have long experienced barriers to growth
 
 The [Small and Medium Enterprise Assistance for Recovery and Transition (SMART)](https://www.smartproject.ps/en) project, funded by the U.S. Agency for International Development (USAID), supports Palestinian MSMEs and startups to regain productivity following economic shocks (the COVID-19 pandemic and, since October 2023, the Gaza war); grow; and expand. Through a package of grants and technical assistance, SMART invests in the Palestinian private sector to improve firms’ competitiveness, create jobs, and promote economic growth. In parallel, the project works with private sector organizations to mitigate policy and institutional constraints to competitiveness and trade. 
 
-![0A9A5085.JPG](/uploads/0A9A5085.JPG)
+![Al Hana.jpg](/uploads/Al%20Hana.jpg)
 
 ## Sample Activities
 
