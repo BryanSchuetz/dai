@@ -26,5 +26,5 @@ Before joining the [Trade and Investment Facilitation (TIF) Activity](https://ww
 
 In his most recent work before joining TIF, Mr. Lama consulted for Lebanese and Jordanian industrial companies to assist them in increasing productivity, revenue, profitability, and sustainability.
 
-* B.S., mechanical engineering
-* M.S., mechanical engineering
+* B.S., mechanical engineering, University of Houston
+* M.S., mechanical engineering, University of Memphis
