@@ -4,7 +4,7 @@ date: 2022-02-08 08:16:00 Z
 lastname: Hoxha
 summary: 'Ella Hoxha is a senior development professional with more than 20 years
   of experience managing large-scale donor-funded projects. '
-job-title: Chief of Party, Vietnam Urban Energy Security
+job-title: Chief of Party
 image: "/uploads/Ella%20Hoxha.jpg"
 solutions:
 - Climate
@@ -17,7 +17,7 @@ regions:
 
 Ella Hoxha is a senior development professional with more than 20 years of experience managing large-scale donor-funded projects. Ella has served as the Chief of Party, Deputy Chief of Party, and Team Leader of systems strengthening, service delivery, decentralization, and public administration reform projects in Indonesia, Macedonia, Myanmar, Serbia, Uganda, and Vietnam.
 
-She is the Chief of Party of the U.S. Agency for International Development (USAID) [Vietnam Urban Energy Security](https://www.dai.com/our-work/projects/vietnam-urban-energy-security) activity that focuses on supporting the cities of Ho Chi Min City and Danang to deploy advanced, distributed energy solutions to improve urban energy resilience and energy security.
+She was recently was the Chief of Party of the U.S. Agency for International Development (USAID) [Vietnam Urban Energy Security](https://www.dai.com/our-work/projects/vietnam-urban-energy-security) activity that focuses on supporting the cities of Ho Chi Min City and Danang to deploy advanced, distributed energy solutions to improve urban energy resilience and energy security.
 
 Prior to the Vietnam position, Ella served as the Chief of Party of USAID [Jalin](https://www.dai.com/our-work/projects/indonesia-jalin), a maternal and newborn health project supporting the Government of Indonesia to improve maternal and newborn health outcomes. She managed a team of 75 staff in seven offices across six regions in Indonesia, focusing on innovation, investment mobilization, private sector engagement, and co-creation efforts to achieve an accelerated reduction in maternal and newborn deaths.
 
