@@ -5,11 +5,13 @@ lastname: Toso
 summary: Roberto Toso is a senior economist with more than 25 years of international
   development experience working on financial sector reform, economic policy, public
   financial management, international trade, and competitiveness strategy.
-job-title: 'Team Leader, Lebanon Economic Reform and Infrastructure Investment Programme '
+job-title: Advisor, Governance
 image: https://assetify-dai.com/experts/TosoInner.jpg
 solutions:
 - Governance
 - Public Financial Management
+regions:
+- Worldwide
 articles:
 - name: Philippines Increases Tax Collections by $1.1 Billion Year Over Year—Without
     Raising Rates
