@@ -5,7 +5,7 @@ summary: The Feed the Future Inclusive Agricultural Marketsactivity works to inc
   incomes and improve livelihoods in Uganda by promoting agriculture-led economic
   growth.
 start: 2019
-end: 2024
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
