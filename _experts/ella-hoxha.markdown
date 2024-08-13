@@ -4,7 +4,7 @@ date: 2022-02-08 08:16:00 Z
 lastname: Hoxha
 summary: 'Ella Hoxha is a senior development professional with more than 20 years
   of experience managing large-scale donor-funded projects. '
-job-title: Chief of Party
+job-title: Chief of Party, ASEAN-USAID Partnership Program
 image: "/uploads/Ella%20Hoxha.jpg"
 solutions:
 - Climate
