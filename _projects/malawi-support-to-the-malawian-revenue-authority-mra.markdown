@@ -13,7 +13,7 @@ regions: Sub-Saharan Africa
 country: Malawi
 ---
 
-DAI was awarded the Malawian Revenue Authority (MRA) IrishAid project to help the MRA improve its organizational leadership.  The objectives are to improve change management and provide capacity-building for 21 leaders in the Executive Committee of MRA. The training utilizes in-person and virtual techniques and effective leadership tools such as surveys. Additionally, DAI delivered a follow-on survey for MRA personnel and conducted workshops on the results to accelerate effective and continual change in the organization.
+DAI is supporting the Malawian Revenue Authority (MRA) to improve its organizational leadership. The objectives are to improve change management and provide capacity building for 21 leaders in the Executive Committee of MRA. The training utilizes in-person and virtual techniques and effective leadership tools such as surveys. Additionally, DAI is delivering a follow-on survey for MRA personnel and workshops on the results to accelerate effective and continual change in the organization.
 
 ## Sample Activities
 
