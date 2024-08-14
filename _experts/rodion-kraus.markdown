@@ -1,6 +1,7 @@
 ---
 title: Rodion Kraus
 date: 2017-06-02 12:38:00 Z
+published: false
 lastname: Kraus
 summary: 'Dr. Rodion Kraus is a Senior Technical Adviser for DAI Global Health and
   the Project Director for the Tackling Deadly Diseases in Africa Program (TDDAP),

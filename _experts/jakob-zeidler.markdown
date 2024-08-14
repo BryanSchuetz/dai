@@ -11,10 +11,11 @@ regions:
 sort-order: 0
 ---
 
-Jakob Zeidler joined the distinguished European consultancy Human Dynamics in 2006 and progressively assumed more responsible roles within the company and its Implementation Department, which he led from 2015 through DAI’s [acquisition of Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) in 2019. He was appointed to the leadership of DAI’s combined EU Business Unit in 2020.
+Jakob Zeidler is the Senior Vice President of DAI’s European Union Business Unit and plays a leading role in driving DAI’s achievements within the EU. Based in Vienna, he oversees over 100 staff across DAI’s corporate offices in Austria, Belgium, Bulgaria, Serbia, Türkiye, and the United Kingdom.
 
-Jakob was drawn to Human Dynamics’ work on public administration reform in the Western Balkans, a topic he was researching in Serbia through a university exchange programme. Following a short stint in business development, he joined the Implementation Department in 2007 and managed numerous projects in the areas of public administration reform, local development, and agriculture, working in Africa, the Middle East, and Eastern Europe. As Head of Department, he and his team of project directors were responsible for, among others, several of the European Commission’s flagship projects in the area of climate change in the Middle East and North Africa region, local development in Pakistan, security in West Africa/ECOWAS, and financial sector reform in Ukraine. 
+Jakob’s interest in international development stems from his academic research in public administration reform in the Western Balkans.  He joined the renowned European consultancy, Human Dynamics, in 2006 and steadily took on more significant roles within the company and its Implementation Department, which he led from 2015 until DAI acquired Human Dynamics in 2019.
+As the Department Head, he managed various projects throughout Africa, the Middle East, Eastern Europe, Western Balkans, and Türkiye. He directed several key European Commission projects, such as initiatives addressing climate change in the Middle East and North Africa region, community development work in Pakistan, and efforts aimed at restructuring the financial sector in Ukraine.
 
-As Senior Vice President of DAI’s European Union business, Jakob leads the business unit’s integration, growth, and diversification. Based in Vienna, Jakob oversees roughly 100 staff in DAI’s corporate offices in Austria, Belgium, Bulgaria, Germany, Serbia, Türkiye, and the United Kingdom. 
+Since taking charge of DAI's EU Business Unit in 2020, he has positioned DAI as a top implementer of service contracts in the EU external aid market.
 
-* M.S., international relations, University of Vienna
+* M.S., International Relations, University of Vienna.

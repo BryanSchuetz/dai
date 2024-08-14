@@ -1,11 +1,11 @@
 ---
 title: Nasser Lama
 date: 2024-08-06 13:23:00 Z
-published: false
 lastname: Lama
 summary: Nasser Lama started his career in Silicon Valley, where he spent the first
   19 years working for public, private, and startup companies in the high-tech industry.
 job-title: Chief of Party, Lebanon Trade and Investment Facilitation (TIF) Activity
+image: "/uploads/Nasser%20Lama%20old.jpg"
 solutions:
 - Economic Growth
 - Trade
@@ -24,7 +24,7 @@ In 2009, Nasser began working for donor-funded projects focused on economic deve
 
 Before joining the [Trade and Investment Facilitation (TIF) Activity](https://www.dai.com/our-work/projects/lebanon-trade-and-investment-facilitation-tif), Nasser worked for DAI from 2012 to 2020 on the [Industry Value Chain Development (LIVCD)](https://www.dai.com/our-work/projects/lebanon-industry-value-chain-development-livcd) project in Lebanon and on the [Regional Agricultural Development Program (RADP–East)](https://www.dai.com/our-work/projects/regional-agricultural-development-program-radp-east) in Afghanistan.
 
-In his most recent work before joining TIF, Mr. Lama consulted for Lebanese and Jordanian industrial companies to assist them in increasing productivity, revenue, profitability, and sustainability.
+In his most recent work before joining TIF, Nasser consulted for Lebanese and Jordanian industrial companies to assist them in increasing productivity, revenue, profitability, and sustainability.
 
-* B.S., mechanical engineering
-* M.S., mechanical engineering
+* B.S., mechanical engineering, University of Houston
+* M.S., mechanical engineering, Memphis State University

@@ -1,6 +1,7 @@
 ---
 title: Fatima Adamu
 date: 2017-06-02 11:49:00 Z
+published: false
 lastname: Adamu
 summary: 'Fatima Adamu is a sociologist by training with particular expertise in gender,
   poverty, and equity issues in northern Nigeria. '
