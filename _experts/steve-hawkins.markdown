@@ -1,10 +1,10 @@
 ---
 title: Steve Hawkins
-date: 2024-08-14 13:28:00 Z
+date: 2024-08-14 12:28:00 Z
 lastname: Hawkins
 summary: 'Steve Hawkins is a health program management and systems strengthening expert
   with particular strength in supply chain management. '
-job-title: Senior Supply Chain Advisor
+job-title: Senior Supply Chain Advisor, Global Health
 image: "/uploads/Steve%20Hawkins.png"
 solutions:
 - Global Health
