@@ -30,13 +30,13 @@ Our work is integrated into local systems and informed by political economy anal
 
 ## Sample Activities
 
-* Build capacity within the Studies and Economic Policies Directorate to better utilize their revenue impact model to inform adaptations and fiscal responses to the COVID-19 crisis and deepen economic policy analysis capabilities overall.
-* Streamline the budget management process.
-* Undertake select tax studies focused on tax base broadening and revenue mobilization impact.
-* Develop and implement an electronic revenue management system.
-* Strengthen the preparation of results-oriented budgets.
-* Strengthen audit processes and procedures. 
-* Work with Jordanian Border Control Agencies to develop and implement a coordinated border management plan that will integrate trade requirements with Jordan Customs.
+* Build capacity within the Studies and Economic Policies Directorate to enhance the use of their revenue impact model for informing adaptations and fiscal responses to the COVID-19 crisis, while also advancing overall economic policy analysis capabilities.
+* Streamline the budget management process to improve efficiency and effectiveness in budget planning and execution.
+* Undertake select tax studies aimed at broadening the tax base and evaluating the impact of revenue mobilization strategies.
+* Develop and implement an electronic revenue management system to modernize and optimize revenue collection and administration.
+* Strengthen the preparation of results-oriented budgets to ensure budgets are focused on achieving measurable outcomes and delivering tangible results.
+* Enhance audit processes and procedures to improve accuracy, transparency, and compliance in auditing practices.
+* Collaborate with Jordanian Border Control Agencies to create and execute a coordinated border management plan that integrates trade requirements with Jordan Customs.
 
 ## Select Results
 
