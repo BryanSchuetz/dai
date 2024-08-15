@@ -1,6 +1,7 @@
 ---
 title: DAI’s Dan Rathbun Finds Inspiration in Vietnam’s Next Generation of Entrepreneurs
 date: 2012-11-29 18:05:00 Z
+published: false
 summary: 'For nearly four years, DAI''s Dan Rathbun, a team leader in Vietnam, has
   donated his time and resources to local chapters of an international organization
   that promotes student entrepreneurship. This year, DAI is happy to contribute $5,000
@@ -14,7 +15,6 @@ regions:
 projects: 
 clients: 
 layout: node
-published: false
 ---
 
 For nearly four years, DAI's Dan Rathbun, a team leader in Vietnam, has donated his time and resources to local chapters of an international organization that promotes student entrepreneurship. This year, DAI is happy to contribute $5,000 to support his efforts.
