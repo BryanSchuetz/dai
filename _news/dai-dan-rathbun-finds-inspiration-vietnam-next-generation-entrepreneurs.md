@@ -14,6 +14,7 @@ regions:
 projects: 
 clients: 
 layout: node
+published: false
 ---
 
 For nearly four years, DAI's Dan Rathbun, a team leader in Vietnam, has donated his time and resources to local chapters of an international organization that promotes student entrepreneurship. This year, DAI is happy to contribute $5,000 to support his efforts.
