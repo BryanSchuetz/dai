@@ -1,6 +1,7 @@
 ---
 title: DAI Honors Vietnam Business Leader and Project Partner
 date: 2013-10-15 18:05:00 Z
+published: false
 summary: 'Dau Anh Tuan of the Vietnam Chamber of Commerce and Industry (VCCI) won
   a Development Leadership Award from DAI for his "exemplary leadership in making
   Vietnam a stronger economy and society for businesses and the Vietnamese people."
@@ -13,7 +14,6 @@ regions:
 projects: 
 clients: 
 layout: node
-published: false
 ---
 
 Dau Anh Tuan of the Vietnam Chamber of Commerce and Industry (VCCI) won a Development Leadership Award from DAI for his "exemplary leadership in making Vietnam a stronger economy and society for businesses and the Vietnamese people."
