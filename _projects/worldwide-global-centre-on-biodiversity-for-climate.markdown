@@ -39,3 +39,20 @@ The GCBC has successfully delivered Research Grant Competition (RGC) 1 and manag
 * Published an online [Evidence Synthesis Report](https://www.gcbc.org.uk/wp-content/uploads/2023/12/03-DAI103_Evidence-Synthesis-Report_161123_H_01.pdf) and [Research Strategy](https://www.gcbc.org.uk/wp-content/uploads/2024/02/GCBC-Research-Strategy-Final.pdf).
 * Ran two symposium events to promote outputs and share ideas. 
 
+### Research Grant Competition 1 Projects:
+1. Bangor University: Enhancing pasture biodiversity and productivity in Kenya's highlands to reduce greenhouse gas emissions.
+2. Bioversity International: Realizing the potential of plant bioresources as nature-based solutions in African biodiversity hotspots (TIPAS project).
+3. Birdlife International: Strengthening management of Key Biodiversity Areas in Ecuador to improve ecosystem resilience and livelihoods.
+4. CIASE: Integrating indigenous knowledge and biodiversity conservation to improve living conditions in the Gran Tescual Indigenous Reservation.
+5. The International Centre for Research in Agroforestry: Improving Ethiopian highland systems through multifunctional agroforestry for better biodiversity and livelihoods.
+6. The International Institute for Environment and Development (IIED): Enhancing agrobiodiversity and climate resilience with smallholder farmers in Indonesia, the Philippines, and Tanzania.
+7. International Potato Centre (CIP): Bolstering Andean agriculture resilience through traditional crop diversity and genebank resources.
+8. Nature Kenya: Enhancing biodiversity and climate resilience in the Cherangani forest through sustainable resource management.
+9. Royal Botanic Gardens, Kew: Transforming Madagascar's grasslands into valuable ecological assets to support biodiversity and carbon sequestration.
+10. Scottish Association for Marine Science (SAMS): Promoting sustainable seaweed cultivation to restore ocean biodiversity and support smallholder farmers.
+11. University of Birmingham: Strengthening adaptive governance of inland fisheries in Malawi and Uganda to improve biodiversity and ecosystem resilience.
+12. University of Durham: Using advanced technologies to map and monitor mangrove health for coastal protection in Suriname and Guyana.
+13. University of Oxford: Promoting agroforestry and reforestation to enhance livelihoods and biodiversity in tropical forests.
+14. The Wildfowl and Wetlands Trust: Developing community-based solutions to combat wetland degradation and climate change in Madagascar.
+
+
