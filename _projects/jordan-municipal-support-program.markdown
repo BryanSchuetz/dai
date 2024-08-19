@@ -29,10 +29,16 @@ Municipalities in each cluster collaborate with one another, with other Jordania
 
 ## Sample Activities
 
-* Facilitate multi-stakeholder dialogue that highlights new voices—including unemployed youth, female home-based business owners, people with disabilities, and local environmental civil society organizations—in municipal planning.
-* Introduce a Municipal Performance and Investment Readiness tool to measure municipal service delivery performance and capacity to attract private investment. 
+* Provide support to improve the legal environment for better service delivery and investment by reforming laws, bylaws, and other Government of Jordan legislation, including a draft of a new Municipal Financial Bylaw. 
+* Train municipal staff to utilize a new municipal Financial Management Information System to standardize and improve financial management processes across Jordan.
+* Strengthen the Ministry of Local Administration, including the digitalization of municipal zoning maps and business process reengineering. 
+* Revitalize local economies through establishing local markets, beautification of streets, and renovating bus stations in various municipalities.
+* Build the capacity of geographic information system units at municipalities.
+* Establish regional vehicle fleet maintenance centers.
+* Upgrade municipal solid waste management, and recycling facilities and introduce waste separation at source.
+* Lower sector operational costs by enhancing municipal energy efficiency and renewable energy used by municipal buildings.
 * Support municipal clusters to establish strong plans and mechanisms for coordinated climate resilience and emergency response. 
-* Develop an action plan for implementing International Public Sector Accounting Standards and strengthening financial reporting. 
+* Support municipalities to attract investment through better planning and procurement, incentivize the private sector, and diversify financing mechanisms including public-private partnerships and Islamic Sukuk. 
 
 ## Select Results
 
