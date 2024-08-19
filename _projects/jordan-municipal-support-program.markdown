@@ -1,9 +1,9 @@
 ---
 title: Jordan—Municipal Support Program (MSP)
 date: 2022-08-25 13:48:00 Z
-summary: The Jordan Municipal Support Program improves local government service delivery,
-  stimulates local economic development, and thereby strengthens the social contract
-  in the Kingdom.
+summary: The USAID Jordan Municipal Support Program improves local government service
+  delivery, stimulates local economic development, and thereby strengthens the social
+  contract in the Kingdom.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
@@ -42,5 +42,10 @@ Municipalities in each cluster collaborate with one another, with other Jordania
 
 ## Select Results
 
-* With a regional weather firm, put in place a national early warning system to mitigate the impact of weather-related disasters, with a focus on flooding. 
+* Advanced legal and policy reform for the municipal sector by drafting and amending laws and bylaws governing municipal financial management, building and property taxation, and land use.  
+* With a regional weather technology firm, launched a national early warning system to mitigate the impact of weather-related disasters, with a focus on flooding. 
 * Opened the Rayaheen Al Jannah Daycare in Greater Ma’an Municipality to address needs identified by a gender audit. It is the first in Jordan to be managed and operated by municipal staff and is part of an initiative to provide childcare to working families. 
+* Established a new weekly market in collaboration between Karak municipality, the Ministry of Tourism and Antiquities, the Ministry of Culture, and a local nongovernmental group. Attracting thousands of visitors, the market showcases Karak’s cultural heritage while providing a dynamic new platform for small businesses and artisans in Karak to reach new customers.  
+* Upgraded the substation of Ma'an Vocational City, enabling Greater Ma’an Municipality to lease previously unpowered plots, generate rental income, and mitigate environmental impacts. 
+* In cooperation with the Ministry of Local Administration, introduced Municipal Investment Guidelines that provide a clear legal framework and comprehensive procedures for local-level PPPs and other investment instruments, helping municipalities more effectively pursue investment.  
+* Conducted energy audits for 11 partner municipalities and, based on the findings, provided technical assistance and material support including solar water heaters and more energy-efficient air conditioning units to reduce the municipalities’ carbon footprint and energy expenditures.  
