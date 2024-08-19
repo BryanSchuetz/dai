@@ -3,9 +3,8 @@ title: Worldwide—Global Centre on Biodiversity for Climate
 date: 2023-04-27 09:39:00 Z
 summary: GCBC exists to generate robust new evidence and knowledge on the conservation
   and sustainable use of biodiversity that demonstrates the interconnectedness of
-  biodiversity, climate, and people, and which enables an understanding of policies,
-  programmes and practices which have positive impacts for climate change and poverty
-  reduction.
+  biodiversity, climate, and people and enables an understanding of policies, programs,
+  and practices that have positive impacts on climate change and poverty reduction.
 start: 2023
 end: 2025
 client: 'UK Department for Environment, Food and Rural Affairs (DEFRA) '
@@ -17,7 +16,9 @@ regions: Worldwide
 
 The Global Centre on Biodiversity for Climate ([GCBC](https://www.gcbc.org.uk/about-the-global-centre-on-biodiversity-for-climate/)) funds research into natural solutions to climate change and poverty. By working in partnership with a global network of scientists, academics, and research institutions, the GCBC seeks to develop scalable approaches to the conservation and sustainable use of biodiversity that deliver climate resilience and improve livelihoods. 
 
-The program is focused on a systems approach to understanding nature, climate, and people as one system; and a theory of transformative change using evidence (at an individual project level and synthesized at a program level) from funded projects. The program is focused on a systems approach to understanding nature, climate, and people as one system; and a theory of transformative change using evidence (at an individual project level and synthesized at a program level) from funded projects. The ultimate ambition for the project is to uncover locally driven solutions to protecting and utilizing biodiversity that can be publicized throughout the scientific community and by wider adoption by national governments to play a significant part in the world’s efforts to avert catastrophic climate change. The  GCBC is funded by the UK’s Department for Environment, Food and Rural Affairs ([Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)), working in partnership with DAI as the Fund Management Lead (FML) and the [Royal Botanic Gardens, Kew](https://www.kew.org/), as the Strategic Science Lead (SSL).
+The program is focused on a systems approach to understanding nature, climate, and people as one system; and a theory of transformative change using evidence (at an individual project level and synthesized at a program level) from funded projects. The ultimate ambition for the project is to uncover locally driven solutions to protecting and utilizing biodiversity that can be publicized throughout the scientific community and by wider adoption by national governments to play a significant part in the world’s efforts to avert catastrophic climate change. 
+
+The GCBC is funded by the UK’s Department for Environment, Food and Rural Affairs ([Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)), working in partnership with DAI as the Fund Management Lead (FML) and the [Royal Botanic Gardens, Kew](https://www.kew.org/), as the Strategic Science Lead (SSL).
 
 The GCBC has successfully delivered Research Grant Competition (RGC) 1 and manages 14 research projects worldwide. RGC 2 is nearing completion and will likely deliver a similar number of additional research projects starting in late 2024. 
 
