@@ -15,15 +15,27 @@ solutions:
 regions: Worldwide
 ---
 
-The Global Centre on Biodiversity for Climate (GCBC) is an international research centre that supports the development and uptake of effective solutions for conserving, managing, and using biodiversity to address the impacts of climate change.
+The Global Centre on Biodiversity for Climate ([GCBC](https://www.gcbc.org.uk/about-the-global-centre-on-biodiversity-for-climate/)) funds research into natural solutions to climate change and poverty. By working in partnership with a global network of scientists, academics, and research institutions, the GCBC seeks to develop scalable approaches to the conservation and sustainable use of biodiversity that deliver climate resilience and improve livelihoods. 
 
-GCBC works with partners to deliver research that supports evidence-based policy and practice in conserving, managing, and using biodiversity to tackle climate change.
+The program is focused on a systems approach to understanding nature, climate, and people as one system; and a theory of transformative change using evidence (at an individual project level and synthesized at a program level) from funded projects. The program is focused on a systems approach to understanding nature, climate, and people as one system; and a theory of transformative change using evidence (at an individual project level and synthesized at a program level) from funded projects. The ultimate ambition for the project is to uncover locally driven solutions to protecting and utilizing biodiversity that can be publicized throughout the scientific community and by wider adoption by national governments to play a significant part in the world’s efforts to avert catastrophic climate change. The  GCBC is funded by the UK’s Department for Environment, Food and Rural Affairs ([Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)), working in partnership with DAI as the Fund Management Lead (FML) and the [Royal Botanic Gardens, Kew](https://www.kew.org/), as the Strategic Science Lead (SSL).
 
-GCBC will establish a global network of research institutions, experts and people to tackle critical research gaps in how the conservation and sustainable use of biodiversity can deliver climate adaptation and mitigation, and improve livelihoods. The Centre is a grant making entity aiming to fund research, evidence, networks, communication, and evidence into how sustainable use of biodiversity can help tackle climate change and poverty.
+The GCBC has successfully delivered Research Grant Competition (RGC) 1 and manages 14 research projects worldwide. RGC 2 is nearing completion and will likely deliver a similar number of additional research projects starting in late 2024. 
 
 ![alenka-skvarc-hUl4BrFKJEo-unsplash.jpg](/uploads/alenka-skvarc-hUl4BrFKJEo-unsplash.jpg)
 
 ###  Sample Activities
 
-* Deliver research grants to institutions, universities and think tanks in the Global South to fill biodiversity research gaps 
-* Disseminate evidence and research to support biodiversity programs and policy
+* Working in partnership with GCBC’s SSL to develop and implement GCBC’s program strategy. 
+* Designing and implementing research grant competitions. 
+* Maintaining regular communication with grantees and competition applicants, responding to questions, and providing advice.
+* Managing funded projects, reporting progress and providing technical support where required.
+* Conducting monitoring and evaluation activities and supporting knowledge sharing.
+
+### Select Results
+* Implemented RGC1 Competition, including the creation of an assessment process (eligibility, technical, commercial), and delivery of five webinars at the application stage. Awarded grants to 14 RGC1 projects. 
+* Refined the RGC1 design into a two-stage process for the second grants competition ([RGC2](https://www.gcbc.org.uk/wp-content/uploads/2024/02/GCBC_RGC2ThemePaper.pdf)), including designing capacity-strengthening initiatives to support Grantees. Project awards were made in August 2024.
+* Developed processes to support grantees and guidance, including a Grant Management Manual
+* Delivered four webinars to RGC1 Grantees on communications, finance, MEL reporting, and forecasting.
+* Published an online [Evidence Synthesis Report](https://www.gcbc.org.uk/wp-content/uploads/2023/12/03-DAI103_Evidence-Synthesis-Report_161123_H_01.pdf) and [Research Strategy](https://www.gcbc.org.uk/wp-content/uploads/2024/02/GCBC-Research-Strategy-Final.pdf).
+* Ran two symposium events to promote outputs and share ideas. 
+
