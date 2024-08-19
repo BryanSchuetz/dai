@@ -1,5 +1,5 @@
 ---
-title: Jordan—Municipal Support Program
+title: Jordan—Municipal Support Program (MSP)
 date: 2022-08-25 13:48:00 Z
 summary: The Jordan Municipal Support Program improves local government service delivery,
   stimulates local economic development, and thereby strengthens the social contract
@@ -19,11 +19,11 @@ The COVID-19 pandemic exacerbated already precarious economic and governance con
 
 Mayors and municipal councilors, as the face of government accountability and public spending, assume outsized responsibility for government performance. However, with limited authority, these officials are not empowered to make decisions and set funding priorities. Many municipalities have the basic building blocks needed to strengthen services and pursue local economic development but lack the organizational culture required to apply them effectively. Recognizing that municipalities should serve as convenors, enablers, and facilitators of local economic development, mayors and municipal councilors must partner with the private sector and remove bureaucratic obstacles to investment, job creation, and local economic growth. Municipalities must capitalize on their existing assets in partnership with the private sector, while also delivering more efficient services that are responsive to community needs.  
 
-The Jordan Municipal Support Program works to improve local government service delivery, stimulate local economic development, and thereby strengthen the social contract in the Kingdom.
- 
-The project assists municipal “clusters”—in which multiple municipalities share tools and resources—to better serve their communities by delivering visibly improved services and infrastructure. Municipalities in each cluster collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth.
+The USAID Municipal Support Program (MSP) works with municipalities across the Kingdom of Jordan to strengthen local administration and service delivery, increase capital investment, and pursue local economic development.  
 
-The project facilitates the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment. Successful service improvements and investments will build momentum for sustained individual and organizational transformation, sparking replication of successful tools and approaches that build community resilience and foster a culture of municipal excellence that embraces private enterprise and pursues local economic growth.
+MSP assists individual municipalities while simultaneously implementing systemwide interventions that aim to transform the way municipalities do business—from financial management to climate mitigation and adaptation to private sector engagement. MSP supports municipal “clusters,” in which multiple municipalities share tools and resources to better serve their communities by utilizing improved systems and delivering visibly enhanced services and infrastructure. 
+
+Municipalities in each cluster collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth. The project also facilitates the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment in municipalities.  
 
 ![Jordan-248fc2.jpg](/uploads/Jordan-248fc2.jpg)
 
