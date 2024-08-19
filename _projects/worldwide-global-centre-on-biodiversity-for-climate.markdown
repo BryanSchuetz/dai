@@ -40,19 +40,17 @@ The GCBC has successfully delivered Research Grant Competition (RGC) 1 and manag
 * Ran two symposium events to promote outputs and share ideas. 
 
 ### Research Grant Competition 1 Projects:
-1. Bangor University: Enhancing pasture biodiversity and productivity in Kenya's highlands to reduce greenhouse gas emissions.
-2. Bioversity International: Realizing the potential of plant bioresources as nature-based solutions in African biodiversity hotspots (TIPAS project).
-3. Birdlife International: Strengthening management of Key Biodiversity Areas in Ecuador to improve ecosystem resilience and livelihoods.
-4. CIASE: Integrating indigenous knowledge and biodiversity conservation to improve living conditions in the Gran Tescual Indigenous Reservation.
-5. The International Centre for Research in Agroforestry: Improving Ethiopian highland systems through multifunctional agroforestry for better biodiversity and livelihoods.
-6. The International Institute for Environment and Development (IIED): Enhancing agrobiodiversity and climate resilience with smallholder farmers in Indonesia, the Philippines, and Tanzania.
-7. International Potato Centre (CIP): Bolstering Andean agriculture resilience through traditional crop diversity and genebank resources.
-8. Nature Kenya: Enhancing biodiversity and climate resilience in the Cherangani forest through sustainable resource management.
-9. Royal Botanic Gardens, Kew: Transforming Madagascar's grasslands into valuable ecological assets to support biodiversity and carbon sequestration.
-10. Scottish Association for Marine Science (SAMS): Promoting sustainable seaweed cultivation to restore ocean biodiversity and support smallholder farmers.
-11. University of Birmingham: Strengthening adaptive governance of inland fisheries in Malawi and Uganda to improve biodiversity and ecosystem resilience.
-12. University of Durham: Using advanced technologies to map and monitor mangrove health for coastal protection in Suriname and Guyana.
-13. University of Oxford: Promoting agroforestry and reforestation to enhance livelihoods and biodiversity in tropical forests.
-14. The Wildfowl and Wetlands Trust: Developing community-based solutions to combat wetland degradation and climate change in Madagascar.
-
-
+1. [Bangor University](https://www.gcbc.org.uk/project/habitat-harnessing-pasture-biodiversity-and-productivity/): Enhancing pasture biodiversity and productivity in Kenya's highlands to reduce greenhouse gas emissions.
+2. [Bioversity International](https://www.gcbc.org.uk/project/realising-the-potential-of-plant-bioresources-as-nature-based-solutions-in-african-biodiversity-hotspots-tipas-project/): Realizing the potential of plant bioresources as nature-based solutions in African biodiversity hotspots (TIPAS project).
+3. [Birdlife International](https://www.gcbc.org.uk/project/ecosystem-services-under-climate-change-for-kbas/): Strengthening management of Key Biodiversity Areas in Ecuador to improve ecosystem resilience and livelihoods.
+4. [CIASE](https://www.gcbc.org.uk/project/gran-tescual-indigenous-reservation-climate-plan/): Integrating indigenous knowledge and biodiversity conservation to improve living conditions in the Gran Tescual Indigenous Reservation.
+5. [The International Centre for Research in Agroforestry](https://www.gcbc.org.uk/project/multifunctional-agroforestry-for-ethiopia/): Improving Ethiopian highland systems through multifunctional agroforestry for better biodiversity and livelihoods.
+6. [The International Institute for Environment and Development (IIED)](https://www.gcbc.org.uk/project/nature-nurture/): Enhancing agrobiodiversity and climate resilience with smallholder farmers in Indonesia, the Philippines, and Tanzania.
+7. [International Potato Centre (CIP)](https://www.gcbc.org.uk/project/gran-tescual-indigenous-reservation-climate-plan/): Bolstering Andean agriculture resilience through traditional crop diversity and genebank resources.
+8. [Nature Kenya](https://www.gcbc.org.uk/project/understanding-cherangany-links-to-human-wellbeing/): Enhancing biodiversity and climate resilience in the Cherangani forest through sustainable resource management.
+9. [Royal Botanic Gardens, Kew](https://www.gcbc.org.uk/project/resource-management-of-madagascars-grasslands/): Transforming Madagascar's grasslands into valuable ecological assets to support biodiversity and carbon sequestration.
+10. [Scottish Association for Marine Science (SAMS)](https://www.gcbc.org.uk/project/globalseaweed-supporting-livelihoods-by-protecting-enhancing-and-restoring-biodiversity-by-securing-the-future-of-the-seaweed-aquaculture-industry-in-developing-countries-superstar/): Promoting sustainable seaweed cultivation to restore ocean biodiversity and support smallholder farmers.
+11. [University of Birmingham](https://www.gcbc.org.uk/project/building-adaptive-fisheries-governance-capacity/): Strengthening adaptive governance of inland fisheries in Malawi and Uganda to improve biodiversity and ecosystem resilience.
+12. [University of Durham](https://www.gcbc.org.uk/project/enhances-enhancing-coastal-ecosystem-services/): Using advanced technologies to map and monitor mangrove health for coastal protection in Suriname and Guyana.
+13. [University of Oxford](https://www.gcbc.org.uk/project/the-flourishing-landscapes-programme/): Promoting agroforestry and reforestation to enhance livelihoods and biodiversity in tropical forests.
+14. [The Wildfowl and Wetlands Trust](https://www.gcbc.org.uk/project/following-the-water/): Developing community-based solutions to combat wetland degradation and climate change in Madagascar.
