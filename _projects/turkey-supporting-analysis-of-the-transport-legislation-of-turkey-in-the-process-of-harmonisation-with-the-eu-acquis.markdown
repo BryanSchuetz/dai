@@ -5,7 +5,7 @@ date: 2021-07-26 16:20:00 Z
 summary: 'DAI is working to improve the legislative and institutional capacities of
   Türkiye to facilitate the Acquis alignment process in the field of transport. '
 start: 2021
-end: 2023
+end: 2024
 client: European Union
 solutions:
 - Economic Growth
