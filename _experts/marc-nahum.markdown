@@ -1,7 +1,6 @@
 ---
 title: Marc Nahum
 date: 2024-02-01 12:21:00 Z
-published: false
 lastname: Nahum
 summary: Marc Nahum is a private equity professional with more than 25 years of experience
   in fundraising, business development, investor relations, and investment banking.
