@@ -1,6 +1,7 @@
 ---
 title: Tate Crowards
 date: 2020-06-02 09:51:00 Z
+published: false
 lastname: Crowards
 summary: Tate Crowards is an economist leading numerous development projects globally
   focused on local content policy, supplier and workforce development, and sustainable
