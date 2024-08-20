@@ -25,7 +25,7 @@ MSP assists individual municipalities while simultaneously implementing systemwi
 
 Municipalities in each cluster collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth. The project also facilitates the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment in municipalities.  
 
-![Jordan-248fc2.jpg](/uploads/Jordan-248fc2.jpg)
+![MSP-c4e90b.jpg](/uploads/MSP-c4e90b.jpg)
 
 ## Sample Activities
 
