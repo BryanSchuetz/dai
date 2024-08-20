@@ -1,6 +1,7 @@
 ---
 title: Patrick Cleary
 date: 2021-04-14 10:41:00 Z
+published: false
 lastname: Cleary
 summary: Patrick Cleary brings to DAI 18 years of principal investment experience
   across the emerging markets, having held senior positions in developing, deploying,
