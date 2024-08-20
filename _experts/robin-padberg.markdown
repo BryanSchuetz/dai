@@ -5,7 +5,7 @@ lastname: Padberg
 summary: 'With more than 20 years of international management experience, Robin Padberg
   has a blend of private sector and development expertise. '
 job-title: Chief of Party, USAID Southern Africa Mobilizing Investment Project
-image: "/uploads/robin%20padberg.jpg"
+image: "/uploads/Robin%20Padberg-557854.jpg"
 solutions:
 - Economic Growth
 - Business Environment Reform
