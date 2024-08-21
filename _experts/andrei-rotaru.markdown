@@ -14,7 +14,7 @@ regions:
 
 Andrei Rotaru brings to DAI 17 years of principal investment experience across global private markets, having completed more than 60 investments in excess of $5.5 billion. He started his career as a banker with Societe Generale.
 
-Andrei spent 10 years at the IFC Asset Management Company (AMC), a subsidiary of the World Bank Group. Andrei was a principal in both the Global Infrastructure Fund and the Global Capitalization Funds, leading investments in renewable energy, infrastructure, and financial services across Africa, Latin America, and the Middle East.
+Andrei spent 10 years at the IFC Asset Management Company, a subsidiary of the World Bank Group. Andrei was a principal in both the Global Infrastructure Fund and the Global Capitalization Funds, leading investments in renewable energy, infrastructure, and financial services across Africa, Latin America, and the Middle East.
 
 Prior to joining DAI, Andrei was Head of Global Directs and Co-investments, Infrastructure, and Natural Resources, with Abu Dhabi Investment Council, one of the leading sovereign funds in the Gulf Cooperation Council.
 
