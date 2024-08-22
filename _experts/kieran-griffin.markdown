@@ -5,7 +5,7 @@ lastname: Griffin
 summary: Kieran brings over a decade of experience at DAI, where he leads high-performing
   proposal and project teams in dynamic environments.
 job-title: Principal Manager, Conflict, Stabilization, and Peacebuilding
-image: "/uploads/kieran%20griffin.jpg"
+image: "/uploads/Griffin,%20Kieran%202.jpg"
 solutions:
 - Stabilization
 - Peace-Building and Political Transition
