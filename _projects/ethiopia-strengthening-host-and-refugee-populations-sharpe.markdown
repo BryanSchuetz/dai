@@ -74,10 +74,13 @@ The SHARPE program has entered its final year, shifting from developing new busi
 
 **Business Development and Support:** 
 * Facilitate the creation and growth of refugee and host-owned micro-businesses, including poultry farming, goat trading, and small-scale retail operations, by providing financial support, training, and market linkages.
+
 **Capacity Building:** 
 * Support specialized training and technical assistance to refugees and host communities, helping them acquire skills in areas such as poultry farming, livestock management, and financial literacy, which are crucial for sustaining their businesses.
+
 **Market Access and Integration:** 
 * Integrate refugees into local and regional markets by connecting them with established businesses, improving access to essential resources such as animal feed, seeds, and veterinary supplies, and promoting inclusive market practices.
+
 **Financial Inclusion:** 
 *Partner with financial institutions to expand access to digital financial services and business loans for refugees, enabling them to secure the capital needed to start and grow their enterprises.
 
