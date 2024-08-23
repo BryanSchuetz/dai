@@ -18,8 +18,18 @@ promos:
 - title: Health Equity for Women and Girls Requires Cultural Change, Participation,
     and Local Influencers
   link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
-- title: 'CASE STUDY: Partnerships for Better Family Planning Access'
-  link: "/uploads/YPE4AH_CaseStudy-5b02ef.pdf"
+- title: Combined Factsheet
+  link: "/uploads/YPE4AH%20Combined%20Factsheet.pdf"
+- title: Dissemination Report
+  link: "/uploads/YPE4AH%20Dissemination%20Report.pdf"
+- title: Kano Factsheet
+  link: "/uploads/Final%20Kano%20Factsheet.pdf"
+- title: Lagos Factsheet
+  link: "/uploads/Final%20Lagos%20Factsheet-95a09d.pdf"
+- title: Lagos Sustainability Plan
+  link: "/uploads/Lagos%20YPE4AH%20Sustainability%20Plan%202024.pdf"
+- title: Kano Sustainability Plan
+  link: "/uploads/Kano%20YPE4AH%20Sustainability%20Plan%202024.pdf"
 ---
 
 In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
