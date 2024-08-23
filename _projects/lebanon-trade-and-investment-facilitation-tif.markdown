@@ -18,11 +18,11 @@ promos:
 - title: USAID Launches the Trade and Investment Facilitation Project to Enhance Economic
     Opportunities in Targeted Business Sectors in Lebanon
   link: https://executive-bulletin.com/slider/usaid-launches-the-trade-and-investment-facilitation-tif-project-to-enhance-economic-opportunities-in-targeted-business-sectors-in-lebanon
-- title: Follow the Trade and Investment Facilitation Project on Facebook
+- title: Follow TIF on Facebook
   link: https://www.facebook.com/TIFleb/
-- title: Follow the Trade and Investment Facilitation Project on LinkedIn
+- title: Follow TIF on LinkedIn
   link: https://www.linkedin.com/company/trade-and-investment-facilitation-project/
-- title: Follow the Trade and Investment Facilitation Project on Instagram
+- title: Follow TIF on Instagram
   link: https://www.instagram.com/tifleb/
 - title: Call for Partnerships
   link: https://fs24.formsite.com/llSOui/mfuzthif1z/index.html
@@ -50,4 +50,14 @@ TIF focuses on the agrofood processing, manufacturing, knowledge economy and ser
 * Provided technical assistance and market access support, enabling Lebanese producers to meet international food safety standards and export to new markets.
 * Worked with manufacturers to optimize production processes, leading to improved product quality and increased export capacity. Through partnerships, TIF also facilitated investment in renewable energy projects, contributing to a more sustainable energy consumption.
 * Supported IT and creative industries, helping companies expand their digital offerings and tap into global markets.
-* Helped create destination management organizations in seven Lebanese regions, enhancing Lebanon’s appeal as a destination, developing rural economic growth and paved the way for vertical and horizontal business linkages among the stakeholders. 
+* Helped create destination management organizations in seven regions, enhancing Lebanon’s appeal as a destination, developing rural economic growth, and paved the way for vertical and horizontal business linkages among the stakeholders.
+* Supported the creation of a $20 million Energy Fund that has demonstrated success in boosting productivity and reducing production costs of participating entities, leading to tangible benefits.
+* Launched a program that equipped 100 businesses to strengthen their environmental, social, and governance posture, making them more attractive to investors and unlocking new revenue streams.
+* Launched a new factoring and reverse factoring mechanism, a first in Lebanon. This financial tool is intended to enhance liquidity and facilitate trade by providing revolving short-term credit lines worth up to $20 million to strategic industries. 
+* Facilitated $56.4 million in closed investments across various sectors, contributing to business expansion, job creation, increased export capacity, and provided transaction advisory support to 56 firms to enhance their investment readiness and growth potential.
+* Collaborated with more than six business organizations to develop 36 policy briefs and regulations addressing trade, agriculture, and innovation, in addition to engaging 134 business entities to prioritize reforms. 
+* Partnered with various organizations to review and amend laws on competition, mergers, tariff codes, and small firms, and developed new laws and guidelines for sectors such as tourism and energy.
+* Developed statutes and bylaws for destination management organizations to aid their registration and conducted risk/reward analyses to suggest improvements to laws in the energy sector.
+* Produced more than 31 thematic reports on issues such as circular agriculture and sustainable business growth.
+
+
