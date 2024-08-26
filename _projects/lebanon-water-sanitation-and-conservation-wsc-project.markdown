@@ -4,8 +4,7 @@ date: 2021-06-21 08:33:00 Z
 summary: WSC is increasing the volumes of wastewater treated, reducing the pollution
   and water losses that harm water sources, improving service delivery to citizens,
   and facilitating partnerships between public water utilities, municipalities, the
-  private sector, civil society organizations, and citizen groups to introduce innovative
-  solutions and improve governance in the water and wastewater sector across Lebanon.
+  private sector, civil society organizations, and citizen groups in Lebanon.
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
@@ -18,6 +17,8 @@ country: Lebanon
 promos:
 - title: 2022 USAID CLA Case Competition Finalist
   link: https://usaidlearninglab.org/sites/default/files/2022-09/12_wsc_lebanon_case_submittal_to_the_2022_cla_competition_-_christelle_safi_lebanon_ce.pdf
+- title: Project Fact Sheet
+  link: "/uploads/240823%20-%20FACTSHEET-Eng%20-one%20page.pdf"
 ---
 
 Despite ample natural water sources, Lebanon is a country in a state of “water impoverishment.” Inefficient water resources management and deficient wastewater management capacity are jeopardizing the health of the Lebanese people and overwhelming the environment. An acute economic crisis, the global COVID-19 pandemic, and the 2020 [Beirut port explosion](https://en.wikipedia.org/wiki/2020_Beirut_explosion) worsened the situation. 
