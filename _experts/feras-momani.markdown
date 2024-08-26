@@ -7,7 +7,7 @@ summary: 'Feras Momani is DAI’s Country Representative in Jordan, working acro
   and support the design and delivery of projects that respond to Jordan’s needs and
   priorities. '
 job-title: 'Country Representative, Jordan '
-image: "/uploads/Feras%20Momani.jpg"
+image: "/uploads/Feras%20pic.jpg"
 solutions:
 - Economic Growth
 regions:
