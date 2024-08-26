@@ -5,7 +5,7 @@ summary: FAST supports the systems and procedures necessary to operationalize an
   accelerate Government of Tunisia reforms that are modernizing the system for managing
   public revenues and expenditures.
 start: 2019
-end: 2024
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization
