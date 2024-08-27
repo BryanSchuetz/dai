@@ -23,6 +23,8 @@ Our work addresses issues such as trade facilitation, access to finance, complia
   
 Through our leadership, networks, localized structure, and technical experience, the DAI-led consortium drives the change needed to achieve ACCELERATE’s objectives. 
 
+![guillaume-perigois-0NRkVddA2fw-unsplash.jpg](/uploads/guillaume-perigois-0NRkVddA2fw-unsplash.jpg)
+
 ## Sample Activities
 
 * Foster strong public-private engagement in reform processes.
