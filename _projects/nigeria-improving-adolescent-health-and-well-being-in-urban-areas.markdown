@@ -21,11 +21,11 @@ promos:
 - title: Combined Factsheet
   link: "/uploads/YPE4AH%20Combined%20Factsheet.pdf"
 - title: Dissemination Report
-  link: "/uploads/YPE4AH%20Dissemination%20Report.pdf"
+  link: "/uploads/YPE4AH%20Dissemination%20Report-compressed.pdf"
 - title: Kano Factsheet
-  link: "/uploads/Final%20Kano%20Factsheet.pdf"
+  link: "/uploads/Final%20Kano%20Factsheet-compressed.pdf"
 - title: Lagos Factsheet
-  link: "/uploads/Final%20Lagos%20Factsheet-95a09d.pdf"
+  link: "/uploads/Final%20Lagos%20Factsheet-compressed.pdf"
 - title: Lagos Sustainability Plan
   link: "/uploads/Lagos%20YPE4AH%20Sustainability%20Plan%202024.pdf"
 - title: Kano Sustainability Plan
