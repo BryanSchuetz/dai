@@ -26,8 +26,6 @@ promos:
   link: https://dai-assets.s3.amazonaws.com/our-work/Final%20Kano%20Factsheet-compressed.pdf
 - title: Lagos Factsheet
   link: https://dai-assets.s3.amazonaws.com/our-work/Final%20Lagos%20Factsheet-compressed.pdf
-- title: Lagos Sustainability Plan
-  link: https://dai-assets.s3.amazonaws.com/our-work/Sustainability%20Report%202023.pdf
 ---
 
 In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
