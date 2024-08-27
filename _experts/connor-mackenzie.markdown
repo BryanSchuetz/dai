@@ -17,5 +17,5 @@ Connor MacKenzie is a Digital Specialist on the Digital Strategy and Advisory Te
 
 Connor previously worked with DAI’s Sustainable Business Group where he provided expertise to energy companies on sustainable supply chains, community benefits, and workforce development. Connor has overseas experience in Fiji, where he worked as a Peace Corps volunteer in economic development.
 
-* M.A., international affairs and economics, Johns Hopkins University School of Advanced International Studies 
-* B.A., international relations and political science, Wake Forest University  
+* M.A., international development and development economics, Johns Hopkins University School of Advanced International Studies 
+* B.A., international studies and politics, Wake Forest University  
