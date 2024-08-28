@@ -8,8 +8,8 @@ summary: Laura McLean has over eight years of experience implementing impactful 
 job-title: 'Principal Manager, '
 image: "/uploads/McLean,%20Laura.jpg"
 solutions:
-- Economic Growth
 - Governance
+- 
 regions:
 - Worldwide
 ---
