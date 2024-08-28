@@ -2,7 +2,17 @@
 title: Chris Flower
 date: 2024-08-28 10:52:00 Z
 lastname: Flower
+summary: Chris Flower is a Principal Manager in the U.K.-based Evidence, Learning,
+  and Technical Assistance Facilities Team. His focus is on building the capacity
+  of governments around the world to implement more effective and inclusive social
+  protection and socio-ecological policy and programming.
 job-title: Principal Manager, Resilience and Social Protection
+image: "/uploads/Flower,%20Chris%20sq.jpg"
+solutions:
+- Governance
+- Social Strategy
+regions:
+- Worldwide
 ---
 
 Chris Flower is a Principal Manager in the U.K.-based Evidence, Learning, and Technical Assistance Facilities Team. His focus is on building the capacity of governments around the world to implement more effective and inclusive social protection and socio-ecological policy and programming. Chris combines expertise in managing large, complex, multi-year programs and portfolios with in-depth technical capability, stakeholder influencing, and strategic understanding.
