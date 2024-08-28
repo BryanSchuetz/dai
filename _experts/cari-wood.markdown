@@ -7,6 +7,7 @@ summary: With 10 years of experience in managing and delivering complex programs
   steering large-scale projects funded by the private sector, the Foreign Commonwealth
   and Development Office, and the European Commission.
 job-title: Head of Operations, Centre for Disaster Protection
+image: "/uploads/Wood,%20Cari%20sq.jpg"
 solutions:
 - Governance
 regions:
