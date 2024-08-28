@@ -6,7 +6,7 @@ summary: 'Ejonta Pashaj''s areas of expertise include the design, implementation
   and evaluation of citizen participation, community development, outreach, and anti-corruption
   strategies. '
 job-title: Vice President, Business Development
-image: https://assetify-dai.com/experts/Pashaj_Inner.jpg
+image: "/uploads/Ejonta%20Pashaj.png"
 solutions:
 - Economic Growth
 - 

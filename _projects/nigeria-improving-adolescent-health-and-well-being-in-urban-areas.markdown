@@ -18,8 +18,18 @@ promos:
 - title: Health Equity for Women and Girls Requires Cultural Change, Participation,
     and Local Influencers
   link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
-- title: 'CASE STUDY: Partnerships for Better Family Planning Access'
-  link: "/uploads/YPE4AH_CaseStudy-5b02ef.pdf"
+- title: Combined Factsheet
+  link: https://dai-assets.s3.amazonaws.com/our-work/YPE4AH%20Combined%20Factsheet.pdf
+- title: Dissemination Report
+  link: https://dai-assets.s3.amazonaws.com/our-work/YPE4AH%20Dissemination%20Report-compressed.pdf
+- title: Kano Factsheet
+  link: https://dai-assets.s3.amazonaws.com/our-work/Final%20Kano%20Factsheet-compressed.pdf
+- title: Lagos Factsheet
+  link: https://dai-assets.s3.amazonaws.com/our-work/Final%20Lagos%20Factsheet-compressed.pdf
+- title: Lagos Sustainability Plan
+  link: https://dai-assets.s3.amazonaws.com/our-work/Lagos%20YPE4AH%20Sustainability%20Plan%202024.pdf
+- title: Kano Sustainability Plan
+  link: https://dai-assets.s3.amazonaws.com/our-work/Kano%20YPE4AH%20Sustainability%20Plan%202024.pdf
 ---
 
 In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
@@ -42,11 +52,11 @@ The program works to improve skills for healthy living and future planning; fost
 
 * Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, ages 15-19.
 * Launched six sustainable Youth Hubs.
-* Reached more than 60,000 adolescents using the locally adapted [SKILLZ](https://borgenproject.org/tag/skillz-curriculum/) United curriculum in Lagos, with 58,829 graduating and 55,338 enrolling in follow-on SKILLZ Clubs.
-* Provided contraceptive methods to 64,954 young people, of which 67 percent are new users.
+* Reached more than 66,000 adolescents using the locally adapted SKILLZ United curriculum in Lagos and Kano.
+* Provided contraceptive methods to more than 96,000 young people, of which 70 percent are new users.
 * Leveraged free family planning commodities from the state governments in Lagos and Kano to project’s Youth Hubs (the first of its kind to any project).
 * Engaged young people throughout project implementation, particularly by forming the youth advisory committees in Lagos and Kano.
-* Trained 216 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
-* Strengthened capacity of 840 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
+* Trained 234 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
+* Strengthened capacity of 842 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
 * Successfully integrated menstrual hygiene and nutrition to adolescent programming within both states of operation (a key approach for reaching most in-need youths).
 * Contributed to international, national, and state policy dialogues, technical working groups, and conferences.

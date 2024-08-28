@@ -1,6 +1,7 @@
 ---
 title: Kristin Brierly
 date: 2023-03-21 10:55:00 Z
+published: false
 lastname: Brierly
 summary: Kristin conducts market research that lends to strategic and sustainable
   new business development efforts.

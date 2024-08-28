@@ -5,13 +5,14 @@ lastname: Ragan
 summary: Building on three decades of work in Africa, Asia, and the Pacific, Kristi
   Ragan is committed to finding new ways to raise the quality of life for the world's
   poor.
-job-title: Vice President, Strategic Engagement
+job-title: Chief of Party
 image: https://assetify-dai.com/experts/Ragan_Inner_0.jpg
 solutions:
 - Economic Growth
 - Trade
+- Governance
 regions:
-- Sub-Saharan Africa
+- Eastern Europe and Central Asia
 - Worldwide
 layout: expert
 ---

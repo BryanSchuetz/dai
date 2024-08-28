@@ -60,38 +60,35 @@ promos:
 Field name: 
 ---
 
-Through the innovative use of an adapted market systems development approach “Markets for Resilience”, the Strengthening Host and Refugees Populations in Ethiopia program (SHARPE) works to strengthen the economies of target populations in three regions in Ethiopia; Dollo Ado, Gambella, and Jijiga. 
+Through the innovative application of the “Markets for Resilience” approach, the Strengthening Host and Refugee Populations in Ethiopia program (SHARPE) is focused on enhancing the economies of target populations across three key regions in Ethiopia: Dollo Ado, Gambella, and Jijiga.
 
-SHARPE promotes increased refugee self-reliance and generates economic opportunities for host communities through the piloting and scaling of interventions. This approach is based on understanding the economic barriers that refugee and host communities face and working with key stakeholders—including businesses, government, and service providers—to make markets work for target communities.
+SHARPE drives increased self-reliance among refugees and creates economic opportunities for host communities by piloting and scaling impactful interventions. This approach is rooted in a deep understanding of the economic challenges faced by refugee and host communities. It involves close collaboration with key stakeholders—businesses, government agencies, and service providers—to make markets work better for these populations.
 
-The program also serves as a learning platform for the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit up to 200,000 people in the target populations, helping them realize increases in incomes and employment or expand access to assets through private sector-driven changes.
+Additionally, SHARPE serves as a vital learning platform for both the international and Ethiopian development communities, offering insights into systemic approaches within humanitarian contexts. By the program's conclusion, SHARPE expects to benefit 125,000 people in the target populations, helping them realize increases in incomes and employment or expand access to assets through private sector-driven changes. 
+
+The SHARPE program has entered its final year, shifting from developing new business deals to concentrating on research and evidence-based results.
 
 <iframe src="https://player.vimeo.com/video/575825798" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Activities
 
-**Financial services and business development services:**
-* Work with banks, microfinance institutions, and digital financial service providers to develop an interface with and services for medium, small, and micro enterprises (MSMEs) and rural clients.
-* Facilitate the expansion of digital financial services to refugees and host communities in Jijiga and Dollo Ado.
-* Support access to tailored and affordable financial services (credit and saving) for MSMEs, resulting in soft loans and business support services to 75 to 100 enterprises.
+**Business Development and Support:** 
+* Facilitate the creation and growth of refugee and host-owned micro-businesses, including poultry farming, goat trading, and small-scale retail operations, by providing financial support, training, and market linkages.
 
-**Regional market development for cereals and horticulture, livestock, and poultry:**
-* Work with agro-input dealers and lead companies to expand regional distribution networks and the range and quality of inputs. 
-* Facilitate networks of agro-vet dealers in Somali and Gambella to expand access to quality livestock and agricultural inputs. 
-* Support the expansion of micro and small businesses operating in the poultry and egg supply chain.
+**Capacity Building:** 
+* Support specialized training and technical assistance to refugees and host communities, helping them acquire skills in areas such as poultry farming, livestock management, and financial literacy, which are crucial for sustaining their businesses.
 
-**Aid Reform:**
-* Support the Comprehensive Refugee Response Framework implementation and the push to cash-based aid delivery.
-* Facilitate investment and innovation in commercial clean energy solutions. 
-* Align humanitarian and market-based interventions so that investments support the growth of local businesses and local markets.
-* Facilitate local procurement of goods from refugees and host communities. 
-* Work with refugee agencies to support refugee business registration.
-* Develop access to clean solar energy in refugee camps in the Somali region. 
+**Market Access and Integration:** 
+* Integrate refugees into local and regional markets by connecting them with established businesses, improving access to essential resources such as animal feed, seeds, and veterinary supplies, and promoting inclusive market practices.
+
+**Financial Inclusion:** 
+*Partner with financial institutions to expand access to digital financial services and business loans for refugees, enabling them to secure the capital needed to start and grow their enterprises.
 
 ### Select Results
 
-* Enabled more than 100,000 refugees and host community individuals to increase their enterprise or household performance.
-* Leveraged nearly £1.2 million from market actors for investment in refugee-hosting areas.
-* Supported more than 8,700 local host community businesses to become more innovative and grow their business.
-* Benefitted 89,600 people through increased income, employment, savings, or liquid assets. 
-* Achieved £30 million in additional sales through SHARPE-supported business models. 
+* Facilitated 199 business partnerships, resulting in 9,691 business linkages.
+* £1,773,557 invested by partners in SHARPE-supported initiatives.
+* Reached 229,700 refugees and host community members through SHARPE interventions.
+* Contributed to £9,423,519 in increased income and £34,520,420 in additional sales from supported business models.
+* 147,207 households and businesses have reported improved business performance due to SHARPE's support.
+* 8,508 market actors have changed their practices to support refugee inclusion and economic integration better.
