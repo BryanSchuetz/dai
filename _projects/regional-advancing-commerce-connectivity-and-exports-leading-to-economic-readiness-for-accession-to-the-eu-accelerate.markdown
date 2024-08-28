@@ -13,6 +13,8 @@ solutions:
 - Economic Growth
 - Governance
 regions: Eastern Europe and Central Asia
+country: Albania, Armenia, Azerbaijan, Bosnia and Herzegovina, Georgia, Kosovo, Moldova,
+  Montenegro, North Macedonia, Serbia, Ukraine
 ---
 
 The positive economic impacts for countries joining the European Union (EU) are well documented. The Advancing Commerce Connectivity and Exports Leading to Economic Readiness for Accession to the EU (ACCELERATE) program, funded by the U.S. Agency for International Development, works to advance EU market integration and support the accession of up to 12 countries, including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus. 
