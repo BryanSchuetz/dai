@@ -22,4 +22,4 @@ As a team leader, project director, and practice lead, Kate has focused on syste
 
 Strongly motivated to improve public services, Kate has served as a Board member for schools and children’s charities in the UK, Kenya, and Palestine. She lives in the U.K. and Pristina, Kosovo. 
  
-* B.A. Philosophy, Politics & Economics, Oxford University
+* M.A. Philosophy, Politics & Economics, Oxford University
