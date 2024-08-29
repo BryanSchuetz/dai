@@ -33,28 +33,25 @@ its development as a sovereign, independent, democratic, and prosperous state—
 
 After supporting small businesses in the IT, innovative manufacturing, tourism, agribusiness, and biofuel sectors since 2018, first in the east, and then from the start of the war nationally, ERA is now a core partner implementing the Agriculture Resilience Initiative–Ukraine (AGRI-Ukraine) that was established in 2022 to bolster Ukrainian agricultural exports and alleviate the global food security crisis exacerbated by the war. Under AGRI-Ukraine, ERA partners with public and private companies to complement and leverage urgently needed grain transportation and transshipment investments.
 
-ERA also directly supports the Government 
-of Ukraine, including the State Agency for Restoration and Development of Infrastructure of Ukraine (SARDI) and the State Customs Service, to upgrade 42 of Ukraine’s border crossing points. Modern and more efficient border infrastructure and customs procedures will reduce export costs and increase export capacity, enabling Ukraine to scale trade and advance its path to European Union integration. 
+ERA also directly supports the Government of Ukraine, including the State Agency for Restoration and Development of Infrastructure of Ukraine (SARDI) and the State Customs Service, to upgrade 42 of Ukraine’s border crossing points. Modern and more efficient border infrastructure and customs procedures will reduce export costs and increase export capacity, enabling Ukraine to scale trade and advance its path to European Union integration.
 
 ![era.jpg](/uploads/era.jpg)
 
 ### Sample Activities
 
-* Deliver equipment, architecture, and engineering design and construction services at nine priority and up to 12 additional border crossing points that improve traffic management systems, cargo processing, and terminal infrastructure and equipment for cargo and passenger processing, to increase exports and manage traffic more efficiently along the borders of Hungary, Moldova, Poland, Romania, and Slovakia. 
-* Improve standardization and efficiency with rapid upgrades of border crossing points.
-* Procure mobile truck scanners, fixed and dynamic scales, luggage and hand-held scanners, and rail cargo equipment to increase export capacity and meet international standards for cargo processing.
-* Develop and implement modern traffic management systems at select, high-volume border crossing points.
+* Facilitate port transshipment logistics, including the procurement of grain loading equipment, temporary storage structures, port handling-related equipment, and pilot boats—as well as support port service needs for navigational safety.
+* Facilitate road transshipment logistics, including the procurement specialized grain trailers and agricultural commodity shipping containers; and delivering loading and unloading transshipment equipment to make future road shipments a more efficient alternative should Black Sea ports remain closed due to Russia’s ongoing aggression.
+* Deliver equipment, architecture, and engineering design and construction services at nine priority and up to 12 additional border crossing points that improve traffic management systems, cargo processing, and terminal infrastructure and equipment for cargo and passenger processing, to increase exports and manage traffic more efficiently along the borders of Hungary, Moldova, Poland, Romania, and Slovakia.
+* Procure mobile truck scanners, fixed and dynamic scales, luggage and hand-held scanners, and rail cargo equipment to increase export capacity and meet international standards for cargo processing; and develop and implement modern traffic management systems at select, high-volume border crossing points.
 
 ### Select Results
 
-* Delivered $12.2 million in equipment (grain wagons, grain warehouses, mega big bags, tractors, front loaders, shipping container loaders, and more).
-* Helped 27 firms to leverage $77 million in private investment to bolster trade and grain export.
-* Completed or initiated tenders for more than 100 pieces of equipment for border crossing points worth $37 million.
-* In close partnership with SARDI, State Customs, and Ukraine Railways, ERA began feasibility and design phases worth $500,000 for planned construction.
-* Assisted 7,494 vulnerable and hard-to-reach beneficiaries—of whom 64 percent were female—since the beginning of the project with training and technical assistance.
-* Helped to raise more than $4 million in commercial capital for eastern Ukrainian small firms.
-* Assisted the Ministry of Communities and Territories Development in holding the International Marathon for Local Governments to support cities in Ukraine. Five online meetings between Ukraine’s community leaders and their counterparts from 35 countries were held, engaging more than 1,000 participants. 
-* Supported the relocation program provided by the Reform Team under the Ministry of Economy of Ukraine to facilitate the relocation of enterprises from hostile areas to safer regions of Ukraine. 
-* Launched a new campaign, CXID: Reload (East:Reload), designed to reposition eastern Ukraine in the hearts and minds of all Ukrainians as a region that has the potential to become a center of IT excellence and set an inspirational tone for entrepreneurs, innovators, and small business owners; inspire self-investment and entrepreneurship, and gain the attention of the national and international investor community. The campaign launch reached more than 13 million people. Although the campaign was launched before the war, it has the potential to be continued after Ukraine is liberated.   
+* Supported the export of more than 520,973 tons of Ukrainian grain. Additionally, Ukrainian Sea Ports Authority transshipped 64,873 tons using ERA equipment. 
+* Provided 350 grain wagons to 12 Ukrainian agri-exporters, marking a significant milestone in supporting the country's agricultural export capacity. It is estimated that these 350 wagons will increase Ukraine's grain exports by 531,905 tons annually, support exports worth nearly $101 million yearly, and attract significant additional investments. 
+* Provided 58 grain trailers to 12 Ukrainian agri exporters and logistics companies, boosting their annual grain transshipment capacity by 243,500 tons. These modern, lightweight trailers will streamline grain shipment and cut logistics costs.   
+* Awarded or delivered $5.5 million in rapid upgrades and equipment across 29 sites. 
+* Completed all planned rapid upgrades at the Yahodyn, Uzhhorod, Luzhanka, and Porubne border crossing points, worth $2.3 million.
+* Awarded more than 450 pieces of equipment worth $14 million for 29 border crossing points. 
+* Implemented construction improvements across the nine road border crossing points that should increase truck throughput capacity by an estimated 1,500 trucks per day by 2026.  
 * Worked with a small group of “pathfinder farmers” to help them to grow cherry tomatoes that are in high demand by national retail stores which resulted in a contract to regularly ship the tomatoes to Fozzy Group, which owns more than 500 supermarkets throughout Ukraine. The [cooperative](https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine) is now in sales negotiations for the sale of new products next year and ERA is scaling up the pilot to farming communities. 
 * Worked with USAID’s State-Owned Enterprises Reform Activity and the Ministry of Economy to assist Prozorro.Sale—a state-owned enterprise—to help relocate enterprises to safer regions, principally by developing an IT-platform with a section for relocation, e-marketplace capabilities, and support services.
