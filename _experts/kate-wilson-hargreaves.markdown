@@ -9,8 +9,7 @@ summary: Kate Wilson Hargreaves is Head of Climate and Environment in DAI's U.K 
 job-title: Head of Climate and Environment
 image: "/uploads/Hargreaves,%20Kate%20sq.png"
 solutions:
-- Climate and Environment
-- Economic Growth
+- Climate
 regions:
 - Worldwide
 ---
