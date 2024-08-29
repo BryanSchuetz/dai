@@ -10,6 +10,7 @@ job-title: Head of Climate and Environment
 image: "/uploads/Hargreaves,%20Kate%20sq.png"
 solutions:
 - Climate and Environment
+- Economic Growth
 regions:
 - Worldwide
 ---
