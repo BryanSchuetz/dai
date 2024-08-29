@@ -34,9 +34,11 @@ promos:
 
 In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
 
-The U.S. Agency for International Development-funded Youth-Powered Ecosystem to Advance Urban Adolescent Health activity [empowers](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) young people with skills, social capital, and resources needed to realize their full potential. The program improves adolescent health by increasing access to voluntary family planning services and situating family planning within a broader, more holistic context of youth empowerment, coupled with a deeper understanding of the challenges that adolescents face. 
+The U.S. Agency for International Development-funded Youth-Powered Ecosystem to Advance Urban Adolescent Health activity [empowered](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) young people with skills, social capital, and resources needed to realize their full potential. The program improved adolescent health by increasing access to voluntary family planning services and situating family planning within a broader, more holistic context of youth empowerment, coupled with a deeper understanding of the challenges that adolescents face. 
 
-The program works to improve skills for healthy living and future planning; foster an enabling social and policy environment for adolescent health and development; and increase youth workforce readiness, job opportunities, and entrepreneurship to address socioeconomic determinants of adolescent health. 
+The project reached more than 300,000 adolescents through various interventions across the TEENSMATA Youth Hubs that served as safe spaces for adolescents. The project fostered a sense of ownership and agency through the active involvement of the target demographic and in turn, empowering more than 67,000 adolescents with life skills.
+
+The efforts of the project prevented more than 7,000 unintended pregnancies and averted more than 2,900 unsafe abortions by providing informed family planning services to more than 90,000 adolescents through youth-friendly trained providers.
 
 ![Adolescent 1.jpg](/uploads/Adolescent%201.jpg)
 
