@@ -1,9 +1,9 @@
 ---
 title: Kate Wilson Hargreaves
 date: 2024-08-29 11:23:00 Z
-job-title: Head of Climate and Environment
+job-title: Director, Climate and Environment
 email: kate_hargreaves@dai.com
-summary: Kate Wilson Hargreaves is Head of Climate and Environment for DAI's U.K.
+summary: Kate Wilson Hargreaves is Director of Climate and Environment for DAI's U.K.
   office. She has worked in international development for over 20 years, a career
   that has spanned social accountability and transparency, public financial management,
   global health, climate change, and renewable energy for public services. Kate brings
