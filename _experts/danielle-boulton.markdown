@@ -2,10 +2,10 @@
 title: Danielle Boulton
 date: 2022-02-24 15:00:00 Z
 lastname: Boulton
-summary: Danielle Boulton has more than 10 years of experience in project and team
-  management and delivery, new business development, knowledge management, value for
-  money analysis, and stakeholder engagement and coordination.
-job-title: Project Director, Global Health
+summary: 'Danielle Boulton has over 10 years of experience in project delivery, new
+  business development, knowledge management, value for money (VfM) analysis, and
+  stakeholder engagement within the health sector. '
+job-title: Principal Consultant, Human Development
 image: "/uploads/Danielle%20Boulton.jpg"
 solutions:
 - Global Health
@@ -13,7 +13,9 @@ regions:
 - Worldwide
 ---
 
-Danielle Boulton has more than 10 years of experience in project and team management and delivery, new business development, knowledge management, value for money analysis, and stakeholder engagement and coordination. Danielle is a Project Director for DAI's Global Health practice, responsible for client relationship management, strategy development, and quality assurance on projects. Previously, she was a Senior Project Manager, providing day-to-day project management and operational and technical backstopping across a portfolio of programs, including the [Mexico Skills for Prosperity](https://www.dai.com/our-work/projects/mexico-skills-for-prosperity-mexico-s4pm) project, and the [Better Health Programme Mexico](https://www.dai.com/our-work/projects/mexico-prosperity-fund-better-health-programme). Danielle has also acted as Business Development Manager, specializing in the development of proposals in the health sector for multilateral and bilateral donors including the U.K. Foreign, Commonwealth & Development Office, European Union, U.S. Agency for International Development, United Nations Children's Fund, and the Bill & Melinda Gates Foundation. 
+Danielle Boulton has over 10 years of experience in project delivery, new business development, knowledge management, value for money (VfM) analysis, and stakeholder engagement within the health sector. Danielle currently works with the DAI U.K. team with the human development team as a Principal Consultant. She provides senior expertise in project management and technical backstopping across a portfolio of programs, bringing a deep knowledge of UKaid.  Danielle has most recently managed a portfolio of programs funded by the U.K. government's Department of Health and Social Care (DHSC) through the Fleming Fund, which tackles global antimicrobial resistance. Before this, Danielle managed a portfolio of programs in Mexico funded by the U.K. Foreign, Commonwealth, and Development Office (FCDO), which aimed to improve economic growth by strengthening education and health. 
+
+Danielle’s previous roles at DAI included business development manager, specializing in developing proposals in the health sector for multilateral and bilateral donors, including FCDO, EU, USAID, UNICEF, and Gates Foundation. Danielle is also proficient with the practical tools required for VfM analysis, including cost-benefit and cost-effective and qualitative analysis using participatory approaches. 
  
-* B.Sc., human sciences, University of Sussex       
+* B.Sc. Human Sciences, University of Sussex       
 * Project Management PRINCE 2 Qualification
