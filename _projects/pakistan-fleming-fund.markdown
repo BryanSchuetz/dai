@@ -17,6 +17,8 @@ country: Pakistan
 promos:
 - title: 'Policy Brief: Antimicrobial Resistance Surveillance in Healthy Food Animals'
   link: "/uploads/Antimicrobial%20Resistance%20Surveillance%20in%20Healthy%20Food%20Animal-11.pdf"
+- title: FFCG Pakistan Update August 2024
+  link: "/uploads/FFCG%20Pakistan%20Update%20August%202024.pdf"
 - title: Fleming Fund Program Receives Award for Improving Responsible Drug Use in
     Pakistan
   link: https://www.dai.com/news/fleming-fund-program-receives-award-for-improving-responsible-drug-use-in-pakistan
