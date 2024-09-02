@@ -6,6 +6,7 @@ job-title: CEO, DAI Capital
 summary: Gavin Wilson leads DAI Capital, the investment banking and asset management
   arm of DAI.
 image: "/uploads/gavin-wilson-our-team.png"
+published: false
 solutions:
 - DAI Capital
 ---
