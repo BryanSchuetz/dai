@@ -2,6 +2,10 @@
 title: Ingrida Skarinke
 date: 2024-09-02 09:12:00 Z
 lastname: Skarinke
+summary: 'Ingrida Skarinke is a Principal Manager in DAI’s Human Development team
+  with over 10 years of experience working in the international development sector,
+  leading complex programs in a senior management capacity focused on public and private
+  sector reform, governance, health, economic growth, and innovation. '
 job-title: Principal Manager, Human Development
 image: "/uploads/Skarinke,%20Ingrida.jpeg"
 solutions:
