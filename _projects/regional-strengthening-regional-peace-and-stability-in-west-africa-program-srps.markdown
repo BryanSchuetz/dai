@@ -34,3 +34,7 @@ DAI facilitates capacity development, institutional strengthening, networking, a
 * Increase the communication capabilities of governments through conferences on transborder dialogue, climate and security, and interregional communication.
 * Address dis- and mis-information media award events to highlight examples of truthful and honest journalism.
 * Increase social cohesion by funding youth sporting events and trustbuilding activities through grants.
+
+## Select Results
+
+* Helped establish and equip 48 village savings and loan associations in Benin. 
