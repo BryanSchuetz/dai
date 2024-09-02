@@ -2,15 +2,15 @@
 title: Mark Pedersen
 date: 2023-12-11 22:41:00 Z
 lastname: Pedersen
-summary: Mark Pedersen is a Senior Communications Manager in DAI’s Sustainable Business
+summary: Mark Pedersen is a Senior Principal Specialist in DAI’s Sustainable Business
   Group where he leads communications on the Mastercard Strive USA project
-job-title: Senior Communications Manager
+job-title: Senior Principal Specialist, Communications
 image: "/uploads/MP%20Website.png"
 solutions:
 - Sustainable Business
 ---
 
-Mark Pedersen is a Senior Communications Manager in DAI’s Sustainable Business Group where he leads communications on the Mastercard Strive USA project, which is focused on helping small businesses in the United States grow and build resilience. 
+Mark Pedersen is a Senior Principal Specialist in DAI’s Sustainable Business Group where he leads communications on the Mastercard Strive USA project, which is focused on helping small businesses in the United States grow and build resilience. 
  
 Mark has more than 15 years of experience working in the social impact and international development sectors in senior roles that have spanned communications, strategy, entrepreneurship, and financial inclusion, both in the United States and internationally.
  
