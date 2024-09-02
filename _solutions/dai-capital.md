@@ -49,8 +49,6 @@ We invest directly in early-stage companies and create greenfield businesses in 
 
 DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD](/news/dai-invests-in-thinkmds-clinical-assessment-technology), [ClickMedix](/news/dai-global-health-invests-in-mhealth-leader-clickmedix), and [MobileODT](/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech)—as well as greenfield startups at an earlier stage. -->
 
-<iframe src="https://player.vimeo.com/video/750509775?h=5bc0138cd1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="DAI Capital Overview: Gavin Wilson"></iframe>
-
 ## DAI Capital FAQs
 
 <div class="faq-wrap accordion">
