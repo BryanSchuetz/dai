@@ -6,6 +6,7 @@ summary: Gavin Wilson leads DAI Capital, the investment banking and asset manage
   arm of DAI.
 image: "/uploads/sm%20Gavin%205290.jpg"
 sort-order: 2
+published: false
 ---
 
 Gavin Wilson leads DAI Capital, the investment banking and asset management arm of DAI.
