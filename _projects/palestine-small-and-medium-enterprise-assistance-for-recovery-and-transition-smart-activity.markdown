@@ -38,6 +38,6 @@ The [Small and Medium Enterprise Assistance for Recovery and Transition (SMART)]
 
 * Supported 304 private sector firms and institutions. 
 * Invested $27.7 million in the Palestinian private sector.
-* Helped client firms to increase annual sales by $6.8 million.
+* Helped client firms to increase annual sales by $12.2 million.
 * Helped client firms to reach 45 export markets.
 * Supported firms created 499 new jobs.
