@@ -8,8 +8,8 @@ summary: Dan Langfitt is an international development professional with more tha
 job-title: 'Principal Specialist, Resilience and Stability '
 image: "/uploads/web%20Dan%20Langfitt.png"
 solutions:
-- Fragile States
-- Stabilization
+- Governance
+- Peace and Stability
 - Transition and Stabilization Programming
 - Economic Growth
 regions:

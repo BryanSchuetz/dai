@@ -9,7 +9,7 @@ job-title: Chief of Party, Honduras Unidos por la Justicia Activity
 image: "/uploads/KiraGriswoldPhoto.jpg"
 solutions:
 - Governance
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 - Local Governance and Decentralization
 regions:
 - Latin America and the Caribbean

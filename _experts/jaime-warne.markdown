@@ -10,7 +10,7 @@ job-title: 'Project Director, Governance '
 image: "/uploads/Jaime%20Warne.jpg"
 solutions:
 - Governance
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 regions:
 - Worldwide
 ---

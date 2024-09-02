@@ -10,9 +10,8 @@ summary: Clare McConnachie is the Chief of Party of the [Central Asia Resilient 
 job-title: Chief of Party, Central Asia Resilient Communities Activity
 image: "/uploads/Clare%20McConnachie.jpg"
 solutions:
-- Fragile States
-- Stabilization
-- Stability
+- Governance
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 ---

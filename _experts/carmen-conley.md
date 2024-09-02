@@ -11,7 +11,7 @@ image: https://assetify-dai.com/experts/Lane_Inner.jpg
 solutions:
 - Institutional and Policy Reform
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Anti-corruption, Transparency, and Accountability
 regions:
 - Worldwide

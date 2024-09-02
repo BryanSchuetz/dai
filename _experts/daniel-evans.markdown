@@ -7,8 +7,7 @@ summary: 'Daniel Evans is an environmental scientist, project manager, and inter
 job-title: Senior Principal Specialist, Climate, Land & Natural Resources
 image: "/uploads/Dan%20Evans%20headshot%20in%20Gorongosa.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 - Natural Resource Management
 - Land Tenure and Property Rights
 regions:

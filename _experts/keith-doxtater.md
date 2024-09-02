@@ -11,7 +11,6 @@ image: https://assetify-dai.com/experts/Doxtater-Inner.jpg
 solutions:
 - Economic Growth
 - Governance
-- Fragile States
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

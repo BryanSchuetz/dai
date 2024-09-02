@@ -8,8 +8,7 @@ summary: 'Shannon Vasamsetti has more than 13 years of experience working in int
 job-title: Senior Specialist, Climate Integration
 image: "/uploads/sm%20Vasamsetti_Shannon_FULL.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Worldwide
 ---

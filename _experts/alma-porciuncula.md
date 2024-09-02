@@ -8,7 +8,7 @@ summary: Alma Porciuncula has been leading DAI's work in the Philippines on inno
 job-title: Chief of Party, Philippines Safe Water Activity
 image: "/uploads/Alma%20Porciuncula.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 - Natural Resource Management
 regions:

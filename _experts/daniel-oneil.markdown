@@ -8,7 +8,7 @@ job-title: Chief of Party, Haiti Water Security and Systems Strengthening Activi
   (USAID Eau)
 image: "/uploads/Oneil_Dan%201.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions:
 - Latin America and the Caribbean

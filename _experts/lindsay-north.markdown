@@ -8,11 +8,8 @@ summary: 'Lindsay North is a Principal Specialist in the Resilience and Stabilit
 job-title: Principal Specialist, Resilience and Stability
 image: "/uploads/Lindsay%20North2.jpeg"
 solutions:
-- Fragile States
-- Security and Justice
-- Stabilization
-- Peace-Building and Political Transition
-- Countering Extremism
+- Governance
+- Peace and Stability
 regions:
 - Worldwide
 ---

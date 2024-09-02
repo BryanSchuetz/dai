@@ -7,7 +7,7 @@ summary: 'Rade Glomazic oversees a large portfolio of European Union (EU)-funded
 job-title: Director of Implementation, EU Business Unit
 image: "/uploads/Rade_Glomazic.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Economic Growth
 regions:
 - Middle East and North Africa

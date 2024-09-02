@@ -9,11 +9,9 @@ summary: 'Hind Audsley is a Senior Lead Specialist in the Resilience and Stabili
 job-title: Senior Lead Specialist, Resilience and Stability
 image: "/uploads/Hind%20Ausley.jpg"
 solutions:
-- Fragile States
+- Governance
 - Conflict and Vulnerability Analysis
-- Peace-building and State-building
-- Stability
-- Peace-Building and Political Transition
+- Peace and Stability
 regions:
 - Worldwide
 ---

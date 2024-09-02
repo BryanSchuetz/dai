@@ -8,7 +8,7 @@ summary: With more than 30 years of extensive experience, Narayan Wagle brings a
 job-title: Deputy Chief of Party, USAID Nepal Karnali Water Activity
 image: "/uploads/Narayan%20Jee.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific

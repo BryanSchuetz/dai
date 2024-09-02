@@ -8,7 +8,7 @@ summary: John Leckie is a land and resource governance professional with more th
 job-title: 'Lead Specialist, Land Tenure and Property Rights '
 image: https://assetify-dai.com/experts/jLeckie-INNER.jpg
 solutions:
-- Environment
+- Climate and Environment
 - Land Tenure and Property Rights
 - Natural Resource Management
 regions:

@@ -8,8 +8,8 @@ summary: Christy Owen is a development professional with more than 25 years of e
 job-title: Senior Lead Specialist, Climate, Land, and Natural Resources
 image: "/uploads/Christy%20Owen.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
+- Climate Finance
 - Land Tenure and Property Rights
 - Natural Resource Management
 regions:

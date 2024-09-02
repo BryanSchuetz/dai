@@ -9,11 +9,8 @@ summary: 'Arthur Carlson is an international development practitioner with 28 ye
 job-title: Director, Projects
 image: "/uploads/Arthur%20Carlson%201.jpg"
 solutions:
-- Stabilization
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Security and Justice
+- Peace and Stability
+- Governance
 regions:
 - Worldwide
 ---

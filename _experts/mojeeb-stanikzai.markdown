@@ -9,7 +9,6 @@ job-title: Director, Middle East Projects
 image: "/uploads/Mojeeb.jpg"
 solutions:
 - Governance
-- Fragile States
 regions:
 - Middle East and North Africa
 ---

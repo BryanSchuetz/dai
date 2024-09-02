@@ -10,10 +10,8 @@ job-title: 'Principal Global Practice Specialist, Climate Change and Natural Res
   Management '
 image: https://assetify-dai.com/experts/ErdmannInner.jpg
 solutions:
-- Environment
 - Natural Resource Management
-- Climate
-- Climate Change Adaptation and Mitigation
+- Climate and Environment
 regions:
 - Worldwide
 layout: expert

@@ -8,7 +8,7 @@ summary: 'Jeanne Ellis has more than 20 years of experience in designing, implem
 job-title: Senior Director, Water and Energy Practice
 image: "/uploads/Jeanne%20Ellis%20(003).png"
 solutions:
-- Environment
+- Climate and Environment
 - Energy
 regions:
 - Worldwide

@@ -9,7 +9,7 @@ summary: 'Nilu Puri Basnyat is DAI’s country representative in Nepal, where sh
 job-title: Country Representative, Nepal
 image: "/uploads/Nilu.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 - Natural Resource Management
 - Governance

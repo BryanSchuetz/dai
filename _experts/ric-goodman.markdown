@@ -10,7 +10,7 @@ job-title: Director, Social Protection & Resilience
 image: "/uploads/Ric%20Goodman%202023-66.jpg"
 solutions:
 - Agriculture and Food Security
-- Fragile States
+- Governance
 - Economic Growth
 regions:
 - Sub-Saharan Africa

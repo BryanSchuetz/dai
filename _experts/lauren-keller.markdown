@@ -8,8 +8,7 @@ summary: 'Lauren Keller is a development professional with more than a decade of
 job-title: Principal Specialist, Climate Integration
 image: "/uploads/am%20Lauren%20Keller.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Worldwide
 ---

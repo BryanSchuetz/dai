@@ -7,11 +7,8 @@ summary: 'Kevin Casey is an advisor with experience bringing innovative methodol
 job-title: Lead Specialist, Applied Research
 image: "/uploads/Kevin%20Casey.jpg"
 solutions:
-- Fragile States
-- Stabilization
-- Peace-Building and Political Transition
-- Countering Extremism
-- Security and Justice
+- Governance
+- Peace and Stability
 regions:
 - Sub-Saharan Africa
 - Eastern Europe and Central Asia

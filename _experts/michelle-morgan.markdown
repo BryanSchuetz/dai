@@ -14,7 +14,6 @@ solutions:
 - Sustainable Livelihoods
 - Governance
 - Gender and Social Inclusion
-- Fragile States
 regions:
 - Worldwide
 ---

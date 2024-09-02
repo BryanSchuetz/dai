@@ -9,8 +9,7 @@ summary: Nadya Boneva is an engineer and expert in environmental monitoring cont
 job-title: Senior Global Practice Leader, Planet
 image: "/uploads/Nadya%20Boneva%20headshot.png"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 - Energy
 regions:
 - Worldwide

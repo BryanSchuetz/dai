@@ -8,13 +8,11 @@ summary: Vishalini Lawrence is the Senior Director of DAI's Resilience and Stabi
 job-title: Senior Director, Resilience and Stability
 image: "/uploads/new%20Vish.jpg"
 solutions:
-- Fragile States
+- Governance
 - Economic Growth
 - Gender and Social Inclusion
-- Governance
-- Peace-Building and Political Transition
+- Peace and Stability
 - Conflict and Vulnerability Analysis
-- Countering Extremism
 regions:
 - Worldwide
 ---

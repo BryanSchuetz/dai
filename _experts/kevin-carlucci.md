@@ -9,8 +9,8 @@ job-title: Senior Director, Climate, Land, and Natural Resources
 image: "/uploads/Kevin%20Carlucci%20website.jpg"
 solutions:
 - Energy
-- Climate
-- Environment
+- Climate and Environment
+- Climate Finance
 - Natural Resource Management
 - Land Tenure and Property Rights
 - 

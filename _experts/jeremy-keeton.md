@@ -9,8 +9,7 @@ job-title: Deputy Chief of Party, Indonesia Integrated Urban Water Sanitation an
   Hygiene (IUWASH Tangguh) program
 image: "/uploads/Jeremy%20Keeton%20new.jpg"
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 - Institutional and Policy Reform
 - Natural Resource Management
 - Water Security, Sanitation, and Hygiene

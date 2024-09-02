@@ -10,6 +10,8 @@ image: "/uploads/Eric%20Adams.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
+- Climate and Environment
+- Climate Finance
 regions:
 - Worldwide
 ---

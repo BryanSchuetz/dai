@@ -10,8 +10,7 @@ job-title: Chief of Party, Advancing Capacity for the Environment (ACE)
 image: "/uploads/Jonathan%20Randall.png"
 solutions:
 - Energy
-- Climate
-- Environment
+- Climate and Environment
 - Natural Resource Management
 regions:
 - Asia and the Pacific

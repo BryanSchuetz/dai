@@ -9,7 +9,8 @@ summary: 'Keith Bettinger is Lead Specialist for Climate Change Adaptation and D
 job-title: Lead Specialist for Climate Change Adaptation and Disaster Risk Reduction
 image: "/uploads/20221030_102802%20crop.jpg"
 solutions:
-- Climate
+- Climate and Environment
+- Climate Finance
 regions:
 - Worldwide
 articles:

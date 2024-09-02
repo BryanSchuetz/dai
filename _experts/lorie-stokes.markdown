@@ -10,7 +10,7 @@ image: "/uploads/sm%20Lorie%20Stokes.jpg"
 solutions:
 - Governance
 - Anti-corruption, Transparency, and Accountability
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 regions:
 - Worldwide
 ---

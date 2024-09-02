@@ -9,7 +9,7 @@ summary: Abraham Guillen is a leading sustainable forestry management expert wit
 job-title: Chief of Party, Vietnam Sustainable Forest Management Activity
 image: "/uploads/Abraham%20Guillen.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Natural Resource Management
 regions:
 - Asia and the Pacific

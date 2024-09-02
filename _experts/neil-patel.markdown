@@ -8,7 +8,7 @@ summary: Neil Patel is an international development professional with experience
 job-title: 'Specialist, Water Security, Sanitation, and Hygiene '
 image: "/uploads/Neil%20Patel.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions:
 - Worldwide

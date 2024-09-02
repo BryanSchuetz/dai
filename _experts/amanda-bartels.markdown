@@ -10,6 +10,8 @@ image: "/uploads/sm%20Amanda%20Bartels.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
+- Climate Finance
+- Climate and Environment
 regions:
 - Worldwide
 ---

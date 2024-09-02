@@ -7,8 +7,7 @@ summary: For the last 20 years, Walter Weaver has focused his broad interests in
 job-title: Vice President, Climate Integration
 image: "/uploads/Walter%20Weaver%20DAIalumni276.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 - Energy
 regions:

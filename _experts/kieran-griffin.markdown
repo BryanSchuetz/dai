@@ -7,9 +7,8 @@ summary: Kieran brings over a decade of experience at DAI, where he leads high-p
 job-title: Principal Manager, Conflict, Stabilization, and Peacebuilding
 image: "/uploads/Griffin,%20Kieran%202.jpg"
 solutions:
-- Stabilization
-- Peace-Building and Political Transition
-- Fragile States
+- Peace and Stability
+- Governance
 regions:
 - Worldwide
 ---

@@ -7,7 +7,7 @@ summary: Joshua Palfreman is a Senior Global Practice Specialist at DAI, tasked 
 job-title: Senior Global Practice Specialist, Waste Management
 image: "/uploads/Joshua%20Palfreman%201.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions:
 - Worldwide

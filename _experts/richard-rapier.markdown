@@ -8,7 +8,7 @@ summary: Richard Rapier for 15 years has worked in domestic and international pr
 job-title: Senior Portfolio Director, Global Region
 image: "/uploads/rich-rapier-bio.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions: Sub-Saharan Africa
 ---

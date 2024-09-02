@@ -9,7 +9,7 @@ summary: 'Robin Martino is Chief of Party for the [Integrated Natural Resource M
 job-title: 'Chief of Party, Integrated Natural Resource Management project '
 image: "/uploads/Robin%20Martino.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Natural Resource Management
 regions:
 - Worldwide

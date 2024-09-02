@@ -7,7 +7,7 @@ summary: 'James Littleton oversees DAI U.K.''s Conflict, Stabilization, and Peac
 job-title: Director, Conflict, Stabilization, and Peacebuilding
 image: "/uploads/Littleton,%20James%20sq.jpg"
 solutions:
-- Fragile States
+- Governance
 - Peace and Stability
 regions:
 - Worldwide

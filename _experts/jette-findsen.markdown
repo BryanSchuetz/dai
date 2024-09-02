@@ -8,10 +8,9 @@ summary: 'Jette Findsen has experience working internationally and domestically 
 job-title: Vice President, Environment
 image: "/uploads/1%20Jette.jpg"
 solutions:
-- Environment
 - Natural Resource Management
 - Water and Sanitation Services and Management
-- Climate
+- Climate and Environment
 - Energy
 regions:
 - Worldwide

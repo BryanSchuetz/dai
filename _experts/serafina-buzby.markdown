@@ -8,7 +8,7 @@ summary: 'Serafina Buzby is an international development specialist with more th
 job-title: Senior Principal Specialist, Environment
 image: "/uploads/sm%20Serafina%20Buzby.jpg"
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Worldwide
 ---

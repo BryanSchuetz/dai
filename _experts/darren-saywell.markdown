@@ -8,7 +8,7 @@ summary: 'Darren Saywell has 25 years of experience in practice, research, and p
 job-title: Senior Lead Specialist, Water Security, Sanitation, and Hygiene
 image: "/uploads/Darren_Saywell.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 - Natural Resource Management
 regions:

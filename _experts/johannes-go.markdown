@@ -8,8 +8,8 @@ summary: 'Johannes “John” Go  ensures efficient and compliant operations in 
 job-title: Director of Operations, Ukrainian Management Unit
 image: "/uploads/Small%20John%20Go.jpg"
 solutions:
-- Fragile States
-- Peace-building and State-building
+- Governance
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 - Asia and the Pacific

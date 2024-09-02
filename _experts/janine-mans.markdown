@@ -9,7 +9,7 @@ job-title: Global Practice Lead, Public Financial Management
 image: "/uploads/Janine%20Mans%20web.jpg"
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Local Governance and Decentralization
 - Anti-corruption, Transparency, and Accountability
 regions:

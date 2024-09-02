@@ -10,9 +10,7 @@ job-title: Deputy Chief of Party, Somalia People-Centered Governance Activity
 image: "/uploads/Ahmed%20Hassen.jpg"
 solutions:
 - Governance
-- Stabilization
-- Fragile States
-- Peace-building and State-building
+- Peace and Stability
 regions:
 - Sub-Saharan Africa
 ---

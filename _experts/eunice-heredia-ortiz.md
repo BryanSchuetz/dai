@@ -9,7 +9,7 @@ summary: Specializing in public finance, Eunice Heredia-Ortiz has helped governm
 job-title: Senior Development Specialist, Public Finance
 image: https://assetify-dai.com/experts/innereunice_0.jpg
 solutions:
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Governance
 - 
 regions:

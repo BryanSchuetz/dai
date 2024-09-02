@@ -10,8 +10,7 @@ job-title: Senior Technical Advisor, Climate, Natural Resources, and Private Sec
   Engagement
 image: "/uploads/Barry%20Flaming%20pic%202.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Worldwide
 ---

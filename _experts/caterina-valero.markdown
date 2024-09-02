@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 - Governance
 - Workforce Development and Youth
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 - 
 - 
 - 

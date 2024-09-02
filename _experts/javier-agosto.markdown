@@ -10,9 +10,9 @@ job-title: Chief of Party
 image: "/uploads/web%20Javier%20Agosto.jpg"
 solutions:
 - Governance
-- Legislative Strengthening
+- Democratic Institutions
 - Local Governance and Decentralization
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 regions:
 - Latin America and the Caribbean
 ---

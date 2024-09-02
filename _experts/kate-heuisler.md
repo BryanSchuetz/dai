@@ -6,7 +6,7 @@ summary: Kate Heuisler is Chief of Party for the Mozambique SPEED project.
 job-title: Chief of Party, Mozambique SPEED
 image: "/uploads/New%20Kate.jpg"
 solutions:
-- Fragile States
+- Governance
 - Economic Growth
 - Digital Acceleration
 - Innovation and Entrepreneurship

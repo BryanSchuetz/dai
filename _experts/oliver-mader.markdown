@@ -10,10 +10,10 @@ job-title: Practice Leader, Governance, European Union Business Unit
 image: "/uploads/Oliver%20Mader%20website.jpg"
 solutions:
 - Governance
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 - Institutions Building and Policy Reform
-- Public Administration, Civil Service Reform, and Human Resources Management
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Administration Reforms
+- Public Financial Management
 regions:
 - Worldwide
 ---

@@ -8,7 +8,7 @@ summary: 'Sunil Kumar Das brings more than 30 years of experience in Nepal''s wa
 job-title: Chief of Party, USAID Nepal Karnali Water Activity
 image: "/uploads/Sunil%20Das.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific

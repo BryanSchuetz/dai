@@ -10,7 +10,7 @@ image: "/uploads/Itai%20Makanda.png"
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Fragile States
+- Governance
 regions:
 - Sub-Saharan Africa
 ---

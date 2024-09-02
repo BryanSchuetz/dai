@@ -10,9 +10,8 @@ image: "/uploads/Kayte%20Meola.jpg"
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
-- Stabilization
-- Stability
-- Fragile States
+- Peace and Stability
+- Governance
 - Natural Resource Management
 regions:
 - Worldwide

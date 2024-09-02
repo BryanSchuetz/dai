@@ -7,10 +7,9 @@ summary: 'Ella Hoxha is a senior development professional with more than 20 year
 job-title: Chief of Party, ASEAN-USAID Partnership Program
 image: "/uploads/Ella%20Hoxha.jpg"
 solutions:
-- Climate
+- Climate and Environment
 - Energy
 - Global Health
-- Environment
 regions:
 - Asia and the Pacific
 ---

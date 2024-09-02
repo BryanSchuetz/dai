@@ -7,7 +7,7 @@ summary: Doreen Erfe is the Resources Mobilization Specialist for the Philippine
 job-title: 'Global Practice Specialist, Resources Mobilization '
 image: "/uploads/Doreen%20Erfe.jpg"
 solutions:
-- Environment
+- Climate and Environment
 - Natural Resource Management
 - Water Security, Sanitation, and Hygiene
 regions:

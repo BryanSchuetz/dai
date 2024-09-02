@@ -9,9 +9,7 @@ summary: Andres Gomez is an ecologist and veterinarian with over 20 years of exp
 job-title: Senior Principal Specialist
 image: "/uploads/Gomez,%20Andres.jpg"
 solutions:
-- Environment
-- Climate
-- 
+- Climate and Environment
 regions:
 - Worldwide
 ---

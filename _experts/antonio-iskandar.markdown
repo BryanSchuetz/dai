@@ -11,7 +11,7 @@ job-title: 'Global Practice Lead, Security, Transparency, Accountability, and Ru
 image: "/uploads/New%20Antonio.jpg"
 solutions:
 - Governance
-- Justice, Citizen Security, and Rule of Law
+- Justice, Security, and Rule of Law
 - Anti-corruption, Transparency, and Accountability
 regions:
 - Latin America and the Caribbean

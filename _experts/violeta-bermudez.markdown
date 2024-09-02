@@ -8,7 +8,7 @@ summary: Violeta Bermudez has more than 37 years of experience in international 
 job-title: Chief of Party, Peru Prevent
 image: "/uploads/Violeta%20Bermudez.jpg"
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Latin America and the Caribbean
 ---

@@ -10,7 +10,7 @@ job-title: 'Senior Advisor and Development Economist '
 image: "/uploads/PottebaumD_Bio%20Photo%20A0047%209Mar23.jpg"
 solutions:
 - Governance
-- Countering Extremism
+- Peace and Stability
 - Local Governance and Decentralization
 regions:
 - Asia and the Pacific

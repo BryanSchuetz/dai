@@ -8,8 +8,7 @@ summary: Declan Sharkey is an experienced international project manager and stra
 job-title: Senior Manager, Climate & Environment
 image: "/uploads/Sharkey,%20Declan%20headshot.jpg"
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 regions:
 - Worldwide
 ---

@@ -10,10 +10,9 @@ job-title: Advisor, Safeguarding, Gender, Equity, and Social Inclusion
 image: "/uploads/new%20Sarah%20Maguire.jpg"
 solutions:
 - Governance
-- Fragile States
 - Gender and Social Inclusion
 - Law and Justice
-- Security and Justice
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa

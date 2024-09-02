@@ -10,7 +10,7 @@ image: https://assetify-dai.com/experts/EnriqueInner.jpg
 solutions:
 - Decentralization and Local Government Management
 - Institutional and Policy Reform
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Governance
 regions:
 - Latin America and the Caribbean

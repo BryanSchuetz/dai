@@ -11,8 +11,7 @@ image: "/uploads/Leslie%20Gonzalez.jpg"
 solutions:
 - Gender and Social Inclusion
 - Governance
-- Stability
-- Fragile States
+- Peace and Stability
 regions:
 - Worldwide
 ---

@@ -10,8 +10,8 @@ image: https://assetify-dai.com/experts/KathorInner.jpg
 solutions:
 - Governance
 - 
-- Fragile States
-- Security and Justice
+- Governance
+- Peace and Stability
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

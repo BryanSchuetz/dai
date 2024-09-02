@@ -9,10 +9,10 @@ job-title: 'Chief of Party, Ukraine Promoting Integrity in the Public Sector Act
 image: https://assetify-dai.com/experts/Dimitroff%2C%20Peter%20inner.jpg
 solutions:
 - Governance
-- Peace-Building and Political Transition
+- Peace and Stability
 - Gender and Social Inclusion
 - Institutional and Policy Reform
-- Legislative Strengthening
+- Democratic Institutions
 - Anti-corruption, Transparency, and Accountability
 regions:
 - Eastern Europe and Central Asia

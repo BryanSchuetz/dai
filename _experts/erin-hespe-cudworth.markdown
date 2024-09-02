@@ -9,8 +9,7 @@ summary: 'Erin Hespe Cudworth is a development professional with more than 15 ye
 job-title: Principal Specialist, Climate, Land, and Natural Resources
 image: "/uploads/sm%20Erin%20Hespe%20Cudworth.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 - Land Tenure and Property Rights
 - Natural Resource Management
 regions:

@@ -9,11 +9,7 @@ solutions:
 - Economic Growth
 - Governance
 - Natural Resource Management
-- Fragile States
-- Stabilization
-- Security and Justice
-- Countering Extremism
-- Peace-Building and Political Transition
+- Peace and Stability
 regions:
 - Worldwide
 layout: expert

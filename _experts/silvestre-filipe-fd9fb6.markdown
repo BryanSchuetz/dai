@@ -9,8 +9,8 @@ image: "/uploads/Silvestre%20Filipe.jpg"
 solutions:
 - Governance
 - Local Governance and Decentralization
-- Stabilization
-- Fragile States
+- Peace and Stability
+- Governance
 regions:
 - Sub-Saharan Africa
 ---

@@ -9,12 +9,8 @@ job-title: Chief of Party, Youth Resilience to Crime and Violence in the Caribbe
   Activity
 image: "/uploads/Phelps%20Feeley.jpg"
 solutions:
-- Fragile States
 - Governance
-- Peace-Building and Political Transition
-- Countering Extremism
-- Security and Justice
-- Stabilization
+- Peace and Stability
 regions:
 - Latin America and the Caribbean
 ---

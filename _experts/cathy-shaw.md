@@ -8,8 +8,7 @@ summary: Cathy Shaw is Director of DAI UK's Evidence, Learning & TA Facilities P
 job-title: Director, Evidence, Learning & TA Facilities
 image: "/uploads/Cathy%20Shaw%202023-242.jpg"
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Worldwide
 - 

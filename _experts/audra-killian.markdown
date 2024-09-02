@@ -8,7 +8,7 @@ job-title: 'Senior Specialist, Public Financial Management '
 image: "/uploads/Audra%20Killian.jpg"
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions:
 - Worldwide
 articles:

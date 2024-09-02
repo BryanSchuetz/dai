@@ -9,7 +9,7 @@ job-title: Project Management and Advisor
 image: https://assetify-dai.com/experts/PeterRossINNER.jpg
 solutions:
 - Governance
-- Legislative Strengthening
+- Democratic Institutions
 regions:
 - Sub-Saharan Africa
 layout: expert

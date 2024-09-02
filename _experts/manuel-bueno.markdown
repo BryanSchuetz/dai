@@ -8,8 +8,9 @@ summary: Manuel Bueno is a Senior Lead for Climate Finance in the Finance, Inves
 job-title: Senior Lead, Climate Finance
 image: "/uploads/sm%20Manuel%20Bueno%20headshot.jpg"
 solutions:
-- Climate
+- Climate and Environment
 - Finance and Investment
+- Climate Finance
 regions:
 - Worldwide
 ---

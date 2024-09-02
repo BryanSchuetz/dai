@@ -7,9 +7,9 @@ summary: Nandi Hall is Director of Economic Growth, with more than 15 years of e
 job-title: Senior Director, Economic Growth
 image: "/uploads/Hall,%20Nandi%204.jpg"
 solutions:
-- Peace-Building and Political Transition
+- Peace and Stability
 - Economic Growth
-- Fragile States
+- Governance
 - Sustainable and Accountable Health Services
 - Gender and Social Inclusion
 regions:

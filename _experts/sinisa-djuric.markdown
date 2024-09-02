@@ -8,9 +8,9 @@ job-title: Associate Director, Governance, European Union Business Unit
 image: "/uploads/Sinisa-Djuric%20website%20copy.jpg"
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Local Governance and Decentralization
-- Public Administration, Civil Service Reform, and Human Resources Management
+- Public Administration Reforms
 regions:
 - Worldwide
 ---

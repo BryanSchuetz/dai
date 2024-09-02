@@ -10,10 +10,8 @@ summary: John Sampson has more than 17 years of experience leading complex, high
 job-title: Senior Director, Eastern and Southern Africa Portfolio
 image: "/uploads/John%20Sampson.jpg"
 solutions:
-- Fragile States
-- Stabilization
-- Peace-Building and Political Transition
-- Countering Extremism
+- Governance
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 layout: expert
