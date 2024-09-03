@@ -11,7 +11,8 @@ solutions:
 - Governance
 - Peace and Stability
 - Gender and Social Inclusion
-- Institutional and Policy Reform
+- Human Development
+- Public Administration Reforms
 - Democratic Institutions
 - Anti-corruption, Transparency, and Accountability
 regions:

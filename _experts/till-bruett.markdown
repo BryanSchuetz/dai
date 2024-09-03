@@ -9,7 +9,7 @@ job-title: Senior Director, Finance, Investment and Trade
 image: "/uploads/Till%20Bruett%20headshot.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Trade
 regions:
 - Worldwide

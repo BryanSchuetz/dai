@@ -10,7 +10,7 @@ job-title: Chief of Party, Vietnam Sustainable Forest Management Activity
 image: "/uploads/Abraham%20Guillen.jpg"
 solutions:
 - Climate and Environment
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

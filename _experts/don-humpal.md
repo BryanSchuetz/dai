@@ -9,7 +9,7 @@ job-title: 'Global Practice Specialist, Agriculture and Market Systems '
 image: https://assetify-dai.com/experts/Humpal_Inner.jpg
 solutions:
 - Economic Growth
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa

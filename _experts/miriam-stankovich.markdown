@@ -9,8 +9,8 @@ summary: 'Miriam Stankovich has rich research experience in leading complex proj
 job-title: Principal Digital Policy Specialist, Center for Digital Acceleration
 image: "/uploads/Mimi.jpg"
 solutions:
-- Digital Acceleration
-- Digital Strategy
+- Digital Development
+- Ditital Strategy and Advisory
 regions:
 - Worldwide
 articles:

@@ -11,7 +11,7 @@ image: "/uploads/Juan.jpg"
 solutions:
 - Economic Growth
 - Trade
-- Supply Chain
+- Supply Chain Management
 regions:
 - Sub-Saharan Africa
 - 

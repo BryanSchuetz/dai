@@ -10,7 +10,6 @@ job-title: Senior Lead Specialist, Resilience and Stability
 image: "/uploads/Hind%20Ausley.jpg"
 solutions:
 - Governance
-- Conflict and Vulnerability Analysis
 - Peace and Stability
 regions:
 - Worldwide

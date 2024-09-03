@@ -9,7 +9,7 @@ summary: While in graduate school for international development, Carmen Conley w
 job-title: Global Practice Leader, Service Delivery and Institutional Reform
 image: https://assetify-dai.com/experts/Lane_Inner.jpg
 solutions:
-- Institutional and Policy Reform
+- Public Administration Reforms
 - Governance
 - Public Financial Management
 - Anti-corruption, Transparency, and Accountability

@@ -8,7 +8,7 @@ job-title: Director, Health Security
 image: "/uploads/Janine%20Mitchell2022v.02.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 regions:
 - Worldwide
 ---

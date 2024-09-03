@@ -8,13 +8,10 @@ job-title: Trade Advisor, USAID Africa Trade and Investment Activity
 image: "/uploads/Bhairav%20Raja.png"
 solutions:
 - Economic Growth
-- Finance and Investment
-- Market Systems and Value Chain
-- 
-- 
+- Financial Services
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
-- 
 articles:
 - name: 'Opening the Tap: A Coordinated Approach to Facilitating Green Finance for
     SMEs in Frontier and Emerging Markets'

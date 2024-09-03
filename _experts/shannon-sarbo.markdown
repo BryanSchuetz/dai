@@ -9,7 +9,7 @@ job-title: Deputy Chief of Party, Policy Leadership, Interactions, Networks, and
   (LINK) project
 image: "/uploads/shannon%20sarbo.jpg"
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Sub-Saharan Africa

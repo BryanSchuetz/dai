@@ -10,8 +10,8 @@ solutions:
 - Peace and Stability
 - Economic Growth
 - Governance
-- Sustainable and Accountable Health Services
 - Gender and Social Inclusion
+- Human Development
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa

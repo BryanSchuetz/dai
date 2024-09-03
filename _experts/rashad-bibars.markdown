@@ -10,9 +10,9 @@ job-title: Principal Global Practice Specialist, Private Sector Development and 
 image: "/uploads/Rashad%20Bibars.jpg"
 solutions:
 - Economic Growth
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 - Trade
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions:
 - Worldwide
 ---

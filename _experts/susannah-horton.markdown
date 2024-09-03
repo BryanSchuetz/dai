@@ -7,8 +7,8 @@ summary: 'Susannah Horton is the Cybersecurity and Digital Policy Practice Lead 
 job-title: Practice Lead, Cybersecurity and Digital Policy, Center for Digital Acceleration
 image: "/uploads/Susannah%20Horton_headshot.jpg"
 solutions:
-- Digital Acceleration
-- Digital Strategy
+- Digital Development
+- Ditital Strategy and Advisory
 - 
 regions:
 - Worldwide

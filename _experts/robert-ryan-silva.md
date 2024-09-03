@@ -9,8 +9,7 @@ job-title: Senior Portfolio Director, Asia Pacific Region
 image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
 - Global Health
-- Digital Acceleration
-- Technology Research and Development
+- Digital Development
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

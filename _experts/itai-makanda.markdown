@@ -8,7 +8,7 @@ summary: Itai Makanda is an agricultural development professional with experienc
 job-title: Chief of Party, Resilience through Agriculture in South Sudan Activity
 image: "/uploads/Itai%20Makanda.png"
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 - Governance
 regions:

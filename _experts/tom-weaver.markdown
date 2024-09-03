@@ -8,8 +8,8 @@ job-title: Team Leader, Fleming Fund, Indonesia
 image: "/uploads/Weaver,T_headshot%20copy.png"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
-- Supply Chain
+- Health Security
+- Supply Chain Management
 regions:
 - Asia and the Pacific
 ---

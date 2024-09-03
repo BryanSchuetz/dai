@@ -9,7 +9,7 @@ job-title: Senior Global Practice Specialist, Climate Change and Natural Resourc
 image: "/uploads/Lorine%20Giangola.jpg"
 solutions:
 - Climate and Environment
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Worldwide
 ---

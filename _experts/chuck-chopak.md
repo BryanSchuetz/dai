@@ -10,7 +10,7 @@ job-title: 'Senior Lead Specialist, Resilience and Stability '
 image: "/uploads/new%20Chuck%20Chopak.JPG"
 solutions:
 - Governance
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Peace and Stability
 regions:
 - Worldwide

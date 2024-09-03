@@ -11,7 +11,7 @@ image: "/uploads/Nilu.jpg"
 solutions:
 - Climate and Environment
 - Water Security, Sanitation, and Hygiene
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Governance
 regions:
 - Asia and the Pacific

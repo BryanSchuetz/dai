@@ -9,7 +9,7 @@ job-title: Chief of Party, Bangladesh Systems Strengthening for One Health
 image: "/uploads/NitishDebnath%20pic.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 regions:
 - Asia and the Pacific
 articles:

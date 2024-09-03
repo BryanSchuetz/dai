@@ -8,7 +8,7 @@ job-title: Chief of Party, ASEAN-USAID Partnership Program
 image: "/uploads/Ella%20Hoxha.jpg"
 solutions:
 - Climate and Environment
-- Energy
+- Clean Energy
 - Global Health
 regions:
 - Asia and the Pacific

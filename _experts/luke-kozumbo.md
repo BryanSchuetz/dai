@@ -12,7 +12,7 @@ solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
 - Social Strategy
-- Supply Chain
+- Supply Chain Management
 regions:
 - 
 - 

@@ -10,13 +10,8 @@ job-title: Senior Director, Center for Digital Acceleration
 image: "/uploads/Anand%20Varghese_Edited.jpg"
 solutions:
 - Governance
-- Digital Acceleration
-- Digital Strategy
-- Insights for Emerging Markets
-- Human Centered Design
-- Digital Trainings
-- 
-- 
+- Digital Development
+- Ditital Strategy and Advisory
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

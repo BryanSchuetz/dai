@@ -8,7 +8,7 @@ job-title: Global Health Lead for DAI UK
 image: "/uploads/Charlotte%20Laurence%20Dec%202020%20site.jpg"
 solutions:
 - Global Health
-- Health Governance
+- Health Systems
 regions:
 - Sub-Saharan Africa
 ---

@@ -8,7 +8,7 @@ job-title: Director, Centre for Local Business Development, Guyana
 image: "/uploads/ngp%20(002)-18bbc4.jpg"
 solutions:
 - Sustainable Business
-- Supply Chain
+- Supply Chain Management
 regions:
 - Latin America and the Caribbean
 order: 3

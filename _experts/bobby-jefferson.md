@@ -9,10 +9,10 @@ job-title: Vice President and Global Head of Diversity, Equity, Engagement, and 
 image: "/uploads/Bobby%201.jpg"
 solutions:
 - Global Health
-- Innovation and Entrepreneurship
-- Digital Strategy
+- Entrepreneurship and Innovation
+- Ditital Strategy and Advisory
 - Data for Decisions
-- Supply Chain
+- Supply Chain Management
 layout: expert
 ---
 

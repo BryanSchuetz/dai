@@ -9,7 +9,7 @@ job-title: Technical Lead, Reproductive, Maternal, Newborn, Child and Adolescent
 image: "/uploads/PQ-photo-2024-73971c.jpg"
 solutions:
 - Global Health
-- Health Equity
+- Health Systems
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific

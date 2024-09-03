@@ -9,7 +9,7 @@ job-title: Senior Specialist, Health Security
 image: "/uploads/sm%20Abby%20Gross.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 regions:
 - Worldwide
 ---

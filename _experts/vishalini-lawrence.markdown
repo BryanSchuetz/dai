@@ -11,8 +11,8 @@ solutions:
 - Governance
 - Economic Growth
 - Gender and Social Inclusion
+- Human Development
 - Peace and Stability
-- Conflict and Vulnerability Analysis
 regions:
 - Worldwide
 ---

@@ -10,8 +10,7 @@ job-title: Senior Global Health Specialist
 image: "/uploads/Rachel%20Couper.jpg"
 solutions:
 - Global Health
-- Health Governance
-- supply chain
+- Health Systems
 regions:
 - Worldwide
 ---

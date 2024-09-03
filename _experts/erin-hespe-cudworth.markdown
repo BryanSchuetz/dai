@@ -11,7 +11,7 @@ image: "/uploads/sm%20Erin%20Hespe%20Cudworth.jpg"
 solutions:
 - Climate and Environment
 - Land Tenure and Property Rights
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Worldwide
 ---

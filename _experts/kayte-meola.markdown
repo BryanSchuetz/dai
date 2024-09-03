@@ -10,9 +10,10 @@ image: "/uploads/Kayte%20Meola.jpg"
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
+- Human Development
 - Peace and Stability
 - Governance
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Worldwide
 ---

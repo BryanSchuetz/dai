@@ -7,7 +7,7 @@ summary: Rachel Chang is a Digital Specialist for DAI’s Center for Digital Acc
 job-title: 'Digital Specialist, Center for Digital Acceleration '
 image: "/uploads/Rachel%20Chang.jpeg"
 solutions:
-- Digital Acceleration
+- Digital Development
 regions:
 - Worldwide
 ---

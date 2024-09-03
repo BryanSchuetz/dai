@@ -9,7 +9,7 @@ job-title: Principal Specialist, Finance, Investment, and Trade practice
 image: "/uploads/sm%20Amanda%20Bartels.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Climate Finance
 - Climate and Environment
 regions:

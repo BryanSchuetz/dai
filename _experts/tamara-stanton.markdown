@@ -6,9 +6,8 @@ summary: 'Tamara Stanton is a Senior Advisor within DAI’s USG Business Unit. '
 job-title: Senior Advisor
 image: "/uploads/Tamara.JPG"
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Economic Growth
-- Technology Research and Development
 regions:
 - Worldwide
 ---

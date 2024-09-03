@@ -9,6 +9,7 @@ job-title: Monitoring, Evaluation, and Learning Team Leader, Nigeria Partnership
   Learning for All (PLANE)
 image: "/uploads/Fatima%20Adamu%20dai%20site.jpg"
 solutions:
+- Human Development
 - Gender and Social Inclusion
 - Education
 - Global Health

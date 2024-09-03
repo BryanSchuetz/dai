@@ -11,6 +11,7 @@ image: "/uploads/new%20Sarah%20Maguire.jpg"
 solutions:
 - Governance
 - Gender and Social Inclusion
+- Human Development
 - Law and Justice
 - Peace and Stability
 regions:

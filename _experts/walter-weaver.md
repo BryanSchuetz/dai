@@ -9,7 +9,7 @@ image: "/uploads/Walter%20Weaver%20DAIalumni276.jpg"
 solutions:
 - Climate and Environment
 - Water Security, Sanitation, and Hygiene
-- Energy
+- Clean Energy
 regions:
 - Worldwide
 layout: expert

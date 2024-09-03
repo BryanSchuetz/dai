@@ -7,8 +7,8 @@ summary: 'Connor MacKenzie is a Digital Specialist on the Digital Strategy and A
 job-title: Digital Specialist, Center for Digital Acceleration
 image: "/uploads/Connor%20MacKenzie.png"
 solutions:
-- Digital Strategy
-- Digital Acceleration
+- Ditital Strategy and Advisory
+- Digital Development
 regions:
 - Worldwide
 ---

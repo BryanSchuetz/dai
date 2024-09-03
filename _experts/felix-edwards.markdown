@@ -7,6 +7,7 @@ job-title: Director, Delivery, Human Development
 image: "/uploads/FelixEdwards-b5184c.jpg"
 solutions:
 - Education
+- Human Development
 - Governance
 regions:
 - Worldwide

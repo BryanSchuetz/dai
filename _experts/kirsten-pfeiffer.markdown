@@ -8,8 +8,7 @@ job-title: 'Deputy Chief of Party, USAID Ukraine Economic Resilience Activity '
 image: "/uploads/Kirsten%20Pfeiffer.png"
 solutions:
 - Economic Growth
-- Agriculture and Food Security
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 regions:
 - Eastern Europe and Central Asia
 articles:

@@ -8,7 +8,7 @@ job-title: Senior Practice Specialist, Global Health
 image: "/uploads/Abigail%20Kaplan%20Ramage.jpg"
 solutions:
 - Global Health
-- Health Equity
+- Health Systems
 regions:
 - Worldwide
 ---

@@ -8,8 +8,8 @@ image: "/uploads/New%20Kate.jpg"
 solutions:
 - Governance
 - Economic Growth
-- Digital Acceleration
-- Innovation and Entrepreneurship
+- Digital Development
+- Entrepreneurship and Innovation
 regions:
 - Sub-Saharan Africa
 layout: expert

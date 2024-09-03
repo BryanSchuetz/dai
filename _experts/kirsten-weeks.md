@@ -8,7 +8,6 @@ job-title: 'Vice President, Global Health '
 image: "/uploads/Kirsten-Weeks-website.jpg"
 solutions:
 - Global Health
-- Health and Livelihoods
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

@@ -9,7 +9,7 @@ job-title: Senior Lead Specialist, Economic Growth and Investment
 image: "/uploads/Eric%20Adams.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Climate and Environment
 - Climate Finance
 regions:

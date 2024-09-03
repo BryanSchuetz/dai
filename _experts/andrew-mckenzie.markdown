@@ -9,9 +9,9 @@ summary: 'Dr. Andrew McKenzie has more than 30 years of experience in capacity b
 job-title: Technical Co-Lead, Governance, Policy and Planning, Global Health
 image: "/uploads/Andrew%20McKenzie%20DAI%20site.jpg"
 solutions:
-- Health Governance
+- Health Systems
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 regions:
 - Sub-Saharan Africa
 articles:

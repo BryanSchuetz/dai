@@ -10,7 +10,8 @@ image: "/uploads/Zehra%20-%20square.png"
 solutions:
 - Governance
 - Education
-- Innovation and Entrepreneurship
+- Human Development
+- Entrepreneurship and Innovation
 regions:
 - Worldwide
 ---

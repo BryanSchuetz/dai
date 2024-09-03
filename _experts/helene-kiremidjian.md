@@ -8,9 +8,9 @@ summary: Hélène Kirémidjian has 10 years of professional experience in analys
 job-title: Senior Global Practice Specialist, Private Sector Development and Skills
 image: https://assetify-dai.com/experts/Helene%20Kiremidjian_Photo_inner.jpg
 solutions:
-- Energy
+- Clean Energy
 - Economic Growth
-- Supply Chain
+- Supply Chain Management
 regions:
 - Latin America and the Caribbean
 - Middle East and North Africa

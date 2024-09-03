@@ -8,7 +8,7 @@ job-title: Senior Principal Specialist, Climate, Land & Natural Resources
 image: "/uploads/Dan%20Evans%20headshot%20in%20Gorongosa.jpg"
 solutions:
 - Climate and Environment
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Land Tenure and Property Rights
 regions:
 - Worldwide

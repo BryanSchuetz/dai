@@ -10,7 +10,7 @@ image: "/uploads/Alma%20Porciuncula.jpg"
 solutions:
 - Climate and Environment
 - Water Security, Sanitation, and Hygiene
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Asia and the Pacific
 articles:

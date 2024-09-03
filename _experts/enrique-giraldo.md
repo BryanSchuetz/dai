@@ -9,7 +9,7 @@ job-title: 'Chief of Party, El Salvador Water Services Project '
 image: https://assetify-dai.com/experts/EnriqueInner.jpg
 solutions:
 - Decentralization and Local Government Management
-- Institutional and Policy Reform
+- Public Administration Reforms
 - Public Financial Management
 - Governance
 regions:

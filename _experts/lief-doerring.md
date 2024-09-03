@@ -9,8 +9,7 @@ job-title: Senior Director
 image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 solutions:
 - Climate and Environment
-- Agriculture and Food Security
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Worldwide

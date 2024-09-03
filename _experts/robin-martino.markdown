@@ -10,7 +10,7 @@ job-title: 'Chief of Party, Integrated Natural Resource Management project '
 image: "/uploads/Robin%20Martino.jpg"
 solutions:
 - Climate and Environment
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Worldwide
 ---

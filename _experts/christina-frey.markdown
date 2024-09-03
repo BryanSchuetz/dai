@@ -10,7 +10,7 @@ job-title: Director, Governance
 image: "/uploads/ChristinaFreyPortal.jpg"
 solutions:
 - Governance
-- Institutional and Policy Reform
+- Public Administration Reforms
 - Voice and Accountability
 regions:
 - Sub-Saharan Africa

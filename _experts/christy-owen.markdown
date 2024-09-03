@@ -11,7 +11,7 @@ solutions:
 - Climate and Environment
 - Climate Finance
 - Land Tenure and Property Rights
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Worldwide
 articles:

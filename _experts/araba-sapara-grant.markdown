@@ -6,7 +6,7 @@ summary: 'Araba Sapara-Grant is a Manager with DAI’s Sustainable Business Grou
 job-title: Manager, Sustainable Business Group
 image: "/uploads/Araba.jpg"
 solutions:
-- Digital Acceleration
+- Digital Development
 - Sustainable Business
 regions:
 - Worldwide

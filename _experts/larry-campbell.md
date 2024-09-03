@@ -7,7 +7,7 @@ summary: Larry Campbell has been at DAI for more than 16 years. He oversees the 
 job-title: Chief Information Officer
 image: https://assetify-dai.com/experts/LarryInner2.jpg
 solutions:
-- Digital Acceleration
+- Digital Development
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

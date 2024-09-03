@@ -8,9 +8,8 @@ summary: Since joining DAI in 2000, Colleen Green has served as a microfinance s
 job-title: Vice President, Economic Growth
 image: "/uploads/new%20colleen.jpg"
 solutions:
-- Finance and Investment
+- Financial Services
 - Economic Growth
-- Insights for Emerging Markets
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa

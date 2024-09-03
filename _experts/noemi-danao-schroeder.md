@@ -8,7 +8,7 @@ summary: 'Noemi Danao-Schroeder first worked internationally as a summer volunte
 job-title: Vice President, Implementation, USG Programs
 image: "/uploads/Noemi%20Headshot%20May2019.jpg"
 solutions:
-- Finance and Investment
+- Financial Services
 - Governance
 regions:
 - Worldwide

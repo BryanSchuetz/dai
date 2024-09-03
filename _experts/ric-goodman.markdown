@@ -9,7 +9,7 @@ summary: Ric Goodman’s focus is on solutions to extreme poverty and vulnerabil
 job-title: Director, Social Protection & Resilience
 image: "/uploads/Ric%20Goodman%202023-66.jpg"
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Governance
 - Economic Growth
 regions:

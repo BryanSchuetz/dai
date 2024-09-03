@@ -8,7 +8,7 @@ summary: James Naughton is Head of Development Finance and Investment based in o
 job-title: Head, Development Finance and Investment
 image: "/uploads/James%20Naughton.jpg"
 solutions:
-- Finance and Investment
+- Financial Services
 - Climate Finance
 - Economic Growth
 regions:

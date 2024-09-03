@@ -10,7 +10,7 @@ job-title: Governance Adviser, Fleming Fund Pakistan
 image: "/uploads/Ali%20Shan%20Azhar.jpg"
 solutions:
 - Global Health
-- Health Governance
+- Health Systems
 regions:
 - Asia and the Pacific
 ---

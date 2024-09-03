@@ -8,10 +8,10 @@ summary: 'Kevin Carlucci is a development professional with more than 20 years o
 job-title: Senior Director, Climate, Land, and Natural Resources
 image: "/uploads/Kevin%20Carlucci%20website.jpg"
 solutions:
-- Energy
+- Clean Energy
 - Climate and Environment
 - Climate Finance
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Land Tenure and Property Rights
 - 
 regions:

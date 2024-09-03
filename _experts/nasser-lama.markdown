@@ -9,7 +9,7 @@ image: "/uploads/Nasser%20Lama%20old.jpg"
 solutions:
 - Economic Growth
 - Trade
-- Finance and Investment
+- Financial Services
 regions:
 - Middle East and North Africa
 ---

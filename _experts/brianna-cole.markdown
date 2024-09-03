@@ -9,7 +9,7 @@ image: "/uploads/Brianna%20Cole.jpg"
 solutions:
 - Economic Growth
 - Trade
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 regions:
 - Worldwide
 ---

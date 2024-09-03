@@ -8,8 +8,8 @@ job-title: Chief of Party, USAID Southern Africa Mobilizing Investment Project
 image: "/uploads/Robin%20Padberg-557854.jpg"
 solutions:
 - Economic Growth
-- Business Environment Reform
-- Finance and Investment
+- Private Sector Development
+- Financial Services
 regions:
 - Sub-Saharan Africa
 ---

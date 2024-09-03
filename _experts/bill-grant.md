@@ -10,8 +10,8 @@ image: "/uploads/Bill%20photo%203.jpg"
 solutions:
 - Market Insight and Development
 - Economic Growth
-- Market Systems and Value Chain
-- Supply Chain
+- Agriculture and Market Systems
+- Supply Chain Management
 regions:
 - Sub-Saharan Africa
 articles:

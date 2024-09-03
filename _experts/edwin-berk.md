@@ -7,11 +7,11 @@ summary: 'Edwin Berk has made a career of building the businesses of professiona
 job-title: Senior Director, Business Development Operations
 image: https://assetify-dai.com/experts/Berk_Inner_0.jpg
 solutions:
-- Agriculture and Food Security
-- Business Environment Reform
+- Agriculture and Market Systems
+- Private Sector Development
 - Economic Growth
 - Governance
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Voice and Accountability
 regions:
 - Eastern Europe and Central Asia

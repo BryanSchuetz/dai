@@ -9,8 +9,8 @@ job-title: 'Senior Director, Eastern Europe Regional Portfolio  '
 image: "/uploads/Mark%20McCord.jpg"
 solutions:
 - Economic Growth
-- Business Environment Reform
-- Innovation and Entrepreneurship
+- Private Sector Development
+- Entrepreneurship and Innovation
 regions:
 - Eastern Europe and Central Asia
 ---

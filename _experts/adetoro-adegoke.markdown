@@ -9,6 +9,7 @@ job-title: Practice Leader, Health Service Delivery, Global Health
 image: "/uploads/Adetoro%20Adegoke%20DAI%20site-0ddbb5.jpg"
 solutions:
 - Global Health
+- Human Development
 - Gender and Social Inclusion
 regions:
 - Sub-Saharan Africa

@@ -9,7 +9,7 @@ job-title: Chief Operating Officer, DAI Magister
 image: "/uploads/Divij%20Ruparelia%20profile.jpg"
 solutions:
 - DAI Capital
-- Finance and Investment
+- Financial Services
 regions:
 - Sub-Saharan Africa
 ---

@@ -7,7 +7,7 @@ summary: 'As a Senior Digital Specialist at DAI’s Center for Digital Accelerat
 job-title: 'Senior Digital Specialist '
 image: "/uploads/Inta%20Plostins.png"
 solutions:
-- Digital Acceleration
+- Digital Development
 regions:
 - Worldwide
 articles:

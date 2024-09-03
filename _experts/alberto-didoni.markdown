@@ -9,7 +9,7 @@ job-title: Senior Global Practice Specialist, Finance and Investment
 image: "/uploads/Alberto.png"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Worldwide
 ---

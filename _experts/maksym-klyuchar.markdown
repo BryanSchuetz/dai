@@ -9,7 +9,7 @@ job-title: Senior Principal Specialist, Anti-corruption
 image: "/uploads/Maksym%20Klyuchar.jpg"
 solutions:
 - Governance
-- Institutional and Policy Reform
+- Public Administration Reforms
 - Anti-corruption, Transparency, and Accountability
 regions:
 - Worldwide

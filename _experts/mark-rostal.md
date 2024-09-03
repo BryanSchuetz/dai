@@ -9,7 +9,7 @@ job-title: Senior Technical Specialist, Finance and Investment
 image: "/uploads/Mark%20Rostal.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Worldwide
 - 

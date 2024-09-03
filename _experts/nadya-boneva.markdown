@@ -10,7 +10,7 @@ job-title: Senior Global Practice Leader, Planet
 image: "/uploads/Nadya%20Boneva%20headshot.png"
 solutions:
 - Climate and Environment
-- Energy
+- Clean Energy
 regions:
 - Worldwide
 articles:

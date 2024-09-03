@@ -9,7 +9,7 @@ job-title: 'Chief of Party, Creando Mi Futuro Aquí '
 image: "/uploads/author.jpg"
 solutions:
 - Governance
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 - 
 regions:
 - Latin America and the Caribbean

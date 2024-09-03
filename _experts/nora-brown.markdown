@@ -10,7 +10,7 @@ job-title: Chief of Party, INVEST
 image: "/uploads/Nora%20Brown%202019-766c5d.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - 
 regions:
 - Worldwide

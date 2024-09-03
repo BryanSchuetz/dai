@@ -7,7 +7,7 @@ job-title: Principal Global Practice Specialist, Private Sector Development and 
 image: "/uploads/Bryanna%20Millis.jpg"
 solutions:
 - Economic Growth
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 - Trade
 regions:
 - Worldwide

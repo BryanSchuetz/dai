@@ -10,7 +10,7 @@ image: https://assetify-dai.com/experts/jLeckie-INNER.jpg
 solutions:
 - Climate and Environment
 - Land Tenure and Property Rights
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

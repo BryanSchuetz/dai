@@ -10,7 +10,7 @@ image: "/uploads/caterina-b31b88.jpg"
 solutions:
 - Economic Growth
 - Governance
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 - Justice, Security, and Rule of Law
 - 
 - 

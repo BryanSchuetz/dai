@@ -8,7 +8,7 @@ job-title: 'Senior Portfolio Director, Middle East '
 image: "/uploads/Alia.jpg"
 solutions:
 - Economic Growth
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Middle East and North Africa
 - 

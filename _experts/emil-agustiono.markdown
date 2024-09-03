@@ -10,7 +10,7 @@ job-title: Senior Director, Government Engagement, Fleming Fund, Indonesia
 image: "/uploads/Dr.%20Emil%20Agustiono.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 regions:
 - Asia and the Pacific
 ---

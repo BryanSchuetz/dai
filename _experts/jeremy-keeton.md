@@ -10,8 +10,8 @@ job-title: Deputy Chief of Party, Indonesia Integrated Urban Water Sanitation an
 image: "/uploads/Jeremy%20Keeton%20new.jpg"
 solutions:
 - Climate and Environment
-- Institutional and Policy Reform
-- Natural Resource Management
+- Public Administration Reforms
+- Nature, Oceans, and Biodiversity
 - Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific

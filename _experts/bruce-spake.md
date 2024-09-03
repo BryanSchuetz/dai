@@ -8,7 +8,7 @@ image: https://assetify-dai.com/experts/Spake_Inner%20%281%29.jpg
 solutions:
 - Economic Growth
 - Governance
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Peace and Stability
 regions:
 - Worldwide

@@ -10,7 +10,7 @@ job-title: Chief of Party, Nigeria Youth-Powered Ecosystem to Advance Urban Adol
 image: "/uploads/Boladale%20Akin-Kolapo.jpg"
 solutions:
 - Global Health
-- Health Equity
+- Health Systems
 regions:
 - Sub-Saharan Africa
 ---

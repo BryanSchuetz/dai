@@ -8,7 +8,7 @@ job-title: 'Global Practice Specialist, Resources Mobilization '
 image: "/uploads/Doreen%20Erfe.jpg"
 solutions:
 - Climate and Environment
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific

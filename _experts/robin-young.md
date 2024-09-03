@@ -8,7 +8,7 @@ job-title: Chief of Party, Colombia Equitable Finance Activity
 image: "/uploads/sm%20Robin%20Young%20new.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Latin America and the Caribbean
 articles:

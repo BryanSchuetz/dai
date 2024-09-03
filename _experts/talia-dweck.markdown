@@ -9,11 +9,8 @@ summary: 'With a consistent focus on the integration of user-centered design in 
 job-title: Senior Manager, Digital Strategy and Advisory, Center for Digital Acceleration
 image: "/uploads/Talia.jpg"
 solutions:
-- Digital Acceleration
-- Digital Strategy
-- Insights for Emerging Markets
-- Human Centered Design
-- Digital Trainings
+- Digital Development
+- Ditital Strategy and Advisory
 regions:
 - Worldwide
 ---

@@ -10,6 +10,7 @@ job-title: Lead Specialist, Resilience and Stability
 image: "/uploads/Leslie%20Gonzalez.jpg"
 solutions:
 - Gender and Social Inclusion
+- Human Development
 - Governance
 - Peace and Stability
 regions:

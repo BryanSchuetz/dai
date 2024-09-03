@@ -7,7 +7,7 @@ summary: 'Zobaidul Haque Khan is a medical doctor turned epidemiologist with 39 
 job-title: Deputy Team Leader, Fleming Fund, Bangladesh
 image: "/uploads/Zobaidul%20Haque%20Khan.jpg"
 solutions:
-- Global Health Security and Pandemic Preparedness
+- Health Security
 - Global Health
 - 
 regions:

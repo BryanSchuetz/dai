@@ -10,10 +10,11 @@ job-title: Vice President, U.S. Government Programs
 image: "/uploads/michelle.jpg"
 solutions:
 - Economic Growth
-- Agriculture and Food Security
-- Sustainable Livelihoods
+- Agriculture and Market Systems
+- Climate Adaptation and Mitigation
 - Governance
 - Gender and Social Inclusion
+- Human Development
 regions:
 - Worldwide
 ---

@@ -9,9 +9,9 @@ summary: Jonathan Randall has more than 22 years of international experience man
 job-title: Chief of Party, Advancing Capacity for the Environment (ACE)
 image: "/uploads/Jonathan%20Randall.png"
 solutions:
-- Energy
+- Clean Energy
 - Climate and Environment
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

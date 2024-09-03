@@ -10,7 +10,7 @@ image: "/uploads/Darren_Saywell.jpg"
 solutions:
 - Climate and Environment
 - Water Security, Sanitation, and Hygiene
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Worldwide
 ---

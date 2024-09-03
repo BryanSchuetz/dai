@@ -10,7 +10,7 @@ job-title: Lead Specialist, Agriculture and Market Systems
 image: "/uploads/bk2.jpg"
 solutions:
 - Economic Growth
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Water Security, Sanitation, and Hygiene
 regions:
 - Worldwide

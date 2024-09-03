@@ -11,8 +11,8 @@ job-title: Senior Technical Adviser, Global Health
 image: "/uploads/New%20Rodion%20dai%20site.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
-- Health Governance
+- Health Security
+- Health Systems
 regions:
 - Sub-Saharan Africa
 ---

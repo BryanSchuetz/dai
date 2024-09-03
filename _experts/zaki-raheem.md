@@ -9,8 +9,8 @@ job-title: Lead Specialist, Enterprise Development and Entrepreneurship
 image: "/uploads/Zaki%20Raheem.png"
 solutions:
 - Economic Growth
-- Market Systems and Value Chain
-- Supply Chain
+- Agriculture and Market Systems
+- Supply Chain Management
 regions:
 - Worldwide
 articles:

@@ -9,9 +9,8 @@ summary: Danijela Kostic performs management, coordination, planning, and assess
 job-title: Senior ICT Specialist
 image: https://assetify-dai.com/experts/DanijelaMInner.jpg
 solutions:
-- Digital Acceleration
-- Innovation and Entrepreneurship
-- Technology Research and Development
+- Digital Development
+- Entrepreneurship and Innovation
 regions:
 - Worldwide
 - 

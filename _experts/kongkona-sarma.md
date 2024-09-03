@@ -9,9 +9,10 @@ job-title: Advisor
 image: "/uploads/1516355565156.jpg"
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Gender and Social Inclusion
-- Business Environment Reform
+- Human Development
+- Private Sector Development
 regions:
 - Worldwide
 articles:

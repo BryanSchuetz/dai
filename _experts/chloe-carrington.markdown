@@ -8,11 +8,8 @@ summary: 'Chloe Carrington is a Senior Consultant within DAI’s dedicated Cente
 job-title: Digital Specialist, Center for Digital Acceleration
 image: "/uploads/Chloe%20Messenger.jpg"
 solutions:
-- Digital Acceleration
-- Digital Strategy
-- Insights for Emerging Markets
-- Human Centered Design
-- Digital Trainings
+- Digital Development
+- Ditital Strategy and Advisory
 regions:
 - Worldwide
 ---

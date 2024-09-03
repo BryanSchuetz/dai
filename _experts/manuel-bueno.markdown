@@ -9,7 +9,7 @@ job-title: Senior Lead, Climate Finance
 image: "/uploads/sm%20Manuel%20Bueno%20headshot.jpg"
 solutions:
 - Climate and Environment
-- Finance and Investment
+- Financial Services
 - Climate Finance
 regions:
 - Worldwide
