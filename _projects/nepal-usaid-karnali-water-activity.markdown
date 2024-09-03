@@ -38,12 +38,13 @@ We are using a OneWater approach that knits together actors (community, municipa
 
 ## Select Results
 
-* Constructed 64 sustainable water supply and sanitation schemes, ensuring improved drinking water facilities for 12,852 individuals right at their doorsteps.
-* Collaborated with six local governments to leverage $418,582 for 64 water supply and sanitation schemes constructed during the project's second year. Similarly, the community contributed 20 percent in-kind, to an equivalent value of $210,036 in the construction of 46 water supply and sanitation schemes.
-* Established 179 Water User and Sanitation Committees, with a 66 percent representation of marginalized populations and 51 percent female membership.
-* Completed comprehensive citywide sanitation plans in seven municipalities.
-* Provided support for 20 water, sanitation, and hygiene bills at the municipal level, with 15 receiving endorsements from respective councils.
+* Constructed 161 sustainable water supply and sanitation schemes, ensuring improved drinking water facilities for 35,318 individuals right at their doorsteps.
+* Set up 25 multiple-use systems, providing micro-irrigation access to 3,150 people and covering 33.17 hectares of agricultural land.
+* Collaborated with 22 local governments to leverage $982,900 for 190 water supply and sanitation schemes constructed in the project's third year, with a 20 percent community contribution 20.
+* Established 179 water user and sanitation committees, with a 66 percent representation of marginalized populations and 51 percent female membership.
+* Completed three comprehensive citywide sanitation plans in 12 municipalities.
+* Provided support for 26 water, sanitation, and hygiene bills at the municipal level and one provincial bill in Karnali.
 * Facilitated the development of water use master plans approved by local governments in 29 municipalities.
-* Assessed 11,841 spring sources and protected 30 water sources through drainage management, fencing, plantation, recharge pit, intake, and gabion wall constructions, safeguarding 26.45 hectares of biologically significant areas.
-* Conducted 694 capacity-building trainings and events, during which 49 water users and sanitation committee members, 29 local government officials, and community members enhanced their understanding of water, sanitation, and hygiene. 
-* Continued efforts to establish and institutionalize the One Water Steering Committee in each of the four watersheds.
+* Assessed 11,841 spring sources and protected 81 water sources through drainage management, fencing, plantation, recharge pit, intake, and gabion wall constructions, safeguarding 116.65 hectares of biologically significant areas.
+* Conducted 1,972 capacity-building trainings and events, during which 44,816 people—including 179 water user and sanitation committee members and 29 local government officials—enhanced their understanding of water, sanitation, and hygiene. 
+* Established and institutionalized the One Water Steering Committee in each of the four watersheds.
