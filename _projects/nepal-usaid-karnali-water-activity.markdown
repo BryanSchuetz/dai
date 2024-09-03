@@ -14,7 +14,7 @@ solutions:
 regions: Asia and the Pacific
 country: Nepal
 promos:
-- title: 'BLOG: Water, Sanitation, and Hygiene: An Inclusive Agenda in Nepal'
+- title: 'Water, Sanitation, and Hygiene: An Inclusive Agenda in Nepal'
   link: https://dai-global-developments.com/articles/water-sanitation-and-hygiene-an-inclusive-agenda-in-nepal/
 - title: 'Returning Dignity to Nepal''s Daughters '
   link: https://daiglobal.exposure.co/returning-dignity-to-nepals-daughters
