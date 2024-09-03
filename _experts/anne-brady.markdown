@@ -12,7 +12,7 @@ regions:
 - Worldwide
 ---
 
-Anne Brady is a Senior Programme Manager for DAI's U.K. Economic Growth team with over 10 years of experience in the international development sector. She is experienced in both project delivery and has strong technical knowledge, with a particular focus on market systems development, political economy analysis (PEA), monitoring, evaluation and learning (MEL), social research methods, and private sector development.
+Anne Brady is a Senior Programme Manager for DAI's U.K. Economic Growth team with over 10 years of experience in the international development sector. She is experienced in project delivery and has strong technical knowledge, with a particular focus on market systems development, political economy analysis (PEA), monitoring, evaluation and learning (MEL), social research methods, and private sector development.
 
 Since joining DAI in 2020, Anne has worked in various management and technical roles for multi-million U.K. Foreign, Commonwealth, and Development Office (FCDO) funded programs. She has most recently managed the [Strengthening Host and Refugee Populations in Ethiopia](https://www.dai.com/our-work/projects/ethiopia-strengthening-host-and-refugee-populations-sharpe) (SHARPE), initially from the DAI Head Office and before moving to Addis Ababa to manage the SHARPE technical team. She is also the monitoring, evaluation, and learning (MEL) lead on [Climate Just Communities Malawi](https://www.dai.com/our-work/projects/malawi-climate-just-communities-malawi), a Scottish Government climate program.
 
