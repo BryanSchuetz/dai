@@ -41,7 +41,7 @@ Phase I focused on enhancing laboratory infrastructure, strengthening human reso
 
 DAI serves as the lead grantee responsible for the project's overall technical, financial, and management implementation. Fleming Fund Pakistan’s other partners include the [Liverpool School of Tropical Medicine](https://www.lstmed.ac.uk/), [Health Security Partners](https://healthsecuritypartners.org/), [Indus Hospital Health Network](https://indushospital.org.pk/), and [Shifa International Hospital](https://www.shifa.com.pk/).
 
-<iframe src="https://player.vimeo.com/video/685423252" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
+<iframe src="https://player.vimeo.com/video/1005509660" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
 ## Sample Activities
 
