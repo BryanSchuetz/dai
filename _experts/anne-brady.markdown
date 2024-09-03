@@ -5,6 +5,7 @@ lastname: Brady
 summary: Anne Brady is a Senior Programme Manager for DAI's U.K. Economic Growth team
   with over 10 years of experience in the international development sector.
 job-title: Senior Programme Manager, Economic Growth
+image: "/uploads/Brady,%20Anne%20sq.jpg"
 solutions:
 - Economic Growth
 regions:
