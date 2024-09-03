@@ -13,13 +13,13 @@ solutions:
 - Economic Growth
 - Governance
 regions: Eastern Europe and Central Asia
-country: Albania, Armenia, Azerbaijan, Bosnia and Herzegovina, Georgia, Kosovo, Moldova,
-  Montenegro, North Macedonia, Serbia, Ukraine
+country: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Kosovo,
+  Moldova, Montenegro, North Macedonia, Serbia, Ukraine
 ---
 
-The positive economic impacts for countries joining the European Union (EU) are well documented. The Advancing Commerce Connectivity and Exports Leading to Economic Readiness for Accession to the EU (ACCELERATE) program, funded by the U.S. Agency for International Development, works to advance EU market integration and support the accession of up to 12 countries, including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus. 
+Economic growth in the Western Balkans, Caucasus, Ukraine, and Moldova faces many challenges that have been exacerbated due to the impact of COVID-19 and the war in Ukraine. Russian’s invasion in particular has brought renewed energy to the European Union (EU) accession process and greater interest in Euro-Atlantic integration. The Advancing Commerce Connectivity and Exports Leading to Economic Readiness for Accession to the EU (ACCELERATE) program, funded by the U.S. Agency for International Development, works to advance EU market integration and support the accession process in up to 10 aspiring countries, including Moldova, Ukraine, and countries across the Western Balkans.  
  
-ACCELERATE works with countries to help them meet the economic, governance, and political criteria associated with accession and by addressing common economic constraints to accession on a regional basis (that is, tackling issues involving at least two countries from the Europe and Eurasia region). It also advances Euro-Atlantic integration in non-accession countries. 
+ACCELERATE works with countries to help them meet the economic, governance, and political criteria associated with accession and by addressing common economic constraints to accession on a regional basis. It also advances Euro-Atlantic integration in non-accession countries who are interested in closer ties with western markets.
  
 Our work addresses issues such as trade facilitation, access to finance, compliance with EU standards and obligations (for both public and private entities), investment transparency, public financial management, and anti-corruption measures.
   
