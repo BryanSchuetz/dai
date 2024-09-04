@@ -1,10 +1,9 @@
 ---
-title: Southeast Asia—Partnerships for Green Investment
+title: Southeast Asia—USAID Partnerships for Green Investment
 date: 2024-07-12 13:30:00 Z
-published: false
-summary: The Partnerships for Green Investment program employs nature-based solutions
-  to achieve greater emissions reduction, climate resilience, biodiversity protection,
-  inclusiveness, and benefit sharing across Southeast Asia.
+summary: The USAID Partnerships for Green Investment program employs nature-based
+  solutions to achieve greater emissions reduction, climate resilience, biodiversity
+  protection, inclusiveness, and benefit sharing across Southeast Asia.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
@@ -13,20 +12,19 @@ solutions:
 - Climate
 - Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
-country: Cambodia, Indonesia, Lao PDR, Myanmar, the Philippines, Thailand, Vietnam
+country: Cambodia, Indonesia, Lao PDR, the Philippines, Thailand, Vietnam
 ---
 
-Southeast Asia is home to some of the world’s most celebrated biodiversity and rich cultural traditions. The region is also a major global sourcing area of agricultural commodities; an estimated 90 percent of the world’s rubber, 86 percent of palm oil used globally, and 30 percent of the world’s rice are grown in the region. Additionally, Vietnam and Indonesia are two of the top coffee-producing countries in the world, grown primarily by smallholder farmers. Agricultural expansion has led to rapid deforestation and ecosystem degradation, creating an urgent need to address the interrelated climate and biodiversity crises. The path to decarbonization will require a collective response to climate change with major investments in agricultural supply chains and shared sourcing landscapes to not only transform business as usual, but also deliver equitable benefits to local communities for long-term sustainability. 
+Agricultural expansion is Southeast Asia’s biggest deforestation threat and has led to significant loss of biodiversity and disruption of ecosystems. Through the Partnerships for Green Investment activity, the U.S. Agency for International Development (USAID) works to achieve greater emissions reductions, climate resilience, biodiversity protection, inclusiveness, and the equitable sharing of benefits along the land-based supply chains such as coffee, rubber, cacao, timber, and coconut. 
 
-As part of this response, the U.S. Agency for International Development created the Partnerships for Green Investment program, which employs nature-based solutions to achieve greater emissions reduction, climate resilience, biodiversity protection, inclusiveness, and benefit sharing across Southeast Asia.
- 
-Focusing on Cambodia, Indonesia, Lao PDR, Myanmar, the Philippines, Thailand, and Vietnam, PAGI works to advance systemic change in the agricultural, forestry, and other land use sectors to reduce greenhouse gas emissions at scale through inclusive and sustainable approaches, thereby accelerating the region’s transition to net-zero economies. 
+The initiative builds on the successes of [USAID Green Invest Asia](https://www.usaid.gov/asia-regional/fact-sheets/usaid-green-invest-asia) that mobilized funds for sustainable investment to reduce a projected 156 million tons of carbon emissions from 1.7 million hectares in the land use sector across Southeast Asia. USAID Partnerships for Green Investment collaborates with private and public organizations across Southeast Asia to accelerate systemic changes in the land use sector to advance the [USAID Climate Strategy](https://www.usaid.gov/policy/climate-strategy) and the U.S. government’s [Indo-Pacific strategy](https://www.whitehouse.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf). 
+
+The team aims to mobilize sustainable investments that will result in 50 million tons of greenhouse gas emissions reduced based on 15-year projections, and 1.5 million hectares of improved natural resource management, in addition to building locally led strategic partnerships for systemic change that accelerate net-zero, nature-positive, and climate-resilient operations in the region.
 
 ![DSC07320.JPG](/uploads/DSC07320.JPG)
  
 ## Sample Activities
 
-* Form strategic partnerships with regional, local, and international organizations, platforms, and progressive private sector companies and financiers to accelerate climate and nature-positive investments.
-* Build the capacity of regional institutions to develop impactful public-private partnerships, effectively mobilize and manage resources, and share lessons and best practices to advance regional priorities.
-* Identify and catalyze capital flows for ecological restoration and regenerative agriculture.
-* Co-develop and facilitate finance for sustainable supply chain strategies and forest conservation and restoration interventions in major sourcing landscapes.
+* Increase sustainable and scalable investments in low-emission land use, biodiversity conservation, and climate resilience in agriculture, forestry, and other land use supply chains.
+* Help partners to implement credible environmental, social, and governance standards for low emissions, biodiversity conservation, and climate resilience investments. 
+* Enhance inclusive and equitable benefit sharing to local communities and smallholders from value generated by the investments and new standards.
