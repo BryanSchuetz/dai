@@ -2,9 +2,9 @@
 title: Hélène Kirémidjian
 date: 2016-01-21 22:18:00 Z
 lastname: Kirémidjian
-summary: Hélène Kirémidjian has 10 years of professional experience in analysis, design,
+summary: Hélène Kirémidjian has 15 years of professional experience in analysis, design,
   and implementation of economic growth projects focusing on value chain development
-  and business enabling environment reform.
+  and business-enabling environment reform.
 job-title: Senior Global Practice Specialist, Private Sector Development and Skills
 image: https://assetify-dai.com/experts/Helene%20Kiremidjian_Photo_inner.jpg
 solutions:
@@ -21,8 +21,8 @@ articles:
 layout: expert
 ---
 
-Hélène Kirémidjian has 10 years of professional experience in analysis, design, and implementation of economic growth projects focusing on value chain development and business enabling environment reform. She is experienced in the application of various industry analysis tools and participatory approaches, has conducted assessments of value chain constraints to private sector growth, and has led the implementation of research and technical assistance activities in the field. Currently a Voucher Program Manager for the [AVANSE program](https://www.dai.com/our-work/projects/haiti-appui-la-valorisation-du-potentiel-agricole-du-nord-la-securite-economique) in Northern Haiti, Hélène has worked in the field and in the home office.
+Hélène Kirémidjian is a Lead Technical Specialist within DAI’s Private Sector Development and Skills practice. Hélène has more than 15 years of professional experience in private sector development and market systems strengthening, including private sector engagement, enabling environment reform, sector selection, and value chain analysis in a wide range of sectors, including agriculture, tourism, and renewable energy. She has led numerous assignments in the field involving analysis and implementation of economic growth projects mainly in Northern and Sub-Saharan Africa, the Middle East, and the Caribbean, and has conducted a variety of assessments worldwide, including market systems analyses. Most recently, she has led the conduct of qualitative research on the effect of the U.S. Agency for International Development (USAID)’s COVID-19 efforts on the private sector for USAID’s Private Sector Engagement Hub as part of USAID's [Feed the Future Market Systems and Partnerships (MSP) Activity](https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp).
 
-Previously, in Morocco, for Improving Business Climate in Morocco Program (IBCM) implemented by DAI, she led the design and implementation of project activities in the solar technologies value chain that included working with stakeholders to analyze regulatory environment constraints, developing recommendations for regulatory, financial and structural reform, and facilitating the creation of the first Moroccan network of renewable energy service providers.
+From 2014 to 2018, as part of a USAID-funded Feed the Future initiative in Haiti, Hélène designed and implemented upgrading strategies in the cocoa, rice, and banana value chains and piloted, scaled up, and managed an electronic voucher system to improve producers’ access to agricultural inputs. Previously, in Morocco, for USAID's Improving Business Climate in Morocco Program, she led value chain strengthening activities in the solar technologies sector that included working with stakeholders to analyze regulatory environment constraints and facilitating the creation of the first Moroccan network of renewable energy service providers, RESOVERT.
 
-* M.S., international development, Georgetown University
+* M.S., international development and journalism, Georgetown University
