@@ -42,7 +42,7 @@ We are using a OneWater approach that knits together actors (community, municipa
 * Set up 25 multiple-use systems, providing micro-irrigation access to 3,150 people and covering 33.17 hectares of agricultural land.
 * Collaborated with 22 local governments to leverage $982,900 for 190 water supply and sanitation schemes constructed in the project's third year, with a 20 percent community contribution 20.
 * Established 179 water user and sanitation committees, with a 66 percent representation of marginalized populations and 51 percent female membership.
-* Completed three comprehensive citywide sanitation plans in 12 municipalities.
+* Completed comprehensive citywide sanitation plans in 12 municipalities.
 * Provided support for 26 water, sanitation, and hygiene bills at the municipal level and one provincial bill in Karnali.
 * Facilitated the development of water use master plans approved by local governments in 29 municipalities.
 * Assessed 11,841 spring sources and protected 81 water sources through drainage management, fencing, plantation, recharge pit, intake, and gabion wall constructions, safeguarding 116.65 hectares of biologically significant areas.
