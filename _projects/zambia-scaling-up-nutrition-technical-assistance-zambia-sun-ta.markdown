@@ -6,7 +6,7 @@ summary: 'The project engages thousands of women in maternal and child health ed
   farming practices to produce diverse, nutritious foods that are crucial to reducing
   stunting. '
 start: 2019
-end: 2024
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Global Health
