@@ -637,7 +637,7 @@
       "docTitle": "A Toolkit for Ministries of Health to Work More Effectively with Ministries of Finance",
       "docSummary": "In countries around the world, Ministries of Health (MOHs) and Ministries of Finance (MOFs) play essential roles in how health systems function and when and to whom health services are delivered. While MOHs are responsible for defining the overall direction of national health policy and the day-to-day delivery of public health services, they are dependent upon MOFs that establish overall annual funding levels and release funds necessary to finance MOH operations. As a result, MOFs wield significant control over the funding and budget flexibility of MOHs. The HFG toolkit presents a set of strategies, self-assessment methodologies, and performance management processes to help MOHs better manage their own resources and effectively communicate with MOFs. The initial version of the HFG toolkit focuses specifically on the MOH / MOF dynamic. Over time it will expand to address collaboration between MOHs and a broader set of stakeholders in the health system, including Ministries of Planning, Ministries of Social Welfare, Ministries of Labor, Parliamentary Standing Committees on Health, civil society organizations, parastatals, and regulatory bodies.",
       "organization": "Health Finance and Governance",
-      "docType": [ 
+      "docType": [
         "Guides"
       ],
       "solutions": [
@@ -1337,5 +1337,22 @@
           "docFilename": "social-protection-nutrition-guidance.pdf",
           "docThumbnail": "social-protection-nutrition-guidance_page1.jpeg",
           "year": 2022
+        },
+        {
+          "docTitle": "Pathwas of Change",
+          "docSummary": "The One Health Theory of Change was developed by the One Health High Level Expert Panel to ensure OH principles are put into practice. The ToC provides a common approach for programs through three Pathways of Change, guiding program actions in: (1) policy, advocacy, and financing; (2) organizational development, implementation, and sectoral integration; and (3) data, evidence, education, and knowledge exchange. The pathways untangle cross-sectoral aspects of OH and ensure clear actions at the national, local, and regional level.",
+          "organization": "Global Health",
+          "docType": [
+            "Guides"
+          ],
+          "solutions": [
+            "Global Health Security and Pandemic Preparedness"
+          ],
+          "technicalTerms": [
+            "Health Information, Health Systems Strengthening"
+          ],
+          "docFilename": "pathways-of-change-ohhlep.pdf",
+          "docThumbnail": "pathways-of-change-ohhlep_page1.jpeg",
+          "year": 2024
         }
 ]
