@@ -1,9 +1,9 @@
 ---
 title: Georgia—Support to the Public Defender’s Office
 date: 2023-03-28 15:58:00 Z
-summary: Our project supports the PDO to improve its ability to implement and monitor
-  human rights policies and actions and raise human rights awareness across government
-  and society.
+summary: Our project supports the Georgia Public Defender’s Office to improve its
+  ability to implement and monitor human rights policies and actions and raise human
+  rights awareness across government and society.
 start: 2023
 end: 2025
 client: European Union
@@ -27,3 +27,7 @@ The project is in line with the European Union’s Action Plan on Human Rights a
 * Strengthen the capacities of PDO's various departments and divisions
 * Raise public awareness and support for PDO's public outreach and cooperation with civil society organizations
 * Improve scores on human rights indexes and awareness of human rights issues
+
+## Select Results
+
+* Developed a new case management system for Georgia’s ombudsperson institution that will enhance the PDO's ability to collect data and statistics, as well as manage investigations and documentation.
