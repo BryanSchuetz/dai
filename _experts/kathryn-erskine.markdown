@@ -5,6 +5,7 @@ lastname: Erskine
 summary: 'Kathryn Erskine has worked for small nonprofits and several implementing
   partners in the contracting space. '
 job-title: Vice President, People
+image: "/uploads/sm%20Kathryn%20Erkine.png"
 ---
 
 Kathryn Erskine credits her father, a cultural anthropologist, for sparking her interest in international affairs. After spending many of her childhood years living and traveling abroad, she knew she wanted to pursue a career in international development.
