@@ -16,5 +16,5 @@ She currently serves on our U.S. Government (USG) Business Unit's executive team
  
 Known as a collaborative leader and mentor, Kathryn is adept at building and managing teams, developing and delivering strategic business initiatives, managing compliance and risk, and working closely with senior executives and Board members.
  
-B.A., politics and Spanish, Wake Forest University
-M.A., international affairs, American University
+* B.A., politics and Spanish, Wake Forest University
+* M.A., international affairs, American University
