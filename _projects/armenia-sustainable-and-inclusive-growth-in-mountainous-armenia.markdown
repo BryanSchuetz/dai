@@ -20,7 +20,7 @@ The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project aims
 
 SIGMA takes a market systems development approach to bolster growth—primarily in the agricultural sector—in the poor rural regions of Armenia. Working with local and international experts in agricultural productivity, value chains, and political economy analysis, SIGMA will facilitate grant partnerships that help local markets grow. 
 
-The project takes a research-based, strategic approach to identify how market conditions and current geopolitics can enhance economic productivity in targeted areas. DAI will partner with businesses to help strengthen their operations and growth strategies, helping business owners create more jobs and become more profitable.  
+The project takes a research-based, strategic approach to identify how market conditions and current geopolitics can enhance economic productivity in targeted areas. DAI partners with businesses to help strengthen their operations and growth strategies, helping business owners create more jobs and become more profitable.  
 
 
 ![SIGMA beekeeping support for Beekeeping Forge in Armenia 2 crop.jpg](/uploads/SIGMA%20beekeeping%20support%20for%20Beekeeping%20Forge%20in%20Armenia%202%20crop.jpg)`SIGMA is partnering with Beekeeping Forge in Armenia to support and promote beekeepers across the country. Photo courtesy: SIGMA.` 
