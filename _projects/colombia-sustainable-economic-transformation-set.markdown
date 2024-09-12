@@ -19,7 +19,7 @@ The Sustainable Economic Transformation (SET) activity supports sustainable econ
 
 SET works to increase the growth and diversification of rural businesses and improve the environment for rural economic competitiveness in four regions.
 
-![sm Putumayo (1).jpg](/uploads/sm%20Putumayo%20(1).jpg)
+![IMG_0685.JPG](/uploads/IMG_0685.JPG)
 
 ## Sample Activities
 
