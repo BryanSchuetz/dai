@@ -12,6 +12,9 @@ solutions:
 - Institutional and Policy Reform
 regions: Middle East and North Africa
 country: Morocco
+promos:
+- title: TASHAROC Fact Sheet
+  link: "/uploads/TASHAROC-Fact%20Sheet.pdf"
 ---
 
 The Tangier-Tétouan-Al Hoceima (TTAH) in Northern Morocco has historically been a marginalised region, not benefitting from the nationwide growth Morocco has experienced over the past two decades. As a result, a burgeoning sense of disenchantment with political processes and heightened social tensions have developed throughout the region.
