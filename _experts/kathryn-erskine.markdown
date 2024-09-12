@@ -1,7 +1,6 @@
 ---
 title: Kathryn Erskine
 date: 2024-09-10 20:29:00 Z
-published: false
 lastname: Erskine
 summary: 'Kathryn Erskine has worked for small nonprofits and several implementing
   partners in the contracting space. '
