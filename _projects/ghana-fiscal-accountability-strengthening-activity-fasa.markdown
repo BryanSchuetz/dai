@@ -1,7 +1,6 @@
 ---
 title: Ghana—Fiscal Accountability Strengthening Activity (FASA)
 date: 2024-09-12 13:03:00 Z
-published: false
 summary: The USAID Ghana Fiscal Accountability Strengthening Activity (FASA) works
   in key areas of Ghana’s public financial management ecosystem to enhance the accountability,
   transparency, and efficiency of public expenditures.
