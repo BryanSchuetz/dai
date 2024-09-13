@@ -35,6 +35,8 @@ Zambia SUN TA layers interventions in nutrition, health, agriculture, access to 
 
 Our goal is to contribute to a reduction in stunting, a condition that affects far too many Zambian children—up to 35 percent of children under the age of five—causing lifelong effects such as poor cognition and limited educational performance. To reach this group, we engage thousands of women in maternal and child health education, we work with farmers across 13 districts to help them adopt climate-resilient farming practices to produce diverse, nutritious foods that are crucial to reducing stunting. Through new and rehabilitated boreholes, we deliver clean water to communities, help improve sanitation, and increase access to finance for thousands of rural women. 
 
+Since 2019, the project has delivered 1,000 boreholes across 13 districts in Central, Copperbelt, Northern, and Laupula provinces, providing new or improved access to clean and safe drinking water to more than 400,000 people and basic sanitation services to almost 3 million Zambians.
+
 <iframe src="https://player.vimeo.com/video/780508336?h=8a0d9ad551" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
