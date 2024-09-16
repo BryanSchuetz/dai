@@ -5,7 +5,7 @@ summary: The Centre for Disaster Protection focuses on managing risks relating t
   disasters, helping countries move from reaction to readiness and plan better for
   future disasters.
 start: 2021
-end: 2025
+end: 2029
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
