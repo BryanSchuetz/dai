@@ -1,6 +1,7 @@
 ---
 title: Mark Rostal
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Rostal
 summary: Mark Rostal is an expert in designing financial services and products for
   micro, small, and medium-sized enterprises in developing countries, offering directly
