@@ -1,6 +1,7 @@
 ---
 title: DAI Welcomes New Climate and Economic Growth Experts to U.K. Team
 date: 2024-09-12 10:14:00 Z
+is_featured: true
 solutions:
 - Economic Growth
 - Climate
@@ -12,9 +13,11 @@ summary: 'DAI is pleased to announce the addition of two new senior team members
 
 DAI is pleased to announce the addition of two new senior team members to our U.K. office: [Kate Wilson Hargreaves](https://www.dai.com/who-we-are/our-team/kate-wilson-hargreaves), Director of Climate and Environment, and [Joe Phillips](https://www.dai.com/who-we-are/our-team/joe-phillips), Head of Trade and Investment.
 
-“We’re delighted to welcome Kate and Joe to our team,” said [Luqman Ahmad](https://www.dai.com/who-we-are/our-team/luqman-ahmad), Senior Vice President and Managing Director. “Their expertise will boost our U.K.-based technical competencies to an even higher level. They have worked on multimillion-dollar projects worldwide with many of our clients and partners, and we look forward to capitalizing on that experience.”
-
 ![Kate Hargreaves and Joe Phillips.png](/uploads/Kate%20Hargreaves%20and%20Joe%20Phillips.png)
+
+<!--more-->
+
+“We’re delighted to welcome Kate and Joe to our team,” said [Luqman Ahmad](https://www.dai.com/who-we-are/our-team/luqman-ahmad), Senior Vice President and Managing Director. “Their expertise will boost our U.K.-based technical competencies to an even higher level. They have worked on multimillion-dollar projects worldwide with many of our clients and partners, and we look forward to capitalizing on that experience.”
 
 Kate Hargreaves’ 20-year career spans social accountability and transparency, public financial management, and global health; her recent focus has been on climate change and renewable energy. She is passionate about accelerating just transitions to green economic growth, which includes promoting the role of women in solar energy, localizing development by incorporating citizen voice and demand and building community resilience to climate shocks.
 
