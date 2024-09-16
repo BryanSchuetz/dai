@@ -9,7 +9,7 @@ summary: Members of DAI’s Board visited project sites in Nairobi, Kenya, on We
 
 Members of DAI’s Board visited project sites in Nairobi, Kenya, on Wednesday as part of their quarterly meeting, which they seek to hold once per year in a country where DAI works.
  
-The visits—led by DAI’s [Mark Rostal](https://www.dai.com/who-we-are/our-team/mark-rostal) and Sarah Helmstadter, and DAI Board Chair [Betsey Nelson](https://www.dai.com/who-we-are/board/elizabeth-nelson)—featured briefings by project managers, partners, and beneficiaries. 
+The visits—led by DAI’s Mark Rostal and Sarah Helmstadter, and DAI Board Chair [Betsey Nelson](https://www.dai.com/who-we-are/board/elizabeth-nelson)—featured briefings by project managers, partners, and beneficiaries. 
 
 ![DAI-News----DAI-Board-Nairobi-2.jpg](/uploads/DAI-News----DAI-Board-Nairobi-2.jpg)
 `DAI Board members and others visiting the Geoseismic Water Company in Nairobi, Kenya.`
