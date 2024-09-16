@@ -32,3 +32,9 @@ DAI's delivery partners are IIED, LINK Education, LINK Community Development, Wa
 ## Select Results
 
 * With partner Water Witness, collaborated with local authorities to undertake a shock chlorination process to disinfect the contaminated water. As a result, 25 boreholes now provide safe, drinkable water for 1,750 households (9,625 people).
+* 30 Village Natural Resource Management Committees that were not functioning were re-established through new committees. 
+* In collaboration with the Machinga District Council Office of Disaster Risk Management, 22 disaster management plans were developed. 
+* 4,157 households in targeted communities engaged in irrigation farming through winter cropping to secure their livelihood.
+* 98 Lead Farmers trained on conservation farming in Karonga and Neno districts. 
+* 157 Community Village and Savings Loans groups mobilised, and 2,954 community members trained on VSL approaches (Zomba, Karonga).
+* 4,059 community members were reached through gender and human rights awareness campaigns in Zomba. 
