@@ -12,6 +12,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: 'Peru '
 promos:
+- title: 'BLOG: Finding Technological Solutions for Forest Management'
+  link: https://dai-global-developments.com/articles/finding-technological-solutions-for-forest-management/
 - title: 'BLOG: Prevent: Advancing Environmental Justice in the Peruvian Amazon'
   link: https://dai-global-developments.com/articles/prevent-advancing-environmental-justice-in-the-peruvian-amazon/
 - title: 'BLOG: Building Effective Monitoring Networks: A Locally Led Approach to
