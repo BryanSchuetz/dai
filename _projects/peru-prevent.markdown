@@ -12,6 +12,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: 'Peru '
 promos:
+- title: 'BLOG: Prevent: Advancing Environmental Justice in the Peruvian Amazon'
+  link: https://dai-global-developments.com/articles/prevent-advancing-environmental-justice-in-the-peruvian-amazon/
 - title: 'BLOG: Building Effective Monitoring Networks: A Locally Led Approach to
     Fighting Climate Change'
   link: https://dai-global-developments.com/articles/building-effective-monitoring-networks-a-locally-led-approach-to-fighting-climate-change/?utm_source=daidotcom
