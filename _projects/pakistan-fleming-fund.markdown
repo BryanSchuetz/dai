@@ -19,6 +19,10 @@ promos:
   link: "/uploads/Antimicrobial%20Resistance%20Surveillance%20in%20Healthy%20Food%20Animal-11.pdf"
 - title: FFCG Pakistan Update August 2024
   link: "/uploads/FFCG%20Pakistan%20Update%20August%202024.pdf"
+- title: National Surveillance Strategy for AMR in Aquaculture
+  link: "/uploads/National%20Surveillance%20Strategy%20for%20AMR%20in%20Aquaculture.pdf"
+- title: 'REPORT: Antimicrobial Resistance Surveillance Pilot in Healthy Food Animals'
+  link: "/uploads/Fleming%20Fund%20%20Report%20-%20Antimicrobial%20Resistance%20Surveillance%20Pilot%20in%20Healthy%20Food%20Animals.pdf"
 - title: Fleming Fund Program Receives Award for Improving Responsible Drug Use in
     Pakistan
   link: https://www.dai.com/news/fleming-fund-program-receives-award-for-improving-responsible-drug-use-in-pakistan
