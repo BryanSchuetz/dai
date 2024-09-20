@@ -18,7 +18,7 @@ country: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
   Moldova, Montenegro, North Macedonia, Serbia, Ukraine
 ---
 
-DAI Is delighted to partner with the U.S. Agency for International Development (USAID) on a new program to assist countries in Eurasia and Eastern Europe—including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus—in joining the European Union (EU).
+DAI is delighted to partner with the U.S. Agency for International Development (USAID) on a new program to assist countries in Eurasia and Eastern Europe—including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus—in joining the European Union (EU).
 
 The [Advancing Commerce Connectivity and Exports Leading to Economic Readiness for Accession to the EU (ACCELERATE)](https://www.dai.com/our-work/projects/regional-advancing-commerce-connectivity-and-exports-leading-to-economic-readiness-for-accession-to-the-eu-accelerate) program facilitates EU accession by working with countries to help them meet the economic, governance, and political criteria associated with accession and by addressing common economic constraints to accession on a regional basis. The five-year program will strengthen trade and governance across the region while enhancing the region’s access to U.S. and European markets.
 
