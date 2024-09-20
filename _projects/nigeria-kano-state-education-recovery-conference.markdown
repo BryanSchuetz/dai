@@ -21,7 +21,7 @@ Several factors account for Kano’s poor education indicators, including poor i
 
 DAI coordinated the conference, leveraging its knowledge of the context and stakeholders in the state, as well as its programme resources to seamlessly deliver the conference.
 
-![new kano.jpg](/uploads/new%20kano.jpg)
+![new kano.jpg](/uploads/new%20kano.jpg)`Photo: from left, Dr. Folake Olatunji-David, Director of Basic Education, Federal Ministry of Education; Cynthia Rowe, Development Director, FCDO, British High Commission, Abuja; Ian Attfield, Senior Education Adviser, British High Commission and Dr. Nguyan Feese, National Team Lead, PLANE.`
 
 ## Sample Activities
 
