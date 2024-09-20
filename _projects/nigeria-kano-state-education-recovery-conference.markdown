@@ -21,6 +21,8 @@ Several factors account for Kano’s poor education indicators, including poor i
 
 DAI coordinated the conference, leveraging its knowledge of the context and stakeholders in the state, as well as its programme resources to seamlessly deliver the conference.
 
+![new kano.jpg](/uploads/new%20kano.jpg)
+
 ## Sample Activities
 
 * Support the Kano State Government to convene the Kano State Education Recovery Conference.
