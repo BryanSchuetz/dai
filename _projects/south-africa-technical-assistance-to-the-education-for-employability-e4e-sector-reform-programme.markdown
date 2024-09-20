@@ -9,7 +9,7 @@ summary: E4E supports the South African government’s efforts in improving the 
   of basic education, vocational training, and job placement services from early childhood
   through teenage years.
 start: 2020
-end: 2023
+end: 2024
 client: European Union
 solutions:
 - Governance
