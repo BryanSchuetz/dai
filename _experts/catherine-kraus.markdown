@@ -2,9 +2,8 @@
 title: Catherine Kraus
 date: 2024-08-28 14:27:00 Z
 lastname: Kraus
-summary: Catherine Kraus has over 15 years of experience in financial management,
-  project management, procurements, contracts, and budgeting. She brings strong, in-depth
-  knowledge and a track record of effective financial management.
+summary: 'Catherine Kraus is an international development project and financial manager
+  experienced in procurements, contracts, and budgeting. '
 job-title: Senior Manager/Finance Manager
 image: "/uploads/Kraus,%20Catherine%20sq.jpg"
 solutions:
