@@ -14,12 +14,12 @@ regions:
 - Worldwide
 ---
 
-Kate Wilson Hargreaves is Director, Climate and Environment for DAI's U.K. office. She has worked in international development for more than 20 years, a career that has spanned social accountability and transparency, public financial management, global health, climate change, and renewable energy for public services.
+Kate Wilson Hargreaves is a highly experienced international development professional with a career that has spanned social accountability and transparency, public financial management, global health, climate change, and renewable energy for public services.
 
-Kate brings experience working for numerous agencies and organizations, including Transparency International, KPMG Consulting, Crown Agents, the World Bank, the U.K. Foreign, Commonwealth, & Development Office, Oxfam, the British Council, The Gates Foundation, and the French Development Agency. She has led multi-million dollar programs across South Asia, Africa, the Caribbean, and Palestine.
+She has worked for numerous agencies and organizations, including Transparency International, KPMG Consulting, Crown Agents, the World Bank, the U.K. Foreign, Commonwealth, & Development Office, Oxfam, the British Council, The Gates Foundation, and the French Development Agency. She has led multi-million dollar programs across South Asia, Africa, the Caribbean, and Palestine.
 
-As a team leader, project director, and practice lead, Kate has focused on systems change for sustainability in complex global programs. She is passionate about just transitions to green economic growth, which includes promoting the role of women in solar energy, localizing development through increased citizen demand, and building community resilience to climate shocks.  
+As a project director and practice lead, Kate has concentrated on delivering systems change for sustainability. A particular focus is a just transition to green economic growth, which includes promoting the role of women in solar energy, localizing development through increased citizen demand, and building community resilience to climate shocks.  
 
-Strongly motivated to improve public services, Kate has served as a board member for schools and children’s charities in the United Kingdom, Kenya, and Palestine. She lives in the United Kingdom and Pristina, Kosovo. 
+Kate has served as a board member for schools and children’s charities in the United Kingdom, Kenya, and Palestine. 
  
 * M.A., philosophy, politics, and economics, Oxford University
