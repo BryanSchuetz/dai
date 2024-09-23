@@ -16,7 +16,7 @@ regions:
 
 Declan Sharkey is an experienced international project manager and strategist who has worked across various thematic areas, including climate, education and skills, and digital transformation. 
 
-Currently managing the [Climate Ambition Support Alliance, Phase 2 (CASA2)](https://www.dai.com/our-work/projects/worldwide-climate-ambition-support-alliance-phase-2-casa2) program working with an alliance of technical partners, Declan works closely with a broad range of stakeholders across complex environments to identify priority focus areas, build internal delivery systems, and build consensus around needs. He is also experienced in using political economy analysis as a tool for understanding the political climates in low-income countries to identify the most relevant stakeholders to ensure effective and relevant program implementation.
+Currently managing the [Climate Ambition Support Alliance, Phase 2 (CASA2)](https://www.dai.com/our-work/projects/worldwide-climate-ambition-support-alliance-phase-2-casa2) program working with an alliance of technical partners, Declan works closely with a broad range of stakeholders across complex environments to identify priority focus areas, build internal delivery systems, and build consensus around needs. He is also experienced in using political economy analysis as a tool for understanding the political climate in low-income countries to identify relevant stakeholders for effective and relevant program implementation.
 
 Previously, Declan worked as a Senior Policy Advisor, where he consulted across the private and public sectors and civil society groups to produce politically feasible policy positions and recommendations. 
 
