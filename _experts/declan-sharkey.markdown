@@ -20,6 +20,6 @@ Currently managing the [Climate Ambition Support Alliance, Phase 2 (CASA2)](http
 
 Previously, Declan worked as a Senior Policy Advisor, where he consulted across the private and public sectors and civil society groups to produce politically feasible policy positions and recommendations. 
 
-* M.A. International Political Economy, Newcastle University
-* B.Sc. Joint Honours Geography and Mathematics, Newcastle University
+* M.A. international political economy, Newcastle University
+* B.Sc. Joint Honours geography and mathematics, Newcastle University
 * AgilePM (Foundation & Practitioner) Project Management, APMG International
