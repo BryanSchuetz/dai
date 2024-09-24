@@ -16,5 +16,5 @@ Duncan Skelton is an international development project director who has led mult
 
 Before joining DAI, Duncan set up and ran a small charity in Tanzania, helping HIV-positive patients in rural areas access treatment. 
 
-* M.Sc. management and implementation of development projects, Manchester University
-* B.A. philosophy, Cardiff University
+* M.Sc., management and implementation of development projects, Manchester University
+* B.A., philosophy, Cardiff University
