@@ -53,10 +53,8 @@ The efforts of the project prevented more than 7,000 unintended pregnancies and 
 ## Select Results
 
 * Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, ages 15-19.
-* Launched six sustainable Youth Hubs.
+* Launched six sustainable Youth Hubs, through which trained providers offered family planning counseling to 116,595 adolescents in both the spoke (72,287) and hub (44,308) facilities. Among these, family planning services were provided to 96,409 adolescents. About 72 percent of the adolescents who received these services were new acceptors of family planning, and 55 percent of adolescents continued to use family planning at least one-year post-service provision.
 * Reached more than 66,000 adolescents using the locally adapted SKILLZ United curriculum in Lagos and Kano.
-* Provided contraceptive methods to more than 96,000 young people, of which 70 percent are new users.
-* Leveraged free family planning commodities from the state governments in Lagos and Kano to project’s Youth Hubs (the first of its kind to any project).
 * Engaged young people throughout project implementation, particularly by forming the youth advisory committees in Lagos and Kano.
 * Trained 234 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
 * Strengthened capacity of 842 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
