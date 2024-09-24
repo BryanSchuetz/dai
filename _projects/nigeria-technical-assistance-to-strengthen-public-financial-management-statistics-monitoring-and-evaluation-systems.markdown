@@ -7,7 +7,7 @@ summary: This EuropeAid programme assisted Yobe state in Nigeria to build upon t
   ways to broaden the fiscal space sustainably, while ensuring improved delivery of
   citizen-demanded public goods and services.
 start: 2020
-end: 2023
+end: 2024
 client: European Union
 solutions:
 - Governance
