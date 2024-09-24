@@ -6,6 +6,7 @@ summary: In implementing projects, DAI relies on services and equipment provided
   the best value by negotiating price, terms, and other variables.
 hero: true
 layout: node
+published: false
 ---
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click on a link below.

@@ -19,9 +19,3 @@ Please take a few minutes to introduce us to your organization by filling out ou
 DAI holds umbrella contracts from various clients through which development programs can be funded and administered.
 
 <a href="/our-work/working-with-dai/contracting-vehicles" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
-## Current Procurements
-
-In implementing its projects, DAI relies on services and equipment provided by subcontractors and suppliers. We use competitive procurement procedures to obtain the best value by negotiating price, terms, and other variables.
-
-<a href="/our-work/working-with-dai/current-procurements" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
