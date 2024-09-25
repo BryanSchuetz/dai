@@ -23,10 +23,14 @@ With support from the World Bank and on behalf of the Ministry of National Econo
 
 ![ramallah.jpg](/uploads/ramallah.jpg)`Ramallah from on high. Photo courtesy: Flickr.`
  
-### Sample Activities
+## Sample Activities
 
 * Improve linkages to regional entrepreneurship ecosystems.
 * Develop a dynamic startup finance ecosystem with a core focus on organized angel investing.
 * Build a new automated and unified business registry system.
 * Create a home-based business framework.
 * Develop an outsourcing model and pilot expanding an existing organization in Gaza.
+
+## Select Results
+
+* Partnered with the Ministry of National Economy to launch an Automated Business Registration System that makes starting and operating a business easier. Entrepreneurs can register their businesses online, access essential information, and streamline operations.
