@@ -1,6 +1,12 @@
 ---
 title: DAI’s USAID Prevent Project Wins Third Environmental Award
 date: 2024-09-25 14:31:00 Z
+summary: USAID Prevent's Consecuencias campaign, which seeks to raise awareness among
+  young people about environmental crimes in the Amazon, has won the 2024 Eikon International
+  Award, in the social marketing category. This honor is the second Eikon award that
+  the U.S. Agency for International Development-funded project has received for the
+  Consecuencias campaign and the project’s third overall, having won the 2023 National
+  Environmental Award.
 ---
 
 [USAID Prevent](https://www.dai.com/our-work/projects/peru-prevent)'s [Consecuencias](http://www.consecuencias.pe/) campaign, which seeks to raise awareness among young people about environmental crimes in the Amazon, has won the 2024 Eikon International Award, in the social marketing category. This honor is the second Eikon award that the U.S. Agency for International Development-funded project has received for the Consecuencias campaign and the project’s third overall, having won the 2023 National Environmental Award.
