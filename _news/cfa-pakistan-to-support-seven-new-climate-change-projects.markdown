@@ -9,6 +9,8 @@ summary: The Climate Finance Accelerator (CFA) program, a technical assistance p
 Pakistan is one of the countries most vulnerable to climate change and among the most poorly prepared. But while the country cannot easily change its exposure to climate risks, climate preparedness is something it can address.
 
 The [Climate Finance Accelerator (CFA)](https://www.dai.com/our-work/projects/pakistan-climate-finance-accelerator-cfa) program, a technical assistance program funded by the U.K. Department for Energy Security and Net Zero, works with the Government of Pakistan to identify low-carbon projects with investment potential.
+
+![1000099099.jpg](/uploads/1000099099.jpg)
  
 CFA has already assisted 15 low-carbon projects in Pakistan. It will now provide seven new projects with specialist support, including on financial, gender equality, and social inclusion issues, to help improve and attract investment from Pakistani and international financiers. The projects are:
 
@@ -22,4 +24,4 @@ CFA has already assisted 15 low-carbon projects in Pakistan. It will now provide
 
 The key is to adapt to and mitigate climate risks, avoiding investments with a carbon “lock-in” or emissions-intensive assets and processes that will continue operating when lower-carbon options become available, explained Arsalan Ali Faheem, DAI’s Pakistan Country Director. “To this effect,” he said, “CFA’s work closely aligns with Pakistan’s climate plans, coordinating with the relevant agencies and seeking a concerted effort in facilitating a low-carbon transition of the economy.”
 
-[DSC02978 (2).JPG](/uploads/DSC02978%20(2).JPG)
+
