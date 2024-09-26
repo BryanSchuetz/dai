@@ -10,9 +10,9 @@ summary: 'The U.K. Department of International Development (DFID)-funded Ilm Ide
 
 '
 solutions:
-- Finance and Investment
+- Financial Services
 - Governance
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions: Asia and the Pacific
 projects: Pakistan—Education Voice and Accountability Fund
 clients: 

@@ -5,7 +5,7 @@ date: 2015-11-16 18:05:00 Z
 summary: As the rate of mobile penetration grows globally, youth-focused local programming
   will need to account for the nuanced preferences of this mobile-first generation.
 solutions:
-- Digital Acceleration
+- Digital Development
 regions:
 - Middle East and North Africa
 projects:

@@ -8,7 +8,7 @@ summary: 'DAI has begun its first major initiative under the Food and Enterprise
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 - Global Health
 regions:

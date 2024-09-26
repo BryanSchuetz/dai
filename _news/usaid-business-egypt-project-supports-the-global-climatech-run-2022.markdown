@@ -2,9 +2,8 @@
 title: USAID Business Egypt Project Supports the Global ClimaTech Run 2022
 date: 2022-09-01 12:43:00 Z
 solutions:
-- Climate
-- Energy
-- Environment
+- Climate and Environment
+- Clean Energy
 regions: Middle East and North Africa
 projects: Egypt—Business Egypt
 clients: U.S. Agency for International Development

@@ -3,8 +3,7 @@ title: DAI’s CIDR Program Wins USAID 2023 Digital Development Award
 date: 2024-05-10 09:18:00 Z
 is_featured: true
 solutions:
-- Digital Strategy
-- Digital Acceleration
+- Digital Development
 regions: Albania, Georgia, Kosovo, Moldova, Montenegro, North Macedonia, and Serbia
 projects: "Regional—Critical Infrastructure \nDigitalization and Resilience (CIDR)"
 clients: U.S. Agency for International Development

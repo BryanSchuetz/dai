@@ -4,7 +4,7 @@ date: 2022-05-12 10:00:00 Z
 is_featured: true
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 summary: DAI, one of the world’s leading development consulting firms, today announced
   the appointment of Gavin Wilson as Chief Executive Officer of DAI Capital, its investment
   banking and asset management arm.

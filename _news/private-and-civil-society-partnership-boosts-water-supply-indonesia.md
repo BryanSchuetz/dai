@@ -7,7 +7,7 @@ summary: 'East Java''s dwindling supply of raw water is being replenished thanks
 
 '
 solutions:
-- Environment
+- Climate and Environment
 - Global Health
 regions:
 - Asia and the Pacific

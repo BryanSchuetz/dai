@@ -2,7 +2,7 @@
 title: DAI Unveils New ICT4D Blog
 date: 2016-03-16 18:05:00 Z
 solutions:
-- Digital Acceleration
+- Digital Development
 summary: 'DAI''s Information and Communications Technology (ICT) team has launched
   Digital@DAI, a blog offering a behind-the-scenes look at the way digital technologies
   are contributing to global development work.

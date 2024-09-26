@@ -10,10 +10,9 @@ summary: 'BNP Paribas Bank Polska—a partner bank of the DAI-implemented [Polis
 '
 solutions:
 - Economic Growth
-- Environment
-- Finance and Investment
-- Climate
-- Energy
+- Climate and Environment
+- Financial Services
+- Clean Energy
 regions:
 - Eastern Europe and Central Asia
 projects: 

@@ -9,7 +9,7 @@ summary: 'The Nyungwe Nziza project in Rwanda has been named winner of the prest
 
 '
 solutions:
-- Environment
+- Climate and Environment
 - Economic Growth
 regions:
 - Sub-Saharan Africa

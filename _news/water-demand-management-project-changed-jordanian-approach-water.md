@@ -6,8 +6,7 @@ summary: 'DAI celebrated the successes of its five-year water conservation progr
 
 '
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Asia and the Pacific
 projects: 

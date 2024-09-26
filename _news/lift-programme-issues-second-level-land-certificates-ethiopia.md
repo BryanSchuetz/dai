@@ -2,7 +2,7 @@
 title: LIFT Programme Issues Second-Level Land Certificates in Ethiopia
 date: 2015-11-18 18:05:00 Z
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa

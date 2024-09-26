@@ -8,8 +8,8 @@ summary: 'Bethesda, Maryland—DAI has been named a Devex Top 40 Development Inn
 
 '
 solutions:
-- Innovation and Entrepreneurship
-- Digital Acceleration
+- Entrepreneurship and Innovation
+- Digital Development
 regions: 
 projects: 
 clients: 

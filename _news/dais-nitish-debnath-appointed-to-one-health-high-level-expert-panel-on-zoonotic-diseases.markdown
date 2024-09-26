@@ -4,7 +4,6 @@ title: DAI’s Nitish Debnath Appointed to One Health High-Level Expert Panel on
 date: 2021-06-16 08:40:00 Z
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions: Asia and the Pacific
 projects: Bangladesh—Fleming Fund
 clients: U.K. Department of Health and Social Care

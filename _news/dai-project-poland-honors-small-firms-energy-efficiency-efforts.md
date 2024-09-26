@@ -8,8 +8,8 @@ summary: 'The Polish Sustainable Energy Financing Facility (PolSEFF), implemente
 
 '
 solutions:
-- Environment
-- Innovation and Entrepreneurship
+- Climate and Environment
+- Entrepreneurship and Innovation
 regions:
 - Eastern Europe and Central Asia
 projects: 

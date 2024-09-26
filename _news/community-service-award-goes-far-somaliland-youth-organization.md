@@ -7,7 +7,7 @@ summary: 'Last year, two DAI employees received the company''s inaugural David H
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Sub-Saharan Africa

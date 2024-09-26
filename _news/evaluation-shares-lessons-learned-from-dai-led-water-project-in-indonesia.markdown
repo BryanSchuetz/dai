@@ -2,8 +2,8 @@
 title: Evaluation Shares Lessons Learned from DAI-Led Water Project in Indonesia
 date: 2018-07-11 15:22:00 Z
 solutions:
-- Environment
-- Water and Sanitation Services and Management
+- Climate and Environment
+- Water Security, Sanitation and Hygiene
 - 
 regions: Asia and the Pacific
 projects: Indonesia—Environmental Services Program (ESP)

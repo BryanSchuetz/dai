@@ -3,7 +3,6 @@ title: President of Pakistan Calls for Massive Effort to Tackle Antimicrobial Re
 date: 2021-02-12 08:19:00 Z
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions: Eastern Europe and Central Asia
 projects: Pakistan—Fleming Fund
 clients: U.K. Department of Health and Social Care

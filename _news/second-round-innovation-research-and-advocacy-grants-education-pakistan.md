@@ -7,8 +7,8 @@ summary: 'The U.K. Department for International Development (DFID), also known a
 
 '
 solutions:
-- Innovation and Entrepreneurship
-- Finance and Investment
+- Entrepreneurship and Innovation
+- Financial Services
 - Governance
 regions:
 - Asia and the Pacific

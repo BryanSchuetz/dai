@@ -4,7 +4,7 @@ date: 2024-05-06 07:20:00 Z
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
-- Finance and Investment
+- Financial Services
 regions: Worldwide
 summary: 'DAI is delighted to announce it has joined [2X Global](https://www.2xglobal.org/),
   a membership organization working to unlock gender-smart capital at scale. '

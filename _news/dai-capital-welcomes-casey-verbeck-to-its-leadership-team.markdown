@@ -2,7 +2,7 @@
 title: DAI Capital Welcomes Casey Verbeck to its Leadership Team
 date: 2024-01-22 06:15:00 Z
 solutions:
-- Finance and Investment
+- Financial Services
 regions: Worldwide
 summary: 'DAI today announced that Casey Verbeck has joined its growing DAI Capital
   business as Managing Director, Impact Investment. '

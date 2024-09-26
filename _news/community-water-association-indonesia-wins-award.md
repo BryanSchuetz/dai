@@ -8,7 +8,7 @@ summary: 'The Community Association of Drinking Water and Sanitation Users in th
 
 '
 solutions:
-- Environment
+- Climate and Environment
 - Global Health
 regions:
 - Asia and the Pacific

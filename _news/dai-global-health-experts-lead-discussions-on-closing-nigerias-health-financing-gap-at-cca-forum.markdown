@@ -4,7 +4,6 @@ title: DAI Global Health Experts Lead Discussions on Closing Nigeria’s Health 
 date: 2018-11-08 19:23:00 Z
 solutions:
 - Global Health
-- Health Governance
 regions: Sub-Saharan Africa
 summary: Annie Baldridge and James McIntyre-Brown of the DAI Global Health team discussed
   solutions to Nigeria’s health financing gap at the Corporate Council on Africa Health

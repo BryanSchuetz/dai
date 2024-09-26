@@ -10,7 +10,7 @@ summary: 'Last month, nearly 1,000 members of the land rights community gathered
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Governance
 - Land Tenure and Property Rights
 regions:

@@ -6,7 +6,6 @@ tags:
 - COVID-19
 - Palestine
 solutions:
-- Global Health Security and Pandemic Preparedness
 - Global Health
 regions: Middle East and North Africa
 projects: Palestine—The Compete Project

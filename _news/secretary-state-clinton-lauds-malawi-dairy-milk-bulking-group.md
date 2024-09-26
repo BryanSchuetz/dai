@@ -2,7 +2,7 @@
 title: Secretary of State Clinton Lauds Malawi Dairy Milk Bulking Group
 date: 2012-08-14 18:05:00 Z
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 projects: Malawi—Integrating Nutrition into Value Chains

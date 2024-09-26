@@ -9,7 +9,7 @@ summary: 'In May 2016, DAI and its partners [announced](/news/innovation-action-
 
 '
 solutions:
-- Digital Acceleration
+- Digital Development
 regions:
 - Latin America and the Caribbean
 projects: 

@@ -7,7 +7,6 @@ tags:
 is_featured: true
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 clients: U.S. Agency for International Development
 summary: DAI Global Health is set to help implement the new Accelerating Support to

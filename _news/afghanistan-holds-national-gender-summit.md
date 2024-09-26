@@ -6,10 +6,8 @@ summary: A national summit on gender equality was recently held in Afghanistan t
   brought together activist and civil society groups to set priorities and establish
   coalitions.
 solutions:
-- Countering Extremism
 - Gender
-- Fragile States
-- Stabilization
+- Peace and Stability
 - Voice and Accountability
 regions:
 - Middle East and North Africa

@@ -2,8 +2,7 @@
 title: DAI and UCL Host Panel on Risk Financing for Disaster Preparedness
 date: 2017-03-10 21:35:00 Z
 solutions:
-- Countering Extremism
-- 
+- Peace and Stability
 regions: Worldwide
 projects: 'Worldwide—Expert Advisory Call Down Services (EACDS) Lot B: Strengthening
   Resilience and Response to Crises'

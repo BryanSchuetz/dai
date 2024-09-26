@@ -4,7 +4,7 @@ date: 2024-05-21 09:18:00 Z
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
-- Finance and Investment
+- Financial Services
 - Economic Growth
 regions: Middle East and North Africa
 projects: Jordan—Public Financial Management and Administration (PFMA)

@@ -9,8 +9,7 @@ summary: 'Space enthusiasts, tech wizards, and citizen scientists the world over
 
 '
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Asia and the Pacific
 projects: Worldwide—SERVIR Program Demand Activity

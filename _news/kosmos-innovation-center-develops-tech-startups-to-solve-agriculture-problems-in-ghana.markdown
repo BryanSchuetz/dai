@@ -8,7 +8,7 @@ tags:
 solutions:
 - Economic Growth
 - Sustainable Business
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions: Sub-Saharan Africa
 summary: In 2016, DAI partnered with Kosmos Energy to launch the the Kosmos Innovation
   Center (KIC) in Ghana. Now in its second year, KIC is supporting a group of 80 young

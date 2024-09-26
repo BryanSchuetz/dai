@@ -3,8 +3,8 @@ title: DFID Project Trials Sorghum Insurance to Support Climate-Resilient Farmin
   in Kenya
 date: 2018-01-29 14:01:00 Z
 solutions:
-- Agriculture and Food Security
-- Climate
+- Agriculture and Market Systems
+- Climate and Environment
 regions: Sub-Saharan Africa
 projects: Kenya—Strengthening Adaptation and Resilience to Climate Change in Kenya
   Plus (StARCK+)

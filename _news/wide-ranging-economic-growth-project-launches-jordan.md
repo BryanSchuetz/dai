@@ -8,8 +8,8 @@ summary: 'The [Jordan Competitiveness Program (JCP)]/our-work/projects/jordan-co
 '
 solutions:
 - Economic Growth
-- Business Environment Reform
-- Innovation and Entrepreneurship
+- Private Sector Development
+- Entrepreneurship and Innovation
 regions:
 - Middle East and North Africa
 projects: Jordan Competitiveness Program (JCP)

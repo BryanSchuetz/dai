@@ -7,7 +7,7 @@ summary: 'DAI has contributed £2,000 to support pressing reconstruction needs i
 
 '
 solutions:
-- Fragile States
+- Peace and Stability
 regions:
 - Asia and the Pacific
 projects: 

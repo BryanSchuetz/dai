@@ -11,7 +11,6 @@ summary: 'The DAI-led [Economic Strengthening for Households Affected by AIDS (I
 '
 solutions:
 - Global Health
-- Health and Livelihoods
 regions:
 - Sub-Saharan Africa
 projects: Economic Strengthening for Households Affected by AIDS (IMARISHA)

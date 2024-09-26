@@ -3,7 +3,7 @@ title: Southeast Asia Ministers Adopt DAI-Assisted Regional Guidelines for Promo
   Climate-Smart Agriculture
 date: 2017-09-27 09:36:00 Z
 solutions:
-- Environment
+- Climate and Environment
 regions: Asia and the Pacific
 projects: Southeast Asia—Mekong Adaptation and Resilience to Climate Change (ARCC)
 clients: U.S. Agency for International Development

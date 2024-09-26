@@ -2,9 +2,7 @@
 title: Anand Varghese to Lead DAI’s Center for Digital Acceleration
 date: 2023-02-28 11:28:00 Z
 solutions:
-- Digital Strategy
-- Digital Strategy
-- Digital Acceleration
+- Digital Development
 regions: Worldwide
 projects: Worldwide—Digital Frontiers
 summary: Anand Varghese has been named Senior Director of DAI’s Center for Digital

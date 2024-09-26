@@ -2,7 +2,7 @@
 title: USAID Administrator Visits DAI-led Projects During Tour of Zambia
 date: 2022-07-06 14:20:00 Z
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Governance
 - Global Health
 - Economic Growth

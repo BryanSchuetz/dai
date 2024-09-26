@@ -2,10 +2,9 @@
 title: SBTi Approves DAI’s Ambitious Greenhouse Gas Reduction Targets
 date: 2022-04-29 13:10:00 Z
 tags:
-- climate
 is_featured: true
 solutions:
-- Climate
+- Climate and Environment
 regions: Worldwide
 summary: DAI is delighted to announce that the greenhouse gas emissions targets proposed
   as part of our membership in the [Race To Zero](https://unfccc.int/climate-action/race-to-zero-campaign#eq-2)

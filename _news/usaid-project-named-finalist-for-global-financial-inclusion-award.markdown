@@ -3,7 +3,7 @@ title: USAID Project Named Finalist for Global Financial Inclusion Award
 date: 2018-06-11 13:34:00 Z
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions: Eastern Europe and Central Asia
 projects: Ukraine—Financial Sector Transformation (FST)
 clients: U.S. Agency for International Development

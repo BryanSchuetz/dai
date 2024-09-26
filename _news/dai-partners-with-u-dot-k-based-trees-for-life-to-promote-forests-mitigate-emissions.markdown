@@ -2,9 +2,8 @@
 title: DAI Partners with U.K.-Based Trees for Life to Promote Forests, Mitigate Emissions
 date: 2020-12-10 08:51:00 Z
 solutions:
-- Natural Resource Management
-- Climate
-- Environment
+- Nature, Oceans, and Biodiversity
+- Climate and Environment
 clients: Foreign, Commonwealth & Development Office
 summary: 'As part of a broader commitment to mitigate its environmental impact, DAI
   today announced a new corporate partnership with Trees for Life, a British conservation

@@ -8,7 +8,7 @@ summary: 'The transition from primary school to middle school is a difficult one
 '
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Governance
 regions:
 - Asia and the Pacific

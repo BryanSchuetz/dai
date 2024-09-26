@@ -7,7 +7,7 @@ summary: |
   a new challenge designed to support innovations with the potential to make a difference
   in the lives of people in emerging and transitioning nations.
 solutions:
-- Digital Acceleration
+- Digital Development
 regions: 
 projects: 
 clients:

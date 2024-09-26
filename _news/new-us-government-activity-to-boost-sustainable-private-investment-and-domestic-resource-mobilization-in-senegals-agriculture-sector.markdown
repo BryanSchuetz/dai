@@ -4,7 +4,7 @@ title: New U.S. Government Activity to Boost Sustainable Private Investment and 
 date: 2020-10-20 08:13:00 Z
 solutions:
 - Economic Growth
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Public Financial Management
 regions: Sub-Saharan Africa
 projects: Senegal—Feed the Future Policy Systems Services (PSS) Activity

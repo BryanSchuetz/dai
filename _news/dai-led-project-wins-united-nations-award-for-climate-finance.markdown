@@ -2,14 +2,11 @@
 title: DAI-Led Project Wins United Nations Award for Climate Finance
 date: 2021-10-14 13:47:00 Z
 tags:
-- climate
 - Palestine
 is_featured: true
 solutions:
-- Climate
-- Environment
-- Finance and Investment
-- Climate Change Adaptation and Mitigation
+- Climate and Environment
+- Financial Services
 regions: Middle East and North Africa
 projects: Palestine—Finance for Jobs (F4J)
 clients: World Bank

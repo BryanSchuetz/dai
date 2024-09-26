@@ -8,8 +8,7 @@ summary: 'In sheer numbers, the second NASA International Space Apps Challenge A
 
 '
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 regions:
 - Asia and the Pacific
 projects: Worldwide—SERVIR Program Demand Activity

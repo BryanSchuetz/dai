@@ -11,9 +11,9 @@ summary: 'Luckshmi Sivalingam—a development practitioner with 10 years of prof
 '
 solutions:
 - Economic Growth
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Nutrition and Food Security
-- Environment
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 projects: Malawi—Integrating Nutrition into Value Chains

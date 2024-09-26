@@ -8,7 +8,7 @@ summary: 'The African Union Commission''s Department of Rural Economy and Agricu
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions: Sub-Saharan Africa
 projects: Africa—Africa Lead II
 clients: U.S. Agency for International Development

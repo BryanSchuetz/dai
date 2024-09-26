@@ -2,7 +2,7 @@
 title: U.S. Acting Ambassador to Malawi Visits DAI-Led Feed the Future Project
 date: 2015-01-17 18:05:00 Z
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 projects: Malawi—Integrating Nutrition into Value Chains

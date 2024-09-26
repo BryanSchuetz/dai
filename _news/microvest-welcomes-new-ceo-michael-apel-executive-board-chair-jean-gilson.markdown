@@ -4,7 +4,7 @@ date: 2023-10-26 11:09:00 Z
 is_featured: true
 solutions:
 - DAI Capital
-- Finance and Investment
+- Financial Services
 summary: DAI is pleased to announce the appointment of [Michael Apel](https://www.dai.com/who-we-are/our-team/michael-apel)
   to serve as Chief Executive Officer and Chief Investment Officer of MicroVest Capital
   Management (MicroVest).

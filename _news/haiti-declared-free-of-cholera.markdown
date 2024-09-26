@@ -5,9 +5,9 @@ tags:
 - health
 - water
 solutions:
-- Water and Sanitation Services and Management
+- Water Security, Sanitation and Hygiene
 - Global Health
-- Environment
+- Climate and Environment
 regions: Latin America and the Caribbean
 projects: Haiti—USAID Water and Sanitation project
 clients: U.S. Agency for International Development

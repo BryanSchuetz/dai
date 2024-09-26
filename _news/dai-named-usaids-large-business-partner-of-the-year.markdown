@@ -3,7 +3,7 @@ title: DAI Named USAID’s Large Business Partner of the Year
 date: 2018-07-12 16:46:00 Z
 is_featured: true
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions: Worldwide
 clients: U.S. Agency for International Development
 summary: 'The U.S. Agency for International Development (USAID) has named DAI its

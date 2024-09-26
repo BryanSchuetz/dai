@@ -4,7 +4,6 @@ title: Pandemic Preparedness Event Focuses on Strengthening Health Systems and S
 date: 2018-05-18 19:44:00 Z
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 projects: Worldwide—Preparedness and Response (P&R)
 summary: 'DAI’s Global Health team participated in a lively panel discussion on the
   future of response to disease outbreaks for the CSIS symposium, “Pandemic Preparedness:

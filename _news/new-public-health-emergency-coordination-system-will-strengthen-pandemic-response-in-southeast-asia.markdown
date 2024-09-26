@@ -3,7 +3,7 @@ title: New Public Health Emergency Coordination System Will Strengthen Pandemic 
   in Southeast Asia
 date: 2021-02-17 09:26:00 Z
 solutions:
-- Global Health Security and Pandemic Preparedness
+- Global Health
 - Governance
 regions: Asia and the Pacific
 projects: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization with the

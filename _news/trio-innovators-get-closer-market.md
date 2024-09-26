@@ -9,7 +9,7 @@ summary: DAI has developed considerable expertise in the disciplines required to
   opportunities for initiatives with the potential to make a difference in developing
   and transitioning nations.
 solutions:
-- Digital Acceleration
+- Digital Development
 regions: 
 projects: 
 clients: 

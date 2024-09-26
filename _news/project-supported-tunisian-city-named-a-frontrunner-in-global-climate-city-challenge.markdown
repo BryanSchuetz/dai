@@ -3,7 +3,7 @@ title: Project-Supported Tunisian City Named a Frontrunner in Global Climate Cit
   Challenge
 date: 2019-12-18 09:10:00 Z
 solutions:
-- Environment
+- Climate and Environment
 regions: Middle East and North Africa
 clients: European Union
 summary: The city of Monastir, Tunisia—supported by a European Commission project—was

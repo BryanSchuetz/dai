@@ -2,7 +2,7 @@
 title: DAI Joins Global Forum on Cyber Expertise
 date: 2019-08-23 15:13:00 Z
 solutions:
-- Digital Acceleration
+- Digital Development
 regions: Worldwide
 summary: DAI’s Center for Digital Acceleration (CDA) is pleased to announce it has
   become a member of the Global Forum on Cyber Expertise (GFCE), a global platform

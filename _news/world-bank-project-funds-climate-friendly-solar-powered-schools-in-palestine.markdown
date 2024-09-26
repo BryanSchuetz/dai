@@ -3,9 +3,9 @@ title: World Bank Project Funds Climate-Friendly Solar-Powered Schools in Palest
 date: 2021-03-25 16:10:00 Z
 solutions:
 - Economic Growth
-- Environment
-- Energy
-- Finance and Investment
+- Climate and Environment
+- Clean Energy
+- Financial Services
 regions: Middle East and North Africa
 projects: Palestine—Finance for Jobs (F4J)
 clients: World Bank

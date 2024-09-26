@@ -7,7 +7,7 @@ summary: 'DAI is delighted to welcome Zainab Ferrah Conteh as part of the Mandel
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Sub-Saharan Africa

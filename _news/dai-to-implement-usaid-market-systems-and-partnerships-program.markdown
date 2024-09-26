@@ -7,7 +7,7 @@ tags:
 - USAID
 solutions:
 - Public-Private Partnerships
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 regions: Worldwide
 projects: Worldwide—Feed the Future Market Systems and Partnerships (MSP)
 clients: U.S. Agency for International Development

@@ -7,7 +7,7 @@ summary: "To commemorate the Tamil holiday of Thai Pongal and celebrate diversit
   youth from the north and south of Sri Lanka to promote reconciliation and advocate
   for the establishment of a youth network.  \n"
 solutions:
-- Fragile States
+- Peace and Stability
 regions:
 - Asia and the Pacific
 projects: 

@@ -3,7 +3,7 @@ title: ExxonMobil Supplier Forum in Georgetown, Guyana, Attracts More than 1,200
   Businesspeople
 date: 2018-12-07 17:51:00 Z
 solutions:
-- Sustainable Livelihoods
+- Climate Adaptation and Mitigation
 - Local Content and Supply Chain Management
 - Sustainable Business
 regions: Latin America and the Caribbean

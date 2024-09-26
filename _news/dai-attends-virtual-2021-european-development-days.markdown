@@ -3,10 +3,9 @@ title: DAI Attends Virtual 2021 European Development Days
 date: 2021-06-17 08:44:00 Z
 tags:
 - European Union
-- climate
 solutions:
-- Environment
-- Energy
+- Climate and Environment
+- Clean Energy
 projects: Ethiopia—GCCA+/Climate Smart Mainstreaming into the Productive Safety Net
   Program (Climate-Smart PSNP)
 clients: European Union

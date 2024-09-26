@@ -6,7 +6,6 @@ tags:
 - COVID-19
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 clients: European Union
 summary: DAI and the European Centre for Development Policy Management will host a
   series of webinars designed to engage and inform global development stakeholders

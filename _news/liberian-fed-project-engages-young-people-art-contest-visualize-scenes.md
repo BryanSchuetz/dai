@@ -10,7 +10,7 @@ summary: 'In celebration of World Food Day, held every year on October 16, in co
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 - Global Health
 regions:

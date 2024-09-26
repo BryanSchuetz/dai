@@ -2,7 +2,7 @@
 title: Innovation into Action Challenge Winners Chosen
 date: 2016-05-27 18:05:00 Z
 solutions:
-- Digital Acceleration
+- Digital Development
 clients:
 - U.S. Agency for International Development
 summary: Last night, DAI and its partners announced four winners of the _Innovation

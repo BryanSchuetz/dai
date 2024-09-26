@@ -2,7 +2,7 @@
 title: 'Access for All: DAI’s Brigit Helms Launches Her New Book on Economic Inclusion'
 date: 2018-12-03 14:57:00 Z
 solutions:
-- Finance and Investment
+- Financial Services
 - Economic Growth
 summary: 'Brigit Helms'' latest book, *Access for All: Building Inclusive Economic
   Systems*, will be [launched ](https://www.eventbrite.com/e/access-for-all-book-launch-and-holiday-soiree-tickets-52358251941)on

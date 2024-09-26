@@ -3,7 +3,7 @@ title: DAI Hosts Third Mandela Washington Fellow
 date: 2018-08-08 14:40:00 Z
 solutions:
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Sub-Saharan Africa
 summary: 'DAI is delighted to welcome Soilihi Massoundi as part of the Mandela Washington
   Fellowship for Young African Leaders. '

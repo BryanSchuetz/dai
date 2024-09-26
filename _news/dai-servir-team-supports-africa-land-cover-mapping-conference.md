@@ -9,10 +9,9 @@ summary: 'The International Symposium on Land Cover Mapping for the African Cont
 
 '
 solutions:
-- Climate
-- Environment
-- Innovation and Entrepreneurship
-- Digital Acceleration
+- Climate and Environment
+- Entrepreneurship and Innovation
+- Digital Development
 regions:
 - Sub-Saharan Africa
 projects: Worldwide—SERVIR Program Demand Activity

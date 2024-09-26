@@ -2,9 +2,7 @@
 title: DAI Projects Presenting at COP26 in Glasgow
 date: 2021-11-01 09:18:00 Z
 solutions:
-- Climate
-- Climate Change Adaptation and Mitigation
-- Environment
+- Climate and Environment
 summary: At least nine DAI-led projects and a number of technical experts are participating
   in the 26th Conference of the Parties (COP) convention in Glasgow, starting October
   31 and running through November 12. COP is the decision-making body of the United

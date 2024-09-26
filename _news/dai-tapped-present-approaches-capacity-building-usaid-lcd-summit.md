@@ -3,7 +3,7 @@ title: DAI Tapped to Present Approaches to Capacity Building at USAID’s LCD Su
 date: 2012-06-15 18:05:00 Z
 solutions:
 - Global Health
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Sub-Saharan Africa

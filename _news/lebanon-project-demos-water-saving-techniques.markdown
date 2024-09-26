@@ -2,7 +2,7 @@
 title: Lebanon Project Demos Water-Saving Techniques
 date: 2017-12-19 20:22:00 Z
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions: Middle East and North Africa
 projects: Lebanon—Water Project (LWP)
 clients: U.S. Agency for International Development

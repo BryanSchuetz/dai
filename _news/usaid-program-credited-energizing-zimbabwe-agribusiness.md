@@ -7,7 +7,7 @@ summary: 'Ministers, the U.S. ambassador, and local stakeholders commended the r
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 projects: 

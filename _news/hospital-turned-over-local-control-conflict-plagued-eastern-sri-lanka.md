@@ -7,7 +7,7 @@ summary: 'A milestone was achieved November 22 in conflict-plagued eastern Sri L
 
 '
 solutions:
-- Fragile States
+- Peace and Stability
 regions:
 - Asia and the Pacific
 projects: Sri Lanka—Reintegration and Stabilization in the East and North (RISEN)

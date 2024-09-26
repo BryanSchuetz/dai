@@ -5,8 +5,8 @@ tags:
 - European Union
 - Sustainable Business
 solutions:
-- Climate
-- Finance and Investment
+- Climate and Environment
+- Financial Services
 regions: Sub-Saharan Africa
 projects: Somalia—EU Support to Policy Dialogue on Investment Climate
 clients: European Union

@@ -2,8 +2,7 @@
 title: DAI Teams with USAID, NASA on Climate Change Project
 date: 2012-08-07 18:05:00 Z
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 projects: Worldwide—SERVIR Program Demand Activity
 summary: 'DAI is delighted to announce that we are collaborating with the U.S. Agency
   for International Development (USAID), in partnership with the National Aeronautics

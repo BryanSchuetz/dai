@@ -5,7 +5,7 @@ date: 2017-02-01 22:22:00 Z
 is_featured: true
 solutions:
 - Economic Growth
-- Sustainable Livelihoods
+- Climate Adaptation and Mitigation
 regions: Sub-Saharan Africa
 projects: Ethiopia—Private Enterprise Programme Ethiopia (PEPE)
 clients: U.K. Department for International Development

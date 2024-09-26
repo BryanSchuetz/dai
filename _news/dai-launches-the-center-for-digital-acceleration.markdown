@@ -4,7 +4,7 @@ date: 2018-03-20 12:16:00 Z
 is_featured: true
 solutions:
 - Economic Growth
-- Digital Acceleration
+- Digital Development
 regions: Worldwide
 summary: DAI today announced the launch of the Center for Digital Acceleration, a
   center dedicated to integrating cutting-edge digital tools into development practice.

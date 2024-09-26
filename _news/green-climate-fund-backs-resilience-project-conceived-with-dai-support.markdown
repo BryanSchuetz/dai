@@ -2,7 +2,7 @@
 title: Green Climate Fund Backs Resilience Project Conceived with DAI Support
 date: 2021-04-02 14:30:00 Z
 solutions:
-- Climate
+- Climate and Environment
 regions: Sub-Saharan Africa
 clients: French Development Agency
 summary: A project designed with DAI’s assistance to mitigate the impact of climate

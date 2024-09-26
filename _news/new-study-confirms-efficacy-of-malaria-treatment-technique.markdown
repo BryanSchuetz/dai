@@ -7,7 +7,6 @@ tags:
 - malaria
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 projects: Zambia—MAMaZ Against Malaria (MAM)
 summary: 'Research from a project in Zambia supported by DAI Global Health along with

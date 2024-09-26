@@ -7,7 +7,7 @@ summary: 'In partnership with the Bretton Woods Committee, DAI co-hosted a webin
 
 '
 solutions:
-- Digital Acceleration
+- Digital Development
 regions: 
 projects: 
 clients: 

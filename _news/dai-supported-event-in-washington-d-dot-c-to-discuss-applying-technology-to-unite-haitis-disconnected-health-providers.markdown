@@ -6,7 +6,6 @@ tags:
 - health
 solutions:
 - Global Health
-- Health Governance
 regions: Latin America and the Caribbean
 projects: Haiti—Strategic Health Information System Program (HIS)
 summary: On May 3, the Harvard Alumni for Global Development and Embassy of Haiti

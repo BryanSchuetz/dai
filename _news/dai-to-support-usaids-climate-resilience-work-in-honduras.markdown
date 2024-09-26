@@ -2,10 +2,8 @@
 title: DAI to Support USAID’s Climate Resilience Work in Honduras
 date: 2023-01-23 13:22:00 Z
 tags:
-- climate
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions: Latin America and the Caribbean
 projects: Honduras—Building Climate Resilience Activity
 clients: U.S. Agency for International Development

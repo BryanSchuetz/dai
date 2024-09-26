@@ -3,7 +3,7 @@ title: Nyungwe Nziza Project in Rwanda wins Phoenix Award from the Society of Am
   Travel Writers
 date: 2013-10-23 18:05:00 Z
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National

@@ -7,8 +7,8 @@ tags:
 is_featured: true
 solutions:
 - Economic Growth
-- Business Environment Reform
-- Agriculture and Food Security
+- Private Sector Development
+- Agriculture and Market Systems
 regions: Sub-Saharan Africa
 country: Nigeria
 projects: East Africa—Trade and Investment Hub

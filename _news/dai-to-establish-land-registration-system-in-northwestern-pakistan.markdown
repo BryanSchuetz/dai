@@ -4,7 +4,7 @@ date: 2021-06-01 13:06:00 Z
 is_featured: true
 solutions:
 - Land Tenure and Property Rights
-- Environment
+- Climate and Environment
 - Governance
 regions: Eastern Europe and Central Asia
 projects: Pakistan—Land Registration in Merged Areas (LRMA) Activity

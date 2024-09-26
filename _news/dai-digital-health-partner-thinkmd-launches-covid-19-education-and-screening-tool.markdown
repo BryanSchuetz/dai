@@ -7,7 +7,6 @@ tags:
 - health
 - digital
 solutions:
-- Global Health Security and Pandemic Preparedness
 - Global Health
 summary: "[THINKMD](https://thinkmd.org/), a DAI Global Health digital partner, launched
   its free COVID-19 education and health screening tool this week through the THINKMD

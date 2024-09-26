@@ -6,8 +6,7 @@ summary: 'Somaliland has its first-ever draft of an electrical energy law, a maj
 
 '
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 projects: 

@@ -4,8 +4,8 @@ title: U.S. Climate Envoy John Kerry Visits USAID Vietnam Urban Energy Security 
 date: 2022-02-23 13:48:00 Z
 is_featured: true
 solutions:
-- Climate
-- Energy
+- Climate and Environment
+- Clean Energy
 regions: Asia and the Pacific
 projects: Vietnam—Urban Energy Security (VUES)
 clients: U.S. Agency for International Development

@@ -5,7 +5,6 @@ tags:
 - health
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions: Worldwide
 projects: Worldwide—Preparedness and Response (P&R)
 summary: DAI Global Health has joined the Partners Forum of the Coalition for Epidemic

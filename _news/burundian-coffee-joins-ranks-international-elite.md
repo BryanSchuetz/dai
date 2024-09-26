@@ -7,7 +7,7 @@ summary: 'Coffee from Burundi is now far more visible on world markets after an 
 '
 solutions:
 - Economic Growth
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 projects: Burundi—Agribusiness Program (BAP)

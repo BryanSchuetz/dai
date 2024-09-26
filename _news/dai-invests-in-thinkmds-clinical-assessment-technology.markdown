@@ -5,7 +5,7 @@ tags:
 - health
 is_featured: true
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Global Health
 - DAI Capital
 summary: DAI and THINKMD today announced a strategic partnership that will use DAI’s

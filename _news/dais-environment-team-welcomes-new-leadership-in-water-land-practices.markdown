@@ -2,7 +2,7 @@
 title: DAI’s Environment Team Welcomes New Leadership in Water, Land Practices
 date: 2019-09-06 07:26:00 Z
 solutions:
-- Environment
+- Climate and Environment
 - Land Tenure and Property Rights
 summary: 'DAI is pleased to announce the appointment of two new global practice leads
   in its Environment Sector: Darren Saywell as head of the Water practice and John

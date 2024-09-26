@@ -9,8 +9,7 @@ summary: 'University students from Benin, Cameroon, Cote d''Ivoire, Ghana, and N
 
 '
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

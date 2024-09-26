@@ -7,8 +7,8 @@ summary: 'Thirty-two groups representing 16 countries were nominated for innovat
 
 '
 solutions:
-- Digital Acceleration
-- Innovation and Entrepreneurship
+- Digital Development
+- Entrepreneurship and Innovation
 regions: 
 projects: 
 clients: 

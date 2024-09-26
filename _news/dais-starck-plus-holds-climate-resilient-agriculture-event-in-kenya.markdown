@@ -2,9 +2,8 @@
 title: DAI’s StARCK+ Holds Climate-Resilient Agriculture Event in Kenya
 date: 2017-06-16 17:46:00 Z
 solutions:
-- Environment
-- Climate
-- Agriculture and Food Security
+- Climate and Environment
+- Agriculture and Market Systems
 regions: Sub-Saharan Africa
 projects: Kenya—Strengthening Adaptation and Resilience to Climate Change in Kenya
   Plus (StARCK+)

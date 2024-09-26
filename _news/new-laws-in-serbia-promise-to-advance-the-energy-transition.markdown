@@ -5,10 +5,9 @@ tags:
 - European Union
 is_featured: true
 solutions:
-- Energy
-- Environment
+- Clean Energy
 - Institutional and Policy Reform
-- Climate
+- Climate and Environment
 regions: Eastern Europe and Central Asia
 projects: Serbia—Technical Assistance for Energy Efficiency and Renewable Energy Sources
 clients: European Union

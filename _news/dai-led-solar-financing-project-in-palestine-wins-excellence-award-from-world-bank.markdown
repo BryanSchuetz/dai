@@ -3,7 +3,7 @@ title: DAI-Implemented Solar Energy Financing Project in Palestine Wins Excellen
   Award from World Bank Group
 date: 2019-03-04 16:10:00 Z
 solutions:
-- Environment
+- Climate and Environment
 - Economic Growth
 regions: Middle East and North Africa
 projects: Palestine Finance for Jobs (F4J)

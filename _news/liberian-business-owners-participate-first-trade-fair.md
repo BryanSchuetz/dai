@@ -8,7 +8,7 @@ summary: 'The DAI-led [Food and Enterprise Development (FED)](/our-work/projects
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 - Global Health
 regions:

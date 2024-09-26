@@ -3,7 +3,7 @@ title: DAI Submits Its 2021 Communication on Progress to the UN Global Compact
 date: 2022-01-18 07:57:00 Z
 is_featured: true
 solutions:
-- Climate
+- Climate and Environment
 - Stability
 - Governance
 - Economic Growth

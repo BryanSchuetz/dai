@@ -2,7 +2,7 @@
 title: Two DAI Projects Earn USAID Digital Awards
 date: 2022-12-05 08:00:00 Z
 solutions:
-- Digital Acceleration
+- Digital Development
 clients: U.S. Agency for International Development
 summary: 'The U.S. Agency for International Development (USAID) has named two DAI-led
   projects as two of five winners of the 2022 Digital Development Awards (the Digis). '

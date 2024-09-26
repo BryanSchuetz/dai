@@ -9,7 +9,7 @@ summary: 'With multibillion-dollar transportation projects under way, including 
 '
 solutions:
 - Economic Growth
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 projects:

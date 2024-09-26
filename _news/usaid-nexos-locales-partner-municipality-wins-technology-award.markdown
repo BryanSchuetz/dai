@@ -3,8 +3,8 @@ title: USAID Nexos Locales Partner Municipality Wins Technology Award
 date: 2017-11-06 19:55:00 Z
 is_featured: true
 solutions:
-- Innovation and Entrepreneurship
-- Digital Acceleration
+- Entrepreneurship and Innovation
+- Digital Development
 regions: Latin America and the Caribbean
 projects: Guatemala—Nexos Locales
 clients: U.S. Agency for International Development

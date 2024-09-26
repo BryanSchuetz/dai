@@ -6,7 +6,7 @@ summary: "[Rwanda Land Tenure Regularisation (LTR)](/our-work/projects/rwanda-su
   was named Outstanding International Development Project (non-physical) 2014 by the
   London-based trade organization British Expertise.\n"
 solutions:
-- Environment
+- Climate and Environment
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa

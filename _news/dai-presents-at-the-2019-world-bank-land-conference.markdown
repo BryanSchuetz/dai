@@ -3,7 +3,7 @@ title: DAI Presents at the 2019 World Bank Land Conference
 date: 2019-03-29 12:05:00 Z
 solutions:
 - Land Tenure and Property Rights
-- Environment
+- Climate and Environment
 - Governance
 summary: DAI land tenure experts attended this year’s World Bank Conference on Land
   and Poverty and presented recent work in Ethiopia, Ghana, Malawi, and Tanzania.

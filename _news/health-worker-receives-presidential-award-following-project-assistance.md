@@ -3,7 +3,7 @@ title: Health Worker Receives Presidential Award Following Project Assistance
 date: 2014-10-13 18:05:00 Z
 solutions:
 - Global Health
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions:
 - Asia and the Pacific
 summary: 'While improving local sanitation conditions is a difficult job with often

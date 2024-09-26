@@ -4,7 +4,7 @@ date: 2024-04-10 16:22:00 Z
 solutions:
 - Economic Growth
 - Governance
-- Climate
+- Climate and Environment
 - Global Health
 regions: Worldwide
 summary: 'DAI is pleased to publish its Sustainability Report 2023, highlighting some

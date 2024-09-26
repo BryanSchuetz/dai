@@ -4,7 +4,7 @@ date: 2013-06-11 18:05:00 Z
 published: false
 solutions:
 - Governance
-- Fragile States
+- Peace and Stability
 regions:
 - Middle East and North Africa
 projects: Afghanistan—Regional Afghan Municipalities Program for Urban Populations,

@@ -6,7 +6,7 @@ summary: 'The U.S. Agency for International Developing (USAID) is launching deve
 
 '
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions: 
 projects: 
 clients: 

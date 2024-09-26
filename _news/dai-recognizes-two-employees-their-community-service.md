@@ -8,7 +8,7 @@ summary: 'Two DAI employees will receive the company''s inaugural David H. Gunni
 
 '
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Sub-Saharan Africa

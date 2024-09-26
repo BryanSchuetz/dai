@@ -2,7 +2,7 @@
 title: DAI Experts to Present on Climate Resilience at Conference in Guatemala
 date: 2018-06-11 18:49:00 Z
 solutions:
-- Climate
+- Climate and Environment
 - ICT
 regions: Latin America and the Caribbean
 summary: 'DAI has developed a panel for the upcoming Cracking the Nut conference in

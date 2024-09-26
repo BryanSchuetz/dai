@@ -3,7 +3,7 @@ title: DAI to Launch USAID Zambia Program to Reduce Stunting in Young Children
 date: 2019-02-19 18:22:00 Z
 solutions:
 - Global Health
-- Water and Sanitation Services and Management
+- Water Security, Sanitation and Hygiene
 regions: Sub-Saharan Africa
 projects: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 clients: U.S. Agency for International Development

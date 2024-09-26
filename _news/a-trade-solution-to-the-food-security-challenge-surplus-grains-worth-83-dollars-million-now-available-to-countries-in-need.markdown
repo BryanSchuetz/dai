@@ -4,7 +4,7 @@ title: 'A Trade Solution to the Food Security Challenge: Surplus Grains Worth $9
 date: 2017-03-17 19:33:00 Z
 is_featured: false
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions: Sub-Saharan Africa
 projects: East Africa Trade and Investment Hub

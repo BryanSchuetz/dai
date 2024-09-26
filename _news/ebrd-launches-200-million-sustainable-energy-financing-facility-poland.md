@@ -2,7 +2,7 @@
 title: EBRD Launches €200 Million Sustainable Energy Financing Facility in Poland
 date: 2014-11-05 18:05:00 Z
 solutions:
-- Climate
+- Climate and Environment
 - Economic Growth
 regions:
 - decreasing

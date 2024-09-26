@@ -2,7 +2,7 @@
 title: DAI Hosts Fintech Roundtable in Nigeria
 date: 2022-06-29 07:31:00 Z
 solutions:
-- Finance and Investment
+- Financial Services
 regions: Sub-Saharan Africa
 summary: DAI recently hosted members of Nigeria’s financial technology ecosystem to
   discuss the direction of financial regulation and its potential impact on the sector.

@@ -6,7 +6,7 @@ solutions:
 - Governance
 - Land Tenure and Property Rights
 - Gender
-- Environment
+- Climate and Environment
 regions: Sub-Saharan Africa
 projects: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 clients: U.S. Agency for International Development

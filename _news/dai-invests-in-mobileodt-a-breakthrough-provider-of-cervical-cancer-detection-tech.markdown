@@ -7,7 +7,7 @@ tags:
 is_featured: true
 solutions:
 - Global Health
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - DAI Capital
 summary: DAI today announced an investment in the mHealth service provider, MobileODT.
 ---

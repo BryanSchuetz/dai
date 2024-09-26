@@ -7,8 +7,8 @@ summary: 'Sonal Shah, founding Director of the White House Office of Social Inno
 
 '
 solutions:
-- Digital Acceleration
-- Innovation and Entrepreneurship
+- Digital Development
+- Entrepreneurship and Innovation
 regions: 
 projects: 
 clients: 

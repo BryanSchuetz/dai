@@ -4,7 +4,7 @@ title: USAID Georgia Project Nominated for Inclusive Entrepreneurship Initiative
 date: 2022-05-06 09:51:00 Z
 solutions:
 - Economic Growth
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions: Eastern Europe and Central Asia
 projects: Georgia—USAID Economic Security Program
 clients: U.S. Agency for International Development

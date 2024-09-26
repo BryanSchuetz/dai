@@ -10,9 +10,8 @@ summary: 'The DAI-led FRAMEweb online community celebrates its 10th year this mo
 
 '
 solutions:
-- Environment
-- Climate
-- Digital Acceleration
+- Climate and Environment
+- Digital Development
 regions: 
 projects: 
 clients: 
