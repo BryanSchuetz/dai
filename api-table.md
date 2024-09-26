@@ -15,7 +15,7 @@ layout: default
       <th>Post-Type</th>
       <th>Body-Text</th>
       <th>URL</th>
-      <th>Tags</th>
+      <th>Solutions</th>
       <th>Regions</th>
     </tr>
   </thead>
@@ -27,7 +27,7 @@ layout: default
       <td></td>
       <td>{{story.content | escape}}</td>
       <td>{{story.url}}</td>
-      <td>{% for solution in story.solutions %}{{solution}}{% unless forloop.last %}, {% endunless %}{% endfor %}</td>
+      <td>{% for solution in story.solutions %}{{solution | replace: 'Include Primary and/or Secondary Solutions', ''}}{% unless forloop.last %}, {% endunless %}{% endfor %}</td>
       <td>{{story.regions}}</td>
     </tr>
   {% endfor %}
