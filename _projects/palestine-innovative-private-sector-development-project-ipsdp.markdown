@@ -33,4 +33,7 @@ With support from the World Bank and on behalf of the Ministry of National Econo
 
 ## Select Results
 
-* Partnered with the Ministry of National Economy to launch an Automated Business Registration System that makes starting and operating a business easier. Entrepreneurs can register their businesses online, access essential information, and streamline operations.
+* 857 graduates completed market-driven training providing them with improved economic opportunities (44 percent female).
+* 79 beneficiary firms raised nearly $33 million in private investment (27 female-owned).
+* 103 firms received catalytic funding and market access grants from IPSD allowing them to pursue opportunities in markets outside of Palestine.
+* Managed the implementation of the newly launched Automated Business Registration System for the Palestinian Authority that makes starting and operating a business easier, allowing entrepreneurs to register and manage their business registration online, access essential information, and streamline operations.
