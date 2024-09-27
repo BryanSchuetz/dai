@@ -13,8 +13,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: Quarterly Report
-  link: https://www.usaid.gov/invest/jun-05-2024-invest-year-7-quarter-2-report
+- title: Final Report
+  link: https://www.usaid.gov/invest/publications/usaid-invest-final-report
 - title: INVEST Blog
   link: https://medium.com/usaid-invest
 - title: 'INVEST Publications '
