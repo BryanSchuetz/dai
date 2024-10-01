@@ -7,7 +7,7 @@ start: 2017
 end: 2019
 client: U.S. Agency for International Development
 solutions:
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Governance
 regions: Latin America and the Caribbean
 country: Guatemala
@@ -17,11 +17,11 @@ promos:
   link: https://dai-global-developments.com/articles/want-better-domestic-revenue-mobilization-build-a-digital-taxpayer-registration-tool/
 ---
 
-The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic product means the country cannot afford to provide critical public services. The Fiscal and Procurement Reform Project (FPRP) supported the government to increase domestic resource mobilization, enhance transparency and accountability, and support public procurement reform. 
+The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic product means the country cannot afford to provide critical public services. The Fiscal and Procurement Reform Project (FPRP) supported the government to increase domestic resource mobilization, enhance transparency and accountability, and support public procurement reform.
 
 Through FPRP, DAI worked with Guatemala’s Tax and Customs Administration and Ministry of Finance to collect and spend revenue with greater efficiency, effectiveness, and accountability, ultimately increase its ability to invest in public services and improve outcomes for citizens in health, education, and economic growth.
 
-The project drew from similar fiscal reform successes by DAI on behalf the U.S. Agency for International Development (USAID) in [El Salvador](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp), [Jordan](https://www.dai.com/our-work/projects/jordan-fiscal-reform-project-ii-and-bridge-activity-frp-ii-frp-bridge), and the [Philippines](https://www.dai.com/our-work/projects/philippines-facilitating-public-investment-fpi). 
+The project drew from similar fiscal reform successes by DAI on behalf the U.S. Agency for International Development (USAID) in [El Salvador](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp), [Jordan](https://www.dai.com/our-work/projects/jordan-fiscal-reform-project-ii-and-bridge-activity-frp-ii-frp-bridge), and the [Philippines](https://www.dai.com/our-work/projects/philippines-facilitating-public-investment-fpi).
 
 ![FPRP.jpg](/uploads/FPRP.jpg)
 

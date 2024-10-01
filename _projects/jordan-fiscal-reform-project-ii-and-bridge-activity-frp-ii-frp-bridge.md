@@ -9,7 +9,7 @@ end: 2017
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions:
 - Middle East and North Africa
 country:

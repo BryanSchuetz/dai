@@ -8,7 +8,7 @@ end: 2024
 client: Irish Aid
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions: Sub-Saharan Africa
 country: Malawi
 ---
@@ -18,5 +18,5 @@ DAI is supporting the Malawian Revenue Authority (MRA) to improve its organizati
 ## Sample Activities
 
 * Help leaders realize the need for continual change to improve performance.
-* Deliver capacity-building training support in change management leadership for 21 leaders in the Executive Committee in MRA. 
-* Deliver an updated follow-on people survey for MRA personnel. 
+* Deliver capacity-building training support in change management leadership for 21 leaders in the Executive Committee in MRA.
+* Deliver an updated follow-on people survey for MRA personnel.

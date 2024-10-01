@@ -9,7 +9,7 @@ end: 2023
 client: European Union
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
 ---

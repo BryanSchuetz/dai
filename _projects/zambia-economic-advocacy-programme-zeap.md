@@ -14,7 +14,7 @@ solutions:
 - Economic Growth
 - Governance
 - Institutional and Policy Reform
-- Public Administration, Civil Service Reform, and Human Resources Management
+- Public Administration Reforms
 regions:
 - Sub-Saharan Africa
 country:

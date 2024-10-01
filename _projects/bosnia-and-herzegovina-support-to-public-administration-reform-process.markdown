@@ -9,7 +9,7 @@ end: 2021
 client: European Union
 solutions:
 - Governance
-- Public Administration, Civil Service Reform, and Human Resources Management
+- Public Administration Reforms
 - Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
@@ -32,4 +32,4 @@ Bosnia and Herzegovina has been implementing public administration reform since 
 * Prepared solutions for the design of an improved, performance-based system for monitoring and evaluating reform projects.
 * Drafted a policy paper analyzing the coordination structures.
 * Delivered workshops on the principle of political neutrality.
-* Trained 500 civil servants and took concrete steps towards the digitalization of the public administration system.  
+* Trained 500 civil servants and took concrete steps towards the digitalization of the public administration system.

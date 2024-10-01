@@ -9,7 +9,7 @@ end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Anti-corruption, Transparency, and Accountability
 regions: Middle East and North Africa
 country: Jordan
@@ -40,7 +40,7 @@ Our work is integrated into local systems and informed by political economy anal
 
 ## Select Results
 
-* Developed new, user-friendly tools, including a series of tailored dashboards to visualize budgetary information and data mining tools to assist the search for information. These tools allow stakeholders, depending on their authority, to access the needed information in a timely way. 
+* Developed new, user-friendly tools, including a series of tailored dashboards to visualize budgetary information and data mining tools to assist the search for information. These tools allow stakeholders, depending on their authority, to access the needed information in a timely way.
 * Assisted the Government of Jordan in launching the Government Unit Portal, which makes reporting easier and more efficient for 25 government units. This system improves decision-making and resource allocation by providing a clearer picture of the budgetary situation.
 * Assisted the Government Tenders Department to increase utilization of the Jordanian Online E-Procurement System (JONEPS) from 47 to 88 percent, releasing 305 public works and technical services tenders through the system, as well as increasing efficiency, accountability, and transparency.
 * Supported the Jordanian Income and Sales Tax Department to implement a national media campaign to promote invoice requesting by taxpayers. The campaign explains how to use the [Fawateery app](https://play.google.com/store/apps/details?id=jo.istd.fawateery&hl=en_US&gl=US&pli=1) to submit invoices and reached 9.7 million people via press coverage, generating 90,000 downloads.

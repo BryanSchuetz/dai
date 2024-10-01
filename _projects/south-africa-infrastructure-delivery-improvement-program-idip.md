@@ -12,7 +12,7 @@ solutions:
 - Decentralization and Local Government Management
 - Governance
 - Institutional and Policy Reform
-- Public Administration, Civil Service Reform, and Human Resources Management
+- Public Administration Reforms
 layout: project
 summary: 'Following a 2001 review of provincial service delivery systems and realizing
   the challenges related to the planning and management of public sector infrastructure

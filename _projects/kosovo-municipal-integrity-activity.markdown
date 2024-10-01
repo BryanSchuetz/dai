@@ -10,7 +10,7 @@ end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Kosovo
@@ -30,7 +30,7 @@ Public procurement is a government tool used to deliver goods and services such 
 
 However, in Kosovo, citizens, civil society organizations, and private sector economic operators report that public procurement had been compromised by political patronage, nepotism, fraud, and other forms of corruption. This problem reduces public resources available for service delivery to citizens, undermines public confidence in government, and deters foreign investment. It is critically important for the Government of Kosovo to address these weaknesses or gaps in the procurement system, especially at the municipal level, to safeguard public money spent through public procurement.
 
-To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the [Transparent, Effective, and Accountable Municipalities (USAID TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity, which DAI implemented from 2016 to 2022. The project supported Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM worked with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. 
+To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the [Transparent, Effective, and Accountable Municipalities (USAID TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity, which DAI implemented from 2016 to 2022. The project supported Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM worked with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations.
 
 Building off that project, the Municipal Integrity activity works with central government oversight agencies, municipalities, civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, anti-corruption, and private sector engagement.
 
@@ -51,5 +51,5 @@ Building off that project, the Municipal Integrity activity works with central g
 * Developed a curriculum focusing on integrity, whistleblowing, and anti-corruption, and trained more than 50 businesses across Kosovo, including women-owned businesses, fostering ethical practices and transparency in local business.
 * Supported the National Audit Office in identifying 51 fraud cases from 123 audit reports, enhancing legal preparation.
 * Introduced an e-Learning online platform to empower public officials by offering comprehensive capacity-building courses, leading to enhanced citizen service delivery.
-* Supported institutions that achieved significant improvements in transparency by publishing 94 percent of procurement and financial documents on their websites in 2023, compared to 61 percent in 2022. 
+* Supported institutions that achieved significant improvements in transparency by publishing 94 percent of procurement and financial documents on their websites in 2023, compared to 61 percent in 2022.
 * [Supported](/uploads/Tackling%20Systemic%20Corruption%20Through%20Public%20Financial%20Management.pdf) the National Audit Office and the State Prosecutor in Kosovo in forging a formal collaboration to combat fraud and corruption in public procurement. This partnership bridges the gap between auditing and prosecution, enabling a more robust, integrated approach.

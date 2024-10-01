@@ -10,7 +10,7 @@ client: European Union
 solutions:
 - Governance
 - Local Governance and Decentralization
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions: Sub-Saharan Africa
 country: Sierra Leone
 promos:

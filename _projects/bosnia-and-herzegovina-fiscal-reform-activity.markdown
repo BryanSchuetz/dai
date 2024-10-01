@@ -10,20 +10,20 @@ end: 2028
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
-- 
+- Public Financial Management
+-
 regions: Eastern Europe and Central Asia
 country: 'Bosnia and Herzegovina '
 ---
 
-Despite Bosnia and Herzegovina’s (BiH’s) advancements in fiscal sector reform, direct taxes remain burdensome due to complex legal and institutional arrangements across tax administrations. The U.S. Agency for International Development has designed the Fiscal Reform Activity to enhance tax legislation and tax administration efficiency, reducing tax compliance burdens and costs, and aligning the country’s regulatory framework with international tax standards.   
+Despite Bosnia and Herzegovina’s (BiH’s) advancements in fiscal sector reform, direct taxes remain burdensome due to complex legal and institutional arrangements across tax administrations. The U.S. Agency for International Development has designed the Fiscal Reform Activity to enhance tax legislation and tax administration efficiency, reducing tax compliance burdens and costs, and aligning the country’s regulatory framework with international tax standards.
 
-The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal sector reform in a way that increases efficiency, reduces tax compliance costs, and aligns the country’s regulatory framework with changes in the European and international tax environment. 
+The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal sector reform in a way that increases efficiency, reduces tax compliance costs, and aligns the country’s regulatory framework with changes in the European and international tax environment.
 
 ![AdobeStock_373576891.jpeg](/uploads/AdobeStock_373576891.jpeg)`Photo: Adobe stock image.`
 
 ## Sample Activities
- 
+
 * Produce analysis, reports, and recommendations for the various tax administrations and ministries of finance that make up Bosnia and Herzegovina’s complex fiscal landscape: the Tax Administration in the Republic of Srpska, Tax Administration in Brcko District, Ministry of Finance for the Federation of Bosnia and Herzegovina, Ministry of Finance of the Republic of Srpska, the Directorate of Finance of Brcko District, and the State-level Ministry of Finance.
 * Implement the recommendations arising from those reports and analyses.
 * Improve the operational efficiency, efficacy, and capacity of the three tax administrations and the ministries of finance.

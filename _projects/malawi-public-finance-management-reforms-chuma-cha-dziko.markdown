@@ -10,12 +10,12 @@ end: 2025
 client: European Union
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions: Sub-Saharan Africa
 country: Malawi
 ---
 
-Advancing public financial management in Malawi is a complex process that requires keen understanding of how change happens within this context—the political economy, key stakeholders and their priorities, and the interrelated and systemic technical bottlenecks. 
+Advancing public financial management in Malawi is a complex process that requires keen understanding of how change happens within this context—the political economy, key stakeholders and their priorities, and the interrelated and systemic technical bottlenecks.
 
 Under “Chuma Cha Dziko,” or “National Economy,” DAI works with the Government of Malawi, the Ministry of Finance, Economic Planning, and Development, and other stakeholders to achieve efficient and effective use of public resources and support the growth of the economy and development of Malawi.
 

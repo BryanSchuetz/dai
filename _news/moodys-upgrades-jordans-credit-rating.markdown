@@ -3,7 +3,7 @@ title: Moody’s Upgrades Jordan’s Credit Rating
 date: 2024-05-21 09:18:00 Z
 solutions:
 - Governance
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Financial Services
 - Economic Growth
 regions: Middle East and North Africa
@@ -27,7 +27,7 @@ The credit rating upgrade was facilitated in part by two DAI projects in Jordan.
 
 The milestone reflects confidence in the country’s economic policies and reforms, such as the Economic Modernization Vision and the Public Sector Modernization Roadmap. For the government, the new rating means lower borrowing costs, improved investor confidence, and greater access to international financial markets, which can lead to further economic development and infrastructure investment. For everyday citizens, the upgrade signals a more stable economic environment, potentially leading to job creation and improved public services.
 
-USAID’s PFMA Activity has been pivotal in supporting Jordan’s efforts to enhance its fiscal stability and governance. In detailing its rationale for the upgrade, Moody’s highlighted the “digitalization of tax services and use of artificial intelligence to monitor tax compliance, harmonization of custom duties, unification of tax administration…and the installation of track and trace systems.” 
+USAID’s PFMA Activity has been pivotal in supporting Jordan’s efforts to enhance its fiscal stability and governance. In detailing its rationale for the upgrade, Moody’s highlighted the “digitalization of tax services and use of artificial intelligence to monitor tax compliance, harmonization of custom duties, unification of tax administration…and the installation of track and trace systems.”
 
 These advancements are directly attributable to the initiatives spearheaded by PFMA. By providing staff and technical assistance to the Ministry of Finance, PFMA also helped oversee Jordan’s Extended Fund Facility (EFF) with the International Monetary Fund; the successful conclusion of the first review of the EFF was another key factor in Moody’s decision.
 

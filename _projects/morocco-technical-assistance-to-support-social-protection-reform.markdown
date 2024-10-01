@@ -12,7 +12,7 @@ client: European Union
 solutions:
 - Economic Growth
 - Health Governance
-- Public Administration, Civil Service Reform, and Human Resources Management
+- Public Administration Reforms
 regions: Middle East and North Africa
 country: Morocco
 ---

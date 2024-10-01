@@ -12,7 +12,7 @@ client: European Union
 solutions:
 - Governance
 - Fragile States
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
@@ -35,8 +35,8 @@ The project falls under the European Union’s support for early recovery from c
 
 ## Select Results
 
-* Contributed to Yobe State winning the Overall Top Performer on State Fiscal Transparency, by the World Bank in November 2022. The award was based on performance in all disbursement link indicators, which is an area of intervention for the project.  
+* Contributed to Yobe State winning the Overall Top Performer on State Fiscal Transparency, by the World Bank in November 2022. The award was based on performance in all disbursement link indicators, which is an area of intervention for the project.
 * Helped reduce the actual nominal difference between domestic resources (internally generated revenue) and recurrent expenditure.
-* Supported Yobe State Ministry of Finance and Board of Internal Revenue to improve in tax policy and internally generated revenue administration. 
+* Supported Yobe State Ministry of Finance and Board of Internal Revenue to improve in tax policy and internally generated revenue administration.
 * Developed the capacity of at least 20 members of the public accounts committee and finance appropriation committee on legislative scrutiny of the annual budget proposal, audit reports, fiscal reports and frameworks, and debt management reports.
 * Strengthened the capacity of at least 20 staff of the office of the local government auditor general on audit reporting using the IPSAS format and in line with standard practices.

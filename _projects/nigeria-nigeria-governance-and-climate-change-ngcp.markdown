@@ -11,7 +11,7 @@ end: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
@@ -26,13 +26,13 @@ The program treats climate change as a political and governance issue. It facili
 
 NGCP supports the development and implementation of effective governance and climate strategies. This includes embedding, deepening, and broadening reform efforts in partner states and at the federal level to influence change throughout all 36 Nigerian states. It aims to establish communities of practice for Commissioners of Planning and Budget from all states and for senior women in civil or public service.
 
-![Picture1-8e0a89.png](/uploads/Picture1-8e0a89.png)  
+![Picture1-8e0a89.png](/uploads/Picture1-8e0a89.png)
 
 ## Sample Activities
 
-* Facilitate coalitions of reformers in government, civil society, the private sector, politicians, and others with an interest in positive change in governance, climate mitigation, adaptation and resilience, rapid population growth, and service delivery problems. 
+* Facilitate coalitions of reformers in government, civil society, the private sector, politicians, and others with an interest in positive change in governance, climate mitigation, adaptation and resilience, rapid population growth, and service delivery problems.
 * Enhance public financial management systems with searchable databases and toolkits on ease of doing business, local government planning, gender conflict, and social inclusion.
-* Increase state government capability and accountability to citizens to mainstream climate and deliver social protection in core governance processes. 
+* Increase state government capability and accountability to citizens to mainstream climate and deliver social protection in core governance processes.
 * Form communities of practice for Commissioners of Planning and Budget from all 36 states and create networks for senior women serving as civil or public servants in strategic sectors.
-* Increase state government capability and accountability to manage internal revenue and plan for and access climate finance. 
-* Manage a strategic opportunities fund to enable the program to respond flexibly to political opportunities as they arise. 
+* Increase state government capability and accountability to manage internal revenue and plan for and access climate finance.
+* Manage a strategic opportunities fund to enable the program to respond flexibly to political opportunities as they arise.

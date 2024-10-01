@@ -12,10 +12,10 @@ solutions:
 - Local Governance and Decentralization
 - Institutional and Policy Reform
 - Justice, Citizen Security, and Rule of Law
-- Public Financial Management and Domestic Revenue Mobilization
+- Public Financial Management
 - Peace-Building and Political Transition
 - Stabilization
-- Public Administration, Civil Service Reform, and Human Resources Management
+- Public Administration Reforms
 regions:
 - Sub-Saharan Africa
 country:
@@ -43,8 +43,8 @@ More information is available on the [PERL ARC website](http://www.perlnigeria.n
 
 ### Select Results
 
-* More transparent government, improved budget processes, and better service delivery at the federal level, with evidence of significant changes including the Open Government Partnership, a public budget portal, and the first public budget hearings in Nigeria's history. 
+* More transparent government, improved budget processes, and better service delivery at the federal level, with evidence of significant changes including the Open Government Partnership, a public budget portal, and the first public budget hearings in Nigeria's history.
 * In partner states, significant changes including primary health service improvement in Kaduna, public budget hearings, and state-level adoption of the Open Government Partnership. The regional hubs are connected to knowledge hubs that generate evidence-based peer-learning, replicate good practices, and improve service delivery.
-* Created a fully searchable [Public Financial Management Database](http://www.perlnigeria.net/new-version/resources-for-partners/perl-arc-public-financial-management-(pfm)-database) that contains the budgets and accounts of state governments and the Federal Republic over the past 10 years, complemented by toolkits on Ease of Doing Business, Local Government Planning, Gender Conflict, and Social Inclusion. 
-* Delivered learning for locally led development across Borno, Adamawa, and Yobe States. Yobe was able to qualify for the World Bank Multi-Sector Crisis Recovery Plan and saved £200,000 by adopting better procurement methods. 
-* Improved the business enabling environment by removing obstacles for businesses, supporting tax and internal revenue reforms, and mobilised reform through the Nigeria Governors Forum, the Presidential Committee on Ease of Doing Business, the South East Governors Forum, and the Development Agenda for Western Nigeria. 
+* Created a fully searchable [Public Financial Management Database](http://www.perlnigeria.net/new-version/resources-for-partners/perl-arc-public-financial-management-(pfm)-database) that contains the budgets and accounts of state governments and the Federal Republic over the past 10 years, complemented by toolkits on Ease of Doing Business, Local Government Planning, Gender Conflict, and Social Inclusion.
+* Delivered learning for locally led development across Borno, Adamawa, and Yobe States. Yobe was able to qualify for the World Bank Multi-Sector Crisis Recovery Plan and saved £200,000 by adopting better procurement methods.
+* Improved the business enabling environment by removing obstacles for businesses, supporting tax and internal revenue reforms, and mobilised reform through the Nigeria Governors Forum, the Presidential Committee on Ease of Doing Business, the South East Governors Forum, and the Development Agenda for Western Nigeria.
