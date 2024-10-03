@@ -11,7 +11,7 @@ end: 2016
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Nutrition and Food Security
 regions:
 - Sub-Saharan Africa

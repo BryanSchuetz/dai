@@ -12,7 +12,7 @@ end: 2017
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Middle East and North Africa
 country:

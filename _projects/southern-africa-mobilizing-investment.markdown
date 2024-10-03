@@ -8,7 +8,7 @@ end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Trade
 regions: Sub-Saharan Africa
 country: Regional

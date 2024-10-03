@@ -8,10 +8,9 @@ start: 2017
 end: 2024
 client: U.S. Agency for International Development
 solutions:
-- Digital Acceleration
+- Digital Development
 - Insights for Emerging Markets
-- Digital Trainings
-- Finance and Investment
+- Financial Services
 regions: Worldwide
 country: Global
 promos:

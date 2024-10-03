@@ -9,8 +9,7 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Digital Acceleration
-- Digital Strategy
+- Digital Development
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:

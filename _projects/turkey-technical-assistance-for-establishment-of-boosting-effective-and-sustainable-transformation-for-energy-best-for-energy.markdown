@@ -9,9 +9,8 @@ start: 2020
 end: 2023
 client: European Union
 solutions:
-- Environment
-- Energy
-- Climate
+- Climate and Environment
+- Clean Energy
 regions: Eastern Europe and Central Asia
 country: Türkiye
 promos:

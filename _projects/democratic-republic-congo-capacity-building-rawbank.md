@@ -11,7 +11,7 @@ end: 2012
 client: International Finance Corporation
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Sub-Saharan Africa
 country:

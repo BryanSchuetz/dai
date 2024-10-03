@@ -8,9 +8,8 @@ start: 2022
 end: 2027
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Climate
-- Climate Change Adaptation and Mitigation
+- Climate and Environment
+- Climate Adaptation and Mitigation
 regions: Latin America and the Caribbean
 country: Honduras
 ---

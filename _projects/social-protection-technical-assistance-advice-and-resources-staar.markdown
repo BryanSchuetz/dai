@@ -9,9 +9,9 @@ start: 2021
 end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Fragile States
+- Peace and Stability
 - Gender and Social Inclusion
-- Climate Change Adaptation and Mitigation
+- Climate Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
 promos:

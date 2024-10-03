@@ -10,7 +10,7 @@ end: 2025
 client: European Union
 solutions:
 - Institutional and Policy Reform
-- Legislative Strengthening
+- Democratic Institutions
 - Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine

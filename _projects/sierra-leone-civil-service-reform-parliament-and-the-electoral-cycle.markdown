@@ -9,7 +9,7 @@ start: 2018
 end: 2023
 client: European Union
 solutions:
-- Legislative Strengthening
+- Democratic Institutions
 - Governance
 regions: Sub-Saharan Africa
 country: Sierra Leone

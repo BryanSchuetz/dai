@@ -8,7 +8,7 @@ end: 2028
 client: World Bank
 solutions:
 - Economic Growth
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Public-Private Partnerships
 regions: Middle East and North Africa
 country: Palestine

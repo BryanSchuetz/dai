@@ -9,12 +9,11 @@ end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
+- Peace and Stability
 - Local Governance and Decentralization
 - Institutional and Policy Reform
 - Justice, Citizen Security, and Rule of Law
 - Public Financial Management
-- Peace-Building and Political Transition
-- Stabilization
 - Public Administration Reforms
 regions:
 - Sub-Saharan Africa

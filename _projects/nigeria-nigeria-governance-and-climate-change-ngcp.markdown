@@ -10,7 +10,7 @@ start: 2024
 end: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Climate
+- Climate and Environment
 - Public Financial Management
 regions: Sub-Saharan Africa
 country: Nigeria

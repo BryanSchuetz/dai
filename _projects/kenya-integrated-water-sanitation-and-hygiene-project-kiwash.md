@@ -8,9 +8,8 @@ start: 2015
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 - Global Health
-- Health and Livelihoods
 - Nutrition and Food Security
 - Water Security, Sanitation, and Hygiene
 regions:

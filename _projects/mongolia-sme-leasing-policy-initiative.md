@@ -9,9 +9,9 @@ start: 2015
 end: 2015
 client: European Bank for Reconstruction and Development
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Asia and the Pacific
 country:

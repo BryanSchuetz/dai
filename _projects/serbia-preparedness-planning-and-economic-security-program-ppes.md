@@ -9,10 +9,8 @@ start: 2006
 end: 2013
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
-- Security and Justice
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
+- Governance
 regions:
 - Eastern Europe and Central Asia
 country:

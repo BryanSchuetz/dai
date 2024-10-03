@@ -9,7 +9,7 @@ start: 2023
 end: 2028
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
+- Peace and Stability
 - Peace-building and State-building
 regions: Sub-Saharan Africa
 country: West Africa

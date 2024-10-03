@@ -8,9 +8,8 @@ start: 2022
 end: 2027
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Natural Resource Management
-- Climate
+- Climate and Environment
+- Nature, Oceans, and Biodiversity
 regions: Latin America and the Caribbean
 country: Colombia
 ---

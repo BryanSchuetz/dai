@@ -12,10 +12,10 @@ client: U.S. Agency for International Development
 solutions:
 - Include Primary and/or Secondary Solutions
 - Economic Growth
-- Environment
+- Climate and Environment
 - Governance
 - Global Health
-- Fragile States
+- Peace and Stability
 - Stabilization
 regions:
 - Worldwide

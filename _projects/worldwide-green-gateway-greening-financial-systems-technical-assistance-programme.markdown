@@ -11,8 +11,7 @@ start: 2023
 end: 2026
 client: European Investment Bank
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 - Governance
 regions: Worldwide
 country: Worldwide

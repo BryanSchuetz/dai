@@ -10,11 +10,11 @@ end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Climate
+- Climate and Environment
 - Gender and Social Inclusion
-- Workforce Development and Youth
-- Business Environment Reform
-- Energy
+- Jobs, Skills, and Employment
+- Private Sector Development
+- Clean Energy
 regions: Middle East and North Africa
 country: Egypt
 promos:

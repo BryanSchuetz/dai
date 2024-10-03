@@ -12,7 +12,7 @@ end: 2014
 client: Foreign, Commonwealth & Development Office, State Department of the Norwegian
   Government
 solutions:
-- Health Governance
+- Health Systems
 - Global Health
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa

@@ -10,8 +10,7 @@ start: 2013
 end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 country:

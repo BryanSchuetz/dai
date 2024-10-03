@@ -9,7 +9,7 @@ start: 2012
 end: 2012
 client: International Finance Corporation
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 country:

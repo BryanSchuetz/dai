@@ -9,10 +9,9 @@ start: 2013
 end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Health Governance
+- Health Systems
 - Global Health
 - Sustainable and Accountable Health Services
-- Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: 'Nigeria '
 ---

@@ -12,10 +12,8 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Institutional and Policy Reform
-- Justice, Citizen Security, and Rule of Law
-- Peace-Building and Political Transition
-- 
-- Fragile States
+- Justice, Security, and Rule of Law
+- Peace and Stability
 - Voice and Accountability
 - Human Centered Design
 regions:

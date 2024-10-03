@@ -12,7 +12,7 @@ solutions:
 - Decentralization and Local Government Management
 - Governance
 - Institutional and Policy Reform
-- Legislative Strengthening
+- Democratic Institutions
 - Voice and Accountability
 regions:
 - Sub-Saharan Africa

@@ -9,7 +9,7 @@ start: 2008
 end: 2012
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Latin America and the Caribbean
 country:

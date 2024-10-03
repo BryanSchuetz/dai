@@ -11,7 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Water and Sanitation Services and Management
-- Environment
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Mozambique
 ---

@@ -11,7 +11,7 @@ end: 2023
 client: European Union
 solutions:
 - Governance
-- Fragile States
+- Peace and Stability
 - Public Financial Management
 regions: Sub-Saharan Africa
 country: Nigeria

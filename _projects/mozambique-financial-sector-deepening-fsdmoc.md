@@ -10,7 +10,7 @@ client: Foreign, Commonwealth & Development Office, Swedish International Develo
   Cooperation Agency
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Sub-Saharan Africa
 country:

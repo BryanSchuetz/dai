@@ -9,7 +9,7 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Water Security, Sanitation, and Hygiene
-- Environment
+- Climate and Environment
 regions: Asia and the Pacific
 country: Philippines
 promos:

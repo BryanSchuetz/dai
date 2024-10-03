@@ -8,8 +8,8 @@ end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Business Environment Reform
-- Workforce Development and Youth
+- Private Sector Development
+- Jobs, Skills, and Employment
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:

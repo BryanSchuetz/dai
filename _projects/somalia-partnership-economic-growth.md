@@ -8,9 +8,9 @@ start: 2011
 end: 2016
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
-- Energy
+- Clean Energy
 regions:
 - Sub-Saharan Africa
 country:

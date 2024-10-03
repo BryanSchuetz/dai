@@ -10,7 +10,7 @@ client: 'Shell Nigeria Exploration and Production Company Limited '
 solutions:
 - Education
 - Governance
-- Fragile States
+- Peace and Stability
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

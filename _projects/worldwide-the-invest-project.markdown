@@ -9,7 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Market Solutions
-- Finance and Investment
+- Financial Services
 regions: Worldwide
 country: Worldwide
 promos:

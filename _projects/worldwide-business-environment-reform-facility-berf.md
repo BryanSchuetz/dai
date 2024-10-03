@@ -8,7 +8,7 @@ start: 2016
 end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
 - 
 regions:

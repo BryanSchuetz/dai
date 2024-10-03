@@ -9,9 +9,9 @@ end: 2024
 client: European Union
 solutions:
 - Economic Growth
-- Business Environment Reform
+- Private Sector Development
 - Trade
-- Finance and Investment
+- Financial Services
 regions: Worldwide
 country: Worldwide
 Key: 

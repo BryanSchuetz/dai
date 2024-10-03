@@ -9,12 +9,12 @@ start: 2013
 end: 2019
 client: U.S. Agency for International Development
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
-- Innovation and Entrepreneurship
-- Finance and Investment
+- Entrepreneurship and Innovation
+- Financial Services
 - Public Financial Management
-- Energy
+- Clean Energy
 regions:
 - Middle East and North Africa
 country:

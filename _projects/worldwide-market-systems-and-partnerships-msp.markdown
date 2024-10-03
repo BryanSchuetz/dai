@@ -11,8 +11,8 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
-- Market Systems and Value Chain
+- Financial Services
+- Agriculture and Market Systems
 regions: Worldwide
 country: Worldwide
 promos:

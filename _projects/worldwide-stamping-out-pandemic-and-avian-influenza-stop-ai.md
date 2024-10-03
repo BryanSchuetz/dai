@@ -9,7 +9,6 @@ end: 2011
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions:
 - Worldwide
 country:

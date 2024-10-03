@@ -8,7 +8,7 @@ end: 2018
 client: 'World Bank and European Union '
 solutions:
 - Global Health
-- Health Governance
+- Health Systems
 regions: Sub-Saharan Africa
 country: Swaziland
 ---

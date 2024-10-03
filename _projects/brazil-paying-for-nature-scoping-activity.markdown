@@ -9,7 +9,7 @@ end: 2022
 client: Department for Environment Food and Rural Affairs (Defra); UK ICF
 solutions:
 - Resilience
-- Environment
+- Climate and Environment
 regions: Latin America and the Caribbean
 country: Brazil
 ---

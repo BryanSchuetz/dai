@@ -9,7 +9,7 @@ start: 2021
 end: 2026
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions: Asia and the Pacific
 country: Nepal

@@ -9,9 +9,9 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 - Global Health
-- Health Equity
+- Health Systems
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:

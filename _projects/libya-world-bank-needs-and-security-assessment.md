@@ -9,11 +9,7 @@ end: 2012
 client: World Bank
 solutions:
 - Governance
-- Fragile States
-- Security and Justice
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
 regions:
 - Middle East and North Africa
 country:

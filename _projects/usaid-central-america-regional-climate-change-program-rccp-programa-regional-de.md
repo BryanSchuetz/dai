@@ -9,8 +9,7 @@ start: 2013
 end: 2018
 client: U.S. Agency for International Development
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 - Human Centered Design
 - Data for Decisions
 regions:

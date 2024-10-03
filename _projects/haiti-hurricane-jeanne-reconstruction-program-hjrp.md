@@ -9,9 +9,8 @@ regions:
 country:
 - Haiti
 solutions:
-- Fragile States
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
+- Governance
 layout: project
 summary: 'The floods that ravaged Haiti in the aftermath of Hurricane Jeanne in September
   2004 had their origins in the upper watersheds of major river systems that empty

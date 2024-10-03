@@ -8,7 +8,7 @@ start: 2014
 end: 2019
 client: European Union
 solutions:
-- Health Governance
+- Health Systems
 - Sustainable and Accountable Health Services
 - Global Health
 regions: Sub-Saharan Africa

@@ -9,7 +9,7 @@ end: 2020
 client: European Union
 solutions:
 - Governance
-- Fragile States
+- Peace and Stability
 - Stability
 regions: Sub-Saharan Africa
 country: Somalia

@@ -9,9 +9,8 @@ start: 2019
 end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Environment
-- Energy
-- Climate
+- Climate and Environment
+- Clean Energy
 regions: Asia and the Pacific
 country: Nepal
 ---

@@ -9,9 +9,9 @@ start: 2019
 end: 2021
 client: U.K. Department of Health and Social Care
 solutions:
-- Health Governance
+- Health Systems
 - Global Health
-- Global Health Security
+- Health Security
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:

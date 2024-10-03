@@ -8,13 +8,12 @@ start: 2012
 end: 2019
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
-- Business Environment Reform
+- Agriculture and Market Systems
+- Private Sector Development
 - Economic Growth
-- Gender
-- Innovation and Entrepreneurship
+- Gender and Social Inclusion
+- Entrepreneurship and Innovation
 - Sustainable and Accountable Health Services
-- Market Systems and Value Chain
 regions:
 - Middle East and North Africa
 country:

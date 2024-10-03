@@ -9,9 +9,7 @@ end: 2014
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Fragile States
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 country:

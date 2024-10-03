@@ -9,10 +9,10 @@ end: 2020
 client: Kosmos Energy
 solutions:
 - Sustainable Business
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Local Content and Supply Chain Management
-- Workforce Development and Youth
-- Digital Strategy
+- Jobs, Skills, and Employment
+- Digital Development
 - 
 regions: Sub-Saharan Africa
 country: Ghana

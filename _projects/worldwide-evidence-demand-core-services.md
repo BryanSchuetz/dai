@@ -9,11 +9,10 @@ start: 2012
 end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Climate
+- Climate and Environment
 - Economic Growth
-- Environment
 - Land Tenure and Property Rights
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 - Sustainable and Accountable Health Services
 - Water and Sanitation Services and Management
 regions:

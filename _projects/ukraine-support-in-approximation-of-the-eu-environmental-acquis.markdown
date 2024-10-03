@@ -9,7 +9,7 @@ start: 2019
 end: 2024
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine

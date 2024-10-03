@@ -10,8 +10,8 @@ end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
-- Business Environment Reform
+- Financial Services
+- Private Sector Development
 regions: Latin America and the Caribbean
 country: Colombia
 promos:

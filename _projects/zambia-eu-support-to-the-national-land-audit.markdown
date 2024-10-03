@@ -10,7 +10,7 @@ start: 2023
 end: 2026
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Land Tenure and Property Rights
 regions: Sub-Saharan Africa
 country: Zambia

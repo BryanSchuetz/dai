@@ -9,7 +9,7 @@ end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Stabilization
-- Fragile States
+- Peace and Stability
 regions: Eastern Europe and Central Asia
 country: Regional
 promos:

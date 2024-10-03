@@ -9,7 +9,6 @@ end: 2013
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Health and Livelihoods
 regions:
 - Sub-Saharan Africa
 country: Regional

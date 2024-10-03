@@ -10,7 +10,7 @@ start: 2018
 end: 2024
 client: European Union
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Zimbabwe

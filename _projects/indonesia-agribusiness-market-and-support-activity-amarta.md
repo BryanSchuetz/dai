@@ -8,8 +8,7 @@ end: 2009
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Market Systems and Value Chain
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions:
 - Asia and the Pacific
 country:

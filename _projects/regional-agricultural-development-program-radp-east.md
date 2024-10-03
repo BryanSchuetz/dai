@@ -10,10 +10,9 @@ start: 2016
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
-- Gender
-- Market Systems and Value Chain
+- Gender and Social Inclusion
 regions:
 - Eastern Europe and Central Asia
 country:

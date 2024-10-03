@@ -9,8 +9,8 @@ end: 2016
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
-- Energy
+- Financial Services
+- Clean Energy
 regions:
 - Sub-Saharan Africa
 country:

@@ -7,9 +7,7 @@ start: 2022
 end: 2026
 client: European Union
 solutions:
-- Climate
-- Environment
-- 
+- Climate and Environment
 regions: Worldwide
 country: Worldwide
 ---

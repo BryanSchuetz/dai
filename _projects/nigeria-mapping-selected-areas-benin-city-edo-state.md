@@ -10,7 +10,7 @@ start: 2013
 end: 2013
 client: World Bank
 solutions:
-- Digital Acceleration
+- Digital Development
 regions:
 - Sub-Saharan Africa
 country:

@@ -8,10 +8,9 @@ start: 2021
 end: 2025
 client: European Bank for Reconstruction and Development
 solutions:
-- Climate
-- Environment
-- Energy
-- Finance and Investment
+- Climate and Environment
+- Clean Energy
+- Financial Services
 regions: Middle East and North Africa
 country: Morocco
 ---

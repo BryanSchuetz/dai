@@ -9,7 +9,7 @@ end: 2026
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions: Asia and the Pacific
 country: Nepal
 ---

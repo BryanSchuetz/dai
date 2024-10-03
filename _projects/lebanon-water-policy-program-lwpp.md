@@ -10,7 +10,7 @@ end: 2008
 client: U.S. Agency for International Development
 solutions:
 - Water Security, Sanitation, and Hygiene
-- Environment
+- Climate and Environment
 regions:
 - Middle East and North Africa
 country:

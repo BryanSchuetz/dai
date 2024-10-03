@@ -10,7 +10,7 @@ start: 2013
 end: 2014
 client: Walmart
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions:
 - Sub-Saharan Africa

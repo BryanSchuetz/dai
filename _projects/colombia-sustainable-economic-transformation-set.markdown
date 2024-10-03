@@ -7,7 +7,7 @@ start: 2024
 end: 2029
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 - Economic Growth
 regions: Latin America and the Caribbean
 country: Colombia

@@ -10,7 +10,7 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Health Governance
+- Health Systems
 - Gender and Social Inclusion
 regions: Sub-Saharan Africa
 country: Zambia

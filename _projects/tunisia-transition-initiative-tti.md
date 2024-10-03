@@ -12,9 +12,7 @@ end: 2014
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
+- Peace and Stability
 - Workforce Developemnt
 regions:
 - Middle East and North Africa

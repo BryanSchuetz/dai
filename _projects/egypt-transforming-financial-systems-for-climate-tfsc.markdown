@@ -10,7 +10,7 @@ start: 2022
 end: 2024
 client: National Bank of Egypt
 solutions:
-- Climate
+- Climate and Environment
 - Climate Finance
 - Evironmental and Social Risk Management
 regions: Middle East and North Africa

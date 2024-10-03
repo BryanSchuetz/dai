@@ -9,10 +9,8 @@ regions:
 country:
 - Indonesia
 solutions:
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
+- Governance
 layout: project
 summary: 'Indonesia has experienced tremendous political, economic, and social change
   since the end of authoritarian rule in 1998. The country now enjoys one of Asia''s

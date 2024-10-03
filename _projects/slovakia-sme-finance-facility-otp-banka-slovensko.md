@@ -9,7 +9,7 @@ start: 2005
 end: 2007
 client: European Bank for Reconstruction and Development
 solutions:
-- Finance and Investment
+- Financial Services
 - Public Financial Management
 - Economic Growth
 regions:

@@ -9,7 +9,7 @@ start: 2017
 end: 2023
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
+- Peace and Stability
 - Governance
 - Security and Justice
 - Education

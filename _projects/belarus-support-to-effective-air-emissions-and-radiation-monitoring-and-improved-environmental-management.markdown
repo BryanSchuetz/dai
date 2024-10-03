@@ -10,7 +10,7 @@ start: 2020
 end: 2021
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 regions: Eastern Europe and Central Asia
 country: Belarus
 ---

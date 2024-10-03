@@ -8,9 +8,9 @@ start: 2012
 end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Finance and Investment
+- Financial Services
 - Governance
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Education
 regions:
 - Asia and the Pacific

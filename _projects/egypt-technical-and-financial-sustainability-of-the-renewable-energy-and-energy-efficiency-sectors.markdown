@@ -10,9 +10,8 @@ start: 2017
 end: 2022
 client: European Union
 solutions:
-- Environment
-- Energy
-- Climate
+- Climate and Environment
+- Clean Energy
 regions: Middle East and North Africa
 country: Egypt
 ---

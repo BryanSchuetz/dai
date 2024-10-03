@@ -12,7 +12,7 @@ end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Water Security, Sanitation, and Hygiene
-- Environment
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

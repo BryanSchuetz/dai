@@ -11,8 +11,8 @@ start: 2014
 end: 2015
 client: European Union
 solutions:
-- Energy
-- Environment
+- Clean Energy
+- Climate and Environment
 regions:
 - Eastern Europe and Central Asia
 country:

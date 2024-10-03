@@ -9,7 +9,7 @@ start: 2016
 end: 2021
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Land Tenure and Property Rights
 - Governance
 regions: Sub-Saharan Africa

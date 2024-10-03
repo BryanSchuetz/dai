@@ -8,9 +8,9 @@ start: 2016
 end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Climate
+- Climate and Environment
 - Global Health
-- Fragile States
+- Peace and Stability
 - 
 - 
 regions: Worldwide

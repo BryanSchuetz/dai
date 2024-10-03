@@ -9,7 +9,7 @@ start: 2012
 end: 2012
 client: Business Leadership South Africa
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
 regions:
 - Sub-Saharan Africa

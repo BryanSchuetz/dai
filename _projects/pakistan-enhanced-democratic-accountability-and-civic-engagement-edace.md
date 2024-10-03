@@ -9,14 +9,10 @@ start: 2013
 end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Gender
+- Gender and Social Inclusion
 - Governance
-- Security and Justice
-- Fragile States
-- Countering Extremism
+- Peace and Stability
 - Voice and Accountability
-- Peace-Building and Political Transition
-- Stabilization
 regions:
 - Asia and the Pacific
 country:

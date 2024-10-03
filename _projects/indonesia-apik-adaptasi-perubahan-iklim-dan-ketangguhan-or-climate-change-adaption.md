@@ -9,8 +9,7 @@ start: 2015
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 regions:
 - Asia and the Pacific
 country:

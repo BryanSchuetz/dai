@@ -12,8 +12,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business
 - Economic Growth
-- Market Systems and Value Chain
-- 
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 country:

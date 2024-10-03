@@ -7,7 +7,7 @@ start: 2007
 end: 2013
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Worldwide
 country:

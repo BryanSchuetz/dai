@@ -7,8 +7,7 @@ start: 2020
 end: 2022
 client: 'Agence Française de Développement '
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions: Latin America and the Caribbean
 country: Dominican Republic
 ---

@@ -10,7 +10,7 @@ start: 2024
 end: 2028
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Governance
 regions: Latin America and the Caribbean
 country: Paraguay

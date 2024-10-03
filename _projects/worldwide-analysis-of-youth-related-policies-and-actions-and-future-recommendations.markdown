@@ -13,7 +13,7 @@ client: European Union
 solutions:
 - Governance
 - Voice and Accountability
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 - Social Strategy
 - Gender and Social Inclusion
 regions: Worldwide

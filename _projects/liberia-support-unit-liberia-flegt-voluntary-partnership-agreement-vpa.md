@@ -11,9 +11,9 @@ end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Environment
+- Climate and Environment
 - Governance
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Sub-Saharan Africa
 country:

@@ -10,10 +10,9 @@ start: 2021
 end: 2026
 client: European Union
 solutions:
-- Climate
-- Energy
-- Climate Change Adaptation and Mitigation
-- Environment
+- Climate and Environment
+- Clean Energy
+- Climate Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
 ---

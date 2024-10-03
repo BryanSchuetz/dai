@@ -10,10 +10,10 @@ end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Gender
-- Workforce Development and Youth
-- Market Systems and Value Chain
-- Finance and Investment
+- Gender and Social Inclusion
+- Jobs, Skills, and Employment
+- Agriculture and Market Systems
+- Financial Services
 regions:
 - Sub-Saharan Africa
 country:

@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 - Governance
 - Land Tenure and Property Rights
-- Agriculture and Food Security
+- Agriculture and Market Systems
 regions: Eastern Europe and Central Asia
 country: Tajikistan
 promos:

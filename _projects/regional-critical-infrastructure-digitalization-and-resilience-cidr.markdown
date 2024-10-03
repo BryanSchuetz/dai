@@ -10,8 +10,8 @@ start: 2021
 end: 2026
 client: U.S. Agency for International Development
 solutions:
-- Digital Acceleration
-- Fragile States
+- Digital Development
+- Peace and Stability
 regions: Eastern Europe and Central Asia
 country: Eastern Europe and Eurasia
 promos:

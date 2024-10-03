@@ -10,8 +10,7 @@ start: 2022
 end: 2024
 client: U.S. Department of State, Embassy Dar es Salaam
 solutions:
-- Digital Strategy
-- Digital Acceleration
+- Digital Development
 regions: Sub-Saharan Africa
 country: Tanzania
 ---

@@ -11,7 +11,7 @@ start: 2004
 end: 2009
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 country:

@@ -8,11 +8,8 @@ start: 2008
 end: 2012
 client: U.S. Department of Defense
 solutions:
-- Fragile States
-- Security and Justice
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
+- Governance
 regions:
 - Sub-Saharan Africa
 country:

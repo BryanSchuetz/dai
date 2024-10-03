@@ -9,8 +9,7 @@ end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Environment
-- Climate
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

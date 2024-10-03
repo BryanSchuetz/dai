@@ -11,7 +11,7 @@ client:
 - European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Public Financial Management
 regions:
 - Eastern Europe and Central Asia

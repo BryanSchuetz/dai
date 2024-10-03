@@ -11,11 +11,9 @@ regions:
 country:
 - Iraq
 solutions:
-- Gender
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Gender and Social Inclusion
+- Peace and Stability
+- Governance
 layout: project
 summary: 'Provincial Reconstruction Teams were the civilian-military teams established
   in 2005 to provide direct assistance to local Iraqi governments and communities.

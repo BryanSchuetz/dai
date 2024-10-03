@@ -9,8 +9,7 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Agriculture and Food Security
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 regions: Sub-Saharan Africa
 country: Uganda
 promos:

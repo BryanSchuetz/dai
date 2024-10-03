@@ -12,9 +12,7 @@ start: 2023
 end: 2027
 client: European Union
 solutions:
-- Environment
-- Climate
-- 
+- Climate and Environment
 regions: Worldwide
 country: Worldwide
 promos:

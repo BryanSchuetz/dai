@@ -8,9 +8,9 @@ start: 2020
 end: 2028
 client: World Bank
 solutions:
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 - Economic Growth
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions: Middle East and North Africa
 country: Palestine
 ---

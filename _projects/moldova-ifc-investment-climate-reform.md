@@ -8,7 +8,7 @@ start: 2014
 end: 2014
 client: International Finance Corporation
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia

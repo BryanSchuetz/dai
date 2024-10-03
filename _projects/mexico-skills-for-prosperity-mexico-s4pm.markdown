@@ -9,7 +9,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Education
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Latin America and the Caribbean
 country: Mexico
 promos:

@@ -11,8 +11,8 @@ client:
 - Department of Foreign Affairs & Trade (AusAid)
 solutions:
 - Social Protection
-- Fragile States
-- Climate
+- Peace and Stability
+- Climate and Environment
 - Gender and Social Inclusion
 - Humanitarian Cash
 - Governance

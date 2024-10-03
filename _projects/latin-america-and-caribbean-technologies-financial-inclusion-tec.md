@@ -12,9 +12,9 @@ client:
 - Andean Development Corporation
 solutions:
 - Economic Growth
-- Finance and Investment
-- Digital Acceleration
-- Innovation and Entrepreneurship
+- Financial Services
+- Digital Development
+- Entrepreneurship and Innovation
 regions:
 - Latin America and the Caribbean
 country:

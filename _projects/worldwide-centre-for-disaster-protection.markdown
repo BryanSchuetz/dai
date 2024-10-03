@@ -8,7 +8,7 @@ start: 2021
 end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Environment
+- Climate and Environment
 - 
 regions: Worldwide
 country: Worldwide

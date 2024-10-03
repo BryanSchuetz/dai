@@ -10,9 +10,8 @@ start: 2022
 end: 2024
 client: Department for Energy Security and Net Zero
 solutions:
-- Environment
-- Climate
-- Climate Change Adaptation and Mitigation
+- Climate and Environment
+- Climate Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Pakistan
 ---

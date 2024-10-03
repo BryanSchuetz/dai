@@ -9,7 +9,7 @@ start: 2023
 end: 2026
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Tanzania
 ---

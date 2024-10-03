@@ -9,7 +9,7 @@ start: 2020
 end: 2025
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Senegal

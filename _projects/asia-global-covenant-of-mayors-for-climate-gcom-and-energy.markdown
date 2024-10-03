@@ -7,8 +7,7 @@ start: 2021
 end: 2024
 client: European Union
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions: Asia and the Pacific
 country: Asia
 ---

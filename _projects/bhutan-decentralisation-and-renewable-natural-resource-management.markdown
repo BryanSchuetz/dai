@@ -9,9 +9,8 @@ start: 2019
 end: 2022
 client: European Union
 solutions:
-- Energy
-- Environment
-- Climate
+- Clean Energy
+- Climate and Environment
 regions: Asia and the Pacific
 country: Bhutan
 promos:

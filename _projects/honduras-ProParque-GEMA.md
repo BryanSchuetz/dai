@@ -8,10 +8,9 @@ start: 2016
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 - Sustainable Livelihoods
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Latin America and the Caribbean
 country:

@@ -10,8 +10,8 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
-- Agriculture and Food Security
-- Fragile States
+- Agriculture and Market Systems
+- Peace and Stability
 - Nutrition and Food Security
 - Sustainable Livelihoods
 regions: Sub-Saharan Africa

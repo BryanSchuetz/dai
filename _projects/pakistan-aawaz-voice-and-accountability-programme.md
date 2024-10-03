@@ -12,11 +12,7 @@ solutions:
 - Gender and Social Inclusion
 - Governance
 - Voice and Accountability
-- Fragile States
-- Security and Justice
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
 - Education
 regions:
 - Asia and the Pacific

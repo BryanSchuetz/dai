@@ -8,10 +8,9 @@ start: 2013
 end: 2019
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
-- Finance and Investment
-- Market Systems and Value Chain
+- Financial Services
 regions:
 - Asia and the Pacific
 country:

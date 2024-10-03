@@ -11,7 +11,7 @@ client:
 - World Bank
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Asia and the Pacific
 country:

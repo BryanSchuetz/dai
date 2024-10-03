@@ -7,7 +7,7 @@ start: 2019
 end: 2021
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 regions: Eastern Europe and Central Asia
 country: Serbia
 promos:

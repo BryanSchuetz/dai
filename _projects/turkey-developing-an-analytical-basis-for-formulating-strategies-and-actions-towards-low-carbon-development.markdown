@@ -10,9 +10,8 @@ start: 2017
 end: 2020
 client: European Union
 solutions:
-- Environment
-- Energy
-- Climate
+- Climate and Environment
+- Clean Energy
 regions: Eastern Europe and Central Asia
 country: Türkiye
 ---

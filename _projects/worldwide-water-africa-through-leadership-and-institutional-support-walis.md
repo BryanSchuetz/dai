@@ -7,8 +7,8 @@ start: 2015
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Natural Resource Management
+- Climate and Environment
+- Nature, Oceans, and Biodiversity
 - Water Security, Sanitation, and Hygiene
 regions:
 - Sub-Saharan Africa

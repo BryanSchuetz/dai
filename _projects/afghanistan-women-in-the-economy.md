@@ -10,11 +10,11 @@ solutions:
 - Economic Growth
 - Gender and Social Inclusion
 - Governance
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Sustainable Livelihoods
 - Transition and Stabilization Programming
 - Market Solutions
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions:
 - Eastern Europe and Central Asia
 country:

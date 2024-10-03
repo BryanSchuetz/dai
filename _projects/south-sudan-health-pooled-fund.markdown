@@ -8,7 +8,7 @@ end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
-- Fragile States
+- Peace and Stability
 regions: Sub-Saharan Africa
 country: South Sudan
 ---

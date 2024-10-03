@@ -10,7 +10,7 @@ end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions: Sub-Saharan Africa
 country: Rwanda
 promos:

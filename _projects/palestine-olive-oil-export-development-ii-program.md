@@ -12,7 +12,7 @@ country:
 - Palestine
 solutions:
 - Economic Growth
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 layout: project
 summary: 'Agriculture contributes 27 percent of all Palestinian private sector output,
   making it a key sector for the economy. Olive oil production is of particular significance:

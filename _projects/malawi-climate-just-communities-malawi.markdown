@@ -9,7 +9,7 @@ end: 2025
 client: The Scottish Government
 solutions:
 - Economic Growth
-- Climate
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Malawi
 ---

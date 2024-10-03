@@ -9,8 +9,8 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Health and Livelihoods
-- Workforce Development and Youth
+- Global Health
+- Jobs, Skills, and Employment
 - Education
 regions: Sub-Saharan Africa
 country: Tanzania

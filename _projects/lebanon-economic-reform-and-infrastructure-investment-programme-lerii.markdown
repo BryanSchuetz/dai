@@ -9,7 +9,7 @@ end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Business Environment Reform
+- Private Sector Development
 - Governance
 regions: Middle East and North Africa
 country: Lebanon

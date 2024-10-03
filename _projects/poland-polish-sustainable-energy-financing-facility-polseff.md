@@ -12,9 +12,9 @@ end: 2018
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
-- Environment
-- Finance and Investment
-- Energy
+- Climate and Environment
+- Financial Services
+- Clean Energy
 regions:
 - Eastern Europe and Central Asia
 country:

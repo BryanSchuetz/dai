@@ -9,7 +9,7 @@ end: 2011
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Fragile States
+- Peace and Stability
 - Security and Justice
 regions:
 - Latin America and the Caribbean

@@ -8,7 +8,7 @@ start: 2014
 end: 2018
 client: U.S. Agency for International Development
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions:
 - Worldwide
 country:

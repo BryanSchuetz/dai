@@ -10,8 +10,8 @@ end: 2025
 client: U.K. Department of Health and Social Care
 solutions:
 - Global Health
-- Health Governance
-- Global Health Security
+- Health Systems
+- Health Security
 regions: Asia and the Pacific
 country: Pakistan
 promos:

@@ -8,9 +8,9 @@ end: 2014
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
-- Digital Acceleration
-- Innovation and Entrepreneurship
+- Financial Services
+- Digital Development
+- Entrepreneurship and Innovation
 - 
 regions:
 - Asia and the Pacific

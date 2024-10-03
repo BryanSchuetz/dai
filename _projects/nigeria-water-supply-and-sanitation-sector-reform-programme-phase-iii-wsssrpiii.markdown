@@ -8,7 +8,7 @@ start: 2014
 end: 2021
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions: Sub-Saharan Africa
 country: Nigeria

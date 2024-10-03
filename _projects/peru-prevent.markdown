@@ -7,8 +7,8 @@ start: 2019
 end: 2024
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Natural Resource Management
+- Climate and Environment
+- Nature, Oceans, and Biodiversity
 regions: Latin America and the Caribbean
 country: 'Peru '
 promos:

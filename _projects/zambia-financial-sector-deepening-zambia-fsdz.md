@@ -9,9 +9,9 @@ end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Finance and Investment
-- Innovation and Entrepreneurship
-- Market Systems and Value Chain
+- Financial Services
+- Entrepreneurship and Innovation
+- Agriculture and Market Systems
 regions:
 - Sub-Saharan Africa
 country:

@@ -8,9 +8,8 @@ start: 2023
 end: 2028
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
-- Climate
 regions: Sub-Saharan Africa
 country: Uganda
 ---

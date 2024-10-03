@@ -8,9 +8,8 @@ start: 2023
 end: 2028
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Climate
-- Natural Resource Management
+- Climate and Environment
+- Nature, Oceans, and Biodiversity
 regions: Latin America and the Caribbean
 country: Haiti
 ---

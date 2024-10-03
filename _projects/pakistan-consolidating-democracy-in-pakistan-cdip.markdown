@@ -10,7 +10,7 @@ end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
-- Legislative Strengthening
+- Democratic Institutions
 regions: Asia and the Pacific
 country: Pakistan
 promos:

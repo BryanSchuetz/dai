@@ -11,11 +11,10 @@ end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Climate
-- Environment
+- Climate and Environment
 - Education
 - Global Health
-- Fragile States
+- Peace and Stability
 regions: Worldwide
 country: Worldwide
 ---

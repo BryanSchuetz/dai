@@ -9,10 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
 - Governance
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 country:

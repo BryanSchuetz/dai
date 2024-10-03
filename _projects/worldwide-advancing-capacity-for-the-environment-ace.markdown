@@ -9,10 +9,9 @@ start: 2022
 end: 2027
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Climate
-- Climate Change Adaptation and Mitigation
-- Energy
+- Climate and Environment
+- Climate Adaptation and Mitigation
+- Clean Energy
 regions: Worldwide
 country: Worldwide
 promos:

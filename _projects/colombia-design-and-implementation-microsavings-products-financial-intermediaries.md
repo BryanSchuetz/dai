@@ -9,7 +9,7 @@ end: 2014
 client: Colombia Bank of International Trade
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Latin America and the Caribbean
 country:

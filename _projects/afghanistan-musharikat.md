@@ -10,11 +10,8 @@ solutions:
 - Governance
 - Economic Growth
 - Gender and Social Inclusion
-- Transition and Stabilization Programming
 - Voice and Accountability
-- Security and Justice
-- Countering Extremism
-- Peace-Building and Political Transition
+- Peace and Stability
 regions:
 - Eastern Europe and Central Asia
 country:

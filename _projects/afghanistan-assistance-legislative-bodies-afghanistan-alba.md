@@ -11,7 +11,7 @@ client:
 solutions:
 - Governance
 - Institutional and Policy Reform
-- Legislative Strengthening
+- Democratic Institutions
 - Law and Justice
 - Public Financial Management
 regions:

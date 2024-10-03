@@ -9,14 +9,14 @@ start: 2014
 end: 2023
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
-- Climate
+- Agriculture and Market Systems
+- Climate and Environment
 - Decentralization and Local Government Management
 - Economic Growth
 - Governance
 - Institutional and Policy Reform
 - Public Financial Management
-- Fragile States
+- Peace and Stability
 - Stabilization
 - Human Centered Design
 - Water and Sanitation Services and Management

@@ -10,8 +10,8 @@ end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Water Security, Sanitation, and Hygiene
-- Energy
-- Environment
+- Clean Energy
+- Climate and Environment
 regions: Middle East and North Africa
 country: Lebanon
 promos:

@@ -14,9 +14,8 @@ end: 2023
 client: European Investment Bank
 solutions:
 - Economic Growth
-- Climate
-- Climate Change Adaptation and Mitigation
-- Environment
+- Climate and Environment
+- Climate Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Cambodia
 ---

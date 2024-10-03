@@ -11,11 +11,11 @@ end: 2013
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Environment
-- Gender
+- Climate and Environment
+- Gender and Social Inclusion
 - Governance
 - Land Tenure and Property Rights
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions:
 - Sub-Saharan Africa
 country:

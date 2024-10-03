@@ -9,8 +9,7 @@ start: 2021
 end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions: Middle East and North Africa
 country: Morocco
 ---

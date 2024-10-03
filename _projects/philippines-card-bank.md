@@ -10,7 +10,7 @@ country:
 - Philippines
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 layout: project
 summary: 'DAI supported the Centre for Agricultural and Rural Development (CARD) Bank
   in the creation of a small business bank (SBB). The CARD foundation was established

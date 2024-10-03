@@ -9,7 +9,7 @@ end: 2025
 client: First Consult/Mastercard Foundation
 solutions:
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Sub-Saharan Africa
 country: Ethiopia
 ---

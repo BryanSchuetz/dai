@@ -9,9 +9,8 @@ start: 2024
 end: 2029
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Climate
-- Climate Change Adaptation and Mitigation
+- Climate and Environment
+- Climate Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Cambodia, Indonesia, Lao PDR, Myanmar, the Philippines, Thailand, Vietnam
 ---

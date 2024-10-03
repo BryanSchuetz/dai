@@ -9,10 +9,9 @@ start: 2009
 end: 2023
 client: European Union
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Economic Growth
-- Environment
-- Climate
+- Climate and Environment
 regions:
 - Worldwide
 country:

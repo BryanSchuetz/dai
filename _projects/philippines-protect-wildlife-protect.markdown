@@ -8,7 +8,7 @@ start: 2016
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 - Sustainable Livelihoods
 regions: Asia and the Pacific
 country: Philippines

@@ -10,10 +10,10 @@ start: 2019
 end: 2022
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Governance
 - Land Tenure and Property Rights
-- Natural Resource Management
+- Nature, Oceans, and Biodiversity
 regions: Sub-Saharan Africa
 country: Liberia
 promos:

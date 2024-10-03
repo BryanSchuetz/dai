@@ -7,7 +7,7 @@ start: 2010
 end: 2013
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific

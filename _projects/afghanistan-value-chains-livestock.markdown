@@ -8,8 +8,7 @@ start: 2018
 end: 2025
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
-- Market Systems and Value Chain
+- Agriculture and Market Systems
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Afghanistan

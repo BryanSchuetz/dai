@@ -13,12 +13,8 @@ solutions:
 - Governance
 - Decentralization and Local Government Management
 - Institutional and Policy Reform
-- Security and Justice
-- Fragile States
+- Peace and Stability
 - Public Financial Management
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
 regions:
 - Sub-Saharan Africa
 country:

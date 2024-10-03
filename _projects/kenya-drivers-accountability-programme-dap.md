@@ -8,11 +8,8 @@ start: 2010
 end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Fragile States
-- Security and Justice
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
+- Governance
 regions:
 - Sub-Saharan Africa
 country:

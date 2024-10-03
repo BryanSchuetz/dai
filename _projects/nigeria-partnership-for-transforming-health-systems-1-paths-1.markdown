@@ -9,7 +9,7 @@ end: 2008
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
-- Health Governance
+- Health Systems
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: 'Nigeria '

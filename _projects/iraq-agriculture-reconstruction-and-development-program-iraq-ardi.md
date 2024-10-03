@@ -10,7 +10,7 @@ country:
 - Iraq
 solutions:
 - Economic Growth
-- Environment
+- Climate and Environment
 layout: project
 summary: 'For 8,000 years, the fertile land between the Tigris and Euphrates rivers
   yielded agricultural goods. But after years of war and neglect, Iraq''s farming

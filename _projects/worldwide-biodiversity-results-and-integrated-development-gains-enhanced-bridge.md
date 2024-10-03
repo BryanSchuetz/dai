@@ -9,8 +9,8 @@ start: 2015
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Natural Resource Management
-- Environment
+- Nature, Oceans, and Biodiversity
+- Climate and Environment
 regions:
 - Worldwide
 country:

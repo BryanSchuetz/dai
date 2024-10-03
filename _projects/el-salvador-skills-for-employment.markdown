@@ -9,7 +9,7 @@ end: 2028
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Latin America and the Caribbean
 country: El Salvador
 ---

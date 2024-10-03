@@ -13,7 +13,7 @@ client: European Union
 solutions:
 - Governance
 - Justice, Citizen Security, and Rule of Law
-- Legislative Strengthening
+- Democratic Institutions
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:

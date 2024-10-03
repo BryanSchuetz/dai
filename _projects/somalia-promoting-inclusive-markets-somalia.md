@@ -9,11 +9,10 @@ start: 2015
 end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Agriculture and Food Security
-- Business Environment Reform
+- Agriculture and Market Systems
+- Private Sector Development
 - Economic Growth
-- Gender
-- Market Systems and Value Chain
+- Gender and Social Inclusion
 regions:
 - Sub-Saharan Africa
 country:

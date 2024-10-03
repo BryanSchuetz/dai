@@ -11,7 +11,7 @@ end: 2023
 client: European Union
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:

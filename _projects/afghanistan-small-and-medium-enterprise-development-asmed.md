@@ -12,7 +12,7 @@ end: 2012
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Gender
+- Gender and Social Inclusion
 regions:
 - Eastern Europe and Central Asia
 country:

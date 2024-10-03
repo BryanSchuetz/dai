@@ -9,7 +9,6 @@ end: 2007
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Global Health Security and Pandemic Preparedness
 - Global Health
 regions:
 - Worldwide

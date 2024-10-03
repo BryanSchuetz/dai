@@ -7,7 +7,7 @@ start: 2015
 end: 2021
 client: European Union
 solutions:
-- Agriculture and Food Security
+- Agriculture and Market Systems
 - Governance
 regions:
 - Worldwide

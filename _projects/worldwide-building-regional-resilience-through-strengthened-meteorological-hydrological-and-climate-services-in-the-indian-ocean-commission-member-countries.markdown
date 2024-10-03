@@ -11,8 +11,7 @@ start: 2019
 end: 2021
 client: French Development Agency
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Regional
 ---

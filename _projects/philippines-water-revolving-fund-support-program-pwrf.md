@@ -9,8 +9,8 @@ start: 2006
 end: 2013
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Finance and Investment
+- Climate and Environment
+- Financial Services
 - Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific

@@ -11,7 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Public Financial Management
-- Fragile States
+- Peace and Stability
 - Local Governance and Decentralization
 - Anti-corruption, Transparency, and Accountability
 regions: Sub-Saharan Africa

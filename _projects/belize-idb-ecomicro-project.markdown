@@ -9,7 +9,7 @@ end: 2022
 client: Inter-American Development Bank
 solutions:
 - Sustainable Business
-- Finance and Investment
+- Financial Services
 regions: Latin America and the Caribbean
 country: Belize
 ---

@@ -9,7 +9,7 @@ start: 2023
 end: 2025
 client: 'UK Department for Environment, Food and Rural Affairs (DEFRA) '
 solutions:
-- Environment
+- Climate and Environment
 - 
 regions: Worldwide
 ---

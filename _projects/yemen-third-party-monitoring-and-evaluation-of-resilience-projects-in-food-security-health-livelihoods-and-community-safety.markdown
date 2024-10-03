@@ -11,7 +11,7 @@ end: 2023
 client: European Union
 solutions:
 - Stabilization
-- Fragile States
+- Peace and Stability
 - 
 regions: Middle East and North Africa
 country: Yemen

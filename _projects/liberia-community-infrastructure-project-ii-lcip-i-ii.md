@@ -9,10 +9,7 @@ start: 2004
 end: 2010
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
 - Governance
 - Local Governance and Decentralization
 regions:

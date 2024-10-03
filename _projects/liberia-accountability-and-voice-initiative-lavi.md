@@ -9,10 +9,7 @@ end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Fragile States
-- Security and Justice
-- Peace-Building and Political Transition
-- Stabilization
+- Peace and Stability
 - Education
 regions:
 - Sub-Saharan Africa

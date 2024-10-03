@@ -10,7 +10,7 @@ start: 2022
 end: 2023
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 regions: Eastern Europe and Central Asia
 country: Türkiye
 ---

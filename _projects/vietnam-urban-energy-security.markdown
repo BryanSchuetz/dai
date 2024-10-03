@@ -8,8 +8,8 @@ start: 2019
 end: 2024
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Energy
+- Climate and Environment
+- Clean Energy
 regions: Asia and the Pacific
 country: Vietnam
 promos:

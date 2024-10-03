@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 - Institutional and Policy Reform
 - Gender and Social Inclusion
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions:
 - Middle East and North Africa
 country:

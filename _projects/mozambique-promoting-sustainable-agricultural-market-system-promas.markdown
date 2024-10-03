@@ -8,9 +8,9 @@ end: 2027
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
-- Climate
-- Climate Change Adaptation and Mitigation
-- Market Systems and Value Chain
+- Climate and Environment
+- Climate Adaptation and Mitigation
+- Agriculture and Market Systems
 regions: Sub-Saharan Africa
 country: Mozambique
 promos:

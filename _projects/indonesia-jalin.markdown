@@ -9,8 +9,8 @@ end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Innovation and Entrepreneurship
-- Health Governance
+- Entrepreneurship and Innovation
+- Health Systems
 - Market Solutions
 regions: Asia and the Pacific
 country: Indonesia

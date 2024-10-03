@@ -10,8 +10,8 @@ start: 2022
 end: 2025
 client: European Union
 solutions:
-- Environment
-- Energy
+- Climate and Environment
+- Clean Energy
 - Governance
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina

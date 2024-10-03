@@ -9,7 +9,7 @@ start: 2023
 end: 2025
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 regions: Eastern Europe and Central Asia
 country: Serbia
 ---

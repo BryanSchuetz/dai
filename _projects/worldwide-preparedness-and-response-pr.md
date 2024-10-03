@@ -9,7 +9,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Global Health Security
+- Health Security
 - Data for Decisions
 regions:
 - Worldwide

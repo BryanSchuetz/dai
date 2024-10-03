@@ -12,10 +12,9 @@ start: 2013
 end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
-- Energy
-- Environment
-- Finance and Investment
-- Climate
+- Clean Energy
+- Climate and Environment
+- Financial Services
 regions:
 - Middle East and North Africa
 country:

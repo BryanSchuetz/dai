@@ -8,11 +8,10 @@ start: 2016
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Natural Resource Management
-- Environment
+- Nature, Oceans, and Biodiversity
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
-- Climate
-- Climate Change Adaptation and Mitigation
+- Climate Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Nepal
 promos:

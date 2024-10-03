@@ -12,7 +12,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Governance
-- Fragile States
+- Peace and Stability
 - Health Security
 regions: Asia and the Pacific
 country: Regional

@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Trade
-- Finance and Investment
+- Financial Services
 regions: Sub-Saharan Africa
 country: Sub-Saharan Africa, North Africa
 promos:

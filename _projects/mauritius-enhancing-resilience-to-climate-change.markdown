@@ -7,7 +7,7 @@ start: 2018
 end: 2022
 client: French Development Agency
 solutions:
-- Environment
+- Climate and Environment
 regions: Sub-Saharan Africa
 country: Mauritius
 ---

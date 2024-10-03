@@ -9,8 +9,8 @@ end: 2013
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
-- Finance and Investment
-- Market Systems and Value Chain
+- Financial Services
+- Agriculture and Market Systems
 regions:
 - Asia and the Pacific
 country:

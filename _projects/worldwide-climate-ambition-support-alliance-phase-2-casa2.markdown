@@ -8,7 +8,7 @@ start: 2022
 end: 2025
 client: Department for Energy Security & Net Zero (DESNZ)
 solutions:
-- Climate
+- Climate and Environment
 - Governance
 regions: Worldwide
 country: Worldwide

@@ -10,7 +10,7 @@ end: 2028
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Fragile States
+- Peace and Stability
 - Local Governance and Decentralization
 - Public Administration Reforms
 regions: Sub-Saharan Africa

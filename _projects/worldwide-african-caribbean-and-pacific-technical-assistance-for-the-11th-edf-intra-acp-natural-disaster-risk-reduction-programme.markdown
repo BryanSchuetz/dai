@@ -14,9 +14,8 @@ end: 2028
 client: European Union
 solutions:
 - Governance
-- Climate
-- Climate Change Adaptation and Mitigation
-- Environment
+- Climate and Environment
+- Climate Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
 ---

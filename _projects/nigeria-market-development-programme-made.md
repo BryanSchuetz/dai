@@ -9,7 +9,7 @@ end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Fragile States
+- Peace and Stability
 regions:
 - Sub-Saharan Africa
 country:

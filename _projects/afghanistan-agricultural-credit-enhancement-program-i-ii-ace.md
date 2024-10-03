@@ -9,7 +9,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Eastern Europe and Central Asia
 country:

@@ -11,7 +11,7 @@ end: 2021
 client: European Union
 solutions:
 - Economic Growth
-- Health Governance
+- Health Systems
 - Public Administration Reforms
 regions: Middle East and North Africa
 country: Morocco

@@ -8,7 +8,7 @@ start: 2017
 end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Economic Growth
 regions: Middle East and North Africa
 country: Lebanon

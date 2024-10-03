@@ -9,10 +9,8 @@ start: 2009
 end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Peace-Building and Political Transition
-- Security and Justice
-- Fragile States
-- Countering Extremism
+- Governance
+- Peace and Stability
 - Transition and Stabilization Programming
 regions:
 - Sub-Saharan Africa

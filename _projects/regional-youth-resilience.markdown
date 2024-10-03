@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Security and Justice
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Latin America and the Caribbean
 country: Grenada, Guyana, Saint Lucia
 promos:

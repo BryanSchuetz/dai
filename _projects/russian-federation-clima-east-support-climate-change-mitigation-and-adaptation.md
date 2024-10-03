@@ -10,9 +10,8 @@ start: 2012
 end: 2017
 client: European Union
 solutions:
-- Energy
-- Climate
-- Environment
+- Clean Energy
+- Climate and Environment
 - Governance
 regions:
 - Eastern Europe and Central Asia

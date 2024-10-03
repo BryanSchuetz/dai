@@ -11,7 +11,6 @@ client: U.S. Agency for International Development
 solutions:
 - Global Health
 - Sustainable and Accountable Health Services
-- Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

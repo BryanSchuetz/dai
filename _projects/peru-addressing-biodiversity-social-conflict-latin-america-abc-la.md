@@ -10,13 +10,10 @@ start: 2013
 end: 2016
 client: U.S. Agency for International Development
 solutions:
-- Peace-Building and Political Transition
-- Fragile States
-- Security and Justice
-- Countering Extremism
+- Peace and Stability
+- Governance
 - Voice and Accountability
 - Water and Sanitation Services and Management
-- Stabilization
 regions:
 - Latin America and the Caribbean
 country:

@@ -10,7 +10,6 @@ end: 2029
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
 regions: Asia and the Pacific
 country: Bangladesh
 promos:

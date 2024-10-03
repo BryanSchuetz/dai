@@ -9,9 +9,8 @@ end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business
-- Environment
-- Energy
-- Climate
+- Climate and Environment
+- Clean Energy
 regions: Latin America and the Caribbean
 country: Mexico
 ---

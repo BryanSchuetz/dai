@@ -10,7 +10,7 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Middle East and North Africa
 country: Palestine
 promos:

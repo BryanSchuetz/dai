@@ -7,7 +7,7 @@ start: 2005
 end: 2009
 client: Kreditanstalt for Wiederaufbau
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Eastern Europe and Central Asia
 country:

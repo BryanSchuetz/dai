@@ -10,7 +10,7 @@ start: 2010
 end: 2015
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Sub-Saharan Africa
 country:

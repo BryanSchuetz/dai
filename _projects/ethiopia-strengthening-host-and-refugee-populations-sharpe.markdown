@@ -8,7 +8,7 @@ start: 2019
 end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Fragile States
+- Peace and Stability
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Ethiopia

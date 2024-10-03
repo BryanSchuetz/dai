@@ -8,7 +8,7 @@ end: 2021
 client: European Union
 solutions:
 - Governance
-- Business Environment Reform
+- Private Sector Development
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: The Gambia

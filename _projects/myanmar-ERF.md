@@ -9,9 +9,9 @@ start: 2016
 end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Asia and the Pacific
 country:

@@ -7,7 +7,7 @@ start: 2019
 end: 2022
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
+- Peace and Stability
 regions: Sub-Saharan Africa
 country: Mozambique
 promos:

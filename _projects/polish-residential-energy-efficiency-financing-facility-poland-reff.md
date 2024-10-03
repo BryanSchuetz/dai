@@ -7,9 +7,8 @@ start: 2016
 end: 2023
 client: European Bank for Reconstruction and Development
 solutions:
-- Energy
-- Environment
-- Climate
+- Clean Energy
+- Climate and Environment
 regions:
 - Eastern Europe and Central Asia
 country:

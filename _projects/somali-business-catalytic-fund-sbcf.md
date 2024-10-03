@@ -9,7 +9,7 @@ start: 2016
 end: 2019
 client: World Bank
 solutions:
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Sustainable Livelihoods
 - Economic Growth
 regions: Sub-Saharan Africa

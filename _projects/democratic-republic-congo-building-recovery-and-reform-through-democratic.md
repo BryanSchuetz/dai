@@ -11,11 +11,8 @@ start: 2008
 end: 2010
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
-- Countering Extremism
+- Peace and Stability
 - Governance
-- Peace-Building and Political Transition
-- Stabilization
 regions:
 - Sub-Saharan Africa
 country:

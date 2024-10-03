@@ -8,8 +8,8 @@ start: 2020
 end: 2025
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Natural Resource Management
+- Climate and Environment
+- Nature, Oceans, and Biodiversity
 - Governance
 regions: Asia and the Pacific
 country: Vietnam

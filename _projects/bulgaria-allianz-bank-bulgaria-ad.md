@@ -10,7 +10,7 @@ country:
 - Bulgaria
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 layout: project
 summary: 'DAI was contracted by the European Bank for Reconstruction and Development,
   under its Small and Medium Enterprise (SME) Finance Facility Special Fund, to support

@@ -9,7 +9,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Fragile States
+- Peace and Stability
 - 
 regions:
 - Sub-Saharan Africa

@@ -8,7 +8,7 @@ start: 2021
 end: 2024
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 regions: Eastern Europe and Central Asia
 country: Türkiye

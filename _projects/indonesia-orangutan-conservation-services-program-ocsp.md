@@ -11,7 +11,7 @@ start: 2007
 end: 2010
 client: U.S. Agency for International Development
 solutions:
-- Environment
+- Climate and Environment
 regions:
 - Asia and the Pacific
 country:

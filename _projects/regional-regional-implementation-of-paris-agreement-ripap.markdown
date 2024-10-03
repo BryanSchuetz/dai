@@ -9,8 +9,7 @@ start: 2017
 end: 2018
 client: European Union
 solutions:
-- Environment
-- Climate
+- Climate and Environment
 regions: Eastern Europe and Central Asia
 country: Regional
 ---

@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Trade
-- Business Environment Reform
+- Private Sector Development
 regions:
 - Eastern Europe and Central Asia
 country:

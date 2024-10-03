@@ -8,11 +8,10 @@ start: 2024
 end: 2029
 client: U.S. Agency for International Development
 solutions:
-- Environment
-- Climate
-- Natural Resource Management
+- Climate and Environment
+- Nature, Oceans, and Biodiversity
 - Governance
-- Climate Change Adaptation and Mitigation
+- Climate Adaptation and Mitigation
 regions: Sub-Saharan Africa
 country: Madagascar
 ---

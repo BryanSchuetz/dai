@@ -10,7 +10,7 @@ end: 2025
 client: U.K. Conflict Stability and Security Fund
 solutions:
 - Economic Growth
-- Fragile States
+- Peace and Stability
 - Stability
 regions: Latin America and the Caribbean
 country: Colombia,  Ecuador,  Peru, Panama

@@ -8,8 +8,7 @@ start: 2018
 end: 2025
 client: European Union
 solutions:
-- Climate
-- Environment
+- Climate and Environment
 regions: Middle East and North Africa
 country: Regional
 promos:

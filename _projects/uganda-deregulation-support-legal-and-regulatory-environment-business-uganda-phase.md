@@ -12,7 +12,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
-- Legislative Strengthening
+- Democratic Institutions
 - Public Administration Reforms
 regions:
 - Sub-Saharan Africa

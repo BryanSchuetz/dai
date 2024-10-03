@@ -9,7 +9,7 @@ end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 regions: Eastern Europe and Central Asia
 country: Kyrgyzstan, Tajikistan
 ---

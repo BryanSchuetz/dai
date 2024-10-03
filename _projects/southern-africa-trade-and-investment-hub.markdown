@@ -10,10 +10,10 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Trade
-- Business Environment Reform
-- Agriculture and Food Security
+- Private Sector Development
+- Agriculture and Market Systems
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - Public Financial Management
 regions: Sub-Saharan Africa
 country: Regional

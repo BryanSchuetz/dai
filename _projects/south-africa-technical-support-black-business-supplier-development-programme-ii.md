@@ -10,7 +10,7 @@ regions:
 country:
 - South Africa
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
 layout: project
 summary: 'South Africa''s Department of Trade and Industry-commissioned Black Business

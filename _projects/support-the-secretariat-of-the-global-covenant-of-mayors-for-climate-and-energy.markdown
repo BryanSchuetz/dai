@@ -11,7 +11,7 @@ start: 2020
 end: 2025
 client: European Union
 solutions:
-- Environment
+- Climate and Environment
 regions: Worldwide
 country: Worldwide
 ---

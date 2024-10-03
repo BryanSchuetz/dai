@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Education
 - Economic Growth
-- Workforce Development and Youth
+- Jobs, Skills, and Employment
 regions: Latin America and the Caribbean
 country: Honduras
 promos:

@@ -10,8 +10,8 @@ start: 2022
 end: 2026
 client: European Union
 solutions:
-- Climate
-- Energy
+- Climate and Environment
+- Clean Energy
 regions: Sub-Saharan Africa
 country: Malawi
 ---

@@ -9,7 +9,7 @@ end: 2009
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 regions:
 - Latin America and the Caribbean
 country:

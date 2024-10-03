@@ -8,12 +8,12 @@ start: 2014
 end: 2019
 client: U.S. Agency for International Development
 solutions:
-- Agriculture and Food Security
-- Business Environment Reform
+- Agriculture and Market Systems
+- Private Sector Development
 - Economic Growth
-- Innovation and Entrepreneurship
+- Entrepreneurship and Innovation
 - Institutional and Policy Reform
-- Finance and Investment
+- Financial Services
 - Public Financial Management
 - Trade
 regions:

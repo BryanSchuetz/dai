@@ -9,8 +9,8 @@ regions:
 country:
 - Zambia
 solutions:
-- Agriculture and Food Security
-- Business Environment Reform
+- Agriculture and Market Systems
+- Private Sector Development
 - Economic Growth
 layout: project
 summary: 'Zambia''s future development will depend significantly on the diversification

@@ -9,12 +9,12 @@ start: 2016
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Gender
+- Gender and Social Inclusion
 - Governance
 - Institutional and Policy Reform
 - Public Administration Reforms
 - Voice and Accountability
-- Fragile States
+- Peace and Stability
 - Stabilization
 regions: Asia and the Pacific
 country: Sri Lanka

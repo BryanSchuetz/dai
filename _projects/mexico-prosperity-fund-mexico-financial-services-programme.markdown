@@ -8,7 +8,7 @@ end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Finance and Investment
+- Financial Services
 - 
 regions: Latin America and the Caribbean
 country: Mexico

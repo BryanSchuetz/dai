@@ -7,8 +7,8 @@ end: 2023
 client: The Global Center on Adaptation
 solutions:
 - Sustainable Business
-- Climate
-- Climate Change Adaptation and Mitigation
+- Climate and Environment
+- Climate Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
 ---

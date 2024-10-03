@@ -14,9 +14,8 @@ start: 2023
 end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Climate
+- Climate and Environment
 - Global Health
-- Environment
 regions: Worldwide
 country: Worldwide
 promos:

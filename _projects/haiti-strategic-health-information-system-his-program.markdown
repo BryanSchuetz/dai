@@ -9,9 +9,9 @@ end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Digital Acceleration
+- Digital Development
 - Data for Decisions
-- Health Governance
+- Health Systems
 regions: Latin America and the Caribbean
 country: Haiti
 promos:

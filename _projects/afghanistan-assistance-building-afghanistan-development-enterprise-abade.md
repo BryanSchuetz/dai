@@ -7,7 +7,7 @@ start: 2012
 end: 2017
 client: U.S. Agency for International Development
 solutions:
-- Business Environment Reform
+- Private Sector Development
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia

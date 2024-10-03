@@ -10,7 +10,7 @@ end: 2028
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Environment
+- Climate and Environment
 - Water Security, Sanitation, and Hygiene
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa

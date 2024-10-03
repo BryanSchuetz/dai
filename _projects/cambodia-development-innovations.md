@@ -9,8 +9,8 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Digital Acceleration
-- Workforce Development and Youth
+- Digital Development
+- Jobs, Skills, and Employment
 regions:
 - Asia and the Pacific
 country:
