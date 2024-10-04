@@ -14,6 +14,7 @@ regions: Asia and the Pacific
 country: Nepal
 promos:
 - title: 'Tayar Progress Summary '
+  link: ebook_design-3-web.pdf](/uploads/ebook_design-3-web.pdf
 ---
 
 Nepal is prone to a range of natural disasters, including floods, landslides, fires, earthquakes, and disease outbreaks. In the wake of recent tragedies in the country, including the massive 2015 Gorkha earthquake, the U.S. Agency for International Development (USAID) has established a flagship disaster preparedness and response program for Nepal.  
@@ -41,4 +42,3 @@ knowledge and skills on how to be prepared and protected in earthquakes, landsli
 * Supported women to launch small businesses promoting compressed stabilized earth blocks, that are not only highly cost-effective but are eco-friendly and can be produced with limited resources. These bricks are produced locally by
 community members, using sand, soil, and 10 percent cement. This has enabled poorer families to build disaster-resilient homes at a very low cost.
 * Planted 3,500 native saplings with two municipalities to improve rural livelihoods through conservation and sustainable use of natural resources.
-[ebook_design-3-web.pdf](/uploads/ebook_design-3-web.pdf)
