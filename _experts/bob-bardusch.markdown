@@ -2,8 +2,8 @@
 title: Bob Bardusch
 date: 2024-05-22 08:46:00 Z
 lastname: Bardusch
-summary: Bob Bardusch is DAI's Chief Technology Officer.
-job-title: Senior Vice President and Chief Technology Officer
+summary: Bob Bardusch is DAI's Chief Administration Officer.
+job-title: Chief Administration Officer
 image: "/uploads/sm%20Bob%20Bardusch.jpg"
 ---
 
