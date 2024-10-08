@@ -48,3 +48,5 @@ The platform is collectively funded by all users (Prosper Africa and participati
 * Closed 759 trade deals, valued at $741 million. 
 * Closed 288 investment deals, valued at $613 million.
 * Awarded $123 million in grants and subcontracts.   
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1017508592?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Meet ATI"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
