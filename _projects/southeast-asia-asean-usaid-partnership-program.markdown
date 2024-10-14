@@ -11,7 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 regions: Asia and the Pacific
-country: Southeast Asia
+country: Regional
 ---
 
 The partnership between the Association of Southeast Asian Nations (ASEAN) and the U.S. Government is key to enhancing human security, resilience, and inclusivity in the Indo-Pacific. Collectively, the highly diverse and dynamic ASEAN member states boast the world’s third-largest population and fifth-largest economy. Guided by aspirations detailed in the ASEAN Community Vision 2025  and drawing upon the Sustainable Development Goals, ASEAN member states work together to build a stable, prosperous, and resilient ASEAN community. Through the U.S. Agency for International Development (USAID), the U.S. Government works with ASEAN to strengthen collective capacity to meet complex challenges and take advantage of emerging opportunities in one of the most dynamic regions in the world. 
