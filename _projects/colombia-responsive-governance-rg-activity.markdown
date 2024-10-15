@@ -16,6 +16,9 @@ country: Colombia
 promos:
 - title: Project Facebook Page
   link: https://www.facebook.com/Programa-Gobernabilidad-Responsable-de-USAIDColombia-102022655377659/
+- title: 'Resilience and Female Empowerment: The Story of Naudi in the Bajo Cauca
+    Region of Colombia'
+  link: https://www.usaid.gov/colombia/stories/resilience-and-female-empowerment-story-naudi-bajo-cauca-region-colombia
 - title: 'VIDEO: Supporting the LGBTIQ+ Community in Colombia'
   link: https://vimeo.com/985701424
 - title: 'VIDEO: Improving Lives in Rural Colombia'

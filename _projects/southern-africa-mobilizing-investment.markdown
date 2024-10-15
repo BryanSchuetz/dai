@@ -3,8 +3,8 @@ title: Southern Africa—USAID Mobilizing Investment Project
 date: 2022-11-28 14:02:00 Z
 summary: The USAID Southern Africa Mobilizing Investment Project is a five-year initiative
   to promote inclusive economic growth and self-reliance in the region.
-start: 2022
-end: 2027
+start: 2023
+end: 2028
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
