@@ -26,6 +26,8 @@ The project aims to mobilize $80 million in capital toward 50 high-potential inv
 ## Sample Activities
 
 * Facilitate investments with a high potential for generating positive development outcomes and creating jobs.
-* Strengthen investment prospecting and promotion.
-* Implement an investment attraction policy.
-* Develop new instruments for improved access to finance.
+* Launch and operationalize the Grants for Investment Fund.
+* Use partnerships to generate investment leads.
+* Create Investment Readiness Support Program.
+* Hold investment prospecting and promotion events.
+* Support policy reform to enhance investment and access to finance.
