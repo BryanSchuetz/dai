@@ -7,6 +7,7 @@ summary: Jessica Olivan is a senior development professional with 20 years of ex
   entrepreneurship, investment, fintech, inclusive businesses, women's economic empowerment,
   and gender equality.
 job-title: Chief of Party, El Salvador Investment Promotion Project (ESIPP)
+image: "/uploads/Jessica%20Olivan.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -16,7 +17,7 @@ regions:
 
 Jessica Olivan is a senior development professional with 20 years of experience as an investment advisor, project director, and CEO specializing in financial inclusion, entrepreneurship, investment, fintech, inclusive businesses, women's economic empowerment, and gender equality.
 
-Jessica joined DAI as Senior Investment Advisor with [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), where she oversaw the Latin America and Caribbean portfolio. 
+Jessica joined DAI as Senior Investment Advisor with [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), where she oversaw the Latin America and Caribbean portfolio. She is currently the Chief of Party of the [El Salvador Investment Promotion Project](https://www.dai.com/our-work/projects/el-salvador-investment-promotion-project-esipp).
 
 Previously, she worked at the Latam-based social enterprise Pro Mujer and the Inter-American Development Bank. She is also a fintech entrepreneur, speaker, mentor, podcaster, and community builder.
 
