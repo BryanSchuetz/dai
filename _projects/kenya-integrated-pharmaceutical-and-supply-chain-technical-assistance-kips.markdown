@@ -29,7 +29,7 @@ Working with government counterparts, partners, and other collaborators at natio
 * Design, pilot, and scale improved distribution and transport strategy.
 * Co-create stock management action plans driven by root cause analysis.
 * Develop multiyear forecasts for market shaping to incentivize private sector service providers and local manufacturers to participate in tendering.
-* Support the adoption of global standard trace and trace technologies.
+* Support the adoption of global standard track and trace technologies.
 * Support scaling of an automated commodity ordering system.
 * Strengthen the capacity of Kenya’s health products regulatory authority.
 * Promote approaches to professionalize and diversify the health supply chain workforce, including opportunities to advance the role of women in supply chain and logistics.
