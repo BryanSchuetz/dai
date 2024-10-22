@@ -19,6 +19,8 @@ Mastering early grade reading is essential for a child’s future success in edu
 The project strengthens accountability and resilience across Kenya’s Ministry of Education and relevant semi-autonomous government agencies.  
 
 By improving assessment systems and enabling data-driven decision making, the project supports the Ministry of Education to boost literacy outcomes and close learning gaps. In partnership with the Ministry and other key stakeholders, our team helps ensure that more Kenyan students meet national reading benchmarks, ultimately preparing them for greater success in school and beyond while contributing to Kenya’s broader development goals.
+
+![261A0137.jpg](/uploads/261A0137.jpg)
  
 ## Sample Activities
 
