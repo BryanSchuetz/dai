@@ -23,6 +23,8 @@ The partnership catalyzes industry-level change through learning, scaling, and p
 
 AWRAS aims to demonstrate a business case that advancing women in critical agricultural supply chains creates economic, environmental, and community value. It also emphasizes how gender equality is integral to supply chain resilience and achieving environmental and social goals. 
 
+![DSC08510 - woman farmer w hoe.JPG](/uploads/DSC08510%20-%20woman%20farmer%20w%20hoe.JPG)
+
 ## Sample Activities
 
 * Increase women’s knowledge of sustainable farming practices, access to resources and tools, and authority to make decisions. 
