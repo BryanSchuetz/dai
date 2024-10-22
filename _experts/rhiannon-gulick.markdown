@@ -2,14 +2,16 @@
 title: Rhiannon Gulick
 date: 2020-03-02 15:27:00 Z
 lastname: Gulick
-summary: As part of DAI’s Environment team, Rhiannon Gulick melds technical expertise
-  in natural resource management, energy, and climate change with practical experience
-  in business development, facilitation, and technical writing.
-job-title: Senior Global Practice Specialist, Environment
+summary: Rhiannon Gulick melds technical expertise in natural resource management,
+  energy, and climate change with practical experience in business development, facilitation,
+  and technical writing.
+job-title: Chief of Party, Advancing Women for Resilient Agricultural Supply Chains
+  (AWRAS)
 image: "/uploads/Rhi%20G.jpg"
 solutions:
 - Environment
 - Climate
+- Gender and Social Inclusion
 regions:
 - Worldwide
 ---
