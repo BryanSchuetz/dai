@@ -33,5 +33,6 @@ WATCH: "Better Governance Improves Maternal and Child Health Outcomes in Malawi"
 ## Select Results
 
 * Assisted eight district councils with the finalization of staff salary budgets for the fiscal year. These budgets will serve as the foundation for developing recruitment strategies to occupy essential positions in newly authorized establishments within the government. These activities contribute to GfS’ goal of improving human resources management within the government. 
+* Improved community oversight, performance management, and disciplinary systems to reduce teacher absenteeism. 
 
 ![ASAP_MWI_2021_health surveillance assistants hired by district (1).jpg](/uploads/ASAP_MWI_2021_health%20surveillance%20assistants%20hired%20by%20district%20(1).jpg)
