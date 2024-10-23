@@ -7,7 +7,7 @@ summary: 'Alifah Lestari is a program management professional with over three de
   projects in Indonesia. '
 job-title: Chief of Party, Integrated Urban Water Sanitation and Hygiene (IUWASH Tangguh)
   program
-image: "/uploads/Lestari,%20Alifah.jpg"
+image: "/uploads/Lestari,%20Alifah%202.jpg"
 solutions:
 - Water Security, Sanitation, and Hygiene
 - Environment
