@@ -25,3 +25,7 @@ The Advancing Reforms in the Justice Sector in Georgia project continues initiat
 * Improve interagency coordination, evidence-based decision-making, and capacity-building within the criminal justice system.
 * Enhance investigation and prosecution capabilities through intelligence-led policing.
 * Improve the justice system's response to crimes against vulnerable groups with a survivor-centered approach.
+
+## Select Results
+
+* Trained more than 100 law enforcement personnel on managing crime scenes.
