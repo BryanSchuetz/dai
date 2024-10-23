@@ -20,9 +20,7 @@ The Malawi Governance for Solutions (GfS) Activity [builds on the incremental ga
 
 Through a problem-driven, iterative adaptation approach, DAI helps local stakeholders to tackle the root causes of service delivery failures through best-fit solutions. By testing, iterating, and implementing multiple solutions, GfS-supported coalitions will deliver 60 to 80 working solutions to remove major human resource management, public finance, and policy and regulatory implementation bottlenecks in the target districts. GfS will foster stable, resilient, and more self-reliant partnerships that best position local communities to address their own challenges and contribute to the trajectory of [Malawi Vision 2063](https://malawi.un.org/en/108390-malawi-vision-2063-inclusively-wealthy-and-self-reliant-nation). 
 
-WATCH: "Better Governance Improves Maternal and Child Health Outcomes in Malawi"
-<iframe src="https://player.vimeo.com/video/925982427?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="900" height="506" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Better Governance Improves Maternal and Child Health Outcomes in Malawi"></iframe>
-`Work begun in 2020 under a DAI-led component of a previous project and continued under GfS has culminated in vastly improved maternal health outcomes in Zomba, Malawi.`
+
 
 ## Sample Activities
 
@@ -35,4 +33,6 @@ WATCH: "Better Governance Improves Maternal and Child Health Outcomes in Malawi"
 * Assisted eight district councils with the finalization of staff salary budgets for the fiscal year. These budgets will serve as the foundation for developing recruitment strategies to occupy essential positions in newly authorized establishments within the government. These activities contribute to GfS’ goal of improving human resources management within the government. 
 * Improved community oversight, performance management, and disciplinary systems to reduce teacher absenteeism. 
 
-![ASAP_MWI_2021_health surveillance assistants hired by district (1).jpg](/uploads/ASAP_MWI_2021_health%20surveillance%20assistants%20hired%20by%20district%20(1).jpg)
+WATCH: "Better Governance Improves Maternal and Child Health Outcomes in Malawi"
+<iframe src="https://player.vimeo.com/video/925982427?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="900" height="506" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Better Governance Improves Maternal and Child Health Outcomes in Malawi"></iframe>
+`Work begun in 2020 under a DAI-led component of a previous project and continued under GfS has culminated in vastly improved maternal health outcomes in Zomba, Malawi.`
