@@ -8,6 +8,9 @@ job-title: President
 image: "/uploads/web.jpg"
 regions:
 - Worldwide
+articles:
+- name: Tine Knott Appointed President of DAI
+  article_file: https://www.dai.com/news/tine-knott-appointed-president-of-dai
 layout: expert
 ---
 
