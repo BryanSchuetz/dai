@@ -8,8 +8,8 @@ start: 2024
 end: 2028
 client: U.S. Agency for International Development
 solutions:
-- Governance
 - Education
+- Governance
 regions: Sub-Saharan Africa
 country: Kenya
 ---
