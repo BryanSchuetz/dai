@@ -4,9 +4,9 @@ date: 2021-07-08 11:52:00 Z
 tags:
 - Europe
 - European Union
-summary: The project strengthens municipal education directorates and schools to fulfill
-  their assigned functions related to school recruitment, teacher professional development,
-  and quality assurance.
+summary: The project strengthens municipal education directorates and schools in Kosovo
+  to fulfill their assigned functions related to school recruitment, teacher professional
+  development, and quality assurance.
 start: 2021
 end: 2025
 client: European Union
