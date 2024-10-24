@@ -5,8 +5,7 @@ lastname: Knott
 summary: As DAI’s President, Tine Knott works closely with the CEO to ensure strategic
   alignment and optimal business performance across the company.
 job-title: President
-image: "/uploads/Tine%20Knott_2024.jpg"
-solutions: 
+image: "/uploads/web.jpg"
 regions:
 - Worldwide
 layout: expert
