@@ -11,7 +11,7 @@ DAI today announced the appointment of [Tine Knott](https://www.dai.com/who-we-a
 Knott will continue to report to Dr. Boomgard.
 Before assuming her current role, Knott served as Executive Vice President for Strategy and Global Operations and before that as Senior Vice President of DAI’s U.S. Government Business, the company’s largest business unit.
 
-![Tine Knott_2024-ace61f.jpg](/uploads/Tine%20Knott_2024-ace61f.jpg)
+![Headshots for Tine Knott High Res 2.jpg](/uploads/Headshots%20for%20Tine%20Knott%20High%20Res%202.jpg)
 
 “I am honored to take on this new leadership role,” said Knott. “Our clients—governments, investors, and businesses all over the world—face escalating challenges on numerous fronts, from climate change and the energy transition to inclusive economic growth and global health security. DAI is extraordinarily well equipped to help our customers take on such challenges. I am committed to ensuring that DAI remains an assured and responsive partner in our collective efforts to shape a more livable world.” 
 
