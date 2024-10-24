@@ -1,7 +1,6 @@
 ---
 title: Georgia—Green Economy Program (GEP)
 date: 2024-10-23 13:46:00 Z
-published: false
 summary: The Green Economy Program improves the productivity and economic competitiveness
   of Georgian enterprises in the tourism, light manufacturing, digital, and solid
   waste management sectors, while strengthening Georgia’s economic ecosystem to support
@@ -30,5 +29,7 @@ The Green Economy Program (GEP), a follow-on to DAI’s successful [Georgia Econ
 
 * Strengthen the competitiveness and capacity of individual firms.
 * Support partnerships that catalyze high-value employment in economically disadvantaged areas—with a strong focus on tourism and digital industries.
-* 
-
+* Strengthen the ability to meet international standards for export to Western markets.
+* Support firms to become climate resilient and reduce environmental impact.
+* Support the development of recycling enterprises and increase the capacity of solid waste management sector.
+* Facilitate partnerships to address critical skill gaps in targeted sectors.
