@@ -15,7 +15,7 @@ solutions:
 regions: Asia and the Pacific
 country: Pakistan
 promos:
-- title: Fleming Fund Pakistan Newsletter XIV
+- title: National Institute of Health Newsletter Vol XIV
   link: "/uploads/Fleming%20Fund%20Pakistan%20Newsletter%20XIV.pdf"
 - title: 'Policy Brief: Antimicrobial Resistance Surveillance in Healthy Food Animals'
   link: "/uploads/Antimicrobial%20Resistance%20Surveillance%20in%20Healthy%20Food%20Animal-11.pdf"
