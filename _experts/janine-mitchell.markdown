@@ -11,6 +11,9 @@ solutions:
 - Global Health Security and Pandemic Preparedness
 regions:
 - Worldwide
+articles:
+- name: 'The Environment Matters: Reflections from World One Health Congress 2024'
+  article_file: https://dai-global-developments.com/articles/the-environment-matters-reflections-from-world-one-health-congress-2024/
 ---
 
 Janine Mitchell is an Epidemiologist and Global Health Specialist with more than 15 years of experience and has worked in more than 30 countries. She specializes in global health security, integrated disease surveillance, health system resilience, and the application of evidence-informed decision-making. 

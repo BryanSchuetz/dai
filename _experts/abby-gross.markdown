@@ -12,6 +12,9 @@ solutions:
 - Global Health Security and Pandemic Preparedness
 regions:
 - Worldwide
+articles:
+- name: 'The Environment Matters: Reflections from World One Health Congress 2024'
+  article_file: https://dai-global-developments.com/articles/the-environment-matters-reflections-from-world-one-health-congress-2024/
 ---
 
 Abby Gross, a global health professional specializing in One Health and global health security, has extensive experience managing and implementing projects across Africa and Asia. As a Senior Health Security Specialist, Abby provides technical support across health and other multisectoral programs with a focus on applying a One Health framework to improve global health security and strengthen health systems. 
