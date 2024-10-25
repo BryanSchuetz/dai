@@ -13,6 +13,9 @@ solutions:
 - Energy
 regions:
 - Worldwide
+articles:
+- name: 'The Environment Matters: Reflections from World One Health Congress 2024'
+  article_file: https://dai-global-developments.com/articles/the-environment-matters-reflections-from-world-one-health-congress-2024/
 layout: expert
 ---
 
