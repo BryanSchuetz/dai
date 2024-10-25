@@ -11,6 +11,9 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions:
 - Worldwide
+articles:
+- name: 'The Environment Matters: Reflections from World One Health Congress 2024'
+  article_file: https://dai-global-developments.com/articles/the-environment-matters-reflections-from-world-one-health-congress-2024/
 ---
 
 Joshua Palfreman is a Senior Global Practice Specialist at DAI, tasked with establishing and directing a new Waste Management practice. 
