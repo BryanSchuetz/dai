@@ -17,7 +17,7 @@ country: Worldwide
 
 The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) aims to increase women’s equal access to and control over resources, opportunities, and decision-making authority in sustainable agricultural supply chains. With a planned, collective investment of $50 million to start, AWRAS works to strengthen agricultural production, enhance livelihoods, and improve environmental stewardship by increasing support for women farmers. 
 
-The partnership among DAI, PepsiCo, Unilever, Danone, McCormick & Company, Nespresso, and the United States Agency for International Development (USAID) is establishing and implementing gender-responsive initiatives to mitigate supply chain risks and strengthen environmental sustainability outcomes. Our ultimate aim is to incentivize more private sector actors and influence policy to promote systemic global impact in gender-responsive supply chains. 
+The DAI-implemented partnership between PepsiCo, Unilever, Danone, McCormick & Company, Nespresso, and the United States Agency for International Development (USAID) is establishing and implementing gender-responsive initiatives to mitigate supply chain risks and strengthen environmental sustainability outcomes. Our ultimate aim is to incentivize more private sector actors and influence policy to promote systemic global impact in gender-responsive supply chains. 
 
 The partnership catalyzes industry-level change through learning, scaling, and providing evidence on how supporting women in agricultural supply chains helps to deliver corporate environmental sustainability goals. The initiative drives scale by bringing in new organizations and additional funds, with a total target of $90 million over the next five years. 
 
