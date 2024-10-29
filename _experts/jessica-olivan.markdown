@@ -6,7 +6,7 @@ summary: Jessica Olivan is a senior development professional with 20 years of ex
   as an investment advisor, project director, and CEO specializing in financial inclusion,
   entrepreneurship, investment, fintech, inclusive businesses, women's economic empowerment,
   and gender equality.
-job-title: Chief of Party, El Salvador Investment Promotion Project (ESIPP)
+job-title: Chief of Party, El Salvador Investment Promotion Project (IPP)
 image: "/uploads/Jessica%20Olivan.jpg"
 solutions:
 - Economic Growth
