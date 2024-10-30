@@ -20,11 +20,13 @@ The Centre works with a wide range of organizations—country governments, devel
 
 <iframe src="https://player.vimeo.com/video/644414093?h=52a6b13567" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
  
-This four-year program has the following goals: 
+Sample Activities: 
 
 * Deliver a respected and widely used quality assurance function that increases the quantity and quality of risk financing products and services. 
 * Provide effective technical assistance and training that supports high-risk, vulnerable countries in making better risk management decisions. 
 * Drive change through evidence, experimentation, and learning that strengthens the global evidence base on risk financing. 
 * Through advocacy, improve the quality and quantity of risk financing provided through the multilateral system. 
 
-As the managing agent, DAI is responsible for delivering high-quality technical expertise, managing the Centre’s Governance Structure, and leading its operational aspects. 
+## Select Results
+
+* Completed the first-ever comprehensive assessment of financial instruments used for pre-arranged disaster financing. The report, [Demystifying Pre-Arranged Financing for Governments](https://www.disasterprotection.org/publications-centre/demystifying-pre-arranged-financing-for-governments), seeks to help governments make sense of the instruments and assess their value based on seven critical criteria.
