@@ -5,7 +5,7 @@ lastname: Jefferson
 summary: Bobby Jefferson, a leader in the field of information and communications
   technology for development and global health, is a Vice President and Global Head
   of Diversity, Equity, Engagement, and Inclusion at DAI.
-job-title: Vice President and Global Head of Diversity, Equity, Engagement, and Inclusion
+job-title: Vice President, Diversity, Equity, Engagement, and Inclusion
 image: "/uploads/Bobby%201.jpg"
 solutions:
 - Global Health
