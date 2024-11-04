@@ -1,7 +1,7 @@
 ---
 title: Jean Gilson
 date: 2016-01-21 22:18:00 Z
-job-title: Senior Vice President, Global Brand; Board Executive Chair, MicroVest
+job-title: Senior Vice President, Global Brand; Board Executive Chair, DAI Asset Management
 summary: Jean leads the firm’s work on strategy formulation and execution, external
   relations, communications, and brand.
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
@@ -21,7 +21,7 @@ In 2000, Jean left DAI for a high-profile assignment with the U.S. Agency for In
 
 A leading figure in the international development community, Jean returned to DAI in 2006 and since 2008 she has led the firm’s work on strategy formulation and execution, external relations, communications, and brand.
 
-* Executive Chair, MicroVest
+* Executive Chair, DAI Asset Management (formerly MicroVest)
 * Member, Programs Advisory Council, [Trees for the Future](https://trees.org/post/advisory-council/)
 * SID-International Governing Council Liaison, Society for International Development, U.S. Chapter 
 * Member, Governing Council, Society for International Development (SID), Rome
