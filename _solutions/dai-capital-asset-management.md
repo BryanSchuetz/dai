@@ -24,4 +24,4 @@ In December 2021, DAI [announced](https://www.dai.com/news/dai-acquires-internat
 
 DAI Asset Management (formerly MicroVest) is an investment manager that specializes in allocating private debt capital to responsible Financial Services Providers (FSPs) targeting microentrepreneurs and small businesses in emerging markets. The firm structures and manages investment vehicles with thematic, high-impact mandates to address unmet capital needs while providing emerging markets exposure to investors. Since 2003, the firm has built a track record of investing in institutions whose interests are aligned with the borrowers and communities they serve. To date, DAI Asset Management has disbursed more than $1.7 billion to over 200 microfinance and SME finance institutions in more than 60 countries.
  
-[Visit the DAI Asset Management website to learn more ](www.dai.com/assetmanagement)
+[Visit the DAI Asset Management website to learn more](www.daiassetmanagement.com)
