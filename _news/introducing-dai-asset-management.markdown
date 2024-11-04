@@ -1,6 +1,12 @@
 ---
 title: Introducing DAI Asset Management
 date: 2024-11-04 10:00:00 Z
+solutions:
+- DAI Capital
+summary: 'MicroVest is coming under the umbrella of DAI’s asset management business
+  and will be known as DAI Asset Management. The long-planned re-brand reflects the
+  successful integration of MicroVest in the years since the two companies joined
+  forces in 2021. '
 ---
 
 MicroVest is coming under the umbrella of DAI’s asset management business and will be known as [DAI Asset Management](www.dai.com/assetmanagement). The long-planned re-brand reflects the successful integration of MicroVest in the years since the two companies joined forces in 2021. 
@@ -12,4 +18,3 @@ MicroVest is coming under the umbrella of DAI’s asset management business and 
 [DAI Asset Management](www.dai.com/assetmanagement) has specialized in allocating private debt capital to financial institutions and businesses in emerging markets. Skilled in designing and implementing high-impact thematic investment strategies, meeting unmet capital needs, and providing emerging markets exposure for investors, the company typically loans funds to responsible financial institutions that in turn extend finance to micro, small, and medium-sized enterprises in emerging markets—companies that make up the bulk of employment in those economies.  
 
 Over some 20 years, [DAI Asset Management](www.dai.com/assetmanagement)—a certified B-Corp—has invested in more than 60 countries, disbursing $1.7 billion to support financial inclusion. 
-
