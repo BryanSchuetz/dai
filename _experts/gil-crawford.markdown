@@ -5,7 +5,7 @@ lastname: Crawford
 summary: Prior to founding MicroVest, Gil Crawford worked in the Latin American Financial
   Markets Division at the International Finance Corporation, and prior to that he
   founded the Seed Capital Development Fund.
-job-title: Board Member and Investment Committee Chair, MicroVest
+job-title: Board Member and Investment Committee Chair, DAI Asset Management
 image: "/uploads/Gil-Crawford-1.png"
 solutions:
 - DAI Capital
@@ -13,7 +13,7 @@ regions:
 - Worldwide
 ---
 
-Gil Crawford is the Co-founder, Board member, and Investment Committee Chair of MicroVest. Gil has been involved in all phases of MicroVest’s growth since its founding in 2003, including the launch of the first North American-based private investment vehicle focused on microfinance.
+Gil Crawford is the Co-founder, Board member, and Investment Committee Chair of DAI Asset Management (formerly MicroVest). Gil has been involved in all phases of MicroVest’s growth since its founding in 2003, including the launch of the first North American-based private investment vehicle focused on microfinance.
 
 Prior to founding MicroVest, Gil worked in the Latin American Financial Markets Division at the International Finance Corporation (IFC), and prior to that, he founded the Seed Capital Development Fund (SCDF), a U.S.-based nonprofit that raised funds for microfinance institutions. Prior to founding SCDF, he worked for the Africa Venture Capital Project and Chase Manhattan Bank. Early in his career, Gil spent time overseas with the Red Cross in Chad and the U.S. State Department in Guinea.
 
