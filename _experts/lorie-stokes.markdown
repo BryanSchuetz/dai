@@ -4,7 +4,7 @@ date: 2024-01-25 08:25:00 Z
 lastname: Stokes
 summary: Lorie Stokes is a Specialist in the Security, Transparency, Accountability,
   and Rule of Law practice, with experience in program management, business development,
-  technical writing, and monitoring, evaluation, and learning .
+  technical writing, monitoring, evaluation, and learning.
 job-title: Specialist, Security, Transparency, Accountability, and Rule of Law
 image: "/uploads/sm%20Lorie%20Stokes.jpg"
 solutions:
