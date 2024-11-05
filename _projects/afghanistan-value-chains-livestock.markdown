@@ -14,6 +14,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Afghanistan
 promos:
+- title: Revitalizing a Key Irrigation Source for Thousands of Farmers
+  link: https://storymaps.arcgis.com/stories/2089ecf4b88e4f21b3d2e7a0ad2cb978
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
