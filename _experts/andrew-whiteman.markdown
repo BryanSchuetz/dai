@@ -6,6 +6,7 @@ summary: Andrew Whiteman is a clean energy specialist with more than a decade of
   in the design, implementation, and evaluation of projects to promote energy access
   and reduce carbon emissions around the globe.
 job-title: Senior Specialist, Clean Energy
+image: "/uploads/small%20Andrew%20Whiteman.jpg"
 solutions:
 - Environment
 - Climate
