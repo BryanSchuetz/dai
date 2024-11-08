@@ -1,10 +1,13 @@
 ---
 title: Bruno Vinciguerra
 date: 2016-01-21 22:18:00 Z
-summary: Bruno Vinciguerra has steered global companies across multiple industries. Today, he serves as a board member, investor, and advisor to entrepreneurs and senior executives.
+summary: Bruno Vinciguerra has steered global companies across multiple industries.
+  Today, he serves as a board member, investor, and advisor to entrepreneurs and senior
+  executives.
 image: "/uploads/bruno-vinciguerra.JPG"
 sort-order: 10
 ---
+
 Bruno Vinciguerra has steered global companies across multiple industries. Today, he serves as a board member, investor, and advisor to entrepreneurs and senior executives.
 
 From 1986 to 1996, Bruno was a partner at Bain & Company, working in the Paris, Boston, and Toronto offices. He led strategic growth and organization projects for global clients, particularly in the consumer goods and technology areas.
