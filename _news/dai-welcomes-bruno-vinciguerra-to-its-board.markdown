@@ -5,9 +5,9 @@ is_featured: true
 social-image: "/uploads/bruno-vinciguerra.JPG"
 ---
 
-DAI this week welcomed its newest Board member, Bruno Vinciguerra, to his first in-person Board meeting in Bethesda, Maryland. Vinciguerra, who joined DAI’s Board of Managers in September, has led companies across various industries, and today serves as a board member, investor, and advisor to entrepreneurs and senior executives around the world.
+DAI this week welcomed its newest Board member, [Bruno Vinciguerra](/who-we-are/board/bruno-vinciguerra), to his first in-person Board meeting in Bethesda, Maryland. Vinciguerra, who joined DAI’s Board of Managers in September, has led companies across various industries, and today serves as a board member, investor, and advisor to entrepreneurs and senior executives around the world.
 
-[bruno-vinciguerra.JPG](/uploads/bruno-vinciguerra.JPG)
+![bruno-vinciguerra.JPG](/uploads/bruno-vinciguerra.JPG)
 
 <!--more-->
 
