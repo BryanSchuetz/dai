@@ -34,7 +34,7 @@ Tayar enhanced disaster response and communication systems and introduced new an
 
 ## Select Results
 
-* Created a fellowship to provide an experiential platform for young people wanting to pursue a career in the field of disaster risk reduction, governance, risk communication, and risk management.
+* Supported eight local municipalities with more than 35 community-based disaster and risk reduction management construction initiatives, directly protecting more than 200,000 people.
 * Assisted Rajapur’s Emergency Operation Center to develop emergency text messages, monitor online weather updates, and support stakeholder coordination when monsoon rains put Karnali River communities at risk of flooding in Rajapur Municipality in September 2020. 
 * Supported the development of more than 100 policies, plans, guidelines, and frameworks for the federal government to strengthen disaster and risk reduction management nationwide. 
 * Developed the *Disability Inclusive Get Ready Guidebook* and circulated it to all 753 municipalities. The guidebook describes basic concepts of disability, its types, and developing
