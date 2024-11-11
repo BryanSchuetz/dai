@@ -16,6 +16,8 @@ country: Nepal
 promos:
 - title: USAID Biodiversity Newsletter
   link: "/uploads/USAID%20Biodiversity%20(Jal%20Jangal)%20Y1%20Newsletter.pdf"
+- title: Emerging Leaders Boost Natural Resource Management
+  link: https://www.usaid.gov/nepal/news/aug-14-2024-success-story-emerging-leaders-boost-natural-resource-management
 ---
 
 From the high altitude, snow-capped Himalayan mountains in the north, through the Churia midhill regions, to the Terai plains in the south, Nepal’s diverse landscapes provide habitat for iconic species, such as the snow leopard and river dolphin, and vital natural resources for the country’s inhabitants. Nepal’s [freshwater](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI) and terrestrial ecosystems sustain the health, well-being, and economic prosperity of diverse ethnic groups, whose cultures are also inextricably linked to nature. The confluence of [two rivers](https://www.dai.com/our-work/projects/nepal-usaid-karnali-water-activity),  for example, is frequently the site of Hindu temples with spiritual significance.
