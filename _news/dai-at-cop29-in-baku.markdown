@@ -16,9 +16,7 @@ The following projects and personnel will be present:
 * The High-Level Meeting of the Organization of African, Caribbean, and Pacific States (OACPS) at COP29 session, facilitated by the European Union (EU)-funded [Technical Assistance for the Intra-ACP Disaster Risk Reduction Programme](https://www.dai.com/our-work/projects/worldwide-african-caribbean-and-pacific-technical-assistance-for-the-11th-edf-intra-acp-natural-disaster-risk-reduction-programme), will call for increased ambition on Nationally Determined Contributions (NDCs), enhanced access to climate finance, and stronger resilience-building measures for vulnerable countries. A key outcome will be a Joint Statement on Climate Action from OACPS Heads of State and Governments, urging stronger emission reductions, better climate finance access, and support for resilience and ecosystem restoration in vulnerable countries. 
 
 **Date:** November 12 
-
 **Location:** Moana Blue Pacific Pavilion, Blue Zone 
-
 **Time:** 2:00–2:50 PM local time (GMT+4)
 
 * The Organization of African, Caribbean, and Pacific States (OACPS) and the Caribbean Development Bank (CDB) will host a side event at the CARICOM Pavilion. The session, facilitated by the EU’s [Technical Assistance for the Intra-ACP Disaster Risk Reduction Programme (DRRP)](https://www.dai.com/our-work/projects/worldwide-african-caribbean-and-pacific-technical-assistance-for-the-11th-edf-intra-acp-natural-disaster-risk-reduction-programme), will raise awareness about the vulnerability of OACPS countries to climate change and natural hazards. The panel discussion, moderated by CDB’s Valerie Isaac, will include Dr. Pendo Maro, DRRP Project Team Leader for Technical Assistance, who will discuss how DRR financing and investments can enhance resilience in OACPS countries. 
