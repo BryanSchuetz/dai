@@ -42,8 +42,9 @@ layout: default
 <p><a href="mailto:euinfo@dai.com">Email</a></p>
 <p><strong>Brussels, Belgium</strong>
   <br>
-  Avenue de l'Yser, 4<br>
-  1040 Brussels<br>
+  DAI Global Belgium SRL<br>
+  Avenue de Tervueren 16B, b20<br>
+  1150 Wolouwé-saint-Pierre<br>
   Tel: 0032 2 7420290<br></p>
 
 <p><strong>Vienna, Austria</strong>
