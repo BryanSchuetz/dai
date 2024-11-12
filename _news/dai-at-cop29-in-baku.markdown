@@ -1,5 +1,5 @@
 ---
-title: DAI at COP29 in Baku
+title: DAI at COP29 in Baku, Azerbaijan
 date: 2024-11-11 14:01:00 Z
 ---
 
@@ -9,7 +9,7 @@ Various DAI-led projects and technical experts are participating in the [29th Co
 
 <!--more-->
 
-> “This year, we are focusing on representation from our projects, who are best placed to provide local perspectives on climate challenges and successes, as well as advocate on behalf of their partners,” said [Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen), DAI Vice President, Environment. 
+> “This year we are focusing on representation from our projects, who are best placed to provide local perspectives on climate challenges and successes, including successful efforts to mobilize and scale climate finance,” said [Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen), DAI Vice President, Environment. “Finance is front and center at this COP. It is important to showcase how donors can support local communities in accessing these funds and make a real difference in combatting climate change.”
 
 The following projects and personnel will be present:
 
