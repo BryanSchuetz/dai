@@ -6,7 +6,7 @@ summary: 'Jeremy Kanthor oversees DAI’s technical sectors and business develop
   for our work with the U.S. Agency for International Development (USAID), the State
   Department, and other U.S. Government clients. '
 job-title: Vice President, Development Innovations
-image: https://assetify-dai.com/experts/KathorInner.jpg
+image: "/uploads/sm%20Jeremy%20Kanthor.jpg"
 solutions:
 - Governance
 - 
