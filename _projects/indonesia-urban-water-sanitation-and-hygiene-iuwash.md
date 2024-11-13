@@ -28,6 +28,9 @@ promos:
 - title: 'United States Pledges $44 Million to Bring Safe, Clean Water to Communities
     in Indonesia '
   link: https://www.usaid.gov/indonesia/press-releases/apr-7-2022-united-states-pledges-44-million-bring-safe-clean-water
+- title: 'Expert Q&A: Alifah Lestari, Chief of Party Indonesia Urban Water, Sanitation,
+    and Hygiene (IUWASH Tangguh) Project'
+  link: https://iuwashtangguh.or.id/en/expert-qa-water-security-sanitation-and-hygiene-wssh-alifah-lestari-chief-of-party-cop-indonesia-urban-water-sanitation-and-hygiene-iuwash-tangguh-project/
 layout: project
 ---
 
