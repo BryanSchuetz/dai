@@ -7,6 +7,7 @@ summary: DAI today announced that DAI President Tine Knott will succeed Jim Boom
   as DAI’s Chief Executive Officer. Betsey Nelson, Chair of the DAI Board, said in
   a message to staff that Knott will take over as President and CEO at the upcoming
   Board meeting in February 2025.
+social-image: "/uploads/tine-and-jim.png"
 ---
 
 DAI today announced that DAI President Tine Knott will succeed Jim Boomgard as DAI’s Chief Executive Officer. Betsey Nelson, Chair of the DAI Board, said in a message to staff that Knott will take over as President and CEO at the upcoming Board meeting in February 2025.
