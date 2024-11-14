@@ -7,7 +7,7 @@ summary: 'Said Abu Hijleh, DAI Country Director in Palestine, is an executive ma
   building economic resilience and creating market linkages for the West Bank and
   Gaza. '
 job-title: Country Director, Palestine, and Chief of Party, SMART project
-image: https://assetify-dai.com/experts/said.jpg
+image: "/uploads/Said%20Abu%20Hijleh.JPG"
 solutions:
 - Economic Growth
 regions:
