@@ -2,11 +2,10 @@
 title: Dipika Chawla
 date: 2016-01-21 22:18:00 Z
 lastname: Chawla
-summary: 'Dipika Chawla is a Principal Specialist with DAI’s Sustainable Business
-  Group, where she manages a portfolio of projects providing advisory services to
-  multinational corporations looking to drive sustainable economic growth in the countries
-  where they operate. '
-job-title: Strategic Investment Advisor, USAID INVEST
+summary: Dipika Chawla is a Lead Technical Director of Investment with the USAID Africa
+  Trade and Investment activity.
+job-title: Lead Technical Director of Investment, USAID Africa Trade and Investment
+  activity
 image: "/uploads/Dipika%20Chawla%20headshot%202019.jpg"
 solutions:
 - Social Strategy
@@ -24,7 +23,7 @@ articles:
 layout: expert
 ---
 
-Dipika Chawla is a Principal Specialist with DAI’s Sustainable Business Group, where she manages a portfolio of projects providing advisory services to multinational corporations looking to drive sustainable economic growth in the countries where they operate. Her areas of technical expertise include entrepreneurship, (incubation, acceleration, access to finance), small and medium-sized enterprise (SME) development, youth employment, and gender integration. 
+Dipika Chawla is a Lead Technical Director of Investment with the [USAID Africa Trade and Investment activity](https://www.dai.com/our-work/projects/africa-trade-and-investment-ati-activity).
 
 Dipika works with companies to design, manage, and evaluate innovative and impactful programs that align with corporate strategic objectives. She has led program feasibility studies, stakeholder consultations, youth employment studies, and sector analyses. She has also designed and delivered content for startup bootcamps, business plan and innovation competitions, incubators, and accelerators, and has played a variety of advisory and senior management roles on corporate- and foundation-funded projects. As Team Lead for the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic), she designed an innovative financing mechanism for disbursing seed funding to fledgling agritech startups. 
 
