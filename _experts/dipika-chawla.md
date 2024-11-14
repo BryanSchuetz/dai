@@ -2,16 +2,24 @@
 title: Dipika Chawla
 date: 2016-01-21 22:18:00 Z
 lastname: Chawla
-summary: Dipika Chawla is a Lead Technical Director of Investment with the USAID Africa
-  Trade and Investment activity.
-job-title: Lead Technical Director of Investment, USAID Africa Trade and Investment
-  activity
-image: "/uploads/Dipika%20Chawla%20headshot%202019.jpg"
+summary: Dipika Chawla serves as Lead Technical Director for Investment on Africa
+  Trade and Investment (ATI), the U.S. Agency for International Development (USAID)’s
+  flagship continental effort under the Prosper Africa initiative that is expanding
+  and accelerating two-way trade and investment between African nations and the United
+  States.
+job-title: Lead Technical Director for Investment, Africa Trade and Investment (ATI)
+image: "/uploads/Dipika_Chawla.jpg"
 solutions:
-- Social Strategy
+- Economic Growth
+- Finance and Investment
 regions:
 - Worldwide
 articles:
+- name: Mobilizing African Capital for African infrastructure — Without Concessional
+    Financing
+  article_file: https://medium.com/usaid-invest/mobilizing-african-capital-for-african-infrastructure-without-concessional-financing-6436e4bb9acd
+- name: 5 Lessons Learned in Mobilizing Institutional Investment in African Economies
+  article_file: https://medium.com/usaid-invest/5-lessons-learned-in-mobilizing-institutional-investment-in-african-economies-4a45be4cd651
 - name: A Strong Innovation Ecosystem Relies on Financially Sustainable Incubators
     and Accelerators
   article_file: https://dai-global-developments.com/articles/a-strong-innovation-ecosystem-relies-on-financially-sustainable-incubators-and-accelerators?utm_source=daidotcom
@@ -23,10 +31,11 @@ articles:
 layout: expert
 ---
 
-Dipika Chawla is a Lead Technical Director of Investment with the [USAID Africa Trade and Investment activity](https://www.dai.com/our-work/projects/africa-trade-and-investment-ati-activity).
+Dipika Chawla serves as Lead Technical Director for Investment on Africa Trade and Investment (ATI), the U.S. Agency for International Development (USAID)’s flagship continental effort under the Prosper Africa initiative that is expanding and accelerating two-way trade and investment between African nations and the United States. ATI facilitates collaboration between USAID Missions and the private sector to achieve Africa’s vision for inclusive economic growth. Dipika oversees the technical direction of ATI’s Investment portfolio, deploying blended finance interventions that leverage donor funding to mobilize much greater sums of private capital into African small firms, funds, and infrastructure across priority sectors. ATI’s investment mobilization approach supports catalytic funding, climate finance, transaction advisory services, fund structuring, and market assessments.
 
-Dipika works with companies to design, manage, and evaluate innovative and impactful programs that align with corporate strategic objectives. She has led program feasibility studies, stakeholder consultations, youth employment studies, and sector analyses. She has also designed and delivered content for startup bootcamps, business plan and innovation competitions, incubators, and accelerators, and has played a variety of advisory and senior management roles on corporate- and foundation-funded projects. As Team Lead for the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic), she designed an innovative financing mechanism for disbursing seed funding to fledgling agritech startups. 
+This position is a continuation of Dipika’s career in private sector engagement and her prior role as Strategic Investment Advisor on USAID INVEST, a global buy-in mechanism focused on mobilizing private sector financing for development. INVEST mobilized over $1.6 billion in private investment over its lifetime, with Dipika’s portfolio contributing $924 million to that total during her tenure on the project through a diverse set of impactful transactions supporting SMEs, local funds, and infrastructure projects.
 
-Before joining DAI, Dipika worked for the World Bank researching public policy tools for fostering innovation in Asia. Prior to that, she worked for the Rainforest Alliance, an organization that works with agricultural, forestry, and tourism companies to promote sustainable business worldwide.
+Before joining USAID INVEST, Dipika worked in private sector consulting, where she provided advisory services to multinational corporations to co-design and deliver sustainability initiatives, building a deep understanding of how to operationalize cross-sector partnerships and align development objectives with core business strategy and incentives.
 
 * M.S., foreign service, Georgetown University
+* B.S., foreign service, Georgetown University
