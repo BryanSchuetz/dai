@@ -7,7 +7,7 @@ summary: 'Phelps Feeley has more than 15 years of experience in program design, 
   research, media, and civil society strengthening projects. '
 job-title: Chief of Party, Youth Resilience to Crime and Violence in the Caribbean
   Activity
-image: "/uploads/Phelps%20Feeley.jpg"
+image: "/uploads/Phelps%20Feeley-a267d3.jpg"
 solutions:
 - Fragile States
 - Governance
