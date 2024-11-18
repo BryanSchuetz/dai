@@ -2,12 +2,12 @@
 title: Juan Estrada-Valle
 date: 2016-01-21 22:18:00 Z
 lastname: Estrada-Valle
-summary: Juan Estrada-Valle is an agricultural economist, five-time Chief of Party,
+summary: Juan Estrada-Valle is an agricultural economist, six-time Chief of Party,
   thought leader, and executive with more than 20 years of experience managing economic
   growth programs in trade and investment, agri-food systems, value chain competitiveness,
   and foreign policy.
 job-title: 'Chief of Party, USAID Prosper Africa Trade and Investment '
-image: "/uploads/Juan.jpg"
+image: "/uploads/Juan%20Estrada-Valle.jpg"
 solutions:
 - Economic Growth
 - Trade
@@ -24,7 +24,7 @@ articles:
 layout: expert
 ---
 
-Juan Estrada-Valle is an agricultural economist, five-time Chief of Party, thought leader, and executive with more than 20 years of experience managing economic growth programs in trade and investment, agri-food systems, value chain competitiveness, and foreign policy.
+Juan Estrada-Valle is an agricultural economist, six-time Chief of Party, thought leader, and executive with more than 20 years of experience managing economic growth programs in trade and investment, agri-food systems, value chain competitiveness, and foreign policy.
 
 He is currently the Chief of Party for the [Africa Trade and Investment (ATI)](https://www.dai.com/our-work/projects/africa-trade-and-investment-ati-activity) activity, the implementing arm of Prosper Africa, a Presidential-level, national security initiative to strengthen the strategic and economic partnership between the United States and African countries. Prosper Africa builds a 21st-century U.S.-Africa partnership by increasing two-way trade and investment to a strategic scale to create jobs, secure strategic sectors and supply chains, advance economic prosperity, and counter threats that include climate change and malign foreign influence.
 
