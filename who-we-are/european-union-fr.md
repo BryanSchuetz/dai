@@ -16,8 +16,6 @@ DAI est depuis longtemps présente sur le continent européen, mais c’est avec
 
 Depuis nos bureaux à Bruxelles (Belgique), Vienne (Autriche), Ankara (Turquie), Belgrade (Serbie), Cologne (Allemagne), Londres (Royaume-Uni) et Sofia (Bulgarie), notre équipe de 120 employés supervise un portefeuille de 85 projets de l'UE dans plus de 80 pays.
 
-![EU Office Map](https://dai-assets.s3.amazonaws.com/who-we-are/dai-eu-offices-fr.png)
-
 Notre division européenne couvre l'ensemble des opérations proposées par DAI, de la mise en œuvre de contrats de services, facilités globales ou contrats-cadres, au développement commercial, en passant par la communication ou à la gestion des connaissances.
 
 Notre équipe européenne est parfaitement intégrée à l'organisation globale de DAI, bénéficiant du soutien des équipes techniques et des fonctions support basés aux États-Unis, au Royaume-Uni, au Nigeria, au Pakistan, en Palestine ou ailleurs.
