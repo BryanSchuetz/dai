@@ -26,6 +26,8 @@ Component A centers on regenerating natural ecosystems, fostering community resi
   
 Our partners are the Wildlife Conservation Society, Monterey Bay Aquarium, and Blue Green Advisors, with DEVLEARN as the monitoring, evaluation, and learning partner.
 
+[Fishering in Inhassoro copy.JPG](/uploads/Fishering%20in%20Inhassoro%20copy.JPG)
+
 ##Sample Activities
 
 * Technical assistance to support policy planning reform that strengthens ecosystem restoration and conservation.
