@@ -1,6 +1,7 @@
 ---
 title: Worldwide—Climate and Ocean Adaptation and Sustainable Transition (COAST)
 date: 2024-11-20 10:38:00 Z
+published: false
 summary: 'The U.K. Foreign, Commonwealth and Development Office (FCDO) Climate and
   Ocean Adaptation and Sustainable Transition (COAST) program aims to improve vulnerable
   coastal communities’ resilience to climate change and prosperity from a more sustainable
