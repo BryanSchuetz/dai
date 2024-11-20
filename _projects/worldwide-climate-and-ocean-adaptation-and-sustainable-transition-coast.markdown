@@ -12,6 +12,7 @@ solutions:
 - Climate
 - Environment
 regions: Worldwide
+country: Worldwide
 ---
 
 The U.K. Foreign, Commonwealth and Development Office (FCDO) Climate and Ocean Adaptation and Sustainable Transition (COAST) program aims to improve vulnerable coastal communities’ resilience to climate change and prosperity from a more sustainable use of their marine environment. 
@@ -26,9 +27,9 @@ Component A centers on regenerating natural ecosystems, fostering community resi
   
 Our partners are the Wildlife Conservation Society, Monterey Bay Aquarium, and Blue Green Advisors, with DEVLEARN as the monitoring, evaluation, and learning partner.
 
-[Fishering in Inhassoro copy.JPG](/uploads/Fishering%20in%20Inhassoro%20copy.JPG)
+![Fishering in Inhassoro copy.JPG](/uploads/Fishering%20in%20Inhassoro%20copy.JPG)
 
-##Sample Activities
+## Sample Activities
 
 * Technical assistance to support policy planning reform that strengthens ecosystem restoration and conservation.
 * Promoting alternative income-generation activities.
