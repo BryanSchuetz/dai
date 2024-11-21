@@ -2,7 +2,7 @@
 title: Worldwide—Climate and Ocean Adaptation and Sustainable Transition (COAST)
 date: 2024-11-20 10:38:00 Z
 summary: 'The U.K. Foreign, Commonwealth and Development Office (FCDO) Climate and
-  Ocean Adaptation and Sustainable Transition (COAST) program aims to improve vulnerable
+  Ocean Adaptation and Sustainable Transition (COAST) program works to improve vulnerable
   coastal communities’ resilience to climate change and prosperity from a more sustainable
   use of their marine environment. '
 start: 2024
@@ -15,7 +15,7 @@ regions: Worldwide
 country: Worldwide
 ---
 
-The U.K. Foreign, Commonwealth & Development Office (FCDO) Climate and Ocean Adaptation and Sustainable Transition (COAST) program aims to improve vulnerable coastal communities’ resilience to climate change and prosperity from a more sustainable use of their marine environment. 
+The U.K. Foreign, Commonwealth & Development Office (FCDO) Climate and Ocean Adaptation and Sustainable Transition (COAST) program works to improve vulnerable coastal communities’ resilience to climate change and prosperity from a more sustainable use of their marine environment. 
 
 DAI is responsible for delivering COAST Component A, which is implemented in two phases. Phase One occurs in Indonesia, Mozambique, the Philippines, and Vietnam over 24 months. Phase 2 countries, including Nigeria and Bangladesh, will be added in year three and will be agreed upon in conjunction with the FCDO. 
  
@@ -31,9 +31,9 @@ Our partners are the Wildlife Conservation Society, Monterey Bay Aquarium, and B
 
 ## Sample Activities
 
-* Technical assistance to support policy planning reform that strengthens ecosystem restoration and conservation.
-* Promoting alternative income-generation activities.
-* Support for projects constructing natural and hybrid coastal defenses.
-* Supporting training in sustainable fisheries and aquaculture practices.
-* Facilitating dialogue to incorporate traditional knowledge into coastal management policies.
-* Building institutional capacity for enforcement of sustainable use policies and regulations.
+* Support policy planning reform that strengthens ecosystem restoration and conservation.
+* Promote alternative income-generation activities.
+* Provide support for projects constructing natural and hybrid coastal defenses.
+* Support training in sustainable fisheries and aquaculture practices.
+* Facilitate dialogue to incorporate traditional knowledge into coastal management policies.
+* Build institutional capacity for enforcement of sustainable use policies and regulations.
