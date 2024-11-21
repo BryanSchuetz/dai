@@ -41,4 +41,8 @@ In line with the U.S. Agency for International Development’s Regional Integrat
 * Establish financial observatories that increase the availability of public, actionable data on the financial lives of underserved populations.
 * Design instruments to raise private capital for firms—including MSMEs—and projects in sectors and regions prioritized by the U.S. Agency for International Development and the Government of Colombia, and assist the Government in increasing and maximizing the impact of its investments and de-risking mechanisms.
 
+## Select Results
+
+* Helped launch the [Rural Financial Observatory](https://www.youtube.com/watch?v=mtvN5mZ9CrY), developed with the Pontificia Universidad Javeriana and Banca de las Oportunidades. The observatory uses data science and visualization tools to collect, analyze, and provide access to detailed information that helps decision makers design more inclusive financial products and public policies—aiming to connect rural areas with the financial ecosystem. 
+
 ![1Asovif - La Unión (Nariño) (113).jpg](/uploads/1Asovif%20-%20La%20Unio%CC%81n%20(Narin%CC%83o)%20(113).jpg)
