@@ -14,6 +14,9 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Afghanistan
 promos:
+- title: How Data Analysis, Community Engagement, and GIS Delivered a Reliable Water
+    Source to an Afghan Community
+  link: https://dai-global-developments.com/articles/how-data-analysis-community-engagement-and-gis-delivered-a-reliable-water-source-to-an-afghan-community/
 - title: Revitalizing a Key Irrigation Source for Thousands of Farmers
   link: https://storymaps.arcgis.com/stories/2089ecf4b88e4f21b3d2e7a0ad2cb978
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
