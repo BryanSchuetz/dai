@@ -44,5 +44,8 @@ MSP supports USAID and its implementers to deliver durable, systemic, and inclus
 
 ## Select Results
 
-* Assisted Zambia-based Nature’s Nectar, an environmentally conscious honey processor and exporter that ethically sources raw honey from rural smallholders. Over two years, the company distributed 12,000 beehives to 1,200 smallholders and exported 90,000 kilogramss of honey, achieving $122,000 in sales.
+* Assisted Zambia-based Nature’s Nectar, an environmentally conscious honey processor and exporter that ethically sources raw honey from rural smallholders. Over two years, the company distributed 12,000 beehives to 1,200 smallholders and exported 90,000 kilograms of honey, achieving $122,000 in sales.
 * Signed five partnerships in Cambodia to leverage $2.3 million from the private sector—along with $2.1 million from USAID—to improve local processing capacity for high-quality rice, ensure a more consistent supply of safe and healthy organic produce, and enable the safe and compliant production of processed agricultural commodities.
+* Supported access for more than 48,000 individuals to 102 resources that advance good practice and learning on market systems development and private sector engagement, including tools, guidance, peer learning platforms, and studies.  
+* Managed 52 private sector partnerships across 16 countries.
+* Leveraged $17.6 million in private-sector co-investments.
