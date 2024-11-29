@@ -1,7 +1,7 @@
 ---
 title: DAI to Lead COAST Program to Improve Coastal Communities’ Climate Resilience
 date: 2024-11-26 09:58:00 Z
-is_featured: true
+is_featured: false
 solutions:
 - Climate
 regions: Worldwide
