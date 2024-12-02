@@ -18,3 +18,5 @@ As Senior Director of Delivery and Operations for DAI’s Sustainable Business G
 She previously served as Head of Programmes for DAI Global Health, managing a portfolio of projects funded by the U.K. Foreign, Commonwealth, & Development Office (FCDO), including the Prosperity Fund Better Health Programme in Mexico; the Tackling Deadly Diseases in Africa programme; and the flagship Women for Health programme in Nigeria. Prior to this, Amy worked at WISE Development International, a DAI company, first as a Head of Business Development & Operations and then as Gender Equality and Social Inclusion Global Practice Manager. 
 
 Before joining DAI, Amy held several other leadership roles focusing on project and client management for various sectors, including for an education-focused software development company.
+
+* B.A. (Hons), University of Bristol
