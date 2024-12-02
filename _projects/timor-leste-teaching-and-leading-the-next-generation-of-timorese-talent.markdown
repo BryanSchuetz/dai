@@ -6,7 +6,7 @@ summary: The Teaching and Leading the Next Generation of Timorese (TALENT) proje
   secondary schools.
 start: 2024
 end: 2030
-client: 'Millenium Challenge Corporation, MCC '
+client: Millennium Challenge Corporation
 solutions:
 - Education
 - Governance
