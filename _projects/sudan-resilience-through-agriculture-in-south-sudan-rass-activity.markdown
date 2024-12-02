@@ -50,9 +50,10 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
 
 ## Select Results
 
-* Reached 40,550 program participants with improved technologies and management practices, of whom 13,389 are farmers in 531 farmer groups engaging in field crops, vegetables, and community-based seed production.
-* Helped participants engaging in farming and other businesses to realize $1,971,809 in sales of their field crops, vegetables, livestock, honey, shea products, peanut butter, and more.
-* Trained 2,270 smallholder ruminant and non-ruminant livestock farmers on good animal husbandry practices.
-* Reached 9,067 children under the age of 5 with nutrition specific interventions which included the provision of nutrients and training of their mothers and caregivers on nutrition and good hygiene practices.
-* Organized and supported 3,193 program participants from 123 village savings and loans associations (VSLA)—improving access to finance in communities and developing a savings culture.
+* Reached 62,156 program participants (54.2 percent women and 26.4 percent young people) with improved technologies, management practices, small firms, alternative livelihood activities, and social behavior change messaging. Of the total program participants, 23,298 are farmers in 768 farmer groups engaging in field crops, vegetables, and community-based seed production. 
+* Helped participants engage in farming and other businesses to realize $ 2,409,911 in sales of their field crops, vegetables, livestock, fish, honey products, shea products, energy-saving stoves, sewn apparel, soap, and more.
+* Trained 3,838 smallholder ruminant and non-ruminant livestock farmers on good animal husbandry practices.
+* Reached 14,737 children under the age of 5 with nutrition-specific interventions which included the provision of nutrients and training of their mothers and caregivers on nutrition and good hygiene practices.
+* Organized and supported 4,526 program participants from 176 village savings and loans associations—improving access to finance in communities underserved by formal financial institutions and developing a savings and lending culture.
+* Reached 7,079 program participants and 304,000 non-participant mobile phone subscribers with key messages promoting positive masculinity, youth engagement in agriculture, and shared decision-making within households through social behavior change campaigns to address harmful societal norms and promote positive behaviors.
 * Increased the autonomy of female participants in agriculture-related decision-making by 19 percent, increasing from 34 percent to 53 percent. In addition, 15 percent of the surveyed participants, male and female, reported increased asset ownership, indicating positive progress.
