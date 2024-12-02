@@ -1,6 +1,6 @@
 ---
 title: DAI Publishes Carbon Markets Report
-date: 2024-12-03 08:00:00 Z
+date: 2024-12-02 08:00:00 Z
 solutions:
 - Climate
 - Environment
