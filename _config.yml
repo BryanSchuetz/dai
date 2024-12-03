@@ -157,6 +157,8 @@ exclude:
 - "/build"
 - browser-sync.js
 - "/.github"
+include: 
+- ".well-known"
 unpublished: true
 sass:
   sass_dir: assets/_sass
