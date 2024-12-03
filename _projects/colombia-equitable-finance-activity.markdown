@@ -44,3 +44,4 @@ In line with the U.S. Agency for International Development’s Regional Integrat
 ## Select Results
 
 * Helped launch the [Rural Financial Observatory](https://www.youtube.com/watch?v=mtvN5mZ9CrY), developed with the Pontificia Universidad Javeriana and Banca de las Oportunidades. The observatory uses data science and visualization tools to collect, analyze, and provide access to detailed information that helps decision makers design more inclusive financial products and public policies—aiming to connect rural areas with the financial ecosystem. 
+* Worked with 132,522 Colombians—60 percent of whom are women—on various financial education activities.
