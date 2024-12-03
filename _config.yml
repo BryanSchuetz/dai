@@ -157,7 +157,7 @@ exclude:
 - "/build"
 - browser-sync.js
 - "/.github"
-include: 
+include:
 - ".well-known"
 unpublished: true
 sass:

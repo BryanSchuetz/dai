@@ -158,8 +158,8 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - robots.txt
-include: 
-- ".well-known"
+include:
+- "well-known"
 sass:
   sass_dir: assets/_sass
   style: compressed
