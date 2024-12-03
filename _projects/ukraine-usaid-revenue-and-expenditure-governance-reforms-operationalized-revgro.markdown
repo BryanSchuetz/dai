@@ -1,7 +1,6 @@
 ---
 title: Ukraine—USAID Revenue and Expenditure Governance Reforms Operationalized (RevGRO)
 date: 2024-12-03 08:33:00 Z
-published: false
 summary: The USAID Revenue and Expenditure Governance Reforms Operationalized (RevGRO)
   Activity works with the Government of Ukraine, Ukrainian civil society, and the
   private sector to promote fiscal resilience, transparency, and accountability by
@@ -20,7 +19,7 @@ Ukraine is facing a protracted war of attrition, which has turned into a war for
 
 The USAID Revenue and Expenditure Governance Reforms Operationalized (RevGRO) Activity works with the Government of Ukraine, Ukrainian civil society, and the private sector to promote fiscal resilience, transparency, and accountability by enhancing state revenue generation and financial management.
 
-![RevGRO.png](/uploads/RevGRO.png)
+![RevGRO.png](/uploads/RevGRO.png)`Photo: Ivan Ponomarenko.`
  
 ## Sample Activities
 
