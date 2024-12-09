@@ -6,7 +6,7 @@ summary: Mabothokgong “Mabo” Mathole is Director of Mozambique Enterprise fo
   (MES), a joint venture between DAI and Mozambican implementing partner Taciana Peão
   Lopes Consulting (TPLA).
 job-title: Director
-image: "/uploads/A_KK__4591_square-fd7b97.jpg"
+image: "/uploads/Mabothokgong_Mathole-fd7b97.jpg"
 solutions:
 - Sustainable Business
 regions:
