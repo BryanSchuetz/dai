@@ -5,8 +5,8 @@ lastname: Ruparelia
 summary: 'Divij Ruparelia has more than 17 years of investment and finance experience,
   with a special focus on raising capital, direct investing, and building large ventures
   across emerging markets. '
-job-title: Chief Operating Officer, DAI Magister
-image: "/uploads/Divij%20Ruparelia%20profile.jpg"
+job-title: Co-Head, DAI Magister
+image: "/uploads/Divij%20Ruparelia.png"
 solutions:
 - DAI Capital
 - Finance and Investment
