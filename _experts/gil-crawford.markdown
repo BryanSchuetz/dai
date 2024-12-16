@@ -1,6 +1,7 @@
 ---
 title: Gil Crawford
 date: 2023-05-19 14:16:00 Z
+published: false
 lastname: Crawford
 summary: Prior to founding MicroVest, Gil Crawford worked in the Latin American Financial
   Markets Division at the International Finance Corporation, and prior to that he
