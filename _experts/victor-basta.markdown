@@ -1,6 +1,7 @@
 ---
 title: Victor Basta
 date: 2023-05-12 09:02:00 Z
+published: false
 lastname: Basta
 summary: Victor Basta has advised on more than 130 transactions across 30 years and
   has helped found and build three successful corporate finance firms in the process.
