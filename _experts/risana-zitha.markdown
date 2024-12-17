@@ -6,7 +6,7 @@ summary: Risana Zitha has over 25 years of investment banking experience. He has
   on M&A transactions totalling over $43bn and on capital raisings, including IPOs,
   totalling over $10bn.
 job-title: Co-Head, DAI Magister
-image: "/uploads/Risana_Zitha-21eeff.png"
+image: "/uploads/Risana_Zitha.png"
 solutions:
 - DAI Capital
 ---
