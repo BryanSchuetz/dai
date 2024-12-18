@@ -48,4 +48,12 @@ Ultimately, CIDR aims to help the region raise the quality of its cybersecurity 
 * [Engage universities](https://dai-global-digital.com/overcoming-gender-biases-to-support-cyber-workforce-development-in-north-macedonia.html), training institutes, and critical infrastructure employers on ways to address the supply of and demand for trained cybersecurity workers, including through CIDR’s Cyber Pathways for Women initiatives.
 * Promote U.S. and European investment in CIDR’s focus countries to ensure high-quality and enduring cybersecurity.
 * Coordinate and support activities as part of USAID’s U.S.-Europe [Energy Bridge](https://www.usaid.gov/about-us/organization/bureau-europe-eurasia/us-europe-energy-bridge) program.
-* [Winner](https://www.dai.com/news/dais-cidr-program-wins-usaid-2023-digital-development-award) of a 2023 Digital Development Award.
+
+## Select Results
+
+* Supported design and establishment of three national cybersecurity agencies—Cyber Security Agency in Kosovo, National Agency for Cybersecurity in Moldova, and Cybersecurity Department within North Macedonia’s Ministry of Digital Transformation. 
+* Helped develop 21 cybersecurity policies, laws, and/or regulations and the adoption of five, including on digital transformation, national-level laws and related bylaws, and the establishment of regulatory agencies. 
+* Provided emergency and targeted response to cyberattacks, including to specific entities and by working with governments to build capacity to reduce cyber threats to e-governance platforms. 
+* Assisted the Albania National Cyber Security Authority to establish and launch its cyber drill training platform. 
+* Supported development and launch of a university course in Serbia and a scholarship program completed by four female students with sponsorships provided by four companies and the university. 
+* [Won](https://www.dai.com/news/dais-cidr-program-wins-usaid-2023-digital-development-award) a 2023 Digital Development Award.
