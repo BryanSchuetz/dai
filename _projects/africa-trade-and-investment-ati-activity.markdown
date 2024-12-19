@@ -31,7 +31,7 @@ As a demand-driven mechanism, the project is flexible and responsive. The Africa
 
 The platform is collectively funded by all users (Prosper Africa and participating USAID Buy-in Missions and Offices) and aims for cost-effective, rapid, and flexible deployment of the most critical shared services. The more ATI can scale, the more the costs are shared. 
 
-ATI allows USAID to work closely with the private sector to shape activities that unlock business opportunities, particularly those that drive trade and investment into and out of African markets.
+ATI allows USAID to work closely with the private sector to shape activities that unlock business opportunities, particularly those that drive trade and investment into and out of African markets. Operating in 50 countries, the Activity has forged 340 partnerships, achieving extraordinary results: $1.61 billion in closed trade deals, $1 billion in finalized investments, $215 million in grants and subcontracts awarded, and $415 million in co-investment mobilized from private-sector partners.
   
 ![Coast Apparel 2.jpg](/uploads/Coast%20Apparel%202.jpg)
 
@@ -47,10 +47,10 @@ ATI allows USAID to work closely with the private sector to shape activities tha
 ## Selected Results
 
 * Implemented 46 USAID Mission buy-ins valued at $450 million.
-* Leveraged $406 million of additional private-sector investments.
+* Leveraged $415 million of additional private-sector investments.
 * Closed 2,334 trade deals, valued at $1.1 billion.
 * Closed 322 investment deals, valued at $733.3 million.
-* Awarded $206 million in grants and subcontracts.
-* Managed 202 private sector partnerships.
+* Awarded $215 million in grants and subcontracts.
+* Managed 340 partnerships.
  
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1017508592?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Meet ATI"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
