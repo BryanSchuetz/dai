@@ -17,7 +17,11 @@ regions: Eastern Europe and Central Asia
 country: Kosovo
 ---
 
-The Critical Infrastructure Resilience (CIR) Activity works to protect Kosovo’s critical infrastructure by improving cyber governance and building capacity in the Government of Kosovo and among critical infrastructure operators to plan for, respond to, and recover from cyberattacks. It will focus on the e-government, telecommunications, and energy sectors.
+In early 2023, the Government of Kosovo passed the Law on Cybersecurity and the National Cybersecurity Strategy and Action Plan in quick succession. Since then, the U.S. Agency for International Development has been playing a pivotal role in advancing these developments. The DAI-led USAID [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program facilitates the Critical Infrastructure Cybersecurity Working Group—Kosovo’s first platform for a wide range of cybersecurity for critical infrastructure stakeholders—which contributed directly to the passage of the Law on Cybersecurity. Through CIDR, USAID is also helping design Kosovo’s first-ever Cybersecurity Agency, with a mandate to propose, implement, and oversee cybersecurity measures in Kosovo. 
+
+While the Law on Cybersecurity is a key first step, Kosovo requires additional support to create and implement a comprehensive legal and regulatory framework for cybersecurity critical infrastructure aligned with European Union directives. As critical infrastructure sectors rapidly digitalize, key sectoral mechanisms, such as sectoral Computer Emergency Response Teams, are underdeveloped.  
+
+The fill the gap, USAID designed the Critical Infrastructure Resilience (CIR) Activity to improve cyber governance and build capacity in the Government of Kosovo and among critical infrastructure operators to plan for, respond to, and recover from cyberattacks. It will focus on the e-government, telecommunications, and energy sectors.
  
 CIR has three objectives:
  
@@ -25,4 +29,6 @@ CIR has three objectives:
 * Capacity building: Building short- and long-term technical and human capacity to plan for, respond to, and recover from cyber incidents.
 * Technology and procurement: Supporting the identification, prioritization, and procurement of cybersecurity technology solutions.
   
-A cornerstone of U.S. support for Kosovo’s Euro-Atlantic integration, CIR will build on the successes of the DAI-led Critical Infrastructure Digitalization and Resilience program’s Kosovo buy-in, which has improved Kosovo’s cybersecurity posture in line with international best practices. 
+## Sample Activities
+
+* 
