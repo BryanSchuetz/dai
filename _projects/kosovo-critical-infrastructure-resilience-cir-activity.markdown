@@ -28,7 +28,14 @@ CIR has three objectives:
 * Governance: Strengthening cybersecurity governance for—and institutional coordination with—critical infrastructure operators and oversight bodies.
 * Capacity building: Building short- and long-term technical and human capacity to plan for, respond to, and recover from cyber incidents.
 * Technology and procurement: Supporting the identification, prioritization, and procurement of cybersecurity technology solutions.
+
+![old site.jpg](/uploads/old%20site.jpg)
   
 ## Sample Activities
 
-* 
+* Establish CSA in accordance with the new laws.
+* Provide demand-driven assistance to the government to strengthen Kosovo’s cybersecurity critical infrastructure policy and legislative framework.
+* Bolster the competitiveness of cybersecurity private sector firms.
+* Improve the ability of the relevant government stakeholders and operators' evolving technical needs. 
+* Enhance the government institutions’ and critical network operators’ ability to procure work, supplies, or services from suppliers in alignment with cybersecurity, CI, and national security best practices.
+* Pilot public awareness campaigns about critical infrastructure protection, cyber threats, and vulnerabilities.
