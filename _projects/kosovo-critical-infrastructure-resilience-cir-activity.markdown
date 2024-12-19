@@ -21,7 +21,7 @@ In early 2023, the Government of Kosovo passed the Law on Cybersecurity and the 
 
 While the Law on Cybersecurity is a key first step, Kosovo requires additional support to create and implement a comprehensive legal and regulatory framework for cybersecurity critical infrastructure aligned with European Union directives. As critical infrastructure sectors rapidly digitalize, key sectoral mechanisms, such as sectoral Computer Emergency Response Teams, are underdeveloped.  
 
-The fill the gap, USAID designed the Critical Infrastructure Resilience (CIR) Activity to improve cyber governance and build capacity in the Government of Kosovo and among critical infrastructure operators to plan for, respond to, and recover from cyberattacks. It will focus on the e-government, telecommunications, and energy sectors.
+To fill the gap, USAID designed the Critical Infrastructure Resilience (CIR) Activity to improve cyber governance and build capacity in the Government of Kosovo and among critical infrastructure operators to plan for, respond to, and recover from cyberattacks. It will focus on the e-government, telecommunications, and energy sectors.
  
 CIR has three objectives:
  
