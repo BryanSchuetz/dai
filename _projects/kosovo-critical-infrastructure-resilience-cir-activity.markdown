@@ -1,6 +1,6 @@
 ---
 title: Kosovo—Critical Infrastructure Resilience (CIR) Activity
-date: 2024-12-19 20:34:00 Z
+date: 2024-12-19 08:34:00 Z
 summary: The Critical Infrastructure Resilience (CIR) Activity protects Kosovo’s critical
   infrastructure by improving cyber governance and building capacity in the Government
   of Kosovo and among critical infrastructure operators to plan for, respond to, and
