@@ -2,6 +2,15 @@
 title: Establishment and management of the Secretariat to the Audit Board of the Ukraine
   Facility in Kyiv
 date: 2024-12-20 10:32:00 Z
+summary: 'DAI provides technical assistance to the European Union to ensure the effective,
+  efficient, and transparent management of EU funds allocated for Ukraine''s reconstruction. '
+start: 2024
+end: 2027
+client: European Union
+solutions:
+- Governance
+regions: Eastern Europe and Central Asia
+country: Ukraine
 ---
 
 Since Russia's invasion, the European Union and its partners have mobilized nearly €124 billion to support Ukraine's urgent needs and bolster its defense efforts. To sustain long-term recovery and guide Ukraine toward EU accession, the EU has established the Ukraine Facility—a €50 billion framework for 2024-2027, comprising €17 billion in grants and €33 billion in loans. 
