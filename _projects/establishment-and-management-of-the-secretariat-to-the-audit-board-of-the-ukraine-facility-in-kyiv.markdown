@@ -1,5 +1,5 @@
 ---
-title: Ukraine—Establishment and management of the Secretariat to the Audit Board
+title: Ukraine—Establishment and Management of the Secretariat to the Audit Board
   of the Ukraine Facility in Kyiv
 date: 2024-12-20 10:32:00 Z
 summary: 'DAI provides technical assistance to the European Union to ensure the effective,
