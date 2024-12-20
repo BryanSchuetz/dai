@@ -10,7 +10,9 @@ DAI provides technical assistance to the European Union to ensure the effective,
 
 The Ukraine Facility Audit Board and its Secretariat, established under this Technical Assistance (TA) contract, will ensure financial oversight of EU funds dedicated to Ukraine’s recovery. The Secretariat will support the Audit Board in providing assessments, conducting audits, and collaborating with EU bodies to guarantee the integrity of financial assistance. Through the day-to-day management of the Secretariat, the project will enhance the financial governance of the Ukraine Facility, ensuring that every euro contributes to rebuilding a resilient Ukraine. 
 
-### Select Activities
+![EU_Ukr - Secretariat Audit Board_2.jpg](/uploads/EU_Ukr%20-%20Secretariat%20Audit%20Board_2.jpg)
+## Select Activities
+
 * Continuously assess Ukraine's systems for managing EU funds under the Ukraine Facility.
 * Enhance audit and assessment procedures to ensure the effective and transparent use of funds.
 * Facilitate External Verifications and ensure the Audit Board works closely with the European Anti-Fraud Office (OLAF) and the European Court of Auditors (ECA) to uphold financial integrity.
