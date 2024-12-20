@@ -1,6 +1,5 @@
 ---
 title: Ukraine—Establishment and Management of the Secretariat to the Audit Board
-  of the Ukraine Facility
 date: 2024-12-20 10:32:00 Z
 summary: 'DAI provides technical assistance to the European Union to ensure the effective,
   efficient, and transparent management of funds for Ukraine''s reconstruction. '
@@ -13,7 +12,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Since Russia's invasion, the European Union (EU) and its partners have mobilized nearly €124 billion to support Ukraine's urgent needs and bolster its defense efforts. To sustain long-term recovery and guide Ukraine toward EU accession, the EU established the Ukraine Facility—a €50 billion framework for 2024-2027, comprising €17 billion in grants and €33 billion in loans. 
+Since Russia's full-scale invasion, the European Union (EU) and its partners have mobilized nearly €124 billion to support Ukraine's urgent needs and bolster its defense efforts. To sustain long-term recovery and guide Ukraine toward EU accession, the EU established the [Ukraine Facility](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/countries-region/ukraine/ukraine-facility_en)—a €50 billion framework for 2024-2027, comprising €17 billion in grants and €33 billion in loans. 
 
 DAI provides technical assistance to the EU to ensure the effective, efficient, and transparent management of funds for Ukraine's reconstruction. 
 
@@ -23,7 +22,7 @@ The Ukraine Facility Audit Board and its Secretariat, established under this con
 
 ## Select Activities
 
-* Continuously assess Ukraine's systems for managing EU funds under the Ukraine Facility.
+* Continuously assess Ukraine’s systems for managing EU funds under the Ukraine Facility.
 * Enhance audit and assessment procedures to ensure the effective and transparent use of funds.
 * Facilitate external verifications and ensure the Audit Board works closely with the European Anti-Fraud Office and the European Court of Auditors to uphold financial integrity.
-* Coordinate with external auditors and request additional verifications to ensure compliance and assess risks of fund mismanagement. 
+* Coordinate with external auditors and request additional verifications to ensure compliance and assess risks of fund mismanagement.
