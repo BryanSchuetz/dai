@@ -1,6 +1,7 @@
 ---
 title: Michael Apel
 date: 2023-10-11 13:42:00 Z
+published: false
 lastname: Apel
 summary: Michael Apel leads DAI Asset Management's senior management team and is responsible
   for the firm’s investment operations and strategy. He oversees the investment and
