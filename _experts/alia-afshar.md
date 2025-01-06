@@ -1,11 +1,11 @@
 ---
 title: Alia Afshar
 date: 2016-01-21 22:18:00 Z
-lastname: Afshar-Gandhi
-summary: Alia Afshar-Gandhi is responsible for overseeing a portfolio of economic
-  growth, workforce development, and competitiveness projects in the Middle East.
+lastname: Afshar
+summary: Alia Afshar is responsible for overseeing a portfolio of economic growth,
+  workforce development, and competitiveness projects in the Middle East.
 job-title: 'Senior Portfolio Director, Middle East '
-image: "/uploads/Alia.jpg"
+image: "/uploads/Alia%20Ashfar.jpg"
 solutions:
 - Economic Growth
 - Agriculture and Food Security
