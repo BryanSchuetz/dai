@@ -5,7 +5,7 @@ lastname: Berk
 summary: 'Edwin Berk has made a career of building the businesses of professional
   services companies where public and private sectors intersect. '
 job-title: Senior Director, Business Development Operations
-image: https://assetify-dai.com/experts/Berk_Inner_0.jpg
+image: "/uploads/Ed%20Berk.jpg"
 solutions:
 - Agriculture and Food Security
 - Business Environment Reform
