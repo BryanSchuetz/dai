@@ -37,4 +37,6 @@ DAI facilitates capacity development, institutional strengthening, networking, a
 
 ## Select Results
 
-* Helped establish and equip 48 village savings and loan associations in Benin. 
+* Helped establish and equip 48 village savings and loan associations in Benin.
+* Reached—through grantee Réseau Action, Justice, et Paix (RAJP) in northern Côte d’Ivoire—1,871 young people in Korhogo and Bouaké with restitution sessions and peer-to-peer feedback on conflict prevention, civic responsibility, and citizenship. 
+ 
