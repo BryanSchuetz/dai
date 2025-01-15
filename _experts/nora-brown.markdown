@@ -6,7 +6,7 @@ summary: Nora Brown is an international development professional with 19 years o
   experience designing, implementing, and managing innovation projects for a variety
   of clients including the U.S. Agency for International Development (USAID) and International
   Finance Corporation (IFC).
-job-title: Chief of Party, INVEST
+job-title: Senior Lead Specialist, Economic Growth
 image: "/uploads/Nora%20Brown%202019-766c5d.jpg"
 solutions:
 - Economic Growth
