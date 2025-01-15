@@ -1,13 +1,13 @@
 ---
 title: Jean Gilson
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Senior Vice President, Global Brand; Board Executive Chair, DAI Asset Management
 summary: Jean leads the firm’s work on strategy formulation and execution, external
   relations, communications, and brand.
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 sort-order: 10
 layout: leaders
-published: false
 ---
 
 When Jean Gilson left Georgetown University in the early 1980s she went straight into the heady world of high finance. “I was deeply entrenched in the commercial banking and corporate finance world,” she said. But that all came to a halt one night in Cleveland in August 1986.
