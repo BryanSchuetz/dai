@@ -6,7 +6,7 @@ summary: 'Lindsay North is a Principal Specialist in the Resilience and Stabilit
   practice with more than 13 years of experience in design, research, monitoring,
   evaluation, and learning for peacebuilding, governance, and stabilization programs. '
 job-title: Principal Specialist, Resilience and Stability
-image: "/uploads/Lindsay%20North2.jpeg"
+image: "/uploads/Lindsay%20North.jpg"
 solutions:
 - Fragile States
 - Security and Justice
