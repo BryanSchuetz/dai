@@ -3,17 +3,18 @@ title: Juan Estrada-Valle
 date: 2016-01-21 22:18:00 Z
 lastname: Estrada-Valle
 summary: Juan Estrada-Valle is an agricultural economist, six-time Chief of Party,
-  thought leader, and executive with more than 20 years of experience managing economic
+  thought leader, and executive with more than 25 years of experience managing economic
   growth programs in trade and investment, agri-food systems, value chain competitiveness,
-  and foreign policy.
-job-title: 'Chief of Party, USAID Prosper Africa Trade and Investment '
+  and U.S. foreign policy, with a proven ability to navigate the technical, security,
+  and political challenges inherent in global development.
+job-title: Vice President, Impact, Innovation, and Sustainability
 image: "/uploads/Juan%20Estrada-Valle.jpg"
 solutions:
 - Economic Growth
 - Trade
 - Supply Chain
 regions:
-- Sub-Saharan Africa
+- Worldwide
 - 
 articles:
 - name: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan Trade
@@ -24,13 +25,12 @@ articles:
 layout: expert
 ---
 
-Juan Estrada-Valle is an agricultural economist, six-time Chief of Party, thought leader, and executive with more than 20 years of experience managing economic growth programs in trade and investment, agri-food systems, value chain competitiveness, and foreign policy.
+Juan Estrada-Valle is an agricultural economist, six-time Chief of Party, thought leader, and executive with more than 25 years of experience managing economic growth programs in trade and investment, agri-food systems, value chain competitiveness, and U.S. foreign policy, with a proven ability to navigate the technical, security, and political challenges inherent in global development.
 
-He is currently the Chief of Party for the [Africa Trade and Investment (ATI)](https://www.dai.com/our-work/projects/africa-trade-and-investment-ati-activity) activity, the implementing arm of Prosper Africa, a Presidential-level, national security initiative to strengthen the strategic and economic partnership between the United States and African countries. Prosper Africa builds a 21st-century U.S.-Africa partnership by increasing two-way trade and investment to a strategic scale to create jobs, secure strategic sectors and supply chains, advance economic prosperity, and counter threats that include climate change and malign foreign influence.
+In his role as Vice President for Impact, Innovation, and Sustainability, Juan plays a senior leadership role responsible for advancing DAI’s mission through three interconnected areas: impact strategy, global innovation, and sustainable operations. As a member of the Office of the CEO, he coordinates across functions and business units to amplify DAI’s impact, scale innovations, harness data and technology, and ensure sustainable practices are embedded in all aspects of the organization.
 
-Along his 20-year tenure with DAI, Juan has established a proven track record in leading complex, multifaceted implementation strategies to meet ambitious performance targets on schedule. Before ATI, he managed highly successful donor projects including programs in East and Southern Africa, Afghanistan, and the Balkans. 
-
-In January 2022, Juan was appointed as Vice President for Strategic Growth within DAI’s U.S. Government Business Unit. Here, he was responsible for increasing the technical and operational efficiency across DAI’s U.S. Government programs to maximize development impact and financial performance.
+Before assuming his current role, he managed highly successful donor-funded projects in East and Southern Africa, Afghanistan, and the Balkans. Most recently, he managed the U.S. Agency for International Development (USAID) Africa Trade and Investment (ATI) activity, overseeing operations in 50 African countries. ATI is USAID’s flagship initiative under Prosper Africa, a U.S. Presidential-level national security initiative aimed at deepening strategic and economic ties between the United States and African nations, 
+Juan had previously served as Vice President for Strategic Growth within DAI’s U.S. Government Business Unit. 
 
 Juan began his international development career as a Senior Scientist in trade economics at the International Crops Research Institute for the Semi-Arid Tropics in Southern Africa. He drew his inspiration to work in international development from his 10 years as an agribusiness entrepreneur, producing and exporting specialty fruit and vegetables to U.S and European supermarkets and from the realization of the potential of the private sector to drive economic growth in the developing world.
 
