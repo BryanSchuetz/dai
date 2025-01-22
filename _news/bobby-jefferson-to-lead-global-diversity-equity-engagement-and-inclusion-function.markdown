@@ -2,6 +2,7 @@
 title: Bobby Jefferson to Lead Global Diversity, Equity, Engagement, and Inclusion
   Function
 date: 2021-12-06 10:01:00 Z
+published: false
 tags:
 - deei
 summary: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson)
