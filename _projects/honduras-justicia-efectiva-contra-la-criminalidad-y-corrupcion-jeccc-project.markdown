@@ -46,6 +46,6 @@ Through these themes, *Justicia Efectiva* strengthens democracy and the rule of 
 * Elevated citizen advocacy for anti-corruption reform and civil society oversight of the criminal justice system.
 * Promoted the delivery of innovative complementary justice services for gender-based violence survivors and the development of creative campaigns to tackle technology-facilitated gender-based violence.
 * Reduced case backlogs in key courts and prosecutorial offices, reducing bureaucracy and delivering timely responses to victims.
-Expanded access to justice and elevated the decision-making power of indigenous people, women, young people, and the LGBTQI+ community in the criminal justice system.
+Expanded access to justice and elevated the decision-making power of indigenous people, women, and young people in the criminal justice system.
 
 ![Honduras 2.jpg](/uploads/Honduras%202.jpg)
