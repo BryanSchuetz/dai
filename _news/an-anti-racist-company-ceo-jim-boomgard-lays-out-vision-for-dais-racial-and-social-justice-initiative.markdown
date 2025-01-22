@@ -2,6 +2,7 @@
 title: 'An Anti-Racist Company: CEO Jim Boomgard Lays Out Vision for DAI’s Racial
   and Social Justice Initiative'
 date: 2020-07-13 00:43:00 Z
+published: false
 tags:
 - deei
 is_featured: true
