@@ -1,12 +1,12 @@
 ---
 title: Diversity, Equity, Engagement, and Inclusion
+published: false
 summary: "Our mission is to make a lasting difference in the world by helping people
   improve their lives. We rely on our diverse cultures, backgrounds, and points of
   view to advance our mission, and our success depends on fostering a workplace where
   everyone, everywhere feels valued and empowered. \n"
 hero: true
 layout: node
-published: false
 groups:
 - name: DAI API
   description: "DAI API supports and fosters a sense of community among Asian and
