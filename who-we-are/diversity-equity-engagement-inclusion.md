@@ -6,6 +6,7 @@ summary: "Our mission is to make a lasting difference in the world by helping pe
   everyone, everywhere feels valued and empowered. \n"
 hero: true
 layout: node
+published: false
 groups:
 - name: DAI API
   description: "DAI API supports and fosters a sense of community among Asian and
@@ -50,7 +51,6 @@ groups:
 
 '
   image: "/uploads/erg-familia.jpg"
-  published: false
 ---
 
 In line with [our values](/who-we-are/mission-and-values), DAI is committed to fostering diversity, equity, engagement, and inclusion inside DAI, in our work around the world, and within the international development sector. You’ll notice that we add an extra “E” to the familiar DEI acronym, which stands for engagement—underscoring how important it is for us to have every member of staff energetically involved as part of our shared corporate purpose.
