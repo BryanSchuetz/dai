@@ -62,10 +62,6 @@
   title: Board Member
   url: /who-we-are/board/elizabeth-littlefield
   image: /uploads/E%20little%20small.png
-- name: Bobby Jefferson
-  title: Global Head of Diversity, Equity, Engagement, and Inclusion
-  url: /who-we-are/our-team/bobby-jefferson
-  image: /uploads/Bobby%201.jpg
 - name: Luqman Ahmad
   title: Senior Vice President, Commercial Consulting Businesses
   image: /uploads/Ahmad,%20Luqman%20-%20Photo.jpg
@@ -82,3 +78,7 @@
   title: Chief Ethics & Integrity Officer
   image: /uploads/Watson.jpg
   url: /who-we-are/our-team/james-e-watson
+- name: Eric G. Postel
+  title: Senior Vice President
+  image: /uploads/Postel%20leadership.jpg
+  url:  /who-we-are/leadership/eric-g-postel
