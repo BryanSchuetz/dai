@@ -1,6 +1,6 @@
 ---
 title: Eric G. Postel
-date: 2025-01-24 13:51:00 Z
+date: 2025-01-24 01:51:00 Z
 lastname: Postel
 summary: 'Eric Postel is a senior advisor to DAI’s Chief Executive Officer and leads
   the Office of the CEO, overseeing functions such as communications, corporate strategy,
