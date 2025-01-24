@@ -6,6 +6,9 @@ summary: 'Eric Postel is a senior advisor to DAI’s Chief Executive Officer and
   the Office of the CEO, overseeing functions such as communications, corporate strategy,
   and impact and sustainability analysis. '
 job-title: Senior Vice President
+image: "/uploads/Eric%20Postel.jpg"
+solutions:
+- Economic Growth
 regions:
 - Worldwide
 ---
