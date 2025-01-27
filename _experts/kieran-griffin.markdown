@@ -1,6 +1,7 @@
 ---
 title: Kieran Griffin
 date: 2024-08-21 13:54:00 Z
+published: false
 lastname: Griffin
 summary: Kieran brings over a decade of experience at DAI, where he leads high-performing
   proposal and project teams in dynamic environments.
