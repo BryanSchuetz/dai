@@ -22,14 +22,12 @@ Zachary Kaplan, Vice President of [DAI’s Sustainable Business Group,](https://
 
 > “The right policy instruments and incentives in the offshore wind sector could be key in improving domestic energy security, creating local jobs, and achieving net zero.”
 
-But he cautioned that “policy ought to strike a careful balance between knowing when to apply stringent local production and procurement rules and when to adopt a more flexible approach, or it could risk slowing down the Biden administration’s goal of reaching 30GW of offshore wind energy by 2030.”
-
 The imperative to achieve net zero has placed investment in renewables at the forefront of the policy agenda. These investments are considered major opportunities to stimulate sustainable economic growth.
 
 “To accomplish these economic development goals, governments like that in the United States are embedding local content requirements in the development of large-scale renewable development projects,” said Dr. Michael Warner, Senior Advisor to DAI’s Sustainable Business Group and Founder of the Centre for Local Content Innovation. “Similar requirements are being used elsewhere in places like the United Kingdom, indicating a global trend toward leveraging local content requirements in renewable energy projects as a new economic policy tool.”
 
 [Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), Economist at DAI’s Sustainable Business Group, said that: “The local content requirements and incentives being deployed will require time to be implemented, and success will need to be evidenced through comprehensive and continual measurement, evaluation, and learning in both the public and private sectors.”
 
-The report concludes that local content requirements will likely remain integral to federal-level wind leasing and state-level power purchasing, and will increasingly be designed to deliver specified industrial development outcomes, with policy makers progressively augmenting regulation that builds domestic supply chains in order to support, rather than undermine, investment and growth in the U.S. offshore wind sector.
+The report concludes that local content requirements will likely remain integral to federal-level wind leasing and state-level power purchasing, and will increasingly be designed to deliver specified industrial development outcomes, with policy makers progressively augmenting regulation that builds domestic supply chains to support, rather than undermine, investment and growth in the U.S. offshore wind sector.
 
-*[Contact the report authors ](mailto:contact_sbg@dai.com)*
+*[Contact the report authors](mailto:contact_sbg@dai.com)*
