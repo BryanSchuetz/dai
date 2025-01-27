@@ -1,32 +1,30 @@
 ---
 title: Worldwide—Advancing Women for Resilient Agricultural Supply Chains (AWRAS)
 date: 2024-10-22 13:55:00 Z
-summary: The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) aims
-  to increase women’s equal access to and control over resources, opportunities, and
-  decision-making authority in sustainable agricultural supply chains.
+summary: The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) initiative
+  brings together major corporations and the United States Agency for International
+  Development (USAID) to strengthen critical supply chains by empowering women working
+  in agriculture around the world.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Gender and Social Inclusion
 - Agriculture and Food Security
 regions: Worldwide
 country: Worldwide
 ---
 
-The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) aims to increase women’s equal access to and control over resources, opportunities, and decision-making authority in sustainable agricultural supply chains. With a planned, collective investment of $50 million to start, AWRAS works to strengthen agricultural production, enhance livelihoods, and improve environmental stewardship by increasing support for women farmers. 
+The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) initiative brings together major corporations and the United States Agency for International Development (USAID) to strengthen critical supply chains by empowering women working in agriculture around the world.
 
-The DAI-implemented partnership between PepsiCo, Unilever, Danone, McCormick & Company, Nespresso, and the United States Agency for International Development (USAID) is establishing and implementing gender-responsive initiatives to mitigate supply chain risks and strengthen environmental sustainability outcomes. Our ultimate aim is to incentivize more private sector actors and influence policy to promote systemic global impact in gender-responsive supply chains. 
+The five-year project is a partnership between PepsiCo, Unilever, Danone, McCormick & Company, Nespresso, and USAID.  With combined investment of up to $50 million, AWRAS aims to increase agricultural production, enhance women’s economic empowerment, and protect supply chains from shocks and stresses, such as natural disasters.
 
-The partnership catalyzes industry-level change through learning, scaling, and providing evidence on how supporting women in agricultural supply chains helps to deliver corporate environmental sustainability goals. The initiative drives scale by bringing in new organizations and additional funds, with a total target of $90 million over the next five years. 
-
-AWRAS aims to demonstrate a business case that advancing women in critical agricultural supply chains creates economic, environmental, and community value. It also emphasizes how gender equality is integral to supply chain resilience and achieving environmental and social goals. 
+The project also demonstrates a business case for women’s economic empowerment as a mechanism for companies to build resilient supply chains, with the ultimate aim of incentivizing more private sector actors and influencing policy to promote systemic global impact.
 
 ![DSC08510 - woman farmer w hoe.JPG](/uploads/DSC08510%20-%20woman%20farmer%20w%20hoe.JPG)
 
 ## Sample Activities
 
 * Increase women’s knowledge of sustainable farming practices, access to resources and tools, and authority to make decisions. 
-* Incentivize more private sector companies to embrace gender-responsive initiatives to help meet both business and sustainability goals. 
-* Test and scale gender-responsive initiatives to influence policymakers and other key ecosystem stakeholders in driving systemic global change across the agricultural sector.  
+* Incentivize more private sector companies to embrace initiatives to help meet both business and sustainability goals. 
+* Test and scale initiatives to influence policymakers and other key ecosystem stakeholders in driving systemic global change across the agricultural sector.  
