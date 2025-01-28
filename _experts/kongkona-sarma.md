@@ -1,7 +1,6 @@
 ---
 title: Kongkona Sarma
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Sarma
 summary: Kongkona Sarma is an economist with 20 years of experience working primarily
   in areas of investment facilitation, business environment reform, and monitoring
