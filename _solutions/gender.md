@@ -2,6 +2,7 @@
 title: Gender and Social Inclusion
 date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/economic-growth-solutions/gender"
+published: false
 solutions:
 - Economic Growth
 hero: true
