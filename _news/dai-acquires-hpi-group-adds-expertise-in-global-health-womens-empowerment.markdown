@@ -1,6 +1,7 @@
 ---
 title: DAI Acquires HPI Group, Adds Expertise in Global Health, Women’s Empowerment
 date: 2017-06-01 12:17:00 Z
+published: false
 is_featured: true
 solutions:
 - Global Health
