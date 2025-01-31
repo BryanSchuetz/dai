@@ -1,6 +1,7 @@
 ---
 title: DAI’s Bobby Jefferson Elected to Another Term on SID-Washington Board of Directors
 date: 2021-08-09 18:28:00 Z
+published: false
 solutions:
 - Global Health
 summary: We are delighted to announce that Bobby Jefferson—Vice President and Chief
