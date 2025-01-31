@@ -2,6 +2,7 @@
 title: Gahaya Links’ Janet Nkubana, USAID’s Alex Thier to Speak on European Development
   Days Gender Panel
 date: 2013-11-14 18:05:00 Z
+published: false
 clients: European Union
 summary: 'Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one
   of four speakers at the upcoming European Development Days conference, November
