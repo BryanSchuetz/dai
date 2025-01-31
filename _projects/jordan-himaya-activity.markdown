@@ -16,7 +16,7 @@ promos:
   link: https://www.dai.com/news/improving-gender-based-violence-prevention-and-response-in-jordan
 ---
 
-Jordanian survivors of gender-based violence face a multitude of challenges when going through the protection system. Survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department due to fear of familial disapproval and social repercussions. Those who have gone through the system have faced questioning and little protection, leading to revictimization and uncertainty about seeking other gender-based services or resolutions. 
+Jordanian survivors of gender-based violence face a multitude of challenges when going through the protection system. Survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department due to fear of familial disapproval and social repercussions. Those who have gone through the system have faced questioning and little protection, leading to revictimization and uncertainty about seeking resolutions. 
 
 Service providers and stakeholders from across the Jordanian protection system require improved survivor-centered service delivery methods, better infrastructure, and innovation in gender-based violence response systems. 
 
