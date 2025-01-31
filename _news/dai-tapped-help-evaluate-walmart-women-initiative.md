@@ -1,17 +1,16 @@
 ---
 title: DAI Tapped to Help Evaluate Walmart Women’s Initiative
 date: 2012-04-06 18:05:00 Z
+published: false
+solutions:
+- Economic Growth
+regions:
+- Asia and the Pacific
 summary: 'DAI is delighted to announce it has joined an alliance working with Walmart
   to evaluate the retailer''s initiative to empower women working in its factories
   in developing countries.
 
 '
-solutions:
-- Economic Growth
-regions:
-- Asia and the Pacific
-projects: 
-clients: 
 layout: node
 ---
 
