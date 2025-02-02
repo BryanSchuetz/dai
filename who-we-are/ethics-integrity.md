@@ -3,14 +3,6 @@ title: Ethics and Integrity at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
   link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code%20of%20Conduct%202024.pdf
-- title: DAI Code of Business Conduct and Ethics—Arabic
-  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20AR%20-%20Copy.pdf"
-- title: DAI Code of Business Conduct and Ethics—Spanish
-  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20-%20Spanish.pdf"
-- title: DAI Code of Business Conduct and Ethics—French
-  link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code-French.pdf
-- title: DAI Code of Business Conduct and Ethics—Urdu
-  link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code%20of%20Conduct-URDU.pdf
 - title: Modern Day Slavery and Anti-Human Trafficking
   link: https://dai-assets.s3.amazonaws.com/Modern%20Slavery%20Statement%20signed%20final.pdf
 - title: Europe Commitment Statement
