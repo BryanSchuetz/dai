@@ -5,10 +5,6 @@ summary: 'DAI is delighted to welcome its two newest members of the Board of Dir
   Maria Otero and Gail Steinel.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -16,7 +12,7 @@ DAI is delighted to welcome its two newest members of the Board of Directors: Ma
 
 [Maria Otero][1] joins the board from the Department of State, where from 2009 until February 2013 she served as Under Secretary of State for Civilian Security, Democracy, and Human Rights, overseeing U.S. foreign relations on issues ranging from democracy and human rights to criminal justice and violent extremism. Born in Bolivia, Maria was—at the time of her departure—the State Department's highest ranking Hispanic official, and she was the first Latina Under Secretary in its history.
 
-Before joining State, Maria was President and CEO of ACCION International, a pioneer organization in the field of microfinance. She is steeped in the issues of gender and inclusive economic growth, having also served as the Economist for Latin America in the U.S. Agency for International Development (USAID)'s Women in Development office.
+Before joining State, Maria was President and CEO of ACCION International, a pioneer organization in the field of microfinance. She also served as the Economist for Latin America in the U.S. Agency for International Development (USAID)'s Women in Development office.
 
 [Gail Steinel][2] is the owner of Executive Advisors, which provides consulting services to chief executive officers and leadership seminars to various organizations. Gail was for more than two decades a senior executive at Arthur Andersen, leading its Business Consulting Business. She steered her team through its sale to KPMG Consulting (later BearingPoint) and retired from BearingPoint in 2007 as Executive Vice President of Global Commercial Services.
 
