@@ -19,7 +19,7 @@ The Investment Promotion Project (IPP), funded by the U.S. Agency for Internatio
  
 IPP takes a facilitative, ecosystem-strengthening approach to investment promotion. Our team works with local actors to expand access to more efficient, relevant advisory services, financial institutions, and capacity-building opportunities. Our emphasis on ecosystem strengthening ensures that El Salvador’s investment environment—including financial institutions, investors, transaction advisors, government entities, and business associations—becomes better connected and more collaborative, leading to strong relationships beyond the project's life.
 
-The project aims to mobilize $80 million in capital toward 50 high-potential investment opportunities; establish at least five strategic partnerships that result in 10 investment promotion events, 100 investment leads, and $50 million in investment commitments; work with the Government of El Salvador to improve the enabling environment for foreign direct investment, including a gender-lens approach; and help at least four institutions expand inclusive financial products and services.
+The project aims to mobilize $80 million in capital toward 50 high-potential investment opportunities; establish at least five strategic partnerships that result in 10 investment promotion events, 100 investment leads, and $50 million in investment commitments; work with the Government of El Salvador to improve the enabling environment for foreign direct investment; and help at least four institutions expand inclusive financial products and services.
  
 ![Karina Diaz UNPLUG STUDIO.jpg](/uploads/Karina%20Diaz%20UNPLUG%20STUDIO.jpg)
  
