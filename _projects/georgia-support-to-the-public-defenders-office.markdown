@@ -18,7 +18,7 @@ The Republic of Georgia has experienced challenges to some of its public institu
 
 Our project supports the PDO to improve its ability to implement and monitor human rights policies and actions and raise human rights awareness across government and society.
 
-The project is in line with the European Union’s Action Plan on Human Rights and Democracy for 2020-2024, which makes human rights, democracy, rule of law, and gender-responsiveness central to its activities, including in external relations.
+The project is in line with the European Union’s Action Plan on Human Rights and Democracy for 2020-2024, which makes human rights, democracy, and rule of law central to its activities, including in external relations.
 
 ![Free stock-Georgia.jpg](/uploads/Free%20stock-Georgia.jpg)
 

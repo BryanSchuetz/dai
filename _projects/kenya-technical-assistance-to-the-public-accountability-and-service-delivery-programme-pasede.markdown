@@ -30,7 +30,7 @@ Our team also supports the PFM Reform Secretariat in the implementation of the K
 * Facilitate the identification, implementation, and monitoring of advisory and capacity-building activities targeting stakeholders of the PFM Reform Strategy 2018-2023.
 * Support the PFM Reform Secretariat in the implementation of a Communication Strategy for the PFM Reform 2018-2023.
 * Strengthen the partnership between the EU Delegation and the Kenyan National Treasury and Planning authority to monitor the implementation of the PFM Reform Strategy 2018-2023.
-* Improve the coordination of the Kenyan PFM Reform Secretariat regarding donor-funded programmes that support public investment management practices reforms.
+* Improve the coordination of the Kenyan PFM Reform Secretariat regarding donor-funded programs that support public investment management practices reforms.
 
 ## Select Results
 
