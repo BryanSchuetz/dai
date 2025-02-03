@@ -7,10 +7,6 @@ summary: 'DAI is pleased to have been selected to host a lab at the annual Europ
   organizations, and business, political, academic, and civil society leaders.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -20,7 +16,7 @@ DAI is pleased to have been selected to host a lab at the annual European Develo
 
 This year's theme—"A decent life for all by 2030: Building a consensus for a new development agenda"—centers on the [post-2015][2] debate and the need to agree on a strong common European position advocating an integrated approach to address global poverty and sustainable development.
 
-DAI's lab was conceived by gender expert [Anne Simmons-Benton][3] and our European Commission team in London. The lab poses the question: "How can we harness public-private partnerships to better incorporate women in global supply chains?"
+DAI's lab was conceived by [Anne Simmons-Benton][3] and our European Commission team in London. The lab poses the question: "How can we harness public-private partnerships to better incorporate women in global supply chains?"
 
 Many private-sector actors see working with women as crucial to their business and corporate social responsibility agendas. However, they tend to be hindered in including women entrepreneurs and women-owned small firms in their value chains by quality assurance issues.
 
