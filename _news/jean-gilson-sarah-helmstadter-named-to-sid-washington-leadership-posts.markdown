@@ -14,4 +14,4 @@ For [SID-International](https://www.sidint.net/content/sid-welcomes-jean-gilson-
 
 For SID-Washington, Sarah expects to be active on the program committee.
 
-SID-Washington is a forum for international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its work groups and presentations feature some of the world’s top thinkers across the spectrum of development issues, including food security and agriculture, gender in development, and international health and nutrition.
+SID-Washington is a forum for international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its work groups and presentations feature some of the world’s top thinkers across the spectrum of development issues, including food security and agriculture, women in development, and international health and nutrition.
