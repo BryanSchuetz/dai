@@ -21,7 +21,7 @@ The project combines a graduation approach, led by AVSI, and a market systems de
 
 ## Sample Activities
 
-* Conduct gender, youth, climate risk, and market systems assessments in target refugee areas.
+* Conduct women, youth, weather-related risk, and market systems assessments in target refugee areas.
 * Partner with national agri-input suppliers and buyers to expand the commercial potential of refugee and host community farmers in value chains such as maize, beans, and horticulture.
 * Incentivize fintech providers to use digital platforms to partner with local refugee-led Savings and Credit Cooperative Organizations (SACCOs).
 * Build last-mile distribution networks with clean energy enterprises to expand solar pay-as-you-go business models to expand refugee livelihoods activities (such as household lighting, solar-powered irrigation, and affordable power to run a fridge in their microenterprises).
