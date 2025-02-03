@@ -1,27 +1,27 @@
 ---
 title: Sudan—Transition Initiative
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2005
-end: 2008
-regions:
-- Sub-Saharan Africa
-country:
-- Sudan
-solutions:
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'DAI managed small grant activities to strengthen Sudan''s transition to
   democratic and civilian rule, and and worked to improve stakeholder understanding
   and implementation of the Comprehensive Peace Agreement (CPA) of 2005.
 
 '
+start: 2005
+end: 2008
+client: U.S. Agency for International Development
+solutions:
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
+regions:
+- Sub-Saharan Africa
+country:
+- Sudan
+layout: project
 ---
 
-DAI managed small grant activities to strengthen Sudan's transition to democratic and civilian rule, and and worked to improve stakeholder understanding and implementation of the Comprehensive Peace Agreement (CPA) of 2005. In North Sudan, the project sought to broaden popular engagement with the CPA, which included developing an understanding of human rights, building the capacity to monitor and seek redress for abuses, and broadening access to information through independent media. In Darfur, the project supported civil society partners working to protect civilians displaced by the conflict, especially women and girls subjected to sex and gender-based violence. From 2006 to 2008, we worked to deepen understanding and facilitate implementation of the Darfur Peace Agreement via the African Union and local partners. Because of U.S. Government sanctions on Sudan, the project was prohibited from working directly with government partners in North Sudan. In the 10 states of the Government of South Sudan and two of the three transitional areas, DAI enhanced public confidence in the CPA and the new government.
+DAI managed small grant activities to strengthen Sudan's transition to democratic and civilian rule, and and worked to improve stakeholder understanding and implementation of the Comprehensive Peace Agreement (CPA) of 2005. In North Sudan, the project sought to broaden popular engagement with the CPA, which included developing an understanding of human rights, building the capacity to monitor and seek redress for abuses, and broadening access to information through independent media. In Darfur, the project supported civil society partners working to protect civilians displaced by the conflict, especially women and girls subjected to sex and violence. From 2006 to 2008, we worked to deepen understanding and facilitate implementation of the Darfur Peace Agreement via the African Union and local partners. Because of U.S. Government sanctions on Sudan, the project was prohibited from working directly with government partners in North Sudan. In the 10 states of the Government of South Sudan and two of the three transitional areas, DAI enhanced public confidence in the CPA and the new government.
 
 ![][1]
 
