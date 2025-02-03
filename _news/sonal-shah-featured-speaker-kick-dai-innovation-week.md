@@ -1,17 +1,14 @@
 ---
 title: Sonal Shah is Featured Speaker to Kick Off DAI Innovation Week
 date: 2014-10-17 18:05:00 Z
+solutions:
+- Digital Acceleration
+- Innovation and Entrepreneurship
 summary: 'Sonal Shah, founding Director of the White House Office of Social Innovation
   and Civic Participation, will be the featured speaker during DAI Innovation Week
   October 27–31.
 
 '
-solutions:
-- Digital Acceleration
-- Innovation and Entrepreneurship
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -26,7 +23,7 @@ Innovation Week will also feature the five projects that made it to the final ro
 [Pacific Islands Coastal Community Adaptation Project][3], a U.S. Agency for International Development (USAID) project that created open source, community-level planning maps used by vulnerable islands to prepare for severe weather.
 
 * [Pakistan Education Fund (Ilm Ideas)][4], a U.K. Department for International Development (DFID) program that has produced high-capacity "edupreneurs" who are delivering scalable, market-driven education solutions.
-* [Transforming Education in Pakistan][5], another DFID education project whose nationwide data platform rates school districts in areas such as grades, security, water and toilets, enrollment, and gender equity; the data is available to parents and politicians alike and has spurred competition between districts to move up in the education rankings.
+* [Transforming Education in Pakistan][5], another DFID education project whose nationwide data platform rates school districts in areas such as grades, security, water and toilets, and enrollment; the data is available to parents and politicians alike and has spurred competition between districts to move up in the education rankings.
 * [Honduras ProParque][6], a USAID project whose collaborative approach to land tenure in protected natural areas has led to agreement and cooperation between residents, business, and the government.
 * [Land Tenure Reform in East Africa][7]—DAI's work for DFID in Rwanda formalized and guaranteed land ownership and was named Outstanding International Development Project 2014 by the London-based trade organization British Expertise.
 
