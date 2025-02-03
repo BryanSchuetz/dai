@@ -25,7 +25,7 @@ Quigley and Eva Rahman will support the facilitation of an IntraHealth-hosted sk
 
 **Wednesday, October 10**
 
-DAI and IntraHealth are co-hosting a reception, "Future-Ready Health Systems: An Interactive Networking Event," at 6 p.m. at the [Pullman Liverpool Hotel](https://www.accorhotels.com/gb/hotel-9227-pullman-liverpool/index.shtml). The event will be attended by key donor representatives, academics, and representatives from civil society and private sector groups. The event will feature informal roundtable conversations highlighting innovative solutions in areas such as preparedness and response, domestic resource mobilization, gender and the workforce, community health systems, and data for decision-making.  
+DAI and IntraHealth are co-hosting a reception, "Future-Ready Health Systems: An Interactive Networking Event," at 6 p.m. at the [Pullman Liverpool Hotel](https://www.accorhotels.com/gb/hotel-9227-pullman-liverpool/index.shtml). The event will be attended by key donor representatives, academics, and representatives from civil society and private sector groups. The event will feature informal roundtable conversations highlighting innovative solutions in areas such as preparedness and response, domestic resource mobilization, women and the workforce, community health systems, and data for decision-making.  
 
 **Thursday, October 11**
 
