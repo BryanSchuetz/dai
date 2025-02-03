@@ -21,7 +21,7 @@ DAI’s Sustainable Business Group was commissioned by [VF Corporation](https://
 
 Women comprise around 70 percent of VF Corporation Indonesia’s supply chain factory workers, with many of reproductive age requiring maternal and newborn health services. Long working hours make accessing these important health services challenging and can have detrimental health outcomes.
 
-The program focused on maternal and newborn health (MNH), family planning, sexual and gender-based violence, and COVID-19. It strengthened MNH services in factory clinics, increased staff and worker MNH knowledge, and improved referral pathways so that workers can receive more advanced treatment. Delivered in 10 VF Corporation factories across Java, Indonesia, the program reached 18,500 employees.
+The program focused on maternal and newborn health (MNH), family planning, violence against women, and COVID-19. It strengthened MNH services in factory clinics, increased staff and worker MNH knowledge, and improved referral pathways so that workers can receive more advanced treatment. Delivered in 10 VF Corporation factories across Java, Indonesia, the program reached 18,500 employees.
 
 ## Select Results
 
