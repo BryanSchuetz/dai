@@ -6,10 +6,6 @@ summary: 'DAI recently held its first small business fair, where small U.S.-base
   connections and potential partnerships.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -23,7 +19,7 @@ Each small business made new connections with up to six different DAI department
 
 DAI staff members were also pleased to expand their connections with small businesses. "Now, when we're required to identify small business partners for new projects, I'll have some contacts to draw upon," said business development specialist Taylor Foshee.
 
-The firms represented offer a wide variety of services including monitoring and evaluation, information technology procurement, media and communications, mobile applications, water and infrastructure services, gender in development, health and nutrition, and training. The firms were classified across the range of small business designations, including women-owned, small disadvantaged, HUB Zone, and service disabled veteran-owned small businesses.
+The firms represented offer a wide variety of services including monitoring and evaluation, information technology procurement, media and communications, mobile applications, water and infrastructure services, women in development, health and nutrition, and training. The firms were classified across the range of small business designations, including women-owned, small disadvantaged, HUB Zone, and service-disabled veteran-owned small businesses.
 
 Learn more [about how][1] DAI partners with small firms.
 
