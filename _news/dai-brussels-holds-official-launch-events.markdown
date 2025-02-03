@@ -1,6 +1,7 @@
 ---
 title: DAI Brussels Holds Official Launch Events
 date: 2017-03-14 20:01:00 Z
+published: false
 regions: Worldwide
 clients: European Union
 summary: DAI officially unveiled its Brussels office last week with a series of events.
