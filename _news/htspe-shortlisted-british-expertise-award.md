@@ -1,17 +1,14 @@
 ---
 title: HTSPE Shortlisted for British Expertise Award
 date: 2014-02-27 18:05:00 Z
+solutions:
+- Land Tenure and Property Rights
+- Environment
 summary: 'An HTSPE-led project is one of three shortlisted by the London-based trade
   organization British Expertise for Outstanding International Development Project
   2014.
 
 '
-solutions:
-- Land Tenure and Property Rights
-- Environment
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -25,7 +22,7 @@ HTSPE used a participatory approach to capture data, together with cost-effectiv
 
 More than 110,000 people were employed over the life of the project, 99 percent of them hired from local communities. More than 10 million parcels of land were demarcated, with 8.4 million leases issued.
 
-The leases were issued mainly to smallholder farmers, who for the first time, said project staff, are able to obtain loans and invest against the value of their primary asset—land. There is also less gender bias in the recording of inheritance rights. More single women are now registered as landowners than single males and 92 percent of land certificates now include the name of a woman.
+The leases were issued mainly to smallholder farmers, who for the first time, said project staff, are able to obtain loans and invest against the value of their primary asset—land. There is also less bias in the recording of inheritance rights. More single women are now registered as landowners than single males and 92 percent of land certificates now include the name of a woman.
 
  "The judging panel reviewed even more entries than last year, which was a record year itself," said Tracey Smith, Chief Executive at British Expertise. "The categories were fiercely contested and the overall standard of submissions was assessed to be of an outstanding quality. This will be a further superb showcase for the achievements of the UK professional services sector internationally."
 
