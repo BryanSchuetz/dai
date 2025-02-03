@@ -41,7 +41,6 @@ The program fostered long-term links between Mexican institutions and the Nation
 * Create a mechanism for long-term, mutually beneficial collaboration between the United Kingdom and Mexico by developing frameworks for knowledge exchange and relationships between various institutions.
 * Support the Mexican government in reviewing and improving policy to address obesity and diabetes and mechanisms for measuring progress and challenges. This work will complement the government’s significant efforts to reduce health inequalities.
 * Support the strengthening of inclusive leadership and learning among health professionals in the Mexican health system.
-* Mainstream gender equality and social inclusion at all levels of the program, ensuring the approach is embedded within core program activities and the management structures and processes. The work will be based on a nuanced understanding of the cultural, political, and economic context that drives current behavior.
 * Conduct innovative research to understand some of the underlying social drivers of obesity in Mexico and support partnerships with the United Kingdom to enable high-quality learning for both the United Kingdom and the Mexican public health approach. For example, research might explore how stress and violence are linked with obesity, inactivity, depression, and poor eating habits and develop integrated approaches to tackle violence and obesity.
 
 ### Select Results
