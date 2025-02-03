@@ -40,7 +40,6 @@ WIE supported women ages 18 and above through job skills training based on marke
 * Assisted 50 percent of all supported businesses to increase their revenues by 338 percent on average within two years of assistance.
 * Facilitated new or better employment for 19,869 women.
 * Supported apprenticeships or internships for 10,775 women.
-* Trained 5,882 men and women in gender-sensitivity skills.
 * Supported a partner to provide e-learning training on COVID-19 testing and care to 582 health workers (of which 314 women completed a post-test to qualify to diagnose COVID-19). The partner also developed a triage phone center and app; 4,100 citizens registered their symptoms.
 * Awarded scholarships to more than 14,733 women.
 * Placed interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in healthcare and education—sectors critical to Afghans’ well-being.
