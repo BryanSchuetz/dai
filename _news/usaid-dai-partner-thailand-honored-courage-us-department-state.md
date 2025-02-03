@@ -2,15 +2,15 @@
 title: USAID, DAI Partner from Thailand Honored for Courage by U.S. Department of
   State
 date: 2016-03-31 18:05:00 Z
-summary: A key partner of the USAID Sapan Program in Thailand was presented the 2016
-  Secretary of State's International Women of Courage Award.
-solutions: 
+published: false
 regions:
 - Asia and the Pacific
 projects:
 - Thailand—Sapan
 clients:
 - U.S. Agency for International Development
+summary: A key partner of the USAID Sapan Program in Thailand was presented the 2016
+  Secretary of State's International Women of Courage Award.
 layout: node
 ---
 
