@@ -14,12 +14,12 @@ In El Salvador:
 * We are working to build the job skills and employability of 20,000 at-risk youth from communities impacted by crime and violence, and connecting them with employment opportunities in the country’s highest growth economic sectors.
 
 In Guatemala:
-* We are building the capacity of 44 municipal governments in the Western Highlands region to address local challenges in government transparency and citizen participation, climate change adaptation, and food security.
+* We are building the capacity of 44 municipal governments in the Western Highlands region to address local challenges in government transparency and citizen participation, adaptation to climate changes, and food security.
 * We are supporting the national government to collect and spend revenue with greater efficiency, effectiveness, and accountability, ultimately increasing its ability to invest in public services and improve outcomes for citizens in health, education, and economic growth.
 
 In Honduras:
 * We are working with the government in western Honduras to improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society.
-* We are supporting local governments in 80 municipalities in western Honduras to address entrenched socioeconomic challenges related to food insecurity, climate vulnerability, gender disparity, and local governance in order to sustainably improve the lives of the Honduran people.
+* We are supporting local governments in 80 municipalities in western Honduras to address entrenched socioeconomic challenges related to food insecurity, climate vulnerability, and local governance in order to sustainably improve the lives of the Honduran people.
 * We are working with law enforcement professionals to improve community policing through technical guidance and best practices, especially related to effective engagement with women, youth, and at-risk populations.
 
 In Haiti:
