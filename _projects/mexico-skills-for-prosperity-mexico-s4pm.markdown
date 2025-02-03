@@ -41,7 +41,7 @@ Skills for Prosperity aimed to ensure more marginalized people have opportunitie
 
 * Traineded over 2,000 teachers and 100 technical assistants through 16 educational institutions across five states. This benefitted 14,000 current students (2023) and set a legacy and infrastructure to benefit over 50,000 students in the short term and many more in the future.
 * Launched an inclusion strategy focused on mental health and disabilities - a significant paradigm shift from a medical to a social perspective.  
-* Trained TVET professors to teach Python programing language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
+* Trained TVET professors to teach Python programming language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
 * Launched a mentorship program for female students in higher education in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace.
 * Co-financed STEM Academy Labs for use by Mechatronics students from the Metropolitan Technological University Mexico.
 * Trained higher-education professors in Oaxaca to manage robotics and programming labs that offer young TVET students, especially women,  their first practical experience of STEM career options. 
