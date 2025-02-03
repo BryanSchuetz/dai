@@ -19,7 +19,7 @@ Kenya’s debt profile changed rapidly in recent years. Large-scale public inves
 
 Ultimately, the project contributes to the promotion of macro-fiscal stability, service delivery, and poverty alleviation in Kenya.
 
-Accountability and governance are priority sectors under the Joint Cooperation Strategy between the EU and the Government of Kenya. Our support of the implementation of the 2018-2023 PFM reform strategy falls under the EU’s focus on a well-functioning devolution process, strengthened PFM systems, increased access to justice for all, enhanced civic space, and improved gender equality. 
+Accountability and governance are priority sectors under the Joint Cooperation Strategy between the EU and the Government of Kenya. Our support of the implementation of the 2018-2023 PFM reform strategy falls under the EU’s focus on a well-functioning devolution process, strengthened PFM systems, increased access to justice for all, enhanced civic space, and improved women's equality. 
 
 Our team also supports the PFM Reform Secretariat in the implementation of the Kenya PFM Communication Strategy and helps to strengthen the partnership between the EU Delegation and the Kenyan National Treasury and Planning. 
 
