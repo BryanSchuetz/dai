@@ -1,17 +1,15 @@
 ---
 title: HTSPE Honored for Outstanding International Development Project 2014
 date: 2014-04-11 18:05:00 Z
-summary: "[Rwanda Land Tenure Regularisation (LTR)](/our-work/projects/rwanda-support-land-tenure-regularisation),
-  an HTSPE-led project to increase land rights, stability, and economic opportunity,
-  was named Outstanding International Development Project (non-physical) 2014 by the
-  London-based trade organization British Expertise.\n"
 solutions:
 - Environment
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa
-projects: 
-clients: 
+summary: "[Rwanda Land Tenure Regularisation (LTR)](/our-work/projects/rwanda-support-land-tenure-regularisation),
+  an HTSPE-led project to increase land rights, stability, and economic opportunity,
+  was named Outstanding International Development Project (non-physical) 2014 by the
+  London-based trade organization British Expertise.\n"
 layout: node
 ---
 
@@ -23,7 +21,7 @@ The award was presented April 10 at a black tie dinner event at the Cumberland H
 
 Funded by the U.K. Department for International Development (DFID), the LTR project completed perhaps the most comprehensive and ambitious programme of land tenure regularisation that the world has seen. From a standing start, LTR established a formal system for regularising land ownership and identified and registered more that 10.3 million land parcels—in effect every land parcel in the country.
 
-As a result, more than 8 million leases have been issued, mainly to smallholder farmers, who for the first time are able to obtain loans and invest against the value of their primary asset—land. More importantly, LTR provided a legitimate record of property ownership which will underpin long-term social stability. There is also less gender bias in the recording of inheritance rights: 92 percent of land certificates now include the name of a woman.
+As a result, more than 8 million leases have been issued, mainly to smallholder farmers, who for the first time are able to obtain loans and invest against the value of their primary asset—land. More importantly, LTR provided a legitimate record of property ownership which will underpin long-term social stability. There is also less bias against women in the recording of inheritance rights: 92 percent of land certificates now include the name of a woman.
 
 More than 110,000 people were employed over the life of the project, 99 percent of them hired from local communities. HTSPE used a participatory approach to capture data, together with cost-effective operating systems that drove down the cost per title to around $7, compared to an historic benchmark for similar land tenure programs of $10 in Kyrgyzstan or—the lowest achieved in other parts of Africa—$69 in Lesotho.
 
