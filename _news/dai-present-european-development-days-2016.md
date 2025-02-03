@@ -1,13 +1,11 @@
 ---
 title: DAI to Present at European Development Days 2016
 date: 2016-04-07 18:05:00 Z
-summary: DAI is pleased to have been selected to host a lab and stand at the annual
-  European Development Days event in Brussels on June 15-16.
-solutions: 
-regions: 
-projects: 
+published: false
 clients:
 - European Commission
+summary: DAI is pleased to have been selected to host a lab and stand at the annual
+  European Development Days event in Brussels on June 15-16.
 layout: node
 ---
 
