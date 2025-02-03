@@ -5,10 +5,6 @@ summary: 'The Summer 2013 issue of DAI''s newsletter, _Developments_, is now ava
   online.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -16,7 +12,7 @@ The Summer 2013 issue of DAI's newsletter, [Developments][1], is now available o
 
 Feature articles include:
 
-* Dawn Hayden and Christy Martins describing how a [$20 forensic kit][2] is helping to mitigate gender-based sexual violence in Sri Lanka.
+* Dawn Hayden and Christy Martins describing how a [$20 forensic kit][2] is helping to mitigate violence against women in Sri Lanka.
 * Walter Weaver asking whether India will embrace [greater water-use efficiency][3] in the face of that country's admitted "grave crisis."
 * Michael Pillsbury writing about the keys to developing the [youth workforce][4] in Serbia during a down economy.
 * Jennifer Bremer advocating for Egypt to address the [systemic bribery][5] at the local level that is stifling new enterprise and job creation.
