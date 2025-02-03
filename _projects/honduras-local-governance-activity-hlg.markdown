@@ -24,7 +24,7 @@ promos:
   link: https://www.youtube.com/channel/UCJSGGEcjwj8Oi1kmG0I5cYQ
 ---
 
-Despite great economic stability since 2000, and historic high rates of irregular migration, Honduras has yet to significantly improve living conditions or reduce poverty for much of its citizenry. In 2019, more than 250,000 Honduran migrants were [apprehended](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters/usbp-sw-border-apprehensions) by U.S. Customs and Border Control, the highest rate yet. In 2021, the White House addressed this crisis in its [Root Causes Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf), which identifies corruption, democratic governance, combating gender-based violence, amongst other areas, as root causes of irregular migration. 
+Despite great economic stability since 2000, and historic high rates of irregular migration, Honduras has yet to significantly improve living conditions or reduce poverty for much of its citizenry. In 2019, more than 250,000 Honduran migrants were [apprehended](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters/usbp-sw-border-apprehensions) by U.S. Customs and Border Control, the highest rate yet. In 2021, the White House addressed this crisis in its [Root Causes Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf), which identifies corruption, democratic governance, combating violence against women, amongst other areas, as root causes of irregular migration. 
 
 The inability of local governments to provide effective public services to their citizens remains a key barrier to tackling the inter-related challenges of economic insecurity, lack of trust in the government, social inclusion, and high rates of violence and migration. In this climate, the U.S. Agency for International Development (USAID) designed the [Honduras Local Governance (HLG) Activity](https://www.glhonduras.org/) to enhance basic service delivery provision through increased citizen influence and improved governance in western Honduras and urban areas. The Activity ensures that health, education, and other critical services are expanded, deepened, and made sustainable as part of a holistic effort to promote local governance.
  
@@ -42,7 +42,7 @@ The Activity strengthens governance actions at the national, subnational, and lo
 
 ## Select Results
 
-* Helped the Nueva Suyapa Women’s Network from Tegucigalpa to hold its first advocacy event, enabling the network to successfully secure service provider commitment to improve sexual, reproductive, and mental healthcare for women and survivors of gender-based, domestic, and intrafamilial violence.
+* Helped the Nueva Suyapa Women’s Network from Tegucigalpa to hold its first advocacy event, enabling the network to successfully secure service provider commitment to improve sexual, reproductive, and mental healthcare for women and survivors of domestic, and intrafamilial violence.
 * Trained 160 civil society groups on the barriers to social inclusion affecting vulnerable groups and preventing their participation in local decision-making.
 * Empowered civil society organizations to lead 11 forums to promote citizens’ role in service provision, in which 1,689 people participated.
 * Trained 500 young people on the social oversight process, and 35 percent of the 69 social audits completed were conducted directly by youth organizations, with HLG support, promoting citizen oversight and reducing the risk of corruption.
