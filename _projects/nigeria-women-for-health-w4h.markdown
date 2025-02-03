@@ -22,9 +22,9 @@ Nigeria has the [highest number of maternal deaths in Sub-Saharan Africa](https:
 
 The Foreign, Commonwealth & Development Office (FCDO) trained women to be service providers in six states in northern Nigeria through its Women for Health (W4H) programme. 
 
-Since November 2012, W4H increased the number and capacity of female health workers in Borno, Jigawa, Kano, Katsina, Yobe, and Zamfara, while at the same time supported women’s empowerment, promoted gender equality, and tackled trauma. It improved women’s access to and use of health services in northern Nigeria and advanced Nigeria’s journey toward universal health coverage. W4H worked closely with other health and education programs in the states, and took a “building back better” approach in conflict and humanitarian emergency-affected areas of Borno and Yobe states and ensured the sustainability of progress in Jigawa, Kano, Katsina, and Zamfara.
+Since November 2012, W4H increased the number and capacity of female health workers in Borno, Jigawa, Kano, Katsina, Yobe, and Zamfara, while at the same time supported women’s empowerment and tackled trauma. It improved women’s access to and use of health services in northern Nigeria and advanced Nigeria’s journey toward universal health coverage. W4H worked closely with other health and education programs in the states, and took a “building back better” approach in conflict and humanitarian emergency-affected areas of Borno and Yobe states and ensured the sustainability of progress in Jigawa, Kano, Katsina, and Zamfara.
 
-A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provided technical support to state-level teams, backed by a senior technical advisory group. The programme was led by DAI's Global Health team in partnership with Save the Children. W4H worked closely with 22 midwifery, nursing, and community health extension worker training institutions and state ministries of health to support the training of female health workers and their deployment to rural health facilities. Click [here](https://www.facebook.com/women4health.DFID/) to visit the project's Facebook page.
+A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provided technical support to state-level teams, backed by a senior technical advisory group. The program was led by DAI's Global Health team in partnership with Save the Children. W4H worked closely with 22 midwifery, nursing, and community health extension worker training institutions and state ministries of health to support the training of female health workers and their deployment to rural health facilities. Click [here](https://www.facebook.com/women4health.DFID/) to visit the project's Facebook page.
 
 ![women4health.jpg](/uploads/women4health.jpg)
 
@@ -32,7 +32,7 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 
 * Improving the capacity of colleges of nursing and midwifery and colleges of health technology to train female health workers, improving the accreditation status and training capacity of health training colleges, and increasing graduation rates.
 * Improving the recruitment, deployment, and retention of midwives in rural facilities while implementing a Foundation Year Training Programme, or access course, for rural women to improve their academic credentials, study skills, and confidence to enter health worker training.
-* Engaging with community, religious, and training institutions to create a gender-friendly environment for women to pursue health careers, and facilitating locally led scale-up.
+* Engaging with community, religious, and training institutions to create a women-friendly environment to pursue health careers and facilitating locally led scale-up.
 * Institutionalising short-term courses and modules in the curriculum to prepare health workers for deployment in conflict settings and humanitarian programming.
 
 ###  Select Results
@@ -53,5 +53,3 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Established a Foundation Year Programme in Borno to build the academic, personal, and social capital of young rural women so they can access professional education.
 * Supported a memorandum of understanding for recruitment of graduates. 
 * Supported trauma assessment for those affected by trauma to become midwives and nurses with the World Health Organisation.
-
-*Find open and [free access to the W4H materials](https://learninghub4hrh.org/) on Human Resources for Health, hosted by the Center for Gender Studies of Bayero University in Kano.*

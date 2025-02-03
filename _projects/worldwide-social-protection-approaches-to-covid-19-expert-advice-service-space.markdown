@@ -25,8 +25,7 @@ Countries across the globe are using or adapting social protection systems and p
 
 Between April 2020 and November 2021, the Social Protection Approaches to COVID-19 Expert Advice Service (SPACE) supported decision-makers across national governments, donors, and implementing partners in more than 40 countries with independent, evidence-based, timely, and actionable advice to meet growing needs. Direct support was responsive to the unique requirements of specific actors and contexts and broadly addressed the following themes: 
 * Social protection and humanitarian linkages 
-* Gender and social inclusion principles
-* Programme adaptation and phasing 
+* Program adaptation and phasing 
 * Shock responsive social protection
 * Delivery systems including targeting and registration, transfer values, payment mechanisms, information management, communications, grievance redress mechanisms, and monitoring and evaluation
 * Recovery and systems strengthening
@@ -50,7 +49,7 @@ The program was managed by DAI through the FCDO framework agreement [Expert Advi
 ### Sample Activities
 
 * Provide technical guidance on options for using social protection and humanitarian assistance to combat the economic impact of COVID, through adaption, development, phasing, coordination, and mapping of responses
-* Advise on the application of gender and social inclusion principles when providing social protection.
+* Advise on the application of women and social inclusion principles when providing social protection.
 * Advise on localization: working with affected communities, community groups, local government, etc. to improve (e.g.) targeting, registration, distribution, and inclusion.
 * Provide policy guidance on the provision of humanitarian assistance and social protection to address the economic impacts of COVID. 
 * Review, and support the development of, country-specific plans for social protection and humanitarian systems, as applied to the response to the economic impact of COVID.
