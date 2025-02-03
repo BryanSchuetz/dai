@@ -5,10 +5,6 @@ summary: "[Jean Gilson](/who-we-are/leadership/jean-gilson), DAI's Senior Vice P
   for Strategy and Information Technology, has been re-elected as Chair for Chapter
   Affairs at the Society for International Development, Washington, D.C., Chapter
   (SID-Washington).\n"
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -16,7 +12,7 @@ layout: node
 
 As the second-ranking officer of the [SID-Washington][2] board of directors, Gilson will continue to lead efforts on membership recruitment, retention, and diversification, as well as help guide the organization's strategic thinking.
 
-SID-Washington is a forum of international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its work groups and presentations feature some of the world's top thinkers on issues such as food security and agriculture, gender in development, and international health and nutrition.
+SID-Washington is a forum of international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its work groups and presentations feature some of the world's top thinkers on issues such as food security and agriculture, women in development, and international health and nutrition.
 
 "I am honored to serve for another term on the executive committee," Gilson said. "SID-Washington is a unique forum for collaboration, debate, innovation, and learning in the development community. I look forward to continuing the development dialogue with our members and the outstanding SID-Washington staff."
 

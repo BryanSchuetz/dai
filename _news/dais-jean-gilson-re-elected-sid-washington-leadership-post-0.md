@@ -6,10 +6,6 @@ summary: 'Jean Gilson, DAI''s Senior Vice President for Strategy and Information
   Development, Washington, D.C., Chapter (SID-Washington).
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -17,7 +13,7 @@ layout: node
 
 Gilson has served on the SID-Washington Board since 2009, including three terms as Vice President for Chapter Affairs. More recently, as Vice President for Programs, she establishes the thematic and technical direction of the organization's events and programming in consultation with SID leadership and working groups.
 
-SID-Washington is a forum of international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its workgroups, events, and presentations feature some of the world's top thinkers on issues such as food security and agriculture, gender in development, and governance.
+SID-Washington is a forum of international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its workgroups, events, and presentations feature some of the world's top thinkers on issues such as food security and agriculture, women in development, and governance.
 
 "I am excited to serve another term on SID-Washington's executive committee," Gilson said. "This is an important year for international development, with the potential for progress around post-2015 sustainable development goals, financing for development, and climate change objectives. SID-Washington will continue to engage with those debates on behalf of the development practitioners who make this such a stimulating professional forum."
 
