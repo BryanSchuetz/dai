@@ -29,4 +29,4 @@ Musharikat supported the U.S. Agency for International Development (USAID) Afgha
 * Completed an initial inclusive and nationally representative consultative process, and operationalize priorities identified.
 * Assisted groups in using traditional and social media, online functions, and international exchanges.
 * Train organizations and coalitions to improve advocacy and sustainability.
-* Support gender-sensitive planning, budgeting, and monitoring.
+* Support female-sensitive planning, budgeting, and monitoring.
