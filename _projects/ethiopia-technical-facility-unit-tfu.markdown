@@ -15,7 +15,7 @@ country: 'Ethiopia '
 
 The European Union is supporting the Government of Ethiopia through public financial management (PFM) projects and through the new Technical Facility Unit (TFU). The TFU will oversee implementation of the entire PFM Reforms program, providing technical assistance and advisory services to all institutions in the PFM process.
 
-The project aims to increase fiscal transparency and accountability, improve budgeting, and advance gender-responsive budgeting.
+The project aims to increase fiscal transparency and accountability, and improve budgeting.
 
 ![EU-TFU - Ethiopia_2.jpg](/uploads/EU-TFU%20-%20Ethiopia_2.jpg)
 
