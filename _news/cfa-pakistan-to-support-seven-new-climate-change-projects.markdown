@@ -6,13 +6,13 @@ summary: The Climate Finance Accelerator (CFA) program, a technical assistance p
   of Pakistan to identify low-carbon projects with investment potential.
 ---
 
-Pakistan is one of the countries most vulnerable to climate change and among the most poorly prepared. But while the country cannot easily change its exposure to climate risks, climate preparedness is something it can address.
+Pakistan is one of the countries most vulnerable to changes in climate and among the most poorly prepared. But while the country cannot easily change its exposure to climate risks, climate preparedness is something it can address.
 
 The [Climate Finance Accelerator (CFA)](https://www.dai.com/our-work/projects/pakistan-climate-finance-accelerator-cfa) program, a technical assistance program funded by the U.K. Department for Energy Security and Net Zero, works with the Government of Pakistan to identify low-carbon projects with investment potential.
 
 ![1000099099.jpg](/uploads/1000099099.jpg)
  
-CFA has already assisted 15 low-carbon projects in Pakistan. It will now provide seven new projects with specialist support, including on financial, gender equality, and social inclusion issues, to help improve and attract investment from Pakistani and international financiers. The projects are:
+CFA has already assisted 15 low-carbon projects in Pakistan. It will now provide seven new projects with specialist support, including on financial issues and women's economic empowerment, to help improve and attract investment from Pakistani and international financiers. The projects are:
 
 *  [Go Energy](https://www.gno.com.pk/)—building a 500MW floating solar project in Keenjhar Lake to generate clean energy, create thousands of jobs, and boost regional economic growth while reducing fossil fuel dependence and improving air quality.
 *  [Ahya](https://www.ahya.ai/)—offering an AI-powered emission measurement and reduction platform with a digital carbon marketplace, aiming to reduce CO2 emissions significantly.
