@@ -2,8 +2,8 @@
 title: Malawi—Feed the Future Integrating Nutrition into Value Chains
 date: 2016-01-21 22:40:00 Z
 summary: DAI and our partners, Michigan State University and Save the Children, focused
-  on inclusive value chain building in Malawi and smallholders’ decision-making about
-  what to plant and consume, acknowledging that smallholders operate under short horizons
+  on value chain building in Malawi and smallholders’ decision-making about what to
+  plant and consume, acknowledging that smallholders operate under short horizons
   with limited assets and coping strategies for handling fluctuations in food and
   income.
 start: 2012
@@ -22,9 +22,9 @@ layout: project
 
 DAI and our partners, Michigan State University and Save the Children, focused on inclusive value chain building in Malawi and smallholders’ decision-making on which crops to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income.
 
-The project promoted [gender-equitable](http://dai-global-developments.com/articles/including-men-and-farmers-to-promote-nutrition-change-behaviors?utm_source=daidotcom), agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improved productivity through soil and water management practices; reduced chronic under-nutrition; fostered innovation in agricultural value chains; and developed the capacity of local organizations and systems to promote climate change resilience.
+The project promoted agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improved productivity through soil and water management practices; reduced chronic under-nutrition; fostered innovation in agricultural value chains; and developed the capacity of local organizations and systems to promote climate change resilience.
 
-The project was also the U.S. Agency for International Development’s implementation vehicle to execute Feed the Future and Global Health Initiative strategies. Issues critical to the project’s success included gender, information and communication technology, HIV/AIDS, access to financial services, policy advocacy, and climate change.
+The project was also the U.S. Agency for International Development’s implementation vehicle to execute Feed the Future and Global Health Initiative strategies. Issues critical to the project’s success included information and communication technology, HIV/AIDS, access to financial services, policy advocacy, and climate adaptation.
 
 ![](https://assetify-dai.com/projects/forweb.jpg)
 
