@@ -21,7 +21,7 @@ Kosovo’s education system has undergone substantial reforms in the past few de
 
 Our [team is therefore working](https://www.facebook.com/profile.php?id=100076027996709) to foster a quality-based, accountable education and training system in Kosovo, in line with the best international practices in pre-university education.
 
-In Kosovo, the relatively recent decentralization of the education system requires consolidation. The project seeks to strengthen municipal education directorates (MEDs) and schools to fulfill their assigned functions related to school recruitment, teacher professional development, and quality assurance. One of our project’s main tasks is to strengthen the implementation of a merit-based, non-discriminatory, gender-equal, and transparent recruitment system of teachers and principals and to enhance their continued professional development. 
+In Kosovo, the relatively recent decentralization of the education system requires consolidation. The project seeks to strengthen municipal education directorates (MEDs) and schools to fulfill their assigned functions related to school recruitment, teacher professional development, and quality assurance. One of our project’s main tasks is to strengthen the implementation of a merit-based, non-discriminatory, and transparent recruitment system of teachers and principals and to enhance their continued professional development. 
 
 A further key area of focus is on further operationalizing the core role of quality coordinators at the central, MED, and school levels. Our activities support the Ministry of Education and Science (MESTI) and other relevant stakeholders in the preparation of the framework for quality assurance and monitoring of teacher professional development. 
 
@@ -31,7 +31,7 @@ High-quality textbooks underpin teaching and learning, and one of the first acti
 
 ## Sample Activities
  
-* Establish a mechanism for quality, non-discriminatory, gender-equal, and criterion-based recruitment of school directors and teachers.
+* Establish a mechanism for quality, non-discriminatory, and criterion-based recruitment of school directors and teachers.
 * Develop a strategic plan for a periodic and ad-hoc evaluation of schools’ performance and initiation of monitoring processes for a new outcome-based curriculum at the central and local levels.
 * Enhance a more integrated and well-defined legal and regulatory framework—in line with international and European standards and practices—to underpin the drafting and digitization of school textbooks.
 
