@@ -46,7 +46,6 @@ Building on the U.S. Agency for International Development’s achievements throu
 * Provided 27 hours of training to staff of the Superintendency of Tax Administration where they learned data management, among other skills.
 * Revitalized the civic space by supporting seven participatory and oversight mechanisms, enabling government-civil society dialogue​.
 * Enhanced fiscal transparency, public accountability, and open data mechanisms.
-* Integrated a gender equity and social inclusion approach into PFM through evidence generation and participation​.
 * Engaged more than 9,000 people through participatory and engagement mechanisms​.
 * Increased compliance with access to public information regulations.
 * Redesigned and automated tax administration key processes.
