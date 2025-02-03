@@ -25,7 +25,7 @@ Achieving inclusive economic growth and poverty reduction required changing the 
  
 SFPMx worked to increase the market relevance and quality of technical and professional qualifications in order to increase students´ employability and their opportunities to build their own path to prosperity. To achieve this goal, the program supported Technical and Vocational Education and Training (TVET), higher education and/or short-term training (STT) institutions to update and upgrade curricula that help young people develop new hard and soft skills, especially the most vulnerable and underserved. 
 
-Skills for Prosperity followed an inclusion and gender approach through its interventions to ensure more marginalized people have opportunities to access quality education and training. The program also drove sustainable changes to increase women´s participation in Science, Technology, Engineering and Maths (STEM). It worked with indigenous communities to help their members access better training opportunities that increase their employability.
+Skills for Prosperity aimed to ensure more marginalized people have opportunities to access quality education and training. The program also drove sustainable changes to increase women´s participation in Science, Technology, Engineering and Maths (STEM). It worked with indigenous communities to help their members access better training opportunities that increase their employability.
 
 ![COMUNIDAD UTVCO 1.JPG](/uploads/COMUNIDAD%20UTVCO%201.JPG)
 
@@ -42,7 +42,7 @@ Skills for Prosperity followed an inclusion and gender approach through its inte
 * Traineded over 2,000 teachers and 100 technical assistants through 16 educational institutions across five states. This benefitted 14,000 current students (2023) and set a legacy and infrastructure to benefit over 50,000 students in the short term and many more in the future.
 * Launched an inclusion strategy focused on mental health and disabilities - a significant paradigm shift from a medical to a social perspective.  
 * Trained TVET professors to teach Python programing language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
-* Launched a mentorship program for female students in higher education in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace, especially on overcoming gender-based stereotypes.
+* Launched a mentorship program for female students in higher education in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace.
 * Co-financed STEM Academy Labs for use by Mechatronics students from the Metropolitan Technological University Mexico.
 * Trained higher-education professors in Oaxaca to manage robotics and programming labs that offer young TVET students, especially women,  their first practical experience of STEM career options. 
 * Completed a teacher training program to prepare teachers to teach Python skills to students in technical and vocational upper secondary schools in the Mexican state of Jalisco. 
