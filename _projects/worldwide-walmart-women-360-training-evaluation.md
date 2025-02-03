@@ -22,7 +22,7 @@ layout: project
 
 DAI was part of a team working with the Walmart Foundation to evaluate the Women in Factories program, part of Walmart's Global Women's Economic Empowerment Initiative.
 
-The program was implemented in factories in India, Bangladesh, China, and Central America. Trainers taught 60,000 women life skills related to communication, hygiene, reproductive health, occupational health and safety, identifying personal strengths, and gender sensitivity. Up to 8,000 women also received leadership training to develop skills for personal and career development.
+The program was implemented in factories in India, Bangladesh, China, and Central America. Trainers taught 60,000 women life skills related to communication, hygiene, reproductive health, occupational health and safety, and identifying personal strengths. Up to 8,000 women also received leadership training to develop skills for personal and career development.
 
 ![][1]
 
