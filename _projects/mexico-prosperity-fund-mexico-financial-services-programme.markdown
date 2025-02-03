@@ -20,15 +20,15 @@ promos:
   link: https://dai-global-developments.com/articles/empowering-women-lessons-from-covid-19-and-beyond
 ---
 
-There is considerable appetite in Mexico to modernise the country’s financial sector and develop its economic potential. This programme aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants. Expanding and opening this sector will help to reduce poverty, increase productivity, and promote inclusive social and economic development.
+There is considerable appetite in Mexico to modernize the country’s financial sector and develop its economic potential. This program aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants. Expanding and opening this sector will help to reduce poverty, increase productivity, and promote inclusive social and economic development.
 
 ![Mexico----Prosperity-Fund-Finance.jpg](/uploads/Mexico----Prosperity-Fund-Finance.jpg)
 
 ### Sample Activities
 
-* Increase bank usage by beneficiaries of Prospera, Mexico’s largest conditional cash transfer programme, which caters to approximately 7 million people (mostly women) and their families.
-* Support implementation of the new financial technology (FinTech) law by advising Mexican authorities on further, secondary regulation and its implementation.
-* Provide gender-inclusive support for micro, small, and medium-sized enterprises and others to expand the reach and encourage the use of FinTech solutions.
+* Increase bank usage by beneficiaries of Prospera, Mexico’s largest conditional cash transfer program, which caters to approximately 7 million people (mostly women) and their families.
+* Support the implementation of the new financial technology (FinTech) law by advising Mexican authorities on further secondary regulation and its implementation.
+* Support micro, small, and medium-sized enterprises and others to expand their reach and encourage the use of FinTech solutions.
 
 ### Select Results
 
