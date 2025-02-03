@@ -14,11 +14,11 @@ social-image: "/uploads/microvest-handshake.png"
 
 DAI announced today that it has acquired MicroVest Capital Management (“MicroVest”), one of the world’s leading lenders to responsible finance institutions—an acquisition that will expand the capabilities of DAI’s investment management arm, DAI Capital.
 
-Founded in 2003, MicroVest is a registered investment adviser that allocates private investments to financial institutions that serve disadvantaged and underbanked enterprises in emerging markets. The company has disbursed more than US$1 billion to some 200 financial institutions across 60 countries to help create economic opportunities and facilitate financial inclusion. 
+Founded in 2003, MicroVest is a registered investment adviser that allocates private investments to financial institutions that serve disadvantaged and underbanked enterprises in emerging markets. The company has disbursed more than US$1 billion to some 200 financial institutions across 60 countries to help create economic opportunities and facilitate financial development. 
 
 ![Gil and Jim shake hands](/uploads/microvest-handshake.png)`MicroVest Founder Gil Crawford (left) and DAI CEO Jim Boomgard in DAI's Bethesda office.` 
  
-Active in more than 100 countries, employee-owned DAI works with governments, donors, corporations, and philanthropies to deliver integrated development solutions across technical disciplines including economic development, sustainable business, climate change and the environment, governance, gender, and health. 
+Active in more than 100 countries, employee-owned DAI works with governments, donors, corporations, and philanthropies to deliver integrated development solutions across technical disciplines including economic development, sustainable business, the environment, governance, women, and health. 
  
 The combination of DAI and MicroVest reflects the two firms’ shared commitment to mobilize private sector capital to create jobs, reduce poverty, and advance the UN Sustainable Development Goals. 
 
