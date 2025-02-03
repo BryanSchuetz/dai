@@ -30,8 +30,6 @@ Together with local partners, EPI offered targeted technical training and soft s
 
 Course portfolio for the workforce includes:
 * EPI Energía.
-* Solar thermal.
-* Gender awareness and mentorship.
 * Energy efficiency basics and advanced.
 * Solar PV maintenance and decommissioning training
 * Technical English.
