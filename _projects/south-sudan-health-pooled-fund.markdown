@@ -15,7 +15,7 @@ country: South Sudan
 
 The [Health Pooled Fund](https://medium.com/@HPFSouthSudan), supported by multiple donors, focused on successfully strengthening health systems and delivering essential health services in South Sudan. DAI Global Health was a core partner in a consortium led by Crown Agents. Within the fund were 23 other implementing partners that supported primary health care services in health facilities, including hospitals, across 55 counties.
 
-As part of the consortium, DAI Global Health lead the Health Systems Strengthening, Gender and Social Inclusion, and Community Engagement project activities.
+As part of the consortium, DAI Global Health lead the Health Systems Strengthening, Inclusion, and Community Engagement project activities.
 
 ### Sample Activities
 
