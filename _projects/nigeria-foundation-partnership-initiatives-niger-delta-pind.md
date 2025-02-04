@@ -44,5 +44,5 @@ DAI assisted the Chevron Corporation with the [strategic design ](https://www.de
 * Helped 560,000 farmers improve their farming and business skills.
 * 300,000 PIND-assisted farmers and small and medium-sized enterprises have increased their incomes by a cumulative $56.5 million.
 * Created more than 12,000 jobs.
-* Produced more than 50 research articles on equitable socioeconomic programs, gender inclusion, infrastructure needs, and other areas that underpin development assistance in Nigeria by PIND and others.
+* Produced more than 50 research articles on equitable socioeconomic programs, infrastructure needs, and other areas that underpin development assistance in Nigeria by PIND and others.
 * Leveraged $100 million in development assistance by donors such as the U.S. Agency for International Development, U.K. Department for International Development, UNICEF, and the Ford Foundation.
