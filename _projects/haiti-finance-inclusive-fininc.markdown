@@ -26,7 +26,7 @@ The project facilitated a two-level change in the market system. First, through 
 ### Sample Activities
 
 * Develop a private sector financial inclusion platform and strengthen existing financial sector associations—such as Association National des Institutions de Microfinance d’Haïti (ANIMH) and Association Nationale des Caisses Populaires Haïtiennes (ANACAPH).
-* Increase information and research activities to better understand key low-income market segments and gender aspects of financial inclusion. These activities will encourage development of relevant products and services that correspond to livelihoods strategies for low-income people.
+* Increase information and research activities to better understand key low-income market segments of financial inclusion. These activities will encourage development of relevant products and services that correspond to livelihoods strategies for low-income people.
 * Support development of an [active consumer protection environment](http://finclusionlab.org/blog/measuring-reach-digital-financial-services-haiti) to ensure that low-income Haitians understand the financial products offered to them and to improve uptake of available services, particularly digital financial services.
 
 Learn more about how the project reached out to young people:
