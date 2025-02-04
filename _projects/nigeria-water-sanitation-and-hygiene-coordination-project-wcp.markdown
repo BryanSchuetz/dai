@@ -28,4 +28,4 @@ Despite these challenges, reform-minded states in the country’s impoverished n
 * Provided baseline data, analysis, and recommendations on engaging civil society and nongovernmental organizations in improving the urban WASH sector.
 * Conducted urban sanitation baseline surveys and frameworks for improvement.
 * Contributed to the creation of a community of practice to collect best practices on urban WASH and to share impacts and lessons with policymakers.
-* Provided support in conducting environmental, gender, and sustainability analyses related to water and sanitation factors in target regions.
+* Provided support in conducting environmental and sustainability analyses related to water and sanitation factors in target regions.
