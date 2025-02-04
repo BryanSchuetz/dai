@@ -34,7 +34,7 @@ Defra commissioned DAI to conduct research and analysis of the current state of 
 * Mapped over 150 stakeholders relevant to the AFOLU sector in the Legal Amazon in a stakeholder analysis and assessed stakeholders’ interest and influence
 * Carried out consultations with the federal government, state government, indigenous groups, women’s groups, cooperatives, private sector, climate finance, and donor representatives
 * Produced an in-depth PEA of institutional factors shaping environmental governance including an inter- and intra-state level analysis.
-* Identified U.K. funding opportunities for funding models that prioritize indigenous groups and local communities, gender issues, value chains, and bioeconomy, land regularisation, and curtailing illegal land-use activities.
+* Identified U.K. funding opportunities for funding models that prioritize indigenous groups and local communities, value chains, and bioeconomy, land regularisation, and curtailing illegal land-use activities.
 * Assessed around 30 leading initiatives, and the barriers and opportunities for market-based initiatives and economic and financial instruments that incentivize the protection of forests.
 * Analyzed donor strategic priorities, approaches to AFOLU programming, the nature of its operations and partnerships, and future trends in AFOLU finance.
 * Provided partnership opportunities for Defra and UK ICF team.
