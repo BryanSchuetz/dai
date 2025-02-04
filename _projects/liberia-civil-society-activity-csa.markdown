@@ -36,5 +36,5 @@ The coalitions apply citizen engagement strategies and use policy dialogue platf
 * Map subnational civil society organizations and their advocacy priorities across all counties to identify potential subnational coalition members.
 * Use grants under contract co-creation methods to draw in the full range of diverse civil society organizations and identify coalition members that are invested in the issue and have the constituencies and skills to effect change.
 * Develop internal governance structure and connectivity within coalitions.
-* Conduct a series of national policy dialogue and problem-identification workshops, citizen perception surveys disaggregated by gender, problem analyses at the national and subnational levels, and a feedback loop analysis to select three thematic windows and issues in each theme. 
+* Conduct a series of national policy dialogue and problem-identification workshops, citizen perception surveys, problem analyses at the national and subnational levels, and a feedback loop analysis to select three thematic windows and issues in each theme. 
 * Implement strategy to attract private sector investment.

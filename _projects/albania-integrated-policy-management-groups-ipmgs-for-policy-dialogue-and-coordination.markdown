@@ -31,7 +31,7 @@ DAI provided technical assistance to the Integrated Policy Management Groups (IP
 * Increase the capacities of the IPMG/SSC secretariats in the line ministries and IPMGs Central Secretariat to improve the planning, implementation, and monitoring of national sectors reforms.
 * Develop guidelines for the functioning of all the IPMGs/SSCs.
 * Improve the quality of policy management and produce high-quality analytical reports.
-* Strengthen the capacities of the Department for Development and Good Governance to mainstream crosscutting issues such as gender equality, climate change, environment as well as addressing of EU Acquis alignment priorities and the Sustainable Development Goals.
+* Strengthen the capacities of the Department for Development and Good Governance to mainstream crosscutting issues such as environment as well as addressing of EU Acquis alignment priorities and the Sustainable Development Goals.
 * Support the sectorial IPMG/SSC secretariats to establish tools to effectively coordinate, plan, and monitor the implementation of sector reforms and priorities by streamlining the IPMGs' structure and processes.
 
 ### Select Results
