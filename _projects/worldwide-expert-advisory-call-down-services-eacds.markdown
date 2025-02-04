@@ -50,7 +50,7 @@ To better assist the world’s poorest and most vulnerable people to deal with s
 ### Sample Activities
 
 * Responded to on-demand requests for support and work with users to precisely define scopes of assistance from first idea to full terms of reference.
-* Assisted in identifying learning and communication opportunities and promoting gender inclusion standards across all work.
+* Assisted in identifying learning and communication opportunities and promoting inclusion across all work.
 * Rapidly sourced expertise from across a consortium of more than 60 partners or other specialist suppliers, often within a 10-day period.
 * Managed all commissioned assignments on behalf of FCDO, including contract placement and management, financial management, delivery and quality control, and duty of care.
 * [Promoted](https://www.dai.com/news/dai-and-ucl-host-panel-on-risk-financing-for-disaster-preparedness) learning materials for a wider audience through digital communications and social media.
@@ -61,7 +61,7 @@ The scope of work under Lot C covered promoting global prosperity, prioritizing 
 
 ### Lot D: High-Quality Technical Assistance for Results (HEART)
 
-WISE Development, a DAI company, was a core consortium partner on Lot D: [HEART](http://www.heart-resources.org/), providing technical assistance in international development, health, nutrition, water and sanitation, education, social protection, and gender. The consortium supported the use of evidence and expert advice in policy-making.
+WISE Development, a DAI company, was a core consortium partner on Lot D: [HEART](http://www.heart-resources.org/), providing technical assistance in international development, health, nutrition, water and sanitation, education, and social protection. The consortium supported the use of evidence and expert advice in policy-making.
 
 ### Select Results
 Below is a very small selection of the numerous projects DAI carried out under the EACDS expert advisory call down services.
