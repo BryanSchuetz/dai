@@ -30,8 +30,8 @@ Security and justice are essential to countries in sub-Saharan Africa. They crea
 ### Sample Activities
 
 * Support cross-sector coordination, monitoring, and evaluation of justice sector institutions and stakeholders.
-* Assist justice and security sector ministries in developing strategic policy making and service provision.
-* Strengthen family support units in local police stations to deal more effectively with sexual- and gender-based violence.
+* Assist justice and security sector ministries in developing strategic policy-making and service provision.
+* Strengthen family support units in local police stations to deal more effectively with violence and sexual violence against women.
 
 ### Select Results
 
