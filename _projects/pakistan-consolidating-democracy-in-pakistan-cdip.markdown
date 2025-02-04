@@ -45,7 +45,6 @@ CDIP worked in four thematic areas, with a cross-cutting focus on increasing the
 * Trained 230 mid- to senior-level journalists on best practices for election reporting, media ethics, human rights, and the Sustainable Development Goals.
 * Helped an estimated 9.2 million people access the civic information portal ([PakVoter](https://pakvoter.org/)), revamped and launched by CDIP to increase civic literacy on elections and democratic processes. 
 * Helped develop the Election Commission of Pakistan’s Strategic Plan (2019–2023), which includes all critical areas of institutional and electoral reforms along-with an oversight committee to ensure management and monitoring of actions from the strategic plan.
-* Strengthened the Election Commission of Pakistan’s Gender and Disability Electoral Working Group to sustain and strengthen the agenda of women’s electoral and political inclusion in Pakistan. 
 * Supported five political parties in establishing their policy and research wings, with a mandate to develop citizen-centric, issue-based policies for their constituencies.
 * Motivated 10 political parties to sign a Charter of Inclusion for women’s political empowerment in political parties as party members, office-bearers, candidates, and voters.
 * Facilitated 22 civil society organizations in engaging with state institutions for drafting the People With Disabilities bill with a legislative committee.
