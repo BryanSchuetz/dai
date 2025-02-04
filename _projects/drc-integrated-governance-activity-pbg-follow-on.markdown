@@ -34,9 +34,9 @@ GGA also focuses on improving transparency and accountability in the public fina
 
 ## Sample Activities
 
-* Increase participatory and inclusive mechanisms for local and urban development planning by promoting multisectoral coordination in planning on issues such as gender-responsive budgeting and resource distribution. 
+* Increase participatory and inclusive mechanisms for local and urban development planning by promoting multisectoral coordination in planning on issues such as budgeting and resource distribution. 
 * Pilot and promote small public-private partnerships for urban planning and innovative solutions, and results-based financing in collaboration with the private sector. 
-* Provide training for both public officials and civil society to empower women’s voices and influence to hold the government accountable for gender-equitable programming and budgeting. 
+* Provide training for both public officials and civil society to empower women’s voices and influence to hold the government accountable for female-sensitive programming and budgeting. 
 * Strengthen decentralized territorial entities’ capacity to identify solutions to improve tax collection systems through innovative design with the private sector and youth entrepreneurs. 
 * Systematically assess and improve local revenue and fee administration to reduce the administrative complexity of the revenue system and reduce opportunities for corruption. 
 * Pilot and scale mobile solutions to increase citizens’ ability to pay for public services or taxes electronically.
