@@ -25,4 +25,4 @@ Designed to be flexible and demand-driven, UKNIAF consults with government minis
  
 * Complete Nigeria's power sector reforms, leading to a contract-based market, privatisation of National Integrated Power Project plants, and a successful concession of the Transmission Company of Nigeria.
 * Improve the way public money is spent on the Federal Road Network, with a reformed Federal Road Maintenance Agency using a UKNIAF-developed Road Asset Management System to prioritise investments and strengthen budgeting and project management capability.
-* Increase capacity within government to develop PPPs; improve processes for screening capital projects in line with post-COVID priorities, consideration of climate and gender and social inclusion imperatives in privately financed projects; and improve access to financing for infrastructure project preparation.
+* Increase capacity within government to develop PPPs; improve processes for screening capital projects in line with post-COVID priorities, and improve access to financing for infrastructure project preparation.
