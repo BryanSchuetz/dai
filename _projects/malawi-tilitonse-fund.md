@@ -32,8 +32,8 @@ To help address this situation, the [Tilitonse Foundation](https://tilitonsefoun
 
 ### Select Results
 
-* Worked with the Malawi Police Service to revise policies and training manuals to improve responsiveness, public access to information, and gender inclusivity.
-* Supported the Malawi Human Rights commission to standardize sentencing for capital offences, leading to re-hearings of 140 cases with [acquittal and release of 107 wrongfully accused inmates](http://dai-global-developments.com/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held?utm_source=daidotcom).
+* Worked with the Malawi Police Service to revise policies and training manuals to improve responsiveness, public access to information, and inclusivity.
+* Supported the Malawi Human Rights Commission to standardize sentencing for capital offenses, leading to re-hearings of 140 cases with [acquittal and release of 107 wrongfully accused inmates](http://dai-global-developments.com/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held?utm_source=daidotcom).
 * Empowered 900,000 citizens to hold government officials to account by providing information on rights, entitlements, and responsibilities via training manuals, posters, newsletters, documentaries, and nearly 2,000 instances of media coverage.
 * Supported the National Media Institute for Southern Africa Malawi Chapter to successfully advocate for passage of Malawi’s Access to Information Bill, enhancing governmental accountability and responsiveness.
 * Provided grants for 73 governance initiatives to groups including Water for People, Consumers Association of Malawi, and the Coalition of Women Living with HIV and AIDS.
