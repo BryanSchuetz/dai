@@ -59,7 +59,7 @@ DAI lead the WALIS team and engaged with multiple partners and key investors in 
 
 * Through its [Improving WASH Evidence-Based Decision-Making Program](https://www.youtube.com/playlist?list=PL6ps-GXU9LQpxzSHNREGMfoE8WOPU4Zp6), WALIS worked in six African countries on country-led activities to improve knowledge management and develop national water resources and sanitation information monitoring and knowledge management systems with relevant ministries.
 * [Supported AMCOW](https://www.globalwaters.org/resources/blogs/usaid-supports-sanitation-revolution-africa) to monitor and evaluate 39 countries on their progress to achieve the Ngor Declaration on Sanitation and Hygiene. This declaration represents the continent’s vision to achieve universal access to adequate and sustainable sanitation and hygiene services and to eliminate open defecation by 2030. WALIS’s support resulted in the first-ever robust monitoring framework and baseline of the ten commitments key to achieving Africa’s vision under the Ngor Declaration. 
-* Strengthened [gender equality](https://www.globalwaters.org/resources/blogs/women-wash-leaders-achieving-equitable-access-wash-services-ghana) and social inclusion in the WASH sector in Ghana by working with Water & Sanitation for the Urban Poor to support two utility partners in the development of gender-sensitive guidelines. WALIS also trained 310 organization staff members in gender mainstreaming.
+
 * Trained 1,805 people through 69 sessions.
 * Produced 61 studies and 72 communication products.
 * Helped develop 38 enabling environment policies or plans. 
