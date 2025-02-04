@@ -37,7 +37,7 @@ TRACE seeks to design, build, and implement a civil society support program wher
 ### Select Results
 
 * TRACE partners had provided legal support that benefited over 250,000 citizens by the end of December 2021, significantly exceeding its cumulative milestone of 130,000. Approximately 40 percent of the support provided was for direct beneficiaries, with the remainder standing to benefit indirectly.
-* Over 60 percent of beneficiaries were women, and maintenance, inheritance and property rights, divorce, and protection orders (from gender-based violence) accounted for most cases.
+* Over 60 percent of beneficiaries were women, and maintenance, inheritance and property rights, divorce, and protection orders accounted for most cases.
 * The project raised civic awareness on topics such as people with disabilities, social inclusion, constitutional amendments, human rights, mineral revenue transparency, and electoral matters.
 
 [1]: https://assetify-dai.com/projects/Zimbabwe-TRACE-pic_1.jpg
