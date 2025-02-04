@@ -33,7 +33,7 @@ The Kenya Deepening Democracy Programme (DDP), funded by the former U.K. Departm
 * Increased the use by civil society groups of social accountability tools and collective action as the basis of more effective citizen-led advocacy.
 * Facilitated 144 instances of state responsiveness to citizen engagement and/or institutional strengthening, leading to improvements in service delivery across water, health care, agriculture, education, and infrastructure.  
 * Supported the timely settlement of all 288 appeals related to 2017 election petitions, significantly improving the handling and resolution of electoral disputes in the context of the 2017 elections.
-* Enhanced political party adherence to gender requirements, leading to marked improvements in the 2017 Kenya General Elections as compared to 2013.
+* Enhanced political party adherence to legal requirements, leading to marked improvements in the 2017 Kenya General Elections as compared to 2013.
 * Improved the enabling environment for women and people with disabilities to participate in the 2017 elections, with 17 documented improvements. 
 * Increased the integration of climate change in county planning and policy documents in 13 out of 18 (72 percent) counties targeted by DDP, signifying improved counties’ climate change integration scores by more than 5 percent.
 * Trained 235 people, including 19 local leaders, in three counties on climate change planning and budgeting processes.
