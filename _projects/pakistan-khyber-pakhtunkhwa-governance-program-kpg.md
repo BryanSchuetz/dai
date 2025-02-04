@@ -33,6 +33,6 @@ The Khyber Pakhtunkhwa Governance Program (KPG) assisted the provincial governme
 
 ### Select Results
 
-* Supported the launch of the ZAMA AWAZ helpline for violence and harassment against women. Women across the KP can now call the helpline and register their problems with the telephone operators. The establishment of the helpline is part of KPG's aim to strengthen the KP Women Parliamentary Caucus and Provincial Commission on the Status of Women to play a more strategic advocacy role for gender mainstreaming in the province.
+* Supported the launch of the ZAMA AWAZ helpline for violence and harassment against women. Women across the KP can now call the helpline and register their problems with the telephone operators. The establishment of the helpline is part of KPG's aim to strengthen the KP Women Parliamentary Caucus and Provincial Commission on the Status of Women to play a more strategic advocacy role in the province.
 * Supported a digital youth summit in May 2017, hosted by Khyber Pakhtunkhwa Information Technology Board in Peshawar. The Summit provided an opportunity to a large number of young job seekers and potential entrepreneurs from the province to come under one roof and interact with national and international businesses and IT experts. 
 * Supported an awareness campaign about local health services, hosted by the Asia Humanitarian Organization. 

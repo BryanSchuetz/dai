@@ -30,7 +30,6 @@ The project takes a research-based, strategic approach to identify how market co
 * Conduct all prior research and partnership identification to focus on catalyzing the partnerships and managing the subsequent activities.
 * Support selected service providers to act as ‘catalysts’ across the agriculture and tourism industries to spread best practice and build synergies. 
 * Offer training to farmers focusing on climate adaptation and mitigation strategies within the agricultural sector, including optimized water usage, advanced cultivation techniques, organic production methods, and post-harvest management. 
-* Advance gender and inclusion through tailored capacity-building and gender-responsive training to enhance productivity, facilitate financial connections, align services with women’s unique needs, and promote women-friendly working environments to support employment and retention. 
 * Facilitate dialogue with policymakers through conducting workshops, seminars, and commissioning research aimed at identifying policy barriers that are hindering the agriculture and tourism sectors. 
 * Promote applying digital and innovative solutions to enhance efficiency and create new opportunities in the agriculture and tourism sectors. 
 
