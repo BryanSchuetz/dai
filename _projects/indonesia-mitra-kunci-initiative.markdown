@@ -31,7 +31,7 @@ As a result of program interventions, more than 40,300 poor and vulnerable young
 
 ### Sample Activities
 
-* Improve the quality of workforce development programs through targeted grant programs and gender and social inclusion training.
+* Improve the quality of workforce development programs through targeted grant programs and training.
 * Implement innovative workforce development models, such as community engagement workshops and a youth internship program.
 * Increase collaboration between key workforce development stakeholders through a series of learning workshops and establishment of a coordination hub to share good practices.
 
@@ -41,5 +41,3 @@ As a result of program interventions, more than 40,300 poor and vulnerable young
 * Helped 40,300 poor and vulnerable young people to obtain new skills, including 704 young people with disabilities, and more than 15,800 poor and vulnerable young people have new or better jobs.  
 * Trained 1,030 service providers (578 male and 452 female) who serve vulnerable persons.
 * Trained 592 lecturers and 908 students as facilitators via the project's Student Community Service on Entrepreneurship (KKN-TKWU) program. Through 11 partner higher education institutions, KKN-TWKU has reached more than 3,100 villages and 146 cities and districts across Java.
-* APINDO, a large employer’s association, fully supported the scale-up of the Guideline for Gender Equality and Social Inclusion (GESI) in the Workplace amongst its partner companies across the country.  
-* Brought a new dimension of GESI to the government’s online job-matching platform. 
