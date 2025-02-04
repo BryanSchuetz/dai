@@ -40,4 +40,3 @@ Under a subcontract to RTI International, DAI helped to strengthen processes and
 * Worked with grantee Centre for Policy Analysis to draft and promote debate in Parliament on refugee and extractive industry policies.
 * Supported Uganda’s Office of the Auditor General to clear a backlog of local government account audits going back to 2013, and facilitated their review and approval by Parliament’s Public Accounts Committee.
 * Drafted a handbook and revised rules of procedure with Parliament’s Public Accounts Committee, resulting in greater efficiency and deeper expertise among MPs.
-* With the PPDA, enhanced institutional focus on gender and social inclusion in public procurement and audits.
