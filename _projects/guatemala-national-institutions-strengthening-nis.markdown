@@ -23,7 +23,7 @@ promos:
 
 Irregular migration from Guatemala has surged, and the U.S. Government has renewed its commitment to partner with the Government of Guatemala to address the main drivers of migration. These include a general lack of attractive employment opportunities, insufficient public services, food insecurity, and violence. These challenges are compounded by natural disasters, drought, and the COVID-19 pandemic, motivating more Guatemalans to make the perilous journey north. 
 
-Modest increases in social spending in recent years have not translated into improved access to basic public services for all Guatemalans, regardless of their place of residence, gender, ethnic group, or ability to pay. Thus, social development indicators have not improved. 
+Modest increases in social spending in recent years have not translated into improved access to basic public services for all Guatemalans, regardless of their place of residence, ethnic group, or ability to pay. Thus, social development indicators have not improved. 
 
 Poor budget execution rates across the board highlight the necessity for the government to more fundamentally overhaul core governance systems and processes to better plan and deliver resources where those are most effective and necessary.  
 
