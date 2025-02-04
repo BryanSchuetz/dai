@@ -26,7 +26,7 @@ promos:
 - title: Modernized Honduran Judicial System Promises Lower Costs, Increased Efficiency,
     Safer Communities, and Greater Transparency
   link: https://dai-global-developments.com/articles/modernized-honduran-judicial-system-promises-lower-costs-increased-efficiency-safer-communities-and-greater-transparency
-- title: Ramping up Gender-Based Violence Prevention, Risk Mitigation, and Response
+- title: Ramping up Violence Against Women Prevention, Risk Mitigation, and Response
   link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 layout: project
 ---
@@ -52,7 +52,7 @@ The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Ju
  
 **Access to Justice and Civil Society:** 
  
-* Empowered five civil society organizations to provide 1,125 gender-based violence survivors with psychological support and legal counsel, and strengthened working relations between those organizations, police, prosecutors, and government service providers. Facilitated network of 215 community volunteers in four cities to advise female survivors of violence and steer them to legal and psychological services.
+* Empowered five civil society organizations to provide 1,125 violence against women survivors with psychological support and legal counsel, and strengthened working relations between those organizations, police, prosecutors, and government service providers. Facilitated network of 215 community volunteers in four cities to advise female survivors of violence and steer them to legal and psychological services.
 * Conducted training in social auditing for 23 civil society organizations to detect corruption; 48 civil society organizations to conduct oversight in security, justice and human rights; and 38 civil society organizations in crime data analysis and citizen security.
 * Provided support to human rights defenders to improve reporting and investigation of human rights violations, as well as institutional strengthening to the Public Prosecutor’s office and the Office of the Special Prosecutor for Human Rights to streamline the handling of human rights cases.
 * Developed the organizational structure, mission, and vision for the Human Rights Ministry, equipped and trained its Human Rights Observatory and facilitated joint research of the observatory and civil society advocates.
@@ -65,6 +65,6 @@ The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Ju
  
 **Protecting Women:** 
 
-* Supported training on gender-based violence and gender equality in the workplace in a series of workshops attended by 256 business executives.
+* Supported training on violence against women in the workplace in a series of workshops attended by 256 business executives.
 * Designed training to support female survivors of violence now incorporated into National Police Academy coursework.
-* Led a participatory external assessment of the National Police and gender, prompting the opening of gender offices in urban police stations in the country’s two largest cities.
+* Led a participatory external assessment of the National Police, prompting the opening of women offices in urban police stations in the country’s two largest cities.

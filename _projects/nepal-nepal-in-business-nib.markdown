@@ -30,4 +30,4 @@ DAI’s partner is Tandem.
 
 * Award and manage £4.5 million in grants to 40 SMEs in NiB’s key sectors and geographical focus to build their companies and become export ready.
 * Work with SMEs to understand the policy barriers to their continued growth and development, through the BERF component, and work with varying levels of government to alleviate these constraints.
-* Prioritize the creation of jobs for SMEs with a gender-aware approach, shifting the onus onto businesses to act as agents of change.   
+* Prioritize the creation of jobs for SMEs, shifting the onus onto businesses to act as agents of change.   
