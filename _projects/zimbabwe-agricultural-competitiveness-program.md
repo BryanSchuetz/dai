@@ -36,7 +36,7 @@ To achieve these goals within a complex and changing political landscape, DAI wo
 * Reestablished horticulture and livestock market information systems that provide domestic information and market and price trends from nearly 600 horticulture and livestock players.
 * Developed websites for eight farmer and agribusiness groups to improve communication with members and service providers.
 * Hosted more than 40 public-private dialogue forums that addressed assessment findings, validated regulatory issues, and garnered support for addressing constraints.
-* Trained 104 female and 170 male leaders of farmer organizations in governance, service provision, advocacy, environmental management, and gender equality.
+* Trained 104 female and 170 male leaders of farmer organizations in governance, service provision, advocacy, and environmental management.
 * Increased the profitability of 511 agricultural and food security-related firms.
 * Facilitated cascaded training in "Farming as a Family Business" for 11,274 enterprises covering all eight provinces.
 
