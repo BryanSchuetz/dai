@@ -41,7 +41,7 @@ TASHAROC supported inclusive development and reduced political and economic dise
 ### Select Results
 
 * Held 62 capacity-building workshops with key government officials from the region in core technical areas and soft skills.
-* Developed a communications strategy, [gender equality and social inclusion strategy](https://www.youtube.com/watch?v=2qy073tKPsc&t=302s), guidelines, job descriptions, and standard operating procedure manuals for the Regional Council.
+* Developed a communications strategy, guidelines, job descriptions, and standard operating procedure manuals for the Regional Council.
 * Organised a study visit for the Regional Council’s elected and staff to local government institutions in Cornwall, Manchester, and London, with a partnership with Cornwall Council underway.
 * Established a monitoring, evaluation, and learning system for the Regional Council to better manage and monitor the implementation of the Regional Development Plan.
 * Trained more than 270 civil society groups in key technical areas such as the petition process, project cycle management, public policy, and proposal writing. 
