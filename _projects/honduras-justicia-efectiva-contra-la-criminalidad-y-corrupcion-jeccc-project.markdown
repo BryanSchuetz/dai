@@ -42,9 +42,9 @@ Through these themes, *Justicia Efectiva* strengthens democracy and the rule of 
 ## Select Results
  
 * Rolled out a transformative local justice system model in seven municipalities, strengthening multi-sectoral coordination and promoting a people-centered justice system.
-* Developed survivor-centered practices and innovations to streamline the justice sector’s response times for cases of gender-based violence and property crimes.
+* Developed survivor-centered practices and innovations to streamline the justice sector’s response times for cases of violence against women and property crimes.
 * Elevated citizen advocacy for anti-corruption reform and civil society oversight of the criminal justice system.
-* Promoted the delivery of innovative complementary justice services for gender-based violence survivors and the development of creative campaigns to tackle technology-facilitated gender-based violence.
+* Promoted the delivery of innovative complementary justice services for violence-against-women survivors and the development of creative campaigns to tackle technology-facilitated violence-against-women.
 * Reduced case backlogs in key courts and prosecutorial offices, reducing bureaucracy and delivering timely responses to victims.
 Expanded access to justice and elevated the decision-making power of indigenous people, women, and young people in the criminal justice system.
 
