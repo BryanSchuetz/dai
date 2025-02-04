@@ -36,7 +36,7 @@ layout: project
 
 ### Sample Activities
 
-* Train community members to raise awareness on the issues of significance of women's role in decision making, participation of women in formal political processes and structures, gender-based violence, and voting rights and responsibilities.
+* Train community members to raise awareness on the issues of significance of women's role in decision making, participation of women in formal political processes and structures, violence against women, and voting rights and responsibilities.
 * Utilize AAWAZ Steering Committee for strategic guidance.
 * Develop a cadre of trainers from the district to village level who can help fellow citizens better understand social service provision standards, budget allocations, and how to aggregate efforts to advocate for improved quality.
 * Provide grant funding to conduct research and advocacy in key areas relevant to the program to engage multiple stakeholders in policy reform.
