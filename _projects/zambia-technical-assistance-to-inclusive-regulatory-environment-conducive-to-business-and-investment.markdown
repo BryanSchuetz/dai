@@ -26,8 +26,8 @@ Additionally, we manage a €2 million Multi-Annual Programme Estimate related t
 
 ## Sample Activities
 
-* Train personnel of selected agencies in a gender- and rights-based approach to Regulatory Impact Assessment.
-* Establish regional regulatory service centres.
+* Train personnel of selected agencies in a rights-based approach to Regulatory Impact Assessment.
+* Establish regional regulatory service centers.
 * Design, develop, and implement a One-Stop Shop Integration System and integrate it with existing registration systems.
 * Strengthen the existing public-private Dialogue platform through technical support to specific sector committees or themes.
 * Conduct in-depth sector and sub-sector studies for specific sectors on required licenses and permits for operating businesses.
