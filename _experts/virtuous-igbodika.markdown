@@ -16,7 +16,7 @@ Virtuous Igbodika manages the delivery of project portfolio in DAI's office in N
 
 Before joining DAI, Virtuous worked with the largest UKaid-funded governance project for eight years and led the service delivery, Open Government Partnership, and public financial management component at the federal level. 
 
-She holds certificates in project management and gender studies and is a Project Management Institute member.
+She holds a certificate in project management and is a Project Management Institute member.
 
 * B.Sc., economics, University of Maiduguri
 * M.Sc., development management, University of Birmingham
