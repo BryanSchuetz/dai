@@ -52,7 +52,7 @@ Since 2017, FTF Inova managed to reach more than 100,000 individuals (mostly sma
 
 ### Sample Activities
 
-* Conduct comprehensive, gender-responsive value chain analyses for key crops, such as sesame, soybeans, and cowpeas, to better understand market inefficiencies and address root causes of underperformance.
+* Conduct comprehensive value chain analyses for key crops, such as sesame, soybeans, and cowpeas, to better understand market inefficiencies and address root causes of underperformance.
 * Promote the adoption of improved seed varieties and fertilizers to increase crop yields through the use of demonstration plots, agricultural extension training, and [radio and text messaging campaigns](https://medium.com/@FeedtheFuture/radios-help-businesses-reach-smallholder-farmers-ad64dd560625).
 * Collaborate with financial institutions and village savings and loan associations to provide credit lines targeted at enabling smallholder farmers to invest in improved seeds, fertilizer, and other agricultural inputs.
 
