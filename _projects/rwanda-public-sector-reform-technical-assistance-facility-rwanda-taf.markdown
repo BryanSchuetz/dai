@@ -16,8 +16,7 @@ solutions:
 regions: Sub-Saharan Africa
 country: Rwanda
 promos:
-- title: 'Case Study: Strengthening Accountability to Gender Equality at the Decentralised
-    Level'
+- title: 'Case Study: Strengthening Accountability at the Decentralised Level'
   link: "/uploads/Rwanda_TAF_GMO_02-e5dc6d.pdf"
 ---
 

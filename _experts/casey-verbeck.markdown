@@ -14,7 +14,7 @@ regions:
 
 Casey Verbeck leads the impact investing group at DAI Capital, where he focuses on mobilizing and deploying private capital in frontier and emerging markets with clear impact mandates.
 
-With more than two decades of impact investing experience, Casey has worked globally on fund strategies that deliver impact in areas such as climate solutions, conservation, sustainable and regenerative agriculture, social justice, racial and gender equity, and community wealth building.
+With more than two decades of impact investing experience, Casey has worked globally on fund strategies that deliver impact in areas such as climate solutions, conservation, sustainable and regenerative agriculture, and community wealth building.
 
 Previously, Casey served as Partner and Managing Director of Business Development and Marketing for Veris Wealth Partners, a B Corp-certified impact and wealth management firm. He was a member of the Investing Committee and Executive Leadership. During his tenure, he developed and managed growth initiatives that helped Veris surpass $2 billion in assets under management over eight years.
 
