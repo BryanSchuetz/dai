@@ -20,7 +20,7 @@ The Teaching and Leading the Next Generation of Timorese (TALENT) project addres
 
 TALENT works to improve the quality of teaching and school leadership in Timor-Leste’s secondary schools. It addresses critical challenges in Timor-Leste’s education system, including improving teacher qualifications, moving away from rote learning, and fostering modern, learner-centered teaching methods.
 
-TALENT is establishing a Center of Excellence for Teacher Education as an autonomous institution under the Ministry of Higher Education, Science, and Culture. The project also advises on legal reforms, requiring future teachers to obtain professional certification from the center to work in ministry-supported positions. Additionally, it promotes gender inclusivity by encouraging female leadership through the Women’s Economic Empowerment in Education initiative. 
+TALENT is establishing a Center of Excellence for Teacher Education as an autonomous institution under the Ministry of Higher Education, Science, and Culture. The project also advises on legal reforms, requiring future teachers to obtain professional certification from the center to work in ministry-supported positions. Additionally, it encourages female leadership through the Women’s Economic Empowerment in Education initiative. 
 
 ![Timor-Leste, Women studying.jpg](/uploads/Timor-Leste,%20Women%20studying.jpg)
 
