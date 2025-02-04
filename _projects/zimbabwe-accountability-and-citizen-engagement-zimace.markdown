@@ -22,7 +22,7 @@ This lack of accountable, inclusive, and transparent policy and resource managem
 
 The Zimbabwe Accountability and Citizen Engagement (ZIMACE) program protects human rights and promotes transparent and accountable governance across Zimbabwe by empowering citizens to hold the state accountable for its use of resources and its respect for human rights and democratic principles. ZIMACE is the follow-on project to [TRACE](https://www.dai.com/our-work/projects/zimbabwe-transparency-responsiveness-accountability-and-citizen-engagement-trace), also implemented by DAI, which ran from 2014 to 2022.
 
-ZIMACE builds upon the work of TRACE to strengthen effective civic action through citizen rights, climate change, democratic processes, and inclusion. ZIMACE provides grants and capacity support to Zimbabwean civil society organizations and extends technical assistance to targeted government agencies and independent commissions across the four focus areas.
+ZIMACE builds upon the work of TRACE to strengthen effective civic action through citizen rights, democratic processes, and inclusion. ZIMACE provides grants and capacity support to Zimbabwean civil society organizations and extends technical assistance to targeted government agencies and independent commissions across the four focus areas.
 
 ### Sample Activities
 
