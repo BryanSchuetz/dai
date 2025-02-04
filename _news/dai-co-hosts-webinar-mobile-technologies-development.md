@@ -1,16 +1,14 @@
 ---
 title: DAI Co-hosts Webinar on Mobile Technologies for Development
 date: 2012-06-08 18:05:00 Z
+published: false
+solutions:
+- Digital Acceleration
 summary: 'In partnership with the Bretton Woods Committee, DAI co-hosted a webinar
   yesterday on the use of mobile technologies in development, specifically within
   the World Bank''s work.
 
 '
-solutions:
-- Digital Acceleration
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
