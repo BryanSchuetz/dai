@@ -15,7 +15,7 @@ regions:
 - Latin America and the Caribbean
 ---
 
-Jessica Olivan is a senior development professional with 20 years of experience as an investment advisor, project director, and CEO specializing in financial inclusion, entrepreneurship, investment, fintech, inclusive businesses, women's economic empowerment, and gender equality.
+Jessica Olivan is a senior development professional with 20 years of experience as an investment advisor, project director, and CEO specializing in financial inclusion, entrepreneurship, investment, fintech and inclusive businesses.
 
 Jessica joined DAI as Senior Investment Advisor with [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), where she oversaw the Latin America and Caribbean portfolio. She is currently the Chief of Party of the [El Salvador Investment Promotion Project](https://www.dai.com/our-work/projects/el-salvador-investment-promotion-project-esipp).
 
