@@ -10,7 +10,6 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
-- Gender and Social Inclusion
 - Workforce Development and Youth
 regions:
 - Middle East and North Africa
