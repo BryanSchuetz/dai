@@ -21,8 +21,6 @@ promos:
   link: https://indd.adobe.com/view/28319ce7-2f0a-4c6c-a9f4-32f684a87172
 - title: Supporting Environmental Health Through Governance Reform
   link: https://dai-global-developments.com/articles/supporting-environmental-health-through-governance-reform
-- title: Ramping up Gender-Based Violence Prevention, Risk Mitigation, and Response
-  link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
 - title: Building a Democracy to Last
@@ -55,6 +53,5 @@ After five years, IGPA improved service delivery outcomes in utility sectors wit
 * Created Technical Working Groups, a government-civil society coalition, which conducted more than 425 water and solid waste management services campaigns in Anbar, Babil, Baghdad, Basrah, Najaf, Ninewa, and Wasit provinces with local government funding of more than $897,400. 
 * Created a path for deeper civil-society engagement in government planning and decision-making through the revitalization of provincial planning and development councils in 13 provinces with civil society groups as partners to ensure satisfactory service delivery to citizens.
 * Mentored 93 government employees to become change agents within their respective organizations. Change agents are leaders and advocates for change who will ensure the sustainability of IGPA improvements introduced to their organization. Change agents are active at service directorates and other government entities in 13 provinces.
-* Integrated gender equity within the government structure by strengthening provincial women’s empowerment departments and gender units. 
 * Assisted 40 small and medium enterprises (SMEs) in Ninewa and northern Iraq to [access financing](https://www.dai.com/news/investment-forum-in-northern-iraq) totaling approximately $1 million and provided technical assistance to 343 SMEs to improve their business performance.
 * Streamlined 100 water, solid waste, and social service delivery processes, which improved the efficiency and effectiveness of government services in eight provinces.
