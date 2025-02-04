@@ -39,4 +39,4 @@ DAP supported key reforms and built on efforts to strengthen oversight and incre
 * Supported partners in reviewing new anti-corruption and anti-impunity bills, with 79 percent of amendment suggestions reflected in final laws.
 * Supported the production of news stories on corruption and built the capacity of investigative journalists, with partner African Centre for Open Governance producing 18 investigative stories that reached 800,000 people.
 * DAP-sponsored anti-corruption messaging reached 9.5 million people through televised public service announcements, as well as online and physical distribution of anticorruption policy briefs and reports.
-* Provided budget, planning, and policymaking capacity building to more than 500 women leaders, which was used to successfully lobby for gender-responsive county development planning.
+* Provided budget, planning, and policymaking capacity building to more than 500 women leaders.

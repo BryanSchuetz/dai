@@ -1,17 +1,15 @@
 ---
 title: USAID Program Credited with Energizing Zimbabwe’s Agribusiness
 date: 2015-02-18 18:05:00 Z
+solutions:
+- Agriculture and Food Security
+regions:
+- Sub-Saharan Africa
 summary: 'Ministers, the U.S. ambassador, and local stakeholders commended the revival
   of Zimbabwe''s once-flourishing agriculture sector at an event marking the close
   of the Zimbabwe Agricultural Competitiveness Program (Zim-ACP).
 
 '
-solutions:
-- Agriculture and Food Security
-regions:
-- Sub-Saharan Africa
-projects: 
-clients: 
 layout: node
 ---
 
@@ -46,7 +44,7 @@ Among other achievements, since launching in October 2010, Zim-ACP has:
 * Re-established horticulture and livestock market information systems that provide domestic information and market and price trends from nearly 600 horticulture and livestock players;
 * Developed websites for eight farmer and agribusiness groups to improve communication with members and service providers;
 * Hosted more than 40 public-private dialogue forums to address assessment findings, validate regulatory issues, and garner support for addressing constraints;
-* Trained 104 female and 170 male leaders of farmer organizations in governance, service provision, advocacy, environmental management, and gender mainstreaming; and
+* Trained 104 female and 170 male leaders of farmer organizations in governance, service provision, advocacy, environmental management; and
 * Facilitated training in "Farming as a Family Business" for 11,274 enterprises covering all eight provinces.
 
 [1]: /our-work/projects/zimbabwe-agricultural-competitiveness-program
