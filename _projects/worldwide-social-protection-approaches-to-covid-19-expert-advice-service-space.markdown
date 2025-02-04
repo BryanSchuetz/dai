@@ -13,7 +13,6 @@ solutions:
 - Social Protection
 - Fragile States
 - Climate
-- Gender and Social Inclusion
 - Humanitarian Cash
 - Governance
 - Economic Growth
@@ -37,7 +36,7 @@ Between April 2020 and November 2021, the Social Protection Approaches to COVID-
 * Economic inclusion
 * Informal workers
 
-SPACE was a joint initiative of the Foreign, Commonwealth & Development Office (FCDO) Better Assistance in Crises and Gender-Responsive Social Protection programs; GIZ (the German Federal Ministry for Economic Cooperation and Development); and the Australian Department of Foreign Affairs and Trade (DFAT). 
+SPACE was a joint initiative of the Foreign, Commonwealth & Development Office (FCDO); GIZ (the German Federal Ministry for Economic Cooperation and Development); and the Australian Department of Foreign Affairs and Trade (DFAT). 
 
 The program was managed by DAI through the FCDO framework agreement [Expert Advisory Call Down Services (EACDS) Lot B](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) Strengthening Resilience and Response to Crises, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE benefitted from the support and engagement of [GSMA](https://www.gsma.com/), the [Centre for Disaster Protection](https://www.disasterprotection.org/), and the [HEART Consortium](https://www.heart-resources.org/about/). SPACE publications can be found on [SocialProtection.org](https://socialprotection.org/node/33315/publications).
 
