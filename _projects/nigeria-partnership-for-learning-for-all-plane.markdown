@@ -59,6 +59,5 @@ More information is available on the [**PLANE website**](https://planenigeria.co
 * Reached 9,385 teachers and 554,648 learners with foundational learning and accelerated learning materials.
 * Supported community leaders and LGEAs in identifying and establishing 200 community learning hubs to increase education awareness and provide learning opportunities within selected communities.
 * PLANE has catalyzed links between the financial sector and non-state schools, enabling greater financial stability and growth opportunities for education providers.
-* Developed minimum standard guidelines on GESI (Gender, Equality, and Social Inclusion) that are to be implemented across all program areas of PLANE and trained 9,385 teachers on basic GEDSI components.
 
 <iframe src="https://player.vimeo.com/video/905907121?h=8b2d47f003" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

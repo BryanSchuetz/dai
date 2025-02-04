@@ -50,7 +50,6 @@ Using a locally driven system‐strengthening approach, USAID Eau partners with 
 * Provide technical assistance and support to DINEPA to develop clear standards for governance and transparency in the management of the local water systems.
 * Use the World Bank’s Water Utility Turnaround Framework to assist the CTEs to improve their management of the water systems, responsibly manage the water resources, and advance on their path towards creditworthiness.
 * Solarize water systems to reduce reliance on expensive and unreliable energy sources.
-* Promote gender and social inclusion to mitigate the adverse effects of poor water services and poor governance on women’s safety, health, and economic opportunity.
 
 ## Select Results of USAID Water and Sanitation
 
