@@ -1,5 +1,5 @@
 ---
-title: 'Malawi—Climate Just Communities: Malawi'
+title: Malawi—Climate Just Communities
 date: 2023-08-30 12:27:00 Z
 summary: DAI’s Climate Just Communities (CJC) Malawi project uses a participatory
   approach to developing and delivering climate justice interventions that build community
@@ -37,4 +37,4 @@ DAI's delivery partners are IIED, LINK Education, LINK Community Development, Wa
 * 4,157 households in targeted communities engaged in irrigation farming through winter cropping to secure their livelihood.
 * 98 Lead Farmers trained on conservation farming in Karonga and Neno districts. 
 * 157 Community Village and Savings Loans groups mobilised, and 2,954 community members trained on VSL approaches (Zomba, Karonga).
-* 4,059 community members were reached through gender and human rights awareness campaigns in Zomba. 
+* 4,059 community members were reached through awareness campaigns in Zomba. 

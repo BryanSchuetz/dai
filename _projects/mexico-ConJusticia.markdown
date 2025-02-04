@@ -18,7 +18,7 @@ solutions:
 regions: Latin America and the Caribbean
 country: Mexico
 promos:
-- title: Ramping up Gender-Based Violence Prevention, Risk Mitigation, and Response
+- title: Ramping up Violence against Women Prevention, Risk Mitigation, and Response
   link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 ---
 
@@ -46,7 +46,7 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 * Assisted attorney general offices with 5,509 cases through improved investigation methodologies.
 * Helped solve almost 5,000 criminal cases solved through technical assistance. 
 * Developed 76 tools and management systems that have been adopted by criminal justice institutions to improve caseload distribution, data and information management, and resource allocation.
-* Attended 185 cases of gender-based violence.
+* Attended 185 cases of violence against women.
 * Developed 63 security plans to protect victims from possible violence on the part of aggressors while their cases are being attended.
 * Established task forces in four states to address emergent criminal phenomena in: fraud in vehicle resale and crimes against privacy; home robbery, where there was a 69 percent increase in case resolution and 1,184 percent increase in reparations to victims compared to those issued during the same period in 2021; cardholder theft, where task forces opened 26 investigations, identified 17 suspects, and requested seven arrest warrants for the criminal cell’s most prominent members; and femicide, where task forces improved their investigative action time and forged new collaboration methodologies among investigation units.
 * Increased efficiency for solving non-priority crimes by 521.15 percent.
