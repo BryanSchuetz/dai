@@ -36,7 +36,7 @@ In 2017, DAI Global Health’s capacity was augmented by the acquisition of Heal
 
 **About Development Data**
 
-[Development Data](https://www.developmentdata.info/) is a regional organization set up in Southern Africa to provide technical support to governments, civil society, and private sector entities. Development Data has provided technical support in data, information and project management for development practitioners since 2004. The technical support offered extends to both financial and program data for organizations addressing key development issues of poverty, health, education, gender, water and sanitation, sexual reproductive health, and HIV and AIDS. The organization has its head office in Zambia and offices in Zimbabwe and South Africa.
+[Development Data](https://www.developmentdata.info/) is a regional organization set up in Southern Africa to provide technical support to governments, civil society, and private sector entities. Development Data has provided technical support in data, information and project management for development practitioners since 2004. The technical support offered extends to both financial and program data for organizations addressing key development issues of poverty, health, education, water and sanitation, sexual reproductive health, and HIV and AIDS. The organization has its head office in Zambia and offices in Zimbabwe and South Africa.
 
 **About Disacare**
 
