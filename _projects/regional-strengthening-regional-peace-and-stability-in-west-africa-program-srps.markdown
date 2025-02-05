@@ -17,7 +17,7 @@ country: West Africa
 
 For decades, West Africa has experienced the destabilization of state governments, extreme poverty, and the rise of violent extremist organizations. 
 
-In Benin, Burkina Faso, Mali, and Togo, in particular, violent extremist groups threaten the democratic process, leading to instability and crises within state governments. Water scarcity, reduced food and economic security, and violent competition over natural resources have only worsened widespread violence. 
+In Benin, Burkina Faso, Mali, and Togo, in particular, violent extremist groups threaten the democratic process, leading to instability and crises within state governments. Water scarcity, reduced food and economic security, and violent competition over natural resources has only worsened widespread violence. 
 
 The U.S. Agency for International Development (USAID)-funded Strengthening Regional Peace and Stability in West Africa (SRPS) program works to address interregional conflicts, improve state stability, and support the resilience of local communities. 
 
