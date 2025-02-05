@@ -14,11 +14,11 @@ regions:
 - Worldwide
 ---
 
-Kate Wilson Hargreaves is a highly experienced international development professional with a career that has spanned social accountability and transparency, public financial management, global health, climate change, and renewable energy for public services.
+Kate Wilson Hargreaves is a highly experienced international development professional with a career that has spanned social accountability and transparency, public financial management, global health, climate and environment, and renewable energy for public services.
 
 She has worked for numerous agencies and organizations, including Transparency International, KPMG Consulting, Crown Agents, the World Bank, the U.K. Foreign, Commonwealth & Development Office, Oxfam, the British Council, The Gates Foundation, and the French Development Agency, and has led multimillion-dollar programs across South Asia, Africa, the Caribbean, and Palestine.
 
-As a project director and practice lead, Kate has concentrated on delivering systems change for sustainability. A particular focus is a just transition to green economic growth, which includes promoting the role of women in solar energy, localizing development through increased citizen demand, and building community resilience to climate shocks.  
+As a project director and practice lead, Kate has concentrated on delivering systems change for sustainability. A particular focus is a transition to green economic growth, which includes promoting the role of women in solar energy, localizing development through increased citizen demand, and building community resilience to climate shocks.  
 
 Kate has served as a board member for schools and children’s charities in the United Kingdom, Kenya, and Palestine. 
  
