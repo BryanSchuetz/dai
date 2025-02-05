@@ -1,6 +1,7 @@
 ---
 title: DAI to Implement Scottish Government Climate Just Communities Program in Malawi
 date: 2023-08-30 09:07:00 Z
+published: false
 is_featured: true
 summary: DAI is delighted to be selected to lead the Scottish Government's Climate
   Just Communities program in Malawi, a participatory project to support those most
