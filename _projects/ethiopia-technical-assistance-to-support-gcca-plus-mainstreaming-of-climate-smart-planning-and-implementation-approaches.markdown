@@ -19,7 +19,7 @@ promos:
   link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 ---
 
-Addressing climate change and environmental degradation is high on the agenda for the Government of Ethiopia as it seeks to implement policies, strategies, and guidelines with the potential to achieve integrated rural development.
+Addressing climate and environmental degradation is high on the agenda for the Government of Ethiopia as it seeks to implement policies, strategies, and guidelines with the potential to achieve integrated rural development.
 
 The Climate-Smart PSNP project is enhancing the design and planning capacities of Ethiopia’s Public Works Coordination Unit and Food Security Coordination Directorate.
 
@@ -35,7 +35,7 @@ Using instruments such as GIS and remote sensing for monitoring and evaluation, 
 * Map climate hazards and vulnerability together with current use of climate-smart practices and technologies.
 * Design and roll out a national roadmap for mainstreaming climate-smart procedures, tools, and processes.
 * Strengthen monitoring and evaluation of adaptation and resilience activities, and carbon sequestration.
-* Support linkages of PSNP planning processes with climate and disaster risk reduction and early warning systems.
+* Support linkages of PSNP planning processes with adverse weather and disaster risk reduction and early warning systems.
 * Perform GIS mapping and codification of watersheds and micro watersheds in 22 focus districts.
 
 ## Select Results
