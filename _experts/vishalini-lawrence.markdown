@@ -1,6 +1,7 @@
 ---
 title: Vishalini Lawrence
 date: 2022-02-15 10:25:00 Z
+published: false
 lastname: Lawrence
 summary: Vishalini Lawrence is the Senior Director of DAI's Resilience and Stability
   practice. Vishalini brings 15 years of experience leading peacebuilding, resilience,
