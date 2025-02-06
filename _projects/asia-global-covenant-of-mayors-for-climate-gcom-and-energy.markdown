@@ -13,9 +13,9 @@ regions: Asia and the Pacific
 country: Asia
 ---
 
-Climate change is a global challenge but one that particularly affects urban life. Urban activities are major sources of greenhouse gas emissions, but cities are also profoundly affected by changes in climate in terms of their basic services, infrastructure, housing, livelihoods, and health. And as hubs of innovation and creativity, they also have an important role to play in preparing for and adapting to the risks posed by adverse weather.
+Changes in climate can particularly affect urban life, especially in terms of basic services, infrastructure, housing, livelihoods, and health. As hubs of innovation and creativity, cities have an important role to play in preparing for and adapting to the risks posed by adverse weather.
 
-A global alliance of cities, the Global Covenant of Mayors (GCoM) for Climate and Energy aims to strengthen the role of cities on the wider international scene and provide operational tools for effective action. Regional and national covenants serve as local chapters of the broader GCoM alliance. Our team supports the GCoM in East Asia, South Asia, and Southeast Asia, assisting signatory cities and partners in their commitments while encouraging new cities and urban stakeholders to join the GCoM alliance in pursuit of a shared vision for a resilient and low-emission future.
+The Global Covenant of Mayors (GCoM) for Climate and Energy aims to strengthen the role of cities on the wider international scene and provide operational tools for effective action. Regional and national covenants serve as local chapters of the broader GCoM alliance. Our team supports the GCoM in East Asia, South Asia, and Southeast Asia, assisting signatory cities and partners in their commitments while encouraging new cities and urban stakeholders to join the GCoM alliance in pursuit of a shared vision for a resilient and low-emission future.
 
 ![GCom Asia.png](/uploads/GCom%20Asia.png)`Photo: Asih Busiadi, GCoM Asia Team Leader and Thunpicha Pinniam, GCoM Asia Project Assistant, Thailand 2022.`
 
