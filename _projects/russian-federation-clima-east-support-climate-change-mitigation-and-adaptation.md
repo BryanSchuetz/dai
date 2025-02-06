@@ -20,7 +20,7 @@ country:
 - Regional
 promos:
 - title: Helping Eastern Partnership Countries Meet Their Commitments to Address Climate
-    Change
+    Adaptation
   link: https://dai-global-developments.com/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change
 layout: project
 ---
