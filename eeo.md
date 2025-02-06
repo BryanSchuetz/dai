@@ -5,6 +5,7 @@ summary: DAI is an equal opportunity/affirmative action employer with a commitme
   without regard to race, color, religion, sex, sexual orientation, gender identity
   or national origin.
 layout: default
+published: false
 ---
 
 # Equal Opportunity and Affirmative Action
