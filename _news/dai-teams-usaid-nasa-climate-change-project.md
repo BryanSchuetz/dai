@@ -1,6 +1,7 @@
 ---
 title: DAI Teams with USAID, NASA on Climate Change Project
 date: 2012-08-07 18:05:00 Z
+published: false
 solutions:
 - Climate
 - Environment
