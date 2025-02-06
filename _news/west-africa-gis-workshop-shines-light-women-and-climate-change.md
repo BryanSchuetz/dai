@@ -1,6 +1,14 @@
 ---
 title: West Africa GIS Workshop Shines Light on Women and Climate Change
 date: 2013-08-13 18:05:00 Z
+published: false
+solutions:
+- Environment
+- Climate
+regions:
+- Asia and the Pacific
+- Sub-Saharan Africa
+projects: Worldwide—SERVIR Program Demand Activity
 summary: 'University students from Benin, Cameroon, Cote d''Ivoire, Ghana, and Nigeria
   recently came together for 10 days of training on geospatial technology, through
   a fellowship program supported by MyCOE/SERVIR, a joint initiative between My Community
@@ -8,15 +16,7 @@ summary: 'University students from Benin, Cameroon, Cote d''Ivoire, Ghana, and N
   and imagery.
 
 '
-solutions:
-- Environment
-- Climate
-regions:
-- Asia and the Pacific
-- Sub-Saharan Africa
 country: Nigeria
-projects: Worldwide—SERVIR Program Demand Activity
-clients: 
 layout: node
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: Central America—Regional Climate Change Program (RCCP) (Programa Regional de
-  Cambio Climatico—PRCC)
+title: Central America—Programa Regional de Cambio Climatico—PRCC
 date: 2016-01-21 22:40:00 Z
 summary: This regional initiative identified solutions and action plans to permit
   the countries and territories of Central America and the Dominican Republic to respond
@@ -20,11 +19,11 @@ country:
 layout: project
 ---
 
-This regional initiative is [identifying solutions](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) and action plans to permit the countries and territories of Central America and the Dominican Republic to respond to the effects of climate change. The program is implemented by five organizations: Centro Agronómico Tropical de Investigación y Enseñanza (CATIE), International Union for Conservation of Nature, CARE, Terra Global Capital LLC, and DAI—and implements activities related to both mitigation and adaptation.
+This regional initiative is [identifying solutions](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) and action plans to permit the countries and territories of Central America and the Dominican Republic to respond to the effects of severe weather related events. The program is implemented by five organizations: Centro Agronómico Tropical de Investigación y Enseñanza (CATIE), International Union for Conservation of Nature, CARE, Terra Global Capital LLC, and DAI—and implements activities related to adaptation.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104423902" webkitallowfullscreen="" width="703"></iframe>
 
-As a subcontractor to CATIE, DAI has three main deliverables: a regional clearinghouse (Climate Services Portal) based on user-centered design requirements; a Global Development Alliance related to the sustainability of the Climate Services Portal; and decision-support tools related to climate change adaptation, biodiversity, and water.
+As a subcontractor to CATIE, DAI has three main deliverables: a regional clearinghouse (Climate Services Portal) based on user-centered design requirements; a Global Development Alliance related to the sustainability of the Climate Services Portal; and decision-support tools related to climate adaptation, biodiversity, and water.
 
 ###  Select Results
 

@@ -1,5 +1,5 @@
 ---
-title: CFA Pakistan to Support Seven New Climate Change Projects
+title: CFA Pakistan to Support Seven New Climate Projects
 date: 2024-09-25 14:16:00 Z
 summary: The Climate Finance Accelerator (CFA) program, a technical assistance program
   funded by the U.K. Department for Energy Security and Net Zero, works with the Government
