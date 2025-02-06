@@ -1,6 +1,6 @@
 ---
 title: 'European Neighbourhood Policy East Countries—Clima East: Support to Climate
-  Change Mitigation and Adaptation'
+  Mitigation and Adaptation'
 date: 2016-01-21 22:40:00 Z
 summary: The Clima East programme helped integrate the countries' climate change strategies,
   greenhouse gases mitigation plans, and adaptation approaches. The programme was
