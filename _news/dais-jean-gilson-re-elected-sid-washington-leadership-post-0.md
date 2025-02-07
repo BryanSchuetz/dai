@@ -15,7 +15,7 @@ Gilson has served on the SID-Washington Board since 2009, including three terms 
 
 SID-Washington is a forum of international development practitioners and organizations and a leading knowledge broker for ideas and best practices. Its workgroups, events, and presentations feature some of the world's top thinkers on issues such as food security and agriculture, women in development, and governance.
 
-"I am excited to serve another term on SID-Washington's executive committee," Gilson said. "This is an important year for international development, with the potential for progress around post-2015 sustainable development goals, financing for development, and climate change objectives. SID-Washington will continue to engage with those debates on behalf of the development practitioners who make this such a stimulating professional forum."
+"I am excited to serve another term on SID-Washington's executive committee," Gilson said. "This is an important year for international development, with the potential for progress around post-2015 sustainable development goals and financing for development. SID-Washington will continue to engage with those debates on behalf of the development practitioners who make this such a stimulating professional forum."
 
 Gilson [also serves][2] as Vice President on the Executive Committee of the Society for International Development headquartered in Rome, the umbrella group of which SID-Washington chapter is a leading member.
 
