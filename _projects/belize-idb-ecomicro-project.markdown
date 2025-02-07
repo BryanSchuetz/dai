@@ -14,7 +14,7 @@ regions: Latin America and the Caribbean
 country: Belize
 ---
 
-Belize ranks fifth at risk in the world for climate change and is increasingly affected by extreme weather events and long-term impacts. Average annual losses incurred from natural disasters are equivalent to almost 4 percent of gross domestic product. The agriculture, fisheries, and livestock sectors of Belize are particularly vulnerable to climate change effects. Micro, small, and medium enterprises make up 70 percent of the export crops; it is critical to protect production and livelihoods to undertake climate mitigation and adaptation efforts.
+Belize is increasingly affected by extreme weather events and long-term impacts. Average annual losses incurred from natural disasters are equivalent to almost 4 percent of gross domestic product. The agriculture, fisheries, and livestock sectors of Belize are particularly vulnerable. Micro, small, and medium enterprises make up 70 percent of the export crops; it is critical to protect production and livelihoods to undertake climate adaptation efforts.
 
 In partnership with the Government of Canada and the InterAmerican Development Bank, DAI supported the Belize Credit Union League (BCUL) and three of its credit unions with financial products customized around climate adaptation, particularly for businesses in the agribusiness, fisheries, and livestock value chains.
 
