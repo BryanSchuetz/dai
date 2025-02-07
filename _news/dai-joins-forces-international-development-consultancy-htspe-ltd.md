@@ -6,10 +6,6 @@ summary: 'HTSPE Ltd. has agreed to join forces with DAI, a global development co
   countries worldwide.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -17,7 +13,7 @@ _Combined entity offers enhanced capabilities and greater value for money to Eur
 
 [HTSPE Ltd.][1] has agreed to join forces with DAI, a global development company with corporate headquarters in London and Washington and project operations in 70 countries worldwide.
 
-Based in Hemel Hempstead in the United Kingdom, HTSPE is currently implementing 200 projects around the world for clients such as the U.K. Department for International Development, EuropeAid, and the World Bank, in technical areas including climate change, land tenure, governance, education, and monitoring & evaluation.
+Based in Hemel Hempstead in the United Kingdom, HTSPE is currently implementing 200 projects around the world for clients such as the U.K. Department for International Development, EuropeAid, and the World Bank, in technical areas including land tenure, governance, education, and monitoring & evaluation.
 
 "This combination brings our European business to a scale that offers significant benefits and complementary capabilities to our core clients in the international donor market," said DAI President and Chief Executive Officer [James Boomgard][2].
 

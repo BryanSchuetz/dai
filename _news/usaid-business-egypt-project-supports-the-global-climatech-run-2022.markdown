@@ -1,6 +1,7 @@
 ---
 title: USAID Business Egypt Project Supports the Global ClimaTech Run 2022
 date: 2022-09-01 12:43:00 Z
+published: false
 solutions:
 - Climate
 - Energy
