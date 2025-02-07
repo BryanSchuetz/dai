@@ -24,5 +24,3 @@ Washington is also one of the key venues for engaging on issues of importance to
 ## Office Contacts
 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
-
-<a href="/who-we-are/global-reach/united-states/contacts/management-business" class="primary-block--button contacts-button">Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
