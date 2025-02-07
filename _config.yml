@@ -10,15 +10,15 @@ collections:
     output: false
   experts:
     title: Experts
-    output: true
+    output: false
     permalink: "/who-we-are/our-team/:path"
   leaders:
     title: Leaders
-    output: true
+    output: false
     permalink: "/who-we-are/leadership/:path"
   members:
     title: Members
-    output: true
+    output: false
     permalink: "/who-we-are/board/:path"
   news:
     title: News
