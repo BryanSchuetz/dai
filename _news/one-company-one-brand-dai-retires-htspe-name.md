@@ -17,7 +17,7 @@ Some seven months after the combination of DAI and HTSPE Ltd., DAI today announc
 
 <iframe allowfullscreen="" autoplay="true" frameborder="0" height="394" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/daiglobal/14822697873/in/set-72157645681202507/player/" webkitallowfullscreen="" width="703"></iframe>
 
-DAI joined forces with Hemel Hempstead-based HTSPE on December 31, 2013, adding to its portfolio more than 100 short- and long-term projects for clients such as the U.K. Department for International Development, EuropeAid, and the World Bank, in technical areas including climate change, land tenure, governance, education, and monitoring and evaluation.
+DAI joined forces with Hemel Hempstead-based HTSPE on December 31, 2013, adding to its portfolio more than 100 short- and long-term projects for clients such as the U.K. Department for International Development, EuropeAid, and the World Bank, in technical areas including land tenure, governance, education, and monitoring and evaluation.
 
 "With half a year of team-building under our belts and operational integration well advanced, we have decided to adopt a single brand that reflects our underlying unity," said Lockett. "In DAI, we have allied with a company founded on the same qualities that have defined HTSPE for decades: professional excellence, responsibility, and integrity. Regardless of the name we use, these will continue to be our watchwords in the years to come."
 

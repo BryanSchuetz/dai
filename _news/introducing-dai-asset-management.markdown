@@ -14,7 +14,7 @@ MicroVest is coming under the umbrella of DAI’s asset management business and 
 
 “We are delighted to formally align with DAI’s brand and its 50-year record of global development expertise,” said DAI Asset Management CEO [Michael Apel](https://www.dai.com/who-we-are/our-team/michael-apel). “As a wholly owned subsidiary of DAI, DAI Asset Management proudly brings our expertise in purposeful investing to our parent company’s broader mission of shaping a more livable world.” 
 
-“This is a natural next step for our business,” said DAI CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard). “We are looking forward to our asset management team’s continued growth and innovation through the development of new products and strategies to address critical social challenges, whether that be tackling climate change and biodiversity loss or finding new ways to drive economic dynamism in emerging economies.” 
+“This is a natural next step for our business,” said DAI CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard). “We are looking forward to our asset management team’s continued growth and innovation through the development of new products and strategies to address critical social challenges, whether that be tackling biodiversity loss or finding new ways to drive economic dynamism in emerging economies.” 
 
 
 ![MV name change preview.png](/uploads/MV%20name%20change%20preview.png)
