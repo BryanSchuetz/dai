@@ -1,6 +1,7 @@
 ---
 title: DAI’s MorSEFF Promotes Sustainable Energy Finance Facility at COP22
 date: 2016-11-22 18:05:00 Z
+published: false
 regions:
 - Middle East and North Africa
 projects: Morocco—Sustainable Energy Financing Facility (MorSEFF)
@@ -12,7 +13,7 @@ summary: 'Representatives from nearly 200 countries recently gathered at the COP
 layout: node
 ---
 
-Representatives from nearly 200 countries recently gathered at the COP22 United Nations Climate Change Conference in Morocco and pledged to move forward on the implementation of the [Paris Agreement](http://newsroom.unfccc.int/unfccc-newsroom/finale-cop21/). More than 50,000 delegates attended multiple events. DAI's [Morocco Sustainable Energy Financing Facility (MorSEFF](/our-work/projects/morocco-sustainable-energy-financing-facility-morseff)) programme shared a booth with the Moroccan Agency for Energy Efficiency in the Innovation Section at the conference.
+Representatives from nearly 200 countries recently gathered at the COP22  Climate Change Conference in Morocco and pledged to move forward on the implementation of the [Paris Agreement](http://newsroom.unfccc.int/unfccc-newsroom/finale-cop21/). More than 50,000 delegates attended multiple events. DAI's [Morocco Sustainable Energy Financing Facility (MorSEFF](/our-work/projects/morocco-sustainable-energy-financing-facility-morseff)) programme shared a booth with the Moroccan Agency for Energy Efficiency in the Innovation Section at the conference.
 
 Developed by the [Bank for Reconstruction and Development (EBRD)](http://www.ebrd.com/), in cooperation with French Agency for Development, European Investment Bank, and KfW Development Bank, MorSEFF is a €110 million credit facility dedicated to financing energy efficiency and small-scale renewable energy investments of private companies in Morocco, through local participating banks.
 
