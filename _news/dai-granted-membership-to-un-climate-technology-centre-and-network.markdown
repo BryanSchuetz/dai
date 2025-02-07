@@ -1,6 +1,7 @@
 ---
 title: DAI Joins UN Climate Technology Centre & Network
 date: 2017-11-30 15:15:00 Z
+published: false
 solutions:
 - Environment
 regions: Worldwide
