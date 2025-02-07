@@ -1,6 +1,11 @@
 ---
 title: DAI’s Chuck Chopak Presents at Annual AIARD Conference
 date: 2013-06-19 18:05:00 Z
+published: false
+solutions:
+- Agriculture and Food Security
+- Economic Growth
+- Nutrition and Food Security
 summary: 'Dr. [Chuck Chopak](/who-we-are/our-team/chuck-chopak), DAI''s Regional Managing
   Director for the Africa region and president of the Association for International
   Agriculture and Rural Development (AIARD), opened the association''s 49th annual
@@ -9,13 +14,6 @@ summary: 'Dr. [Chuck Chopak](/who-we-are/our-team/chuck-chopak), DAI''s Regional
   sector to build consensus and understanding around agricultural development.
 
 '
-solutions:
-- Agriculture and Food Security
-- Economic Growth
-- Nutrition and Food Security
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
