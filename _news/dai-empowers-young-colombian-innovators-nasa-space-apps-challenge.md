@@ -1,10 +1,7 @@
 ---
 title: DAI Empowers Young Colombian Innovators via NASA Space Apps Challenge
 date: 2016-04-21 18:05:00 Z
-summary: Colombia's 2015 floods affected some 18,000 people. They destroyed homes
-  and bridges, caused the suspension of water and sanitation services, and killed
-  at least 83. The loss of life and millions of dollars in damage have re-emphasized
-  the importance of confronting the effects of climate change in Colombia.
+published: false
 solutions:
 - Digital Acceleration
 - Climate
@@ -13,7 +10,10 @@ regions:
 - Latin America and the Caribbean
 projects:
 - USAID Central America Regional Climate Change Program (RCCP)
-clients: 
+summary: Colombia's 2015 floods affected some 18,000 people. They destroyed homes
+  and bridges, caused the suspension of water and sanitation services, and killed
+  at least 83. The loss of life and millions of dollars in damage have re-emphasized
+  the importance of confronting the effects of climate change in Colombia.
 layout: node
 ---
 

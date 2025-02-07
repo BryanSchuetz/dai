@@ -1,6 +1,13 @@
 ---
 title: Nepal Tech Startup Poised for NASA’s International Space Apps Challenge
 date: 2013-04-15 18:05:00 Z
+published: false
+solutions:
+- Environment
+- Climate
+regions:
+- Asia and the Pacific
+projects: Worldwide—SERVIR Program Demand Activity
 summary: 'Space enthusiasts, tech wizards, and citizen scientists the world over are
   prepping for the second International Space Apps Challenge, a 48-hour hackathon
   led by NASA April 20-21. Their mission: use images from space, open-source data,
@@ -8,13 +15,6 @@ summary: 'Space enthusiasts, tech wizards, and citizen scientists the world over
   earth—and beyond.
 
 '
-solutions:
-- Environment
-- Climate
-regions:
-- Asia and the Pacific
-projects: Worldwide—SERVIR Program Demand Activity
-clients: 
 layout: node
 ---
 
