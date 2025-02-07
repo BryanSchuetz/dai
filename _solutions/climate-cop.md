@@ -2,6 +2,7 @@
 title: DAI at COP27
 date: 2022-01-21 18:23:00 Z
 permalink: our-work/solutions/climate-cop
+published: false
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#climate"></use></svg>
 summary: 'As the need to address the global climate crisis becomes ever more pressing,
@@ -15,9 +16,9 @@ redirect_from:
 related: false
 hero: true
 ultrawide: true
-layout: solution
 solutions:
 - Climate
+layout: solution
 ---
 
 <div class="bulma cop27">
