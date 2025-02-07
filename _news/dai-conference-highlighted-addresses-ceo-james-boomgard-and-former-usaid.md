@@ -2,18 +2,14 @@
 title: DAI Conference Highlighted by Addresses from CEO James Boomgard and Former
   USAID Administrator Rajiv Shah
 date: 2016-10-07 18:05:00 Z
+is_featured: false
 summary: The DAI Global Staff Conference launched Monday, October 3, convening more
   than 600 staff from DAI headquarters in Washington and London and from project locations
   all over the world. The weeklong conference in Washington welcomed an array of guests
   to help DAI staff celebrate successes, absorb lessons learned from across the company's
   portfolio, and discuss ways to improve collaboration and deepen the impact of projects
   worldwide.
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
-is_featured: false
 ---
 
 The DAI Global Staff Conference launched Monday, October 3, convening more than 600 staff from DAI headquarters in Washington and London and from project locations all over the world. The weeklong conference in Washington welcomed an array of guests to help DAI staff celebrate successes, absorb lessons learned from across the company's portfolio, and discuss ways to improve collaboration and deepen the impact of projects worldwide.
@@ -29,7 +25,7 @@ Shah discussed international development and how it will change moving forward b
 
 DAI President and CEO James Boomgard then delivered the keynote, which reaffirmed the centrality of DAI's development mission to the company and its employee owners. "Development is the reason we do everything that we do at DAI," he said. "It has always been that way, and I intend for it to always be that way."
 
-The DAI Global Staff Conference continued Wednesday and Thursday, with panel discussions and workshops delving into political economy analysis, domestic resource mobilization, resiliency, innovation, ICT, global health climate change, land tenure, and countering violent extremism, among more than 80 sessions on the agenda.
+The DAI Global Staff Conference continued Wednesday and Thursday, with panel discussions and workshops delving into political economy analysis, domestic resource mobilization, resiliency, innovation, ICT, global health, land tenure, and countering violent extremism, among more than 80 sessions on the agenda.
 
 ![][4]
 `Ting Shih, founder and CEO of ClickMedix and a winner of the DAI Innovation into Action Challenge, discusses her health services application with the other Challenge winners, from left, Ben Grimley, CEO of Speak Agent; DAI's Caity Campos, representing Laboratoria Mexico; and Phil Hughes, founder of Mavuno Harvest.`
