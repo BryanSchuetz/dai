@@ -1,6 +1,6 @@
 ---
-title: U.S. Climate Envoy John Kerry Visits USAID Vietnam Urban Energy Security Project
-  for Innovation Challenge Fund Launch
+title: John Kerry Visits Urban Energy Security Project for Innovation Challenge Fund
+  Launch
 date: 2022-02-23 13:48:00 Z
 is_featured: true
 solutions:
@@ -28,7 +28,7 @@ The U.S. Agency for International Development (USAID) has launched a $2.5 millio
 
 The Innovation Challenge Fund—managed by the DAI-led [Vietnam Urban Energy Security](https://www.dai.com/our-work/projects/vietnam-urban-energy-security) project—provides awards up to $100,000 to organizations with promising new products, business models, or financing models for advanced, distributed urban energy systems in Danang or Ho Chi Minh cities. Successful pilots and demonstrations may receive further support to scale and become commercially viable.
 
-“Reducing emissions from the energy sector is critical for Vietnam to reach its net-zero goals,” said USAID Vietnam Mission Director [Ann Marie Yastishock](https://www.usaid.gov/who-we-are/organization/ann-marie-yastishock). “A key part of our partnership with Vietnam is to catalyze and expand the market potential for innovative solutions to urban energy and environmental issues.”
+“A key part of our partnership with Vietnam is to catalyze and expand the market potential for innovative solutions to urban energy and environmental issues,” said USAID Vietnam Mission Director Ann Marie Yastishock.
 
 The first round of awards under the fund will support technologies or practices covering transportation, building efficiency, electricity generation, electricity delivery and management, and water efficiency. The five first awardees are:
 
