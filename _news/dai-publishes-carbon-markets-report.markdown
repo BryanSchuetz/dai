@@ -20,7 +20,7 @@ The report features contributions from leading experts from organizations such a
 
 Carbon markets were a focal point of discussions at COP29 in Baku, Azerbaijan. With potential revenues up to $30 billion by 2030, these markets are poised to play a pivotal role in funding national climate action plans.
 
-“In the developing world, carbon markets have great potential to drive sustainable development, attract investment, and address climate change,” said [Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen), DAI’s Vice President of Environment and Energy. “Unlocking this potential will require coordinated efforts from governments and development partners.”
+“In the developing world, carbon markets have great potential to drive sustainable development and attract investment,” said [Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen), DAI’s Vice President of Environment and Energy. “Unlocking this potential will require coordinated efforts from governments and development partners.”
 
 [Christy Owen](https://www.dai.com/who-we-are/our-team/christy-owen), Senior Lead Specialist, Climate, Land and Natural Resources, emphasized the importance of learning from existing successes. “Notable progress was made on Article 6 during COP29, particularly in clarifying how countries authorize carbon credit trading and operate registries to track trades. However, there is still significant work ahead to build a high-integrity, transparent marketplace that delivers equitable benefits to all stakeholders.”
 
