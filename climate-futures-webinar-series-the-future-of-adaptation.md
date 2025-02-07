@@ -1,7 +1,8 @@
 ---
 title: 'Climate Futures Webinar Series: The Future of Adaptation'
-layout: default
+published: false
 social-image: "/uploads/climate-webinar-promo.png"
+layout: default
 ---
 
 # Climate Futures Webinar Series: The Future of Adaptation
