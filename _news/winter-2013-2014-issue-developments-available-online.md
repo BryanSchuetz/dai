@@ -1,6 +1,7 @@
 ---
 title: Winter 2013-2014 Issue of Developments is Available Online
 date: 2014-02-28 18:05:00 Z
+published: false
 summary: The Winter 2013-2014 issue of DAI's _Developments_ newsletter is now available.
 layout: node
 ---
