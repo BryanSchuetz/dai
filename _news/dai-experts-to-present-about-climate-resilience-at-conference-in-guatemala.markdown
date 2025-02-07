@@ -1,6 +1,7 @@
 ---
 title: DAI Experts to Present on Climate Resilience at Conference in Guatemala
 date: 2018-06-11 18:49:00 Z
+published: false
 solutions:
 - Climate
 - ICT
