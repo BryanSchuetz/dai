@@ -1,9 +1,9 @@
 ---
 title: The DAI Board
 permalink: "/who-we-are/leadership/board.html"
+published: false
 related: false
 layout: node
-published: false
 ---
 
 Our Board ensures that DAI is serving the interests of its employee owners and fulfilling its mission to make a difference in the world. 
