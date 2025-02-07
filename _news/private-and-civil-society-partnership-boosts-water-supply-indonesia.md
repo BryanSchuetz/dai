@@ -1,18 +1,17 @@
 ---
 title: Private and Civil Society Partnership Boosts Water Supply in Indonesia
 date: 2014-02-20 18:05:00 Z
-summary: 'East Java''s dwindling supply of raw water is being replenished thanks to
-  an initiative launched by the U.S. Agency for International Development (USAID)
-  and two key partners in Indonesia''s private and civil society sectors.
-
-'
 solutions:
 - Environment
 - Global Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)
-clients: 
+summary: 'East Java''s dwindling supply of raw water is being replenished thanks to
+  an initiative launched by the U.S. Agency for International Development (USAID)
+  and two key partners in Indonesia''s private and civil society sectors.
+
+'
 layout: node
 ---
 
@@ -24,7 +23,7 @@ The USAID-funded [Indonesia Urban Water, Sanitation, and Hygiene][1] (IUWASH) pr
 
 (The inauguration of the ponds was attended by the U.S. Consular General, Vice Governor of East Java Province, and the Deputy District Chief of Mojokerto.)
 
-More and more Indonesian water utilities are facing shortages of raw water due to environmental degradation in upstream areas and the increasingly tangible effects of climate change. Changing rainfall patterns have already led to declines in water from local aquifers. With less raw water available, efforts to expand access to safe water for Indonesia's rapidly growing urban population are hampered.
+More and more Indonesian water utilities are facing shortages of raw water due to environmental degradation in upstream areas. Changing rainfall patterns have already led to declines in water from local aquifers. With less raw water available, efforts to expand access to safe water for Indonesia's rapidly growing urban population are hampered.
 
 Water infiltration ponds capture rainwater that would normally be lost as runoff into nearby streams and, instead, allow it to infiltrate the ground and recharge the aquifer. Water stored in the aquifer can then be extracted either through wells or natural springs for downstream users.
 
