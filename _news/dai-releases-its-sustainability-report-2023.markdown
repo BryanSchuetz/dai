@@ -14,7 +14,7 @@ social-image: "/uploads/sm-af97ff.png"
 country: Worldwide
 ---
 
-DAI is pleased to publish its [Sustainability Report 2023](https://dai-assets.s3.amazonaws.com/our-work/Sustainability%20Report%202023.pdf), highlighting some of the impact we have achieved in pursuit of the Sustainable Development Goals (SDGs) and documenting the progress achieved against our targets. 
+DAI is pleased to publish the Sustainability Report 2023, highlighting some of the impact we have achieved in pursuit of the Sustainable Development Goals (SDGs) and documenting the progress achieved against our targets. 
 
 In a year that saw the eruption or escalation of several crises, DAI reacted accordingly and adapted to changing situations on the ground in Afghanistan, Haiti, Palestine, Ukraine, and other troubled places around the globe. 
 
@@ -22,6 +22,6 @@ In a year that saw the eruption or escalation of several crises, DAI reacted acc
 
 “In [these] cases, we turn, as we always do, to our outstanding Global Security professionals—working hand in hand with our Global Workforce and country teams—for their real-time intelligence, risk assessments, and recommendations,” writes President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard) in his preface, which focuses on the need for effective risk management in a time marked by social, geopolitical, and environmental turbulence. 
 
-“Effective risk management is one part of what it means to be a responsible business—a company that, among other things, protects the natural environment and seeks to mitigate climate change, respects and rewards its workforce, rejects discrimination, sees diversity as a strength, and upholds the highest ethical standards.”
+“Effective risk management is one part of what it means to be a responsible business—a company that, among other things, protects the natural environment, respects and rewards its workforce, and upholds the highest ethical standards.”
 
 The first part of the report details steps DAI is taking in the environmental, social, and governance domains to build on its long-standing commitment to operate as a responsible business. The second part highlights our contributions across all 17 SDGs, illustrating how DAI is working with governments, businesses, and investors around the world to deliver sustainable development impact.
