@@ -1,6 +1,7 @@
 ---
 title: DAI Joins the International Renewable Energy Agency (IRENA) Coalition for Action
 date: 2022-06-23 07:20:00 Z
+published: false
 solutions:
 - Climate
 - Energy
