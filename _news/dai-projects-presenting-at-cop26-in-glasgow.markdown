@@ -1,6 +1,7 @@
 ---
 title: DAI Projects Presenting at COP26 in Glasgow
 date: 2021-11-01 09:18:00 Z
+published: false
 solutions:
 - Climate
 - Climate Change Adaptation and Mitigation
