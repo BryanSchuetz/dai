@@ -1,6 +1,10 @@
 ---
 title: FRAMEweb Turns 10
 date: 2013-02-18 18:05:00 Z
+solutions:
+- Environment
+- Climate
+- Digital Acceleration
 summary: 'The DAI-led FRAMEweb online community celebrates its 10th year this month.
   FRAMEweb, funded by the U.S. Agency for International Development (USAID), connects
   natural resource management (NRM) practitioners and local champions, shares the
@@ -9,13 +13,6 @@ summary: 'The DAI-led FRAMEweb online community celebrates its 10th year this mo
   with more than 2,750 members who live and work in 120 countries.
 
 '
-solutions:
-- Environment
-- Climate
-- Digital Acceleration
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -27,7 +24,7 @@ In conceiving the website, USAID envisioned a platform that would foster knowled
 
 "I use FRAMEweb to learn from stories of other communities of practice and enjoy measuring their relevance and applicability to our work," said Abu-Bakar Massaquoi of the U.S. Forest Service's international programs.
 
-The site has come to connect practitioners in even the most remote areas, particularly those affected by global environmental challenges such as natural disaster, food security, and climate change, allowing them to mutually learn on-the-ground solutions to similar environmental drivers.
+The site has come to connect practitioners in even the most remote areas, particularly those affected by global environmental challenges such as natural disaster and food security, allowing them to mutually learn on-the-ground solutions to similar environmental drivers.
 
 For other practitioners, it's a place to connect and collaborate around specific expertise or areas of interest. "FRAMEweb has been very useful in connecting me with people who believe in community-based NRM and want to push it forward," said Shreya Metha of Engility.
 
