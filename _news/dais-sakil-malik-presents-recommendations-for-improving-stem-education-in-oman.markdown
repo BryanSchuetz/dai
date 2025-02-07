@@ -26,7 +26,7 @@ Malik has led [education](https://www.dai.com/our-work/solutions/education) init
 
 * Using project-based learning that children can pursue in teams and accomplish within a set timeframe.
 
-* Incorporating global grand challenges—in food, housing, transportation, climate change, security, and other areas in children’s learning—so today’s students are better prepared to address real-world challenges in coming decades.
+* Incorporating global grand challenges—in food, housing, transportation, security, and other areas in children’s learning—so today’s students are better prepared to address real-world challenges in coming decades.
 
 * Building flexible learning spaces that integrate tools, games, immersive media, and augmented and virtual reality, as well as accommodating children of varying abilities, including the disabled.
 

@@ -1,18 +1,15 @@
 ---
 title: DAI Selected as Top Innovator in Global Poll
 date: 2011-04-08 18:05:00 Z
+solutions:
+- Innovation and Entrepreneurship
+- Digital Acceleration
 summary: 'Bethesda, Maryland—DAI has been named a Devex Top 40 Development Innovator,
   one of only 10 consulting firms so honored globally. The award was based on a poll
   of 100,000 Devex members, who comprise the world''s largest network of aid and international
   development professionals.
 
 '
-solutions:
-- Innovation and Entrepreneurship
-- Digital Acceleration
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -26,7 +23,7 @@ Recent DAI innovations include:
 
 * Using results-based financing to incentivize water service providers in Cambodia to pipe clean water into poor areas—resulting in sustainable connections to more than 11,000 households and 67,000 people at a fraction of the cost of most donor-funded piped-water initiatives.
 * Promoting household nutrition gardens to provide food security and improved incomes for HIV/AIDS-affected women and children in Ethiopia's urban centers—reaching more than 100,000 orphans and vulnerable children.
-* Uniting the climate change, forest preservation, and biodiversity agendas by increasing private sector involvement in orangutan conservation in Indonesia—leading to more than half a million acres of industrial forests managed using best practices for orangutans.
+* Uniting the forest preservation and biodiversity agendas by increasing private sector involvement in orangutan conservation in Indonesia—leading to more than half a million acres of industrial forests managed using best practices for orangutans.
 
 Betsy Marcotte, DAI's Senior Vice President for Technical Programs, emphasized that these successes could only have been facilitated through local collaboration.
 
