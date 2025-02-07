@@ -13,19 +13,14 @@ solutions:
 regions: Middle East and North Africa
 country: Regional
 promos:
-- title: Project-Supported Tunisian City Named a Frontrunner in Global Climate City
-    Challenge
-  link: https://www.dai.com/news/project-supported-tunisian-city-named-a-frontrunner-in-global-climate-city-challenge
-- title: 'Climate Change Governance: Six Lessons Learned'
-  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 - title: 'Funding Climate Action in the South Mediterranean: Local Authorities Take
     the Lead'
   link: https://dai-global-developments.com/articles/funding-climate-action-in-the-south-mediterranean-local-authorities-take-the-lead/
 ---
 
-Identified as a [climate change hotspot region](https://www.iucn.org/regions/mediterranean/our-work/climate-change-mediterranean), the Southern Mediterranean region is seeing increasing water scarcity, rising temperatures, and growing rates of desertification. The increasing frequency of climate change impacts affects both socio-economic development and the geopolitical environment. The multidimensional nature of climate change calls for a coherent and coordinated multi-sectoral response.
+Identified as a [a hotspot region for changes to climate](https://www.iucn.org/regions/mediterranean/our-work/climate-change-mediterranean), the Southern Mediterranean region is seeing increasing water scarcity, rising temperatures, and growing rates of desertification. The increasing frequency of severe weather impacts affects both socio-economic development and the geopolitical environment. The multidimensional nature of the changes call for a coherent and coordinated multi-sectoral response.
  
-DAI is supporting a regional approach to support the transition towards sustainable, low-carbon, and climate-resilient development. The ultimate objective of the [Clima-Med project](https://www.climamed.eu/) is to enhance the energy security and adaptive capacity of the partner countries, leading to more stable, efficient, competitive, and climate-resilient socioeconomic contexts, while increasing energy sovereignty and reducing emissions—in Algeria, Egypt, Israel, Jordan, Lebanon, Morocco, Palestine, and Tunisia.
+The ultimate objective of the [Clima-Med project](https://www.climamed.eu/) is to enhance the energy security and adaptive capacity of the partner countries, leading to more stable, efficient, competitive, and climate-resilient socioeconomic contexts, while increasing energy sovereignty and reducing emissions—in Algeria, Egypt, Israel, Jordan, Lebanon, Morocco, Palestine, and Tunisia.
 
 ![climamed.jpg](/uploads/climamed.jpg)
 
