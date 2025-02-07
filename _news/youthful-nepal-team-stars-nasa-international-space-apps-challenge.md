@@ -1,19 +1,19 @@
 ---
 title: Youthful Nepal Team Stars in NASA’s International Space Apps Challenge
 date: 2013-04-26 18:05:00 Z
-summary: 'In sheer numbers, the second NASA International Space Apps Challenge April
-  20-21 made a big splash. More than 9,000 people worldwide—four times as many as
-  last year—dove into the 48-hour hackathon to confront questions of space exploration
-  and social need, churning out some 600 potential solutions.
-
-'
+published: false
 solutions:
 - Climate
 - Environment
 regions:
 - Asia and the Pacific
 projects: Worldwide—SERVIR Program Demand Activity
-clients: 
+summary: 'In sheer numbers, the second NASA International Space Apps Challenge April
+  20-21 made a big splash. More than 9,000 people worldwide—four times as many as
+  last year—dove into the 48-hour hackathon to confront questions of space exploration
+  and social need, churning out some 600 potential solutions.
+
+'
 layout: node
 ---
 

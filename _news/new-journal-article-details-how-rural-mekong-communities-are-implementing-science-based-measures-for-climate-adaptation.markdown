@@ -1,6 +1,7 @@
 ---
 title: New Journal Article Details How Mekong Communities Implement Climate Adaptation
 date: 2017-01-18 18:41:00 Z
+published: false
 solutions:
 - Natural Resource Management
 - Climate

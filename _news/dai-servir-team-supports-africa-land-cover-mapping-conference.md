@@ -1,13 +1,6 @@
 ---
 title: DAI’s SERVIR Team Supports Africa Land Cover Mapping Conference
 date: 2013-07-11 18:05:00 Z
-summary: 'The International Symposium on Land Cover Mapping for the African Continent,
-  hosted by the United Nations Environment Programme (UNEP) and the Regional Centre
-  for Mapping of Resources for Development (RCMRD), with support from the U.S. Department
-  of the Interior, Tsinghua University, and the joint USAID/NASA SERVIR program recently
-  took place in Nairobi, Kenya.
-
-'
 solutions:
 - Climate
 - Environment
@@ -16,13 +9,19 @@ solutions:
 regions:
 - Sub-Saharan Africa
 projects: Worldwide—SERVIR Program Demand Activity
-clients: 
+summary: 'The International Symposium on Land Cover Mapping for the African Continent,
+  hosted by the United Nations Environment Programme (UNEP) and the Regional Centre
+  for Mapping of Resources for Development (RCMRD), with support from the U.S. Department
+  of the Interior, Tsinghua University, and the joint USAID/NASA SERVIR program recently
+  took place in Nairobi, Kenya.
+
+'
 layout: node
 ---
 
 The International Symposium on Land Cover Mapping for the African Continent, hosted by the United Nations Environment Programme (UNEP) and the Regional Centre for Mapping of Resources for Development (RCMRD), with support from the U.S. Department of the Interior, Tsinghua University, and the joint USAID/NASA SERVIR program recently took place in Nairobi, Kenya. 
 
-Land-cover data—mapping out forests, grasslands, urban areas, and agricultural lands—are critical for sustainable development and environmental applications. The data inform weather forecasting, human and ecosystem health, climate change, agricultural sustainability, management of water, forest and other natural resources, land use planning, reducing land degradation, conservation of biodiversity, and renewable energy assessment. Information on land-cover changes over time provides significant value to the scientific community and the general public. Accurate land-cover information also plays a critical role in supporting policy and decision-making at local, regional, continental, and global levels.
+Land-cover data—mapping out forests, grasslands, urban areas, and agricultural lands—are critical for sustainable development and environmental applications. The data inform weather forecasting, human and ecosystem health, agricultural sustainability, management of water, forest and other natural resources, land use planning, reducing land degradation, conservation of biodiversity, and renewable energy assessment. Information on land-cover changes over time provides significant value to the scientific community and the general public. Accurate land-cover information also plays a critical role in supporting policy and decision-making at local, regional, continental, and global levels.
 
 <iframe src="https://www.flickr.com/photos/daiglobal/9262087933/in/set-72157634592969463/player/" width="703" height="394" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
 
