@@ -2,6 +2,7 @@
 title: Leadership
 permalink: "/who-we-are/leaders"
 related: false
+published: false
 redirect_from:
 - "/who-we-are/leadership"
 layout: node
@@ -11,7 +12,6 @@ summary: From our Board to our executives to our in-country directors, DAI’s l
   to delivering both transformational results and optimal value.
 hero: true
 ---
-
 {%- assign leaders = site.data.leadership -%}
 {%- if jekyll.environment == 'prod' -%}
 {%- assign leaders = leaders | shuffle -%}
