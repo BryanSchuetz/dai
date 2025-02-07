@@ -1,16 +1,13 @@
 ---
 title: DAI’s Jim Winkler Elected to American University of Mongolia Board of Directors
 date: 2013-03-19 18:05:00 Z
+regions:
+- Asia and the Pacific
 summary: 'DAI''s Vice President of Solutions [Jim Winkler](/who-we-are/leadership/jim-winkler)
   on March 14 was elected to the Board of Directors of the newly established American
   University of Mongolia (AUM).
 
 '
-solutions: 
-regions:
-- Asia and the Pacific
-projects: 
-clients: 
 layout: node
 ---
 
@@ -18,7 +15,7 @@ DAI's Vice President of Solutions [Jim Winkler][1] on March 14 was elected to th
 
 An economist who specializes in private sector development, economic growth, competitiveness, and governance, Jim has supervised more than 50 long-term DAI projects funded by the U.S. Agency for International Development (USAID), personally managing projects in [Vietnam][2], Croatia, Cambodia, and the Palestinian Territories. Jim holds a Ph.D. in international relations from The Fletcher School, Tufts University.
 
-As head of DAI's [Solutions][3] group, Jim leads a team of 50 core technical staff and global practices in economic growth, economic and social stability, agriculture and agribusiness, health, governance, and environment and climate change.
+As head of DAI's [Solutions][3] group, Jim leads a team of 50 core technical staff and global practices in economic growth, economic and social stability, agriculture and agribusiness, health, governance, and environment.
 
 "I have known Jim Winkler for many years as a colleague at DAI," said AUM Chairman J. Peter Morrow, the former CEO of Khan Bank. "With his academic background and development experience, we welcome him and his contribution to the building of the university."
 
