@@ -1,7 +1,7 @@
 ---
 title: DAI People
-published: false
 permalink: "/careers/dai-people"
+published: false
 careers: true
 feature-title: DAI employs talented professionals all over the world in support of
   our mission.
