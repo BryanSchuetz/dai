@@ -1,5 +1,5 @@
 ---
-title: DAI to Lead COAST Program to Improve Coastal Communities’ Climate Resilience
+title: DAI to Lead COAST Program to Improve Coastal Communities’ Resilience
 date: 2024-11-26 09:58:00 Z
 is_featured: false
 solutions:
@@ -13,7 +13,7 @@ summary: 'DAI partners with the U.K. FCDO on the Climate and Ocean Adaptation an
 social-image: "/uploads/joel-vodell-BSlEq_yMQIE-unsplash.jpg"
 ---
 
-DAI is delighted to partner with the U.K. Foreign, Commonwealth & Development Office on the Climate and Ocean Adaptation and Sustainable Transition (COAST) program to assist coastal communities to build resilience to climate change. The five-year program, which consists of several components, will focus on protecting and restoring coastal habitats, improving small-scale fisheries, scaling climate-smart aquaculture, and strengthening coastal planning and governance.
+DAI is delighted to partner with the U.K. Foreign, Commonwealth & Development Office on the Climate and Ocean Adaptation and Sustainable Transition (COAST) program to assist coastal communities to build resilience to changes in climate. The five-year program, which consists of several components, will focus on protecting and restoring coastal habitats, improving small-scale fisheries, scaling climate-smart aquaculture, and strengthening coastal planning and governance.
 
 ![joel-vodell-BSlEq_yMQIE-unsplash.jpg](/uploads/joel-vodell-BSlEq_yMQIE-unsplash.jpg)
 
@@ -25,5 +25,5 @@ In collaboration with consortium partners Blue Green Advisors, Monterey Bay Aqua
 
 COAST will advocate for systemic changes that enhance social equity, economic security, and environmental conservation—especially reforms that support vulnerable and excluded groups—by championing private sector initiatives, addressing regulatory constraints, incentivizing community ownership, and protecting important habitats such as mangroves, seagrasses, and coral reefs.
 
-“Although the impacts of climate change are global, resilience starts with local communities,” said Teoh. “We’ll be working with some exceptional partners and an in-country team that brings to the project vital technical expertise and grounded, local knowledge. Championing a bottom-up approach to coastal resilience will lead to significant community impact while fostering more sustainable economic prosperity and coastal resilience.” 
+“We’ll be working with some exceptional partners and an in-country team that brings to the project vital technical expertise and grounded, local knowledge," said Teoh. "Championing a bottom-up approach to coastal resilience will lead to significant community impact while fostering more sustainable economic prosperity.” 
 

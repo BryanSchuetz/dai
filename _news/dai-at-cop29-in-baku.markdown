@@ -1,6 +1,7 @@
 ---
 title: DAI at COP29 in Baku, Azerbaijan
 date: 2024-11-11 14:01:00 Z
+published: false
 summary: DAI-led projects and technical experts are participating in COP29 in Baku,
   Azerbaijan. This year, we focus on representation from our projects, who are best
   placed to provide local perspectives on climate challenges and successes, including
