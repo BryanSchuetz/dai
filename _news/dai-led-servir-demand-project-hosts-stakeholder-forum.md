@@ -1,17 +1,16 @@
 ---
 title: DAI-led SERVIR Demand Project Hosts Stakeholder Forum
 date: 2015-06-08 18:05:00 Z
+published: false
+solutions:
+- Environment
+- Climate
+projects: Worldwide—SERVIR Program Demand Activity
 summary: 'The DAI-led SERVIR Program Demand Activity brought together representatives
   from nearly 20 organizations that work at the nexus of global climate change and
   technology for an inaugural two-day forum around the topic of collaboration.
 
 '
-solutions:
-- Environment
-- Climate
-regions: 
-projects: Worldwide—SERVIR Program Demand Activity
-clients: 
 layout: node
 ---
 
