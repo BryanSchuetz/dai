@@ -1,6 +1,7 @@
 ---
 title: DAI-Led Project Wins United Nations Award for Climate Finance
 date: 2021-10-14 13:47:00 Z
+published: false
 tags:
 - climate
 - Palestine
