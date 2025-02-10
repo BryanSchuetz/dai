@@ -40,6 +40,6 @@ C-CAP focused on Fiji, Kiribati, Nauru, Palau, Papua New Guinea, Republic of Mar
 * Completed Disaster Risk Reduction, Disaster Response, and disaster simulation exercises in 67 communities.
 * Through training and workshops, C-CAP found—using pre- and post- workshop evaluations—that participant awareness had increased by 57 percent about the types of adaptation interventions that can be useful to mitigate the effects of changes in climate.
 
-<iframe src="https://DAIGlobal.exposure.co/trouble-in-paradise/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/trouble-in-paradise">Trouble in Paradise</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>
+<iframe src="https://DAIGlobal.exposure.co/trouble-in-paradise/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/trouble-in-paradise">Trouble in Paradise</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a> 
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/daiglobal/8206353128/in/set-72157632067577502/player/" webkitallowfullscreen="" width="703"></iframe>
