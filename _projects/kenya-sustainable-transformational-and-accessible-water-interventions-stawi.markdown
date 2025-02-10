@@ -8,6 +8,7 @@ summary: The Kenya Sustainable Transformational and Accessible Water Interventio
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Environment

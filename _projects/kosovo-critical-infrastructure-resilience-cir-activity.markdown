@@ -8,6 +8,7 @@ summary: The Critical Infrastructure Resilience (CIR) Activity protects Kosovoâ€
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Digital Acceleration
 - Digital Strategy

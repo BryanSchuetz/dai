@@ -7,6 +7,7 @@ summary: 'The Public Financial Management and Administration (PFMA) project is a
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

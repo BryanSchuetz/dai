@@ -7,6 +7,7 @@ summary: The USAID Jordan Municipal Support Program improves local government se
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

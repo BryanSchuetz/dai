@@ -8,6 +8,7 @@ summary: WSC is increasing the volumes of wastewater treated, reducing the pollu
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Water Security, Sanitation, and Hygiene
 - Energy

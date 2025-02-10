@@ -7,6 +7,7 @@ summary: 'The U.S. Agency for International Development (USAID)-funded Western K
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

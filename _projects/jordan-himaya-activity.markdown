@@ -6,6 +6,7 @@ summary: The Himaya Activity works to improve—and expand access to—essential
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Gender and Social Inclusion

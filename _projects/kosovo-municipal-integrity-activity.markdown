@@ -8,6 +8,7 @@ summary: The Municipal Integrity activity works with Kosovo's central government
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

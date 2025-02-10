@@ -8,6 +8,7 @@ summary: 'The Local Empowerment for Accountability and Decentralization Activity
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

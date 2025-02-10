@@ -7,6 +7,7 @@ summary: The Kenya Primary Education Evaluation and Assessment Program strengthe
 start: 2024
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Education
 - Governance
