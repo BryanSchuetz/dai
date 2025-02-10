@@ -23,7 +23,7 @@ For more than 50 years, the true measure of our success has been the success of 
 
 ## Office Contacts
 
-Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
+DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
 <a href="/who-we-are/global-reach/united-kingdom/contacts/management" class="primary-block--button contacts-button">
 Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
