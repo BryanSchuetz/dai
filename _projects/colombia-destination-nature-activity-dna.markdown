@@ -1,13 +1,13 @@
 ---
 title: Colombia—Destination Nature Activity (DNA)
 date: 2022-11-17 13:46:00 Z
+published: false
 summary: 'The Destination Nature Activity conserves biodiversity and reduces greenhouse
   gas emissions by supporting rural communities to make a living from sustainable
   nature tourism. '
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Natural Resource Management

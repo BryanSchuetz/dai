@@ -1,6 +1,7 @@
 ---
 title: Bangladesh—Systems Strengthening for One Health Activity
 date: 2024-04-17 13:58:00 Z
+published: false
 summary: The Bangladesh Systems Strengthening for One Health Activity is an initiative
   to enhance the country's capacity to prevent, detect, and respond to emerging infectious
   and endemic zoonotic diseases, while also addressing the challenge of antimicrobial
@@ -8,7 +9,6 @@ summary: The Bangladesh Systems Strengthening for One Health Activity is an init
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness

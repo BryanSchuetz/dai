@@ -2,6 +2,7 @@
 title: Haiti—Feed the Future Resilience and Agriculture Sector Advancement (HRASA)
   Activity
 date: 2021-10-06 09:22:00 Z
+published: false
 summary: The Haiti Resilience and Agriculture Sector Advancement Activity improves
   the efficiency and effectiveness of existing market system actors; stimulates and
   expands private sector engagement and investment in agricultural market systems;
@@ -10,7 +11,6 @@ summary: The Haiti Resilience and Agriculture Sector Advancement Activity improv
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Agriculture and Food Security

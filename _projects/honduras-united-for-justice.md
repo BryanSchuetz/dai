@@ -2,6 +2,7 @@
 title: Honduras—Justice, Human Rights, and Security Strengthening Activity (Unidos
   por la Justicia)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: The Justice, Human Rights, and Security Strengthening Activity (Unidos por
   la Justicia) works with local partners to improve citizen engagement with the security
   and justice sectors; enhance the efficiency of the judicial system; and increase
@@ -9,7 +10,6 @@ summary: The Justice, Human Rights, and Security Strengthening Activity (Unidos 
 start: 2016
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Institutional and Policy Reform

@@ -1,13 +1,13 @@
 ---
 title: Honduras—Building Climate Resilience Activity
 date: 2022-09-23 15:30:00 Z
+published: false
 summary: 'The Building Climate Resilience Activity strengthens the capacity of Honduran
   systems to respond to climate variability and change, thereby helping address underlying
   factors that contribute to irregular migration.  '
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Climate

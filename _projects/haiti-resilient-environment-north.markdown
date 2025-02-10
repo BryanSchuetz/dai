@@ -1,13 +1,13 @@
 ---
 title: Haiti—Projet Paysages Résilients-Nord (PPR-Nord)
 date: 2022-10-27 09:59:00 Z
+published: false
 summary: The Haiti *Projet Paysages Résilients-Nord* (PPR-Nord) activity build communities’
   resilience to reduce vulnerability and to facilitate growth. PPR-Nord promotes sustainable
   watershed management practices across households, communities, and sub-watersheds.
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Climate

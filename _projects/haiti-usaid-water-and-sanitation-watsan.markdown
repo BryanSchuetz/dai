@@ -2,6 +2,7 @@
 title: Haiti—USAID Water and Sanitation; Water Security and Systems Strengthening
   Activity (USAID Eau)
 date: 2018-01-01 20:11:00 Z
+published: false
 summary: USAID Eau partners with multiple stakeholders—water utilities in larger towns
   and smaller water systems, regional water authorities, the national water authority,
   civil society organizations, and private entities—to transform the water sector
@@ -11,7 +12,6 @@ summary: USAID Eau partners with multiple stakeholders—water utilities in larg
 start: 2017
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

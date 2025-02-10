@@ -1,12 +1,12 @@
 ---
 title: El Salvador—Investment Promotion Project (IPP)
 date: 2024-10-16 13:06:00 Z
+published: false
 summary: The Investment Promotion Project is a five-year USAID initiative to increase
   investment and access to finance in El Salvador.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Finance and Investment

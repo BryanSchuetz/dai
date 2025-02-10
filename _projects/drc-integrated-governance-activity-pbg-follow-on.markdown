@@ -2,13 +2,13 @@
 title: Democratic Republic of the Congo—Integrated Governance Activity (IGA); Good
   Governance Activity (GGA)
 date: 2017-02-23 21:19:00 Z
+published: false
 summary: 'The Good Governance Activity seeks to improve the transparency and accountability
   of DRC provincial and local government authorities in managing public financial
   resources, thus increasing the availability of those resources for local development. '
 start: 2017
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

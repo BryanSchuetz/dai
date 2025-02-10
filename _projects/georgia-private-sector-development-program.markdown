@@ -1,6 +1,7 @@
 ---
 title: Georgia—Private Sector Development Program
 date: 2024-10-23 13:46:00 Z
+published: false
 summary: The program improves the productivity and economic competitiveness of Georgian
   enterprises in the tourism, light manufacturing, digital, and solid waste management
   sectors, while strengthening Georgia’s economic ecosystem to support further growth
@@ -8,7 +9,6 @@ summary: The program improves the productivity and economic competitiveness of G
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Environment
