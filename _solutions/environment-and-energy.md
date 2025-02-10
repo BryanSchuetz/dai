@@ -7,8 +7,8 @@ newIcon: _icons/environment.html
 icon: <svg class="env-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#env-badge"></use></svg>
 summary: Improved management of natural resources and important ecosystem services
-  not only supports economic growth and strengthens resilience to climate change but
-  also can provide the foundation for sustainable development.
+  not only supports economic growth and strengthens resilience to changes in climate
+  but also can provide the foundation for sustainable development.
 type: primary
 promos:
 - title: "**Our Team:** DAI Environment Experts"
@@ -24,7 +24,7 @@ layout: solution
 
 **Sound management of the earth’s ecosystems is fundamental for sustained economic growth, livelihoods, security, and human well-being. Natural resources such as clean water and air, forests, agricultural land, and coastal systems all provide the basis for lasting human development and resilience.**
 
-But expanding populations, political instability, and climate change are increasing pressure on the natural systems on which human development depends. DAI partners with government, the private sector, nongovernmental organizations, and local stakeholders to create environmental solutions that improve livelihoods, protect precious water supplies, conserve natural habitats and biodiversity, and strengthen resilience to climate change and other natural and man-made shocks.
+But expanding populations, political instability, and changes to climate are increasing pressure on the natural systems on which human development depends. DAI partners with government, the private sector, nongovernmental organizations, and local stakeholders to create environmental solutions that improve livelihoods, protect precious water supplies, conserve natural habitats and biodiversity, and strengthen resilience to weather-related events and other natural and man-made shocks.
 
 Over the past 40 years, we have amassed the experience needed to tailor our global expertise to relevant local development priorities. Tapping our worldwide network of development professionals, we help local and national stakeholders design and implement people-focused approaches that deliver development results for clients in:
 
