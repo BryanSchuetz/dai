@@ -8,6 +8,7 @@ summary: 'Business Egypt is building a robust ecosystem of market-led institutio
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Climate

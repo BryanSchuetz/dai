@@ -7,6 +7,7 @@ summary: The Water Services Project aims to improve the quality of—and access 
 start: 2024
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Water Security, Sanitation, and Hygiene

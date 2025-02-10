@@ -7,6 +7,7 @@ summary: The Egypt Economic Governance Activity (EGA) works with the Government 
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

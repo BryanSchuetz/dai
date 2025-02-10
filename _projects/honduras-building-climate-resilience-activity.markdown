@@ -7,6 +7,7 @@ summary: 'The Building Climate Resilience Activity strengthens the capacity of H
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Climate

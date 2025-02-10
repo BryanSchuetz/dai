@@ -7,6 +7,7 @@ summary: The USAID Ghana Fiscal Accountability Strengthening Activity (FASA) wor
 start: 2024
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

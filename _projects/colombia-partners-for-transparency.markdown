@@ -6,6 +6,7 @@ summary: The Partners for Transparency program supports locally driven solutions
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 regions: Latin America and the Caribbean

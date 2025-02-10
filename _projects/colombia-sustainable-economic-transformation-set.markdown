@@ -6,6 +6,7 @@ summary: The Sustainable Economic Transformation (SET) project supports sustaina
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Economic Growth

@@ -7,6 +7,7 @@ summary: The Afghanistan Value Chains Program helps farmers and related agribusi
 start: 2018
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Agriculture and Food Security
 - Market Systems and Value Chain

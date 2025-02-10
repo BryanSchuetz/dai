@@ -7,6 +7,7 @@ summary: The Afghanistan Competitiveness of Export-Oriented Businesses Activity 
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia

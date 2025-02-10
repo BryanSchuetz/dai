@@ -7,6 +7,7 @@ summary: 'HLG works to strengthen the essential capacity of civil society groups
 start: 2016
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Decentralization and Local Government Management
 - Governance

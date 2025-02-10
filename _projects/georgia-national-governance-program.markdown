@@ -7,6 +7,7 @@ summary: The National Governance Program works with the Government of Georgia to
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Institutional and Policy Reform

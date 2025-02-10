@@ -9,6 +9,7 @@ summary: The DRC Strengthening Livelihoods and Resilience Activity assists the g
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Gender and Social Inclusion

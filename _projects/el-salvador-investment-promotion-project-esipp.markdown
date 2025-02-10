@@ -6,6 +6,7 @@ summary: The Investment Promotion Project is a five-year USAID initiative to inc
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Finance and Investment

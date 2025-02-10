@@ -7,6 +7,7 @@ summary: The Haiti *Projet Paysages Résilients-Nord* (PPR-Nord) activity build 
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Climate

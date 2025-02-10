@@ -9,6 +9,7 @@ summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (
 start: 2016
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

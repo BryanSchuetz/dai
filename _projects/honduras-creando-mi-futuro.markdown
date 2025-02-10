@@ -8,6 +8,7 @@ summary: The Creando Mi Futuro Aquí (Creating My Future Here) Activity in Hondu
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Education
 - Economic Growth

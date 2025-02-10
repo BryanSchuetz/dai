@@ -8,6 +8,7 @@ summary: The Colombia Equitable Finance Activity (EFA) partners with underserved
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Finance and Investment

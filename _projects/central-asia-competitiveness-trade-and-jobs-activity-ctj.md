@@ -7,6 +7,7 @@ summary: 'DAI is working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, an
 start: 2016
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Trade

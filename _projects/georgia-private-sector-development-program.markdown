@@ -8,6 +8,7 @@ summary: The program improves the productivity and economic competitiveness of G
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Environment

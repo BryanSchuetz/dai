@@ -8,6 +8,7 @@ summary: The Sustainable Municipal Solid Waste Management and Partnership (SELAR
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
