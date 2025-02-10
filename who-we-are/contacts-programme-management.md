@@ -1,14 +1,15 @@
 ---
 title: United Kingdom Programme Managers
 permalink: "/who-we-are/global-reach/united-kingdom/contacts/programme-managers"
-layout: node
+published: false
 summary: Multicultural, multilingual, and multidisciplinary to the core—global in
   outlook and approach—DAI’s staff are steeped in the challenges of delivering development
   solutions in the field. They are committed to sharing our innovation and experience
   to inform international development practices worldwide.
+layout: node
 ---
 
-Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
+DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
 <!--more-->
 
