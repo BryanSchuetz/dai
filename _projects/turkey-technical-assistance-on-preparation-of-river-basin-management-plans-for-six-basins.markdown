@@ -32,7 +32,7 @@ The plans will be developed following the [European Union Water Framework Direct
 * Conduct a study visit to an EU Member State to evaluate their experience with the significant water management issues.
 * Create sectoral water allocation plans, environmental assessment reports, and a case study on environmental and health impacts of implementing environmental quality standards.
 
-## Select Results 
+## Select Results  
 
 * Organized an opening event with the participation of more than 600 attendees from various stakeholders. 
 * Organized six stakeholder consultation meetings in the basins of the project, with more than 600 attendees.
