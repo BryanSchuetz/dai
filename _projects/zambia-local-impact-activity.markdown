@@ -1,13 +1,13 @@
 ---
 title: Zambia—Local Impact Governance Project (Local Impact)
 date: 2020-11-11 09:24:00 Z
+published: false
 summary: 'Local Impact supports the transformation of subnational governance in Zambia
   to be more responsive to citizens'' needs to help the government improve both the
   enabling environment and development outcomes critical to advancing self-reliance. '
 start: 2020
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Local Governance and Decentralization

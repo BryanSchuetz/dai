@@ -1,13 +1,13 @@
 ---
 title: Southeast Asia—USAID Partnerships for Green Investment
 date: 2024-07-12 13:30:00 Z
+published: false
 summary: The USAID Partnerships for Green Investment program employs nature-based
   solutions to achieve greater emissions reduction, climate resilience, biodiversity
   protection, inclusiveness, and benefit sharing across Southeast Asia.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Climate

@@ -2,12 +2,12 @@
 title: Nigeria—State Accountability, Transparency, and Effectiveness (State2State)
   Activity
 date: 2020-08-11 10:43:00 Z
+published: false
 summary: The Nigeria State Accountability, Transparency, and Effectiveness (State2State)
   Activity supports strengthened governance structures in six states.
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management

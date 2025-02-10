@@ -1,13 +1,13 @@
 ---
 title: Jordan—Municipal Support Program (MSP)
 date: 2022-08-25 13:48:00 Z
+published: false
 summary: The USAID Jordan Municipal Support Program improves local government service
   delivery, stimulates local economic development, and thereby strengthens the social
   contract in the Kingdom.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

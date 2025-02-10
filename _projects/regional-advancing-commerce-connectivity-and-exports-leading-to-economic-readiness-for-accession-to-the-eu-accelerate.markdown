@@ -2,6 +2,7 @@
 title: Regional—Advancing Commerce Connectivity and Exports Leading to Economic Readiness
   for Accession to the EU (ACCELERATE)
 date: 2024-08-26 13:26:00 Z
+published: false
 summary: 'The Advancing Commerce Connectivity and Exports Leading to Economic Readiness
   for Accession to the EU (ACCELERATE) program is a regional buy-in mechanism is designed
   to advance EU market integration and support the EU accession of up to 12 countries,
@@ -9,7 +10,6 @@ summary: 'The Advancing Commerce Connectivity and Exports Leading to Economic Re
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Governance

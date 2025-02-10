@@ -1,13 +1,13 @@
 ---
 title: Vietnam—Sustainable Forest Management (SFM)
 date: 2020-06-16 15:15:00 Z
+published: false
 summary: 'The Vietnam Sustainable Forest Management project helps the Government of
   Vietnam reduce carbon emissions associated with deforestation, the degradation of
   natural forests, and poor plantation management. '
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Natural Resource Management

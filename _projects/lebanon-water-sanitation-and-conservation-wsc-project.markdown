@@ -1,6 +1,7 @@
 ---
 title: Lebanon—Water, Sanitation, and Conservation (WSC) Project
 date: 2021-06-21 08:33:00 Z
+published: false
 summary: WSC is increasing the volumes of wastewater treated, reducing the pollution
   and water losses that harm water sources, improving service delivery to citizens,
   and facilitating partnerships between public water utilities, municipalities, the
@@ -8,7 +9,6 @@ summary: WSC is increasing the volumes of wastewater treated, reducing the pollu
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Water Security, Sanitation, and Hygiene
 - Energy

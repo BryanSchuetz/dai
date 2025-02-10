@@ -1,6 +1,7 @@
 ---
 title: Liberia—Local Empowerment for Accountability and Decentralization (LEAD)
 date: 2023-05-26 13:58:00 Z
+published: false
 summary: 'The Local Empowerment for Accountability and Decentralization Activity (LEAD)
   works to improve the capacities of select Government of Liberia ministries, agencies,
   and commissions to formulate and administer sound tax policies, improve budget transparency,
@@ -8,7 +9,6 @@ summary: 'The Local Empowerment for Accountability and Decentralization Activity
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

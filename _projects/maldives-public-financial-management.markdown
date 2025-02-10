@@ -1,6 +1,7 @@
 ---
 title: Maldives—Public Financial Management
 date: 2020-02-24 08:41:00 Z
+published: false
 summary: The Public Financial Management activity assists the Government of Maldives
   to prioritize infrastructure projects with the highest returns to the economy, enhance
   domestic resource mobilization, and realize “win-win” public-private partnerships
@@ -8,7 +9,6 @@ summary: The Public Financial Management activity assists the Government of Mald
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

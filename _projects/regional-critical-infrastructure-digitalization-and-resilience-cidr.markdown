@@ -1,6 +1,7 @@
 ---
 title: "Regional—Critical Infrastructure \nDigitalization and Resilience (CIDR)"
 date: 2021-09-29 15:48:00 Z
+published: false
 summary: 'The Critical Infrastructure Digitalization and Resilience program assists
   partner governments and in-country organizations to work with key stakeholders and
   experts to assess cybersecurity gaps and priorities, make recommendations, and map
@@ -9,7 +10,6 @@ summary: 'The Critical Infrastructure Digitalization and Resilience program assi
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Digital Acceleration
 - Fragile States

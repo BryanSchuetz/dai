@@ -2,6 +2,7 @@
 title: Mozambique—Supporting the Policy Enabling Environment for Development (SPEED,
   SPEED+, III)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: 'The Supporting the Policy Environment for Economic Development+ program
   helped create a favorable business environment in Mozambique to attract investment
   and expand markets, contributing to inclusive economic growth and the conservation
@@ -9,7 +10,6 @@ summary: 'The Supporting the Policy Environment for Economic Development+ progra
 start: 2010
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Business Environment Reform

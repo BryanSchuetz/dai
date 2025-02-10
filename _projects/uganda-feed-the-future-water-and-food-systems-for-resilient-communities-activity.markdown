@@ -1,13 +1,13 @@
 ---
 title: Uganda—Feed the Future Water and Food Systems Activity (WFSA)
 date: 2023-09-28 09:04:00 Z
+published: false
 summary: 'The Feed the Future Water and Food Systems Activity (WFSA) addresses water
   and food insecurity in three water catchments encompassing the Karamoja region and
   parts of the Teso and Bugisu subregions of northeast Uganda. '
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

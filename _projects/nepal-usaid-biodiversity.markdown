@@ -1,13 +1,13 @@
 ---
 title: Nepal—USAID Biodiversity (Jal Jangal)
 date: 2022-11-29 08:46:00 Z
+published: false
 summary: 'Working in the Gandaki and Karnali river basins, this activity focuses on
   improving ecosystem health, advancing environmental and social safeguards, promoting
   climate resilience, and addressing environmental crime in Nepal. '
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

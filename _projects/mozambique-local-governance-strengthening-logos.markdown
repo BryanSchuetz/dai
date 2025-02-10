@@ -1,6 +1,7 @@
 ---
 title: Mozambique—Local Governance Strengthening (LOGOS)
 date: 2021-03-12 16:32:00 Z
+published: false
 summary: The Mozambique Local Governance Strengthening (LOGOS) project supports the
   Government of the Republic of Mozambique’s efforts to decentralize governance and
   thereby improve delivery of public services at central, provincial, district, and/or
@@ -8,7 +9,6 @@ summary: The Mozambique Local Governance Strengthening (LOGOS) project supports 
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Water and Sanitation Services and Management

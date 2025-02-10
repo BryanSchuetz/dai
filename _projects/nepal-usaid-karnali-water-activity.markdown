@@ -1,6 +1,7 @@
 ---
 title: Nepal—USAID Karnali Water Activity
 date: 2021-07-02 08:47:00 Z
+published: false
 summary: 'The USAID Karnali Water Activity works across Nepal''s Karnali River Basin
   to promote healthy, resilient, and water-secure communities by improving water resources
   management practices, drinking water supply and multiple-use systems, and fecal
@@ -8,7 +9,6 @@ summary: 'The USAID Karnali Water Activity works across Nepal''s Karnali River B
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
