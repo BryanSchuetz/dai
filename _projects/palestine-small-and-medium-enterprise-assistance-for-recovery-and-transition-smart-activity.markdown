@@ -8,6 +8,7 @@ summary: 'The Small and Medium Enterprise Assistance for Recovery and Transition
 start: 2021
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Workforce Development and Youth

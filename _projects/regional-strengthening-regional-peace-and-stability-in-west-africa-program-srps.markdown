@@ -8,6 +8,7 @@ summary: The Strengthening Regional Peace and Stability in West Africa program b
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Fragile States
 - Peace-building and State-building

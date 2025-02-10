@@ -8,6 +8,7 @@ summary: 'The Malawi Governance for Solutions (GfS) Activity works to foster sta
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 regions: Sub-Saharan Africa

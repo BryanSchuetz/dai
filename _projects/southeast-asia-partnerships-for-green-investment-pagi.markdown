@@ -7,6 +7,7 @@ summary: The USAID Partnerships for Green Investment program employs nature-base
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Climate

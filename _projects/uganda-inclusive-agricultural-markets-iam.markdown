@@ -7,6 +7,7 @@ summary: The Feed the Future Inclusive Agricultural Marketsactivity works to inc
 start: 2019
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Agriculture and Food Security

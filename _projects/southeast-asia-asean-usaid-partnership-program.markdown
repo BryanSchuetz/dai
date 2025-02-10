@@ -8,6 +8,7 @@ summary: 'Through the ASEAN-USAID Partnership Program, the U.S. supports ASEAN e
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 regions: Asia and the Pacific

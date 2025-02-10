@@ -6,6 +6,7 @@ summary: The USAID Economic Resilience Activity works to strengthen the economy 
 start: 2018
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Business Environment Reform

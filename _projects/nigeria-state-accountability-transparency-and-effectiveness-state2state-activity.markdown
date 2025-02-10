@@ -7,6 +7,7 @@ summary: The Nigeria State Accountability, Transparency, and Effectiveness (Stat
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management

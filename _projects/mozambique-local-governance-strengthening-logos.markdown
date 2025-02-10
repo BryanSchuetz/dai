@@ -8,6 +8,7 @@ summary: The Mozambique Local Governance Strengthening (LOGOS) project supports 
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Water and Sanitation Services and Management

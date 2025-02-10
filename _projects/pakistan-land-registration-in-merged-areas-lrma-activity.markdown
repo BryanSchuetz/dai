@@ -8,6 +8,7 @@ summary: 'The Land Registration in Merged Areas Activity is establishing a land 
 start: 2021
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Land Tenure and Property Rights

@@ -8,6 +8,7 @@ summary: The Ukraine Governance and Local Accountability (HOVERLA) program is co
 start: 2021
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Institutional and Policy Reform

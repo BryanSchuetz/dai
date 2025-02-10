@@ -8,6 +8,7 @@ summary: 'The USAID Karnali Water Activity works across Nepal''s Karnali River B
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

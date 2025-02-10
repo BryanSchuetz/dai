@@ -7,6 +7,7 @@ summary: The Accountable Local Governance (ALG) Activity improves the delivery o
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Local Governance and Decentralization

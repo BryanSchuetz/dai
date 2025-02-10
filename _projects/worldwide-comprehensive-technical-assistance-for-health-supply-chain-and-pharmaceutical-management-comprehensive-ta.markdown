@@ -8,6 +8,7 @@ summary: 'DAI is a lead partner on the indefinite delivery, indefinite quantity 
 start: 2024
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Global Health
 - 

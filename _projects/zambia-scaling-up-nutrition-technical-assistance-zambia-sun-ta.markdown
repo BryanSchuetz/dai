@@ -8,6 +8,7 @@ summary: 'The project engages thousands of women in maternal and child health ed
 start: 2019
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Global Health
 - Health Governance

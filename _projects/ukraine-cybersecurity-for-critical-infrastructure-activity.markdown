@@ -7,6 +7,7 @@ summary: The Cybersecurity for Critical Infrastructure Activity works to reduce 
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Digital Acceleration

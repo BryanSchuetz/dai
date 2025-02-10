@@ -7,6 +7,7 @@ summary: 'Local Impact supports the transformation of subnational governance in 
 start: 2020
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Governance
 - Local Governance and Decentralization

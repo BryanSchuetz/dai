@@ -8,6 +8,7 @@ summary: The Advancing Capacity for the Environment (ACE) program facilitates th
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Climate

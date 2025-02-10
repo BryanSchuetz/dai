@@ -9,6 +9,7 @@ summary: 'The Critical Infrastructure Digitalization and Resilience program assi
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Digital Acceleration
 - Fragile States

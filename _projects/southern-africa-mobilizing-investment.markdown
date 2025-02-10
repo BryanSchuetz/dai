@@ -6,6 +6,7 @@ summary: The USAID Southern Africa Mobilizing Investment Project is a five-year 
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Economic Growth
 - Finance and Investment

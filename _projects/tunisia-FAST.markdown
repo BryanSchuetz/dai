@@ -7,6 +7,7 @@ summary: FAST supports the systems and procedures necessary to operationalize an
 start: 2019
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 - Governance

@@ -7,6 +7,7 @@ summary: 'The Vietnam Sustainable Forest Management project helps the Government
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+published: false
 solutions:
 - Environment
 - Natural Resource Management
