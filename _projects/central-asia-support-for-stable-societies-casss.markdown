@@ -1,13 +1,13 @@
 ---
 title: Central Asia—Support for Stable Societies (CASSS); Resilient Communities Activity
 date: 2022-08-17 20:04:00 Z
+published: false
 summary: 'The Central Asia Resilient Communities Activity assists hotspot communities
   in building resilient ecosystems that reduce risk and enhance protection against
   violent extremism. '
 start: 2018
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Stabilization
 - Fragile States

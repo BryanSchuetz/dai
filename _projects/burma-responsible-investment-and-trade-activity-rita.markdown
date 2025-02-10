@@ -1,6 +1,7 @@
 ---
 title: Burma—Responsible Investment and Trade Activity
 date: 2020-07-09 13:22:00 Z
+published: false
 summary: 'The Burma Responsible Investment and Trade Activity, funded by the U.S.
   Agency for International Development (USAID), works with a broad range of international
   and domestic private sector firms and civil society actors to promote civilian ownership
@@ -9,7 +10,6 @@ summary: 'The Burma Responsible Investment and Trade Activity, funded by the U.S
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Trade

@@ -1,6 +1,7 @@
 ---
 title: Bosnia and Herzegovina—Fiscal Reform Activity
 date: 2023-09-27 13:32:00 Z
+published: false
 summary: 'The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal
   sector reform in a way that increases efficiency, reduces tax compliance costs,
   and aligns the country’s regulatory framework with changes in the European and international
@@ -8,7 +9,6 @@ summary: 'The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent 
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization

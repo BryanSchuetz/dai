@@ -1,6 +1,7 @@
 ---
 title: Colombia—Equitable Finance Activity
 date: 2022-10-03 17:50:00 Z
+published: false
 summary: The Colombia Equitable Finance Activity (EFA) partners with underserved populations,
   the financial services sector, and the Government of Colombia to address the demand,
   supply, and enabling environment constraints that limit access to formal financial
@@ -8,7 +9,6 @@ summary: The Colombia Equitable Finance Activity (EFA) partners with underserved
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Finance and Investment

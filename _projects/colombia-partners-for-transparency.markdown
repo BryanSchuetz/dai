@@ -1,12 +1,12 @@
 ---
 title: Colombia—Partners for Transparency (PfT)
 date: 2020-08-10 10:28:00 Z
+published: false
 summary: The Partners for Transparency program supports locally driven solutions that
   increase transparency and accountability and reduce corruption in Colombia.
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 regions: Latin America and the Caribbean

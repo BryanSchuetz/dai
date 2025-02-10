@@ -1,6 +1,7 @@
 ---
 title: Egypt—Business Egypt
 date: 2021-11-17 15:27:00 Z
+published: false
 summary: 'Business Egypt is building a robust ecosystem of market-led institutions—incubators,
   accelerators, business service providers, financial institutions, youth and women’s
   networks, business associations, public-private forums, one-stop shops—working in
@@ -8,7 +9,6 @@ summary: 'Business Egypt is building a robust ecosystem of market-led institutio
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Climate

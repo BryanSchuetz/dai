@@ -1,12 +1,12 @@
 ---
 title: Colombia—Sustainable Economic Transformation (SET)
 date: 2024-02-02 12:57:00 Z
+published: false
 summary: The Sustainable Economic Transformation (SET) project supports sustainable
   economic opportunities and investment in various vulnerable areas of Colombia.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Economic Growth

@@ -1,13 +1,13 @@
 ---
 title: Honduras—Justicia Efectiva Activity
 date: 2022-05-23 19:36:00 Z
+published: false
 summary: "*Justicia Efectiva* combats impunity and corruption by targeting crime and
   promoting collaboration among justice institutions and counterparts from civil society,
   the private sector, academia, and other nonstate actors in Honduras."
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Justice, Citizen Security, and Rule of Law

@@ -1,13 +1,13 @@
 ---
 title: El Salvador—Water Services Project (WSP)
 date: 2024-07-10 10:34:00 Z
+published: false
 summary: The Water Services Project aims to improve the quality of—and access to—water
   services in urban areas serviced by El Salvador’s National Administration of Aqueducts
   and Sewers.
 start: 2024
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Water Security, Sanitation, and Hygiene

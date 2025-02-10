@@ -2,6 +2,7 @@
 title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS, USAID
   IUWASH Tangguh)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (USAID
   IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders,
   data platforms, and finance mechanisms to achieve healthy, productive, and resilient
@@ -9,7 +10,6 @@ summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (
 start: 2016
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene

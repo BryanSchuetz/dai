@@ -1,13 +1,13 @@
 ---
 title: El Salvador—Skills for Employment Project (Proyecto Habilidades para el Empleo)
 date: 2023-03-15 13:41:00 Z
+published: false
 summary: Our assistance enhances local Salvadoran partners' ability to improve human
   capital and strengthen job training and placement outcomes for vulnerable populations
   and for likely migrants.
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Workforce Development and Youth
