@@ -23,7 +23,7 @@ country: Worldwide
 The Global Evaluation and Monitoring Framework Agreement (GEMFA) is the primary mechanism of the U.K. Foreign, Commonwealth and Development Office (FCDO) for undertaking its monitoring and evaluation assignments. Lot 4 evaluates assignments valued at less than £600,000 and aims to improve the impact and value for money of the FCDO's development spending while supporting the effective delivery of the FCDO's strategic objectives. 
 
 Global in scope, the framework covers seven thematic areas: 
-* Climate change and biodiversity.
+* Climate and biodiversity.
 * COVID and health security.
 * Girls' education.
 * Science, research, and technology.
