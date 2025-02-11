@@ -25,5 +25,5 @@ The work of [EUROSAN](https://ec.europa.eu/international-partnerships/projects/e
 ### Select Activities
 
 * Build sustainable agricultural systems to enhance production.
-* Safeguard production systems against climate change.
+* Safeguard production systems against changes in climate.
 * Strengthening the capacity of local institutions in line with the broader goals of EUROSAN.
