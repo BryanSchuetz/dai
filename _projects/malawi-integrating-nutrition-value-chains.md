@@ -22,7 +22,7 @@ layout: project
 
 DAI and our partners, Michigan State University and Save the Children, focused on inclusive value chain building in Malawi and smallholders’ decision-making on which crops to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income.
 
-The project promoted agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improved productivity through soil and water management practices; reduced chronic under-nutrition; fostered innovation in agricultural value chains; and developed the capacity of local organizations and systems to promote climate change resilience.
+The project promoted agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improved productivity through soil and water management practices; reduced chronic under-nutrition; fostered innovation in agricultural value chains; and developed the capacity of local organizations and systems to promote climate resilience and adaptation.
 
 The project was also the U.S. Agency for International Development’s implementation vehicle to execute Feed the Future and Global Health Initiative strategies. Issues critical to the project’s success included information and communication technology, HIV/AIDS, access to financial services, policy advocacy, and climate adaptation.
 
