@@ -16,7 +16,7 @@ regions: Latin America and the Caribbean
 country: Paraguay
 ---
 
-Paraguay faces one of the highest rates of forest loss in Latin America, with ecosystems increasingly under pressure due to wildfires, a lack of conservation capacity, illegal logging, and charcoal production. The country's economy, reliant on extensive use of natural resources such as land for agribusiness and livestock, and water for hydroelectric production, has rendered it vulnerable to climate change.
+Paraguay faces one of the highest rates of forest loss in Latin America, with ecosystems increasingly under pressure due to wildfires, a lack of conservation capacity, illegal logging, and charcoal production. The country's economy, reliant on extensive use of natural resources such as land for agribusiness and livestock, and water for hydroelectric production, has rendered it vulnerable to changes in climate.
 
 Our project works to preserve and restore biodiversity by combating deforestation and promoting sustainable forest management. Aligned with European Union policy priorities such as the European Green Deal and the Biodiversity Strategy for 2030, it aids Paraguay in meeting its Paris Agreement commitments.
 
