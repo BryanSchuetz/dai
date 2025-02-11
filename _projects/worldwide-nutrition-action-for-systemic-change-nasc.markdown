@@ -45,13 +45,13 @@ Technical assistance is provided as short- or long-term expertise and targets pr
 
 * Supporting FCDO’s initiatives globally and at country level to end preventable deaths of mothers, babies, and children by improving nutrition through universal health coverage.
 * Building the capacity of FCDO advisors to develop and monitor strategic approaches to integrate nutrition across sectors, particularly in health, food, and agriculture (including commercial agriculture), social protection, humanitarian assistance, economic development, and climate, with the goal of strengthening nutrition outcomes.
-* Strengthening programming and resilience of services to treat and prevent child wasting in the face of climate change.
+* Strengthening programming and resilience of services to treat and prevent child wasting in the face of changes to the climate.
 * Supporting the improvement, use, and learning around nutrition information systems for decision-making.
 
 ## Select results
 
 * Developed a [framing paper](/uploads/NASC%20Framing%20Paper_Nutrition_UHC_Oct2024-785b6e.pdf) to support FCDO in advocating for nutrition integration into primary health care systems as part of the Universal Health Coverage agenda.
 * Completed a review of 827 FCDO programs and now supporting multisectoral nutrition integration in selected priority programs in Afghanistan, Ethiopia, Somalia, the Democratic Republic of Congo, Sierra Leone, Nigeria, and South Sudan.
-* Engaging with seven commercial agriculture programs to support FCDO’s response to the International Commission on Aid Impact (ICAI) [review of UK aid to agriculture in a time of climate change](https://icai.independent.gov.uk/review/uk-aid-to-agriculture-in-a-time-of-climate-change/).
+* Engaging with seven commercial agriculture programs to support FCDO’s response to the International Commission on Aid Impact (ICAI) [review of UK aid to agriculture in a time of climate changes](https://icai.independent.gov.uk/review/uk-aid-to-agriculture-in-a-time-of-climate-change/).
 * Conducted a review of nutrition-related information systems in Afghanistan, mapping [all data sources](/uploads/Afghanistan%20Matrix_NIS_23.05.24.xlsx), and developed a [recommendation brief](/uploads/Afghanistan%20NIS%20Brief_23.05.24.pdf) for FCDO to improve decision-making and presented [findings](/uploads/Afghanistan%20NIS%20summary%20of%20findings%20&%20rec_28.05.24%20.pdf) to partners to strengthen the response to malnutrition.
 * Advised FCDO Zambia to invest in agri-processing to support healthy and nutritious in their private sector development program under TASC. Currently supporting FCDO Zambia to integrate nutrition more widely across their program portfolio including in climate resilience and social protection programming.
