@@ -43,7 +43,7 @@ layout: project
 
 Nexos Locales works with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 
-[Nexos Locales](http://www.nexoslocales.com/) increases the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and global climate change; and improve public financial management. The team works with municipalities to improve basic services delivery and security plans, as well as [increase civil society participation](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) in decision-making.
+[Nexos Locales](http://www.nexoslocales.com/) increases the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and changes in climate; and improve public financial management. The team works with municipalities to improve basic services delivery and security plans, as well as [increase civil society participation](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) in decision-making.
 
 Nexos Locales also increases the capacity of the National Association of Municipalities and the Guatemalan Association of Indigenous Mayors and Authorities to support municipal development and replicate successful models nationwide, including municipal [crime prevention](https://medium.com/usaid-2030/providing-hope-for-a-violence-free-future-609ead1771ad) plans.
 
