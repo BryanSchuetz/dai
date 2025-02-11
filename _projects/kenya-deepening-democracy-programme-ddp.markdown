@@ -16,16 +16,16 @@ country: Kenya
 
 Despite significant economic growth in recent years, Kenya continues to rank low in key human development indicators due to substandard public services, recurring election-related instability, and non-inclusive markets and institutions. An overall ineffective social contract combined with weak governmental accountability have kept average Kenyans from experiencing the tangible benefits of economic progress in their daily lives.
 
-The Kenya Deepening Democracy Programme (DDP), funded by the former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office), promoted more inclusive governance in Kenya by improving electoral processes and enhancing government accountability. DDP built upon governance reforms previously accomplished through DFID’s [Drivers of Accountability Programme](https://www.dai.com/our-work/projects/kenya-drivers-accountability-programme-dap) to increase the credibility of elections and transparency of public service delivery, and contribute to the achievement of Kenya’s Vision 2030 for “a more globally competitive and prosperous nation with a high quality of life.”
+The Kenya Deepening Democracy Programme (DDP), funded by the Foreign, Commonwealth & Development Office, promoted more inclusive governance in Kenya by improving electoral processes and enhancing government accountability. DDP built upon governance reforms previously accomplished through DFID’s [Drivers of Accountability Programme](https://www.dai.com/our-work/projects/kenya-drivers-accountability-programme-dap) to increase the credibility of elections and transparency of public service delivery and contribute to the achievement of Kenya’s Vision 2030 for “a more globally competitive and prosperous nation with a high quality of life.”
 
 ![cover photo 2.jpg](/uploads/cover%20photo%202.jpg)
 
 ### Sample Activities
 
-* Support well-administered and transparent elections in order to increase voter confidence and legitimacy of election outcomes.
+* Support well-administered and transparent elections to increase voter confidence and legitimacy of election outcomes.
 * Enhance women’s participation and representation in politics through training, mentorship, and media profiling.
 * Support anti-corruption efforts by providing technical assistance to state and non-state accountability and oversight institutions.
-* Strengthen the ability of civil society organizations to advocate on key issues related to planning, budgeting, climate change, and service delivery.
+* Strengthen the ability of civil society organizations to advocate on key issues related to planning, budgeting, and service delivery.
 
 ### Select Results
 
@@ -35,6 +35,6 @@ The Kenya Deepening Democracy Programme (DDP), funded by the former U.K. Departm
 * Supported the timely settlement of all 288 appeals related to 2017 election petitions, significantly improving the handling and resolution of electoral disputes in the context of the 2017 elections.
 * Enhanced political party adherence to legal requirements, leading to marked improvements in the 2017 Kenya General Elections as compared to 2013.
 * Improved the enabling environment for women and people with disabilities to participate in the 2017 elections, with 17 documented improvements. 
-* Increased the integration of climate change in county planning and policy documents in 13 out of 18 (72 percent) counties targeted by DDP, signifying improved counties’ climate change integration scores by more than 5 percent.
-* Trained 235 people, including 19 local leaders, in three counties on climate change planning and budgeting processes.
-* Facilitated and institutionalised dialogue among a range of electoral stakeholders, providing a basis for strengthening electoral institutions and processes ahead of the 2022 elections. 
+* Increased the integration of climate adaptation in county planning and policy documents in 13 out of 18 (72 percent) counties targeted by DDP, signifying improved counties’ climate integration scores by more than 5 percent.
+* Trained 235 people, including 19 local leaders, in three counties on climate adaptation planning and budgeting processes.
+* Facilitated and institutionalized dialogue among various electoral stakeholders, providing a basis for strengthening electoral institutions and processes ahead of the 2022 elections. 
