@@ -16,15 +16,12 @@ regions:
 - Sub-Saharan Africa
 country:
 - Kenya
-promos:
-- title: 'Climate Change Governance: Six Lessons Learned'
-  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 layout: project
 ---
 
-Much of Kenya's economy is based around sectors that are highly climate vulnerable, particularly tourism, arable agriculture, horticulture, floriculture, and livestock. Minor industries that employ significant numbers, such as forestry and coastal and freshwater fisheries, are also sensitive to climate change. Kenya's energy sector is highly dependent on hydropower, and therefore, along with the industry and manufacturing that it powers, is also climate-vulnerable.
+Much of Kenya's economy is based around sectors that are highly climate vulnerable, particularly tourism, arable agriculture, horticulture, floriculture, and livestock. Minor industries that employ significant numbers, such as forestry and coastal and freshwater fisheries, are also sensitive to changes in climate. Kenya's energy sector is highly dependent on hydropower, and therefore, along with the industry and manufacturing that it powers, is also climate-vulnerable.
 
-StARCK+ was designed to achieve transformational change by helping Kenya to scale up private sector innovation and investment in low carbon and adaptation products, services, and assets such as clean energy, sustainable agriculture, water management, and weather forecasting. We targeted support to critical aspects of climate change governance and the stimulation of civil society demand.
+StARCK+ was designed to achieve transformational change by helping Kenya to scale up private sector innovation and investment in low carbon and adaptation products, services, and assets such as clean energy, sustainable agriculture, water management, and weather forecasting. We targeted support to critical aspects of governance and the stimulation of civil society demand.
 
 StARCK\+ followed the original StARCK program (2011–2013), which supported various activities to assist in Kenya's approach to climate adaptation. It consisted of five components—the fifth component, [for which DAI and partners were responsible](http://dai-global-developments.com/articles/agriculture-finance-with-a-climate-lens-takes-off-in-kenya), was the [Finance for Innovation and Climate Change Fund (FICCF)](http://ficcf.com/).
 
