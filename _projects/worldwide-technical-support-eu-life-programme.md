@@ -37,7 +37,7 @@ One of the duties of the External Assistance Team is to assist LIFE beneficiarie
 
 * Successfully monitored more than 100 projects covering a range of technical themes including habitat restoration, species reintroductions, wastewater treatment, waste management, and energy efficiency.
 * Completed ex-post evaluations on closed projects, helping to understand the impact of LIFE funding on environmental policy and long-term conservation benefits.
-* Hosted and facilitated international events on invertebrate conservation and on ecosystem services approaches for adaptation and mitigation to climate change.
+* Hosted and facilitated international events on invertebrate conservation and on ecosystem services approaches for climate adaptation and mitigation.
 
 [1]: http://ec.europa.eu/environment/life/
 [2]: http://ec.europa.eu/environment/newprg/
