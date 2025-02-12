@@ -38,7 +38,7 @@ The project reached more than 43,000 young people and provided more than $2.3 mi
 
 ### Select Results
 
-* Referred 22,000 young people to access youth-friendly sexual reproductive health services and almost 3,330 youth at risk of violence have been trained on leadership and healthy life skills. 
+* Referred 22,000 young people to access youth-friendly reproductive health services and almost 3,330 youth at risk of violence have been trained on leadership and healthy life skills. 
 * Trained more than 40,400 young people on entrepreneurship, workforce readiness, leadership, and life skills for healthy living and planning.
 * Established or improved 5,200 microbusinesses.
 * Helped 1,931 young people to become more active in decision-making bodies. 
