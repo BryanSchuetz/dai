@@ -23,7 +23,6 @@ Our Health Equity practice aims to reach society’s most vulnerable by tackling
 <div class="bulma enterprise-innovation">
   <div class="tile is-ancestor">
     <div class="is-parent tile is-4">
-      <div class="tile box is-child" style="background-image: url(/uploads/Adolescent%201.jpg); background-size: cover; background-position: center; min-height: 15rem;">
         <article>
         </article>
       </div>
