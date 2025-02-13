@@ -13,6 +13,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Ethiopia
 promos:
+- title: Going Beyond the Last Mile - Adaptation to Increase Refugee Adoption
+  link: "/uploads/Going%20Beyond%20the%20Last%20Mile-Adaptation%20to%20Increase%20Refugee%20Adoption.pdf"
 - title: 'SHARPE Public Subsidy Report: Use of financial subsidies for the private
     sector in the context of host and refugee communities'
   link: "/uploads/SHARPE%20Public%20Subsidy%20Report_Use%20of%20financial%20subsidies%20for%20the%20private%20sector%20in%20the%20context%20of%20host%20and%20refugee%20communities.pdf"
@@ -33,8 +35,6 @@ promos:
   link: "/uploads/SHARPE_Factsheet_Women%20Economic%20Empowerment.pdf"
 - title: Investment in Quality Seed Boosts Incomes for Host and Refugee Communities
   link: "/uploads/Investment%20in%20quality%20seed%20boosts%20incomes%20for%20host%20and%20refugee%20communities.pdf"
-- title: Digital Financial Services – A Step Towards Financial Inclusion for Refugees
-  link: "/uploads/Digital%20Financial%20Services%20-%20towards%20financial%20inclusion%20for%20refugees.pdf"
 - title: Can Markets be Developed to Promote Economic Self-Reliance of Refugees? An
     Evaluation of the Promotion of Digital Financial Services in Ethiopia by SHARPE
   link: https://doi.org/10.2499/p15738coll2.136694
@@ -44,19 +44,21 @@ promos:
 - title: Establishing a commercial and inclusive poultry industry in Ethiopia’s Gambella
     region
   link: "/uploads/SHARPE_Factsheet_Poultry%20%20in%20Gambella.pdf"
-- title: 'Applying the MSD Approach with Refugees & Host Communities, SHARPE Learning
-    #1'
-  link: "/uploads/applying-msd-approach.pdf"
+- title: Technical Brief - Economic Integration for Host and Refugee Communities
+  link: "/uploads/Technical%20Brief%20-%20Economic%20Integration%20for%20Host%20and%20Refugee%20Communities.pdf"
+- title: Digital Financial Services – A Step Towards Financial Inclusion for Refugees
+  link: "/uploads/Digital%20Financial%20Services%20-%20towards%20financial%20inclusion%20for%20refugees.pdf"
+- title: SHARPE Review 2022
+  link: "/uploads/SHARPE%20Review%202022.pdf"
 - title: 'Dollo Ado Refugee Businesses Report '
   link: "/uploads/Dollo%20Ado%20Refugee%20Businesses%20Report%20.pdf"
 - title: Gambella Refugee Businesses Report
   link: "/uploads/Gambella%20Refugee%20Businesses%20Report.pdf"
 - title: Refugee Businesses in Ethiopia Report
   link: "/uploads/Refugee%20Businesses%20in%20Ethiopia%20Report.pdf"
-- title: SHARPE Review 2022
-  link: "/uploads/SHARPE%20Review%202022.pdf"
-- title: Technical Brief - Economic Integration for Host and Refugee Communities
-  link: "/uploads/Technical%20Brief%20-%20Economic%20Integration%20for%20Host%20and%20Refugee%20Communities.pdf"
+- title: 'Applying the MSD Approach with Refugees & Host Communities, SHARPE Learning
+    #1'
+  link: "/uploads/applying-msd-approach.pdf"
 Field name: 
 ---
 
