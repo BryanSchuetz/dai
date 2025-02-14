@@ -10,6 +10,7 @@ solutions:
 - Global Health
 hero: true
 layout: solution
+published: false
 ---
 
 Social or economic status can potentially have a greater influence on a person’s health than the availability of healthcare. Access to clean water, social support, education, income, food security, and housing dramatically affect our level of exposure and resilience to threats and diseases, our health-related behaviors, and our ability to access health services. There is an unfair and unavoidable difference in health status between rich and poor countries. Globally, the lower the socioeconomic position of a country, the worse the health of its citizens. In fact, social determinants are estimated to account for 30-55 percent of an individual’s health status. These inequalities in social determinants, however, also exist within countries, and the poorest and most vulnerable are the worst affected.
