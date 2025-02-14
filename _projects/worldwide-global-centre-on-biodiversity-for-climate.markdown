@@ -20,7 +20,7 @@ The program is focused on a systems approach to understanding nature, climate, a
 
 The GCBC is funded by the UK’s Department for Environment, Food and Rural Affairs ([DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)), working in partnership with DAI as the Fund Management Lead (FML) and the [Royal Botanic Gardens, Kew](https://www.kew.org/), as the Strategic Science Lead (SSL).
 
-The GCBC has successfully delivered Research Grant Competition (RGC) 1 and manages 14 research projects worldwide. RGC 2 is nearing completion and will likely deliver a similar number of additional research projects starting in late 2024. 
+The GCBC has successfully delivered two Research Grant Competitions (RGC) and manages 32 research projects worldwide (14 from RGC1 and 18 from RGC2).
 
 ![alenka-skvarc-hUl4BrFKJEo-unsplash.jpg](/uploads/alenka-skvarc-hUl4BrFKJEo-unsplash.jpg)
 
