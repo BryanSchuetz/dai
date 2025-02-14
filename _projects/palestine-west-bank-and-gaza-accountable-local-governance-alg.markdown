@@ -1,13 +1,13 @@
 ---
 title: Palestine—West Bank/Gaza Accountable Local Governance (ALG)
 date: 2024-10-18 07:08:00 Z
+published: false
 summary: The Accountable Local Governance (ALG) Activity improves the delivery of
   essential public services and promotes inclusive and accountable governance in the
   West Bank and Gaza.
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Local Governance and Decentralization

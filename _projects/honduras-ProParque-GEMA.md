@@ -3,7 +3,7 @@ title: Honduras—ProParque; Gobernanza en Ecosistemas, Medios de Vida, y Agua (
 date: 2016-01-21 22:40:00 Z
 summary: GEMA worked in western Honduras to further improve natural conservation policies;
   developed opportunities for inclusive, environmentally sustainable economic growth;
-  and promoted a more climate-informed and resilient civil society in Honduras.
+  and promoted a more informed and resilient civil society in Honduras.
 start: 2016
 end: 2020
 client: U.S. Agency for International Development
@@ -19,26 +19,24 @@ country:
 promos:
 - title: Six Ways to Mitigate Instability in Central America
   link: http://dai-global-developments.com/articles/mitigating-instability-in-central-america
-- title: 'Climate Change Governance: Six Lessons Learned'
-  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 layout: project
 ---
 
 Honduras and its Bay Islands offer unparalleled natural wonders—stunning coral reefs, mangroves, rainforests, cloud forests, mountain ranges, and an abundance of endemic plant and animal species. However, insufficient environmental protection and unchecked deterioration of natural resources threaten the future of these important and fragile ecosystems. Many of the sustainable business opportunities in tourism and agriculture that could help to preserve the country’s rich biodiversity and provide income for rural populations have yet to be fully developed. In addition, the communities around these valuable ecosystems face significant and growing risks from climate-induced natural disasters.
 
-To help the Honduran government [confront these pressing issues](http://dai-global-developments.com/articles/mitigating-instability-in-central-america), the U.S. Agency for International Development (USAID) launched [ProParque ](http://en.usaid-proparque.org/)in 2011, also implemented by DAI. Over six years, ProParque worked with government stakeholders to strengthen the nation’s protected area management system and promote [rural enterprise growth](https://www.youtube.com/watch?v=Lwy0yHaAMRE&feature=youtu.be), climate change adaptation, disaster risk reduction, and clean energy development.
+To help the Honduran government [confront these pressing issues](http://dai-global-developments.com/articles/mitigating-instability-in-central-america), the U.S. Agency for International Development (USAID) launched [ProParque ](http://en.usaid-proparque.org/)in 2011, also implemented by DAI. Over six years, ProParque worked with government stakeholders to strengthen the nation’s protected area management system and promote [rural enterprise growth](https://www.youtube.com/watch?v=Lwy0yHaAMRE&feature=youtu.be), climate adaptation, disaster risk reduction, and clean energy development.
 
-To build upon these accomplishments, USAID designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua—or Governance in Ecosystems, Livelihoods, and Water—(GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA worked in western Honduras to further improve natural conservation policies; developed opportunities for inclusive, environmentally sustainable economic growth; and promoted a more climate-informed and resilient civil society in Honduras.
+To build upon these accomplishments, USAID designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua—or Governance in Ecosystems, Livelihoods, and Water—(GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA worked in western Honduras to further improve natural conservation policies; developed opportunities for inclusive, environmentally sustainable economic growth; and promoted a more informed and resilient civil society in Honduras.
 
 <iframe src="https://player.vimeo.com/video/633022956?h=fbb606df62" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
-* Strengthen local institutions for natural resource management and water governance through capacity building and formation of collaborative alliances.
+* Strengthen local institutions for natural resource management and water governance through capacity building and the formation of collaborative alliances.
 * Educate Hondurans about how hydropower can increase their ability to advocate and negotiate. Prepare “Good Practices Guide” and “Lessons Learned in the Socialization Process” materials on hydropower projects working with local communities.
 * Promote education and awareness about renewable energy technologies, such as solar panels and improved cookstoves, and provide support to renewable energy microenterprises.
 * Increase conservation-related income in agriculture and tourism by forming public-private partnerships and linking growing enterprises with business development service providers.
-* Strengthen disaster response institutions across multiple levels and increase the involvement of women in disaster risk reduction and climate change adaptation decision-making.
+* Strengthen disaster response institutions across multiple levels and increase the involvement of women in disaster risk reduction and climate adaptation decision-making.
 
 ## Select Results
 

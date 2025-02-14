@@ -1,13 +1,13 @@
 ---
 title: Regional—Youth Resilience, Inclusion & Empowerment
 date: 2022-08-15 14:48:00 Z
+published: false
 summary: The Youth Resilience, Inclusion & Empowerment in the Caribbean Activity—in
   Grenada, Guyana, and Saint Lucia—supports young people to build more safe, prosperous,
   and resilient societies.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Security and Justice

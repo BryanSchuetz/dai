@@ -16,7 +16,7 @@ country: Zimbabwe
 
 Zimbabwe has limited opportunities for citizens to participate and engage with the government and little government accountability to citizens. The increasingly authoritarian and restrictive political context inhibits democratic processes and effective, inclusive delivery of basic services.
 
-This lack of inclusion, empowerment, and participation of citizens, especially women and girls, further undermines fundamental rights. Civil society and media are increasingly constrained and weak democratic processes, a lack of basic documentation for citizens to participate, and electoral processes that lack credibility exacerbate the situation in Zimbabwe further. In addition, climate change continues to impact the largely agriculturally-based economy severely.
+This lack of inclusion, empowerment, and participation of citizens, especially women and girls, further undermines fundamental rights. Civil society and media are increasingly constrained and weak democratic processes, a lack of basic documentation for citizens to participate, and electoral processes that lack credibility exacerbate the situation in Zimbabwe further. In addition, changes in climate continue to impact the largely agriculturally-based economy severely.
 
 This lack of accountable, inclusive, and transparent policy and resource management processes, and a general culture of mistrust, fear, and factionalism across all levels of politics and private spheres, hinders the realization of rights and delivery of public services.
 
@@ -27,6 +27,6 @@ ZIMACE builds upon the work of TRACE to strengthen effective civic action throug
 ### Sample Activities
 
 * Help people lacking basic documentation (notably birth certificates and national IDs) to obtain them.
-* Encourage Zimbabweans to build more evidence-based coalitions and actively hold authorities to account for the use of resources, including on climate change and nature commitments.
+* Encourage Zimbabweans to build more evidence-based coalitions and actively hold authorities to account for the use of resources, including on climate adaptation and nature commitments.
 * Prioritise interventions that enhance media freedom, deliver credible elections, and ensure the quality of democratic processes.
 * Ensure women's rights organizations, movements, and institutions are more robust, sustainable, and active in influencing laws, policies, and organizational practices to enhance the rights of women and girls.

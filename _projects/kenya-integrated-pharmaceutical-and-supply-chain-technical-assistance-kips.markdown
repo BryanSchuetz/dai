@@ -1,6 +1,7 @@
 ---
 title: Kenya—Integrated Pharmaceutical and Supply Chain Technical Assistance (KIPS)
 date: 2024-10-15 13:35:00 Z
+published: false
 summary: 'The Integrated Pharmaceutical and Supply Chain Technical Assistance Activity
   works to ensure more sustainable access to—and appropriate use of—quality-assured
   and affordable health commodities in Kenya by supporting the development of an increasingly
@@ -8,7 +9,6 @@ summary: 'The Integrated Pharmaceutical and Supply Chain Technical Assistance Ac
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Global Health
 regions: Sub-Saharan Africa

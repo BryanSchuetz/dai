@@ -1,7 +1,8 @@
 ---
 title: DAI Welcomes Bruno Vinciguerra to its Board
 date: 2024-11-08 18:51:00 Z
-is_featured: true
+published: false
+is_featured: false
 summary: DAI this week welcomed its newest Board member, Bruno Vinciguerra, to his
   first in-person Board meeting in Bethesda, Maryland. Vinciguerra, who joined DAI’s
   Board of Managers in September, has led companies across various industries, and

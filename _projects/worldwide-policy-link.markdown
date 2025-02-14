@@ -1,13 +1,13 @@
 ---
 title: Worldwide—USAID Policy LINK
 date: 2019-11-25 08:44:00 Z
+published: false
 summary: 'Policy LINK strengthens the leadership capacity of public, private, and
   civil society actors and fosters collective action among them to transform policy
   systems. '
 start: 2019
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Agriculture and Food Security
 - Economic Growth

@@ -1,6 +1,7 @@
 ---
 title: Worldwide—Advancing Women for Resilient Agricultural Supply Chains (AWRAS)
 date: 2024-10-22 13:55:00 Z
+published: false
 summary: The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) initiative
   brings together major corporations and the United States Agency for International
   Development (USAID) to strengthen critical supply chains by empowering women working
@@ -8,7 +9,6 @@ summary: The Advancing Women for Resilient Agricultural Supply Chains (AWRAS) in
 start: 2024
 end: 2029
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Agriculture and Food Security

@@ -1,6 +1,7 @@
 ---
 title: Worldwide—Advancing Capacity for the Environment (ACE)
 date: 2022-07-20 10:30:00 Z
+published: false
 summary: The Advancing Capacity for the Environment (ACE) program facilitates the
   U.S. Agency for International Development’s work to address weather-related events,
   conserve biodiversity and manage natural resources, improve land governance, and
@@ -8,7 +9,6 @@ summary: The Advancing Capacity for the Environment (ACE) program facilitates th
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Environment
 - Climate

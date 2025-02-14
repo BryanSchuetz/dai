@@ -1,6 +1,7 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
+published: false
 summary: 'The project engages thousands of women in maternal and child health education
   and works with farmers across 13 districts to help them adopt climate-resilient
   farming practices to produce diverse, nutritious foods that are crucial to reducing
@@ -8,7 +9,6 @@ summary: 'The project engages thousands of women in maternal and child health ed
 start: 2019
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Global Health
 - Health Governance

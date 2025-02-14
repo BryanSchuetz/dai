@@ -35,7 +35,7 @@ The U.S. Agency for International Development (USAID)'s [Mekong ARCC](http://mek
 
 * Build regional platform partnerships to act as knowledge centers of climate adaptation.
 * [Implement local initiatives](https://www.facebook.com/DAIGlobal/videos/10155131037990797/) in Thailand, Cambodia, Lao PDR, and Vietnam that draw on indigenous experience and build capacity for making science-based decisions and policies.
-* Assess ecosystem services, including monetizing the impacts of climate change on crops and fisheries, to assist policymakers and planners in understanding tradeoffs between economic decisions and environmental impact.
+* Assess ecosystem services, including monetizing the impacts of changes in climate on crops and fisheries, to assist policymakers and planners in understanding tradeoffs between economic decisions and environmental impact.
 * Scale up successful pilots and promote their sustainability.
 
 ### Select Results
@@ -43,9 +43,9 @@ The U.S. Agency for International Development (USAID)'s [Mekong ARCC](http://mek
 * Published a comprehensive, basin-wide Impact and Adaptation Study that has informed the project's selection of priority vulnerable provinces for activities.
 * Presented USAID Mekong ARCC to senior government officials from the region and the United States at the Lower Mekong Initiative Regional Working Group, a partnership of the Mekong riparian countries dedicated to building cooperation and capacity to address transnational issues.
 * Conducted preliminary analysis of the LMB that estimated at $34 billion the annual values at risk from weather-related impacts on infrastructure services and assets, worker productivity, agricultural output, hydroelectrical power, and eco-system services.
-* Secured the Federation of Asian Bishops Conferences' [commitment](/news/asian-bishops-issue-call-prevent-global-warming-mitigate-climate-change) to promote the USAID Mekong ARCC model throughout Asia as part of their approach to weather-related events.
-* 64 percent of community members knowing at least one adaptation strategy (versus a baseline of 30 percent).
-* 58 percent of community members reported currently practicing adaptation (versus a baseline of 20 percent).
+* Secured the Federation of Asian Bishops Conferences' commitment to promote the USAID Mekong ARCC model throughout Asia as part of their approach to weather-related events.
+* 64 percent of community members know at least one adaptation strategy (versus a baseline of 30 percent).
+* 58 percent of community members reported practicing adaptation (versus a baseline of 20 percent).
 * Tested 33 climate adaptation tools or technologies at five field sites.
 * More than 1,000 hectares of biological significance or natural resources under improved management.
 * Strengthened eight regional platforms—including the Asian Development Bank, Association of Southeast Asian Nations, Mekong River Commission, and UN World Food Programme.

@@ -1,6 +1,7 @@
 ---
 title: Somalia—People-Centered Governance Activity (PCG)
 date: 2023-07-25 13:51:00 Z
+published: false
 summary: The Somalia People-Centered Governance Activity (PCG) supports local governance
   in southern Somalia, helping district councils to adopt inclusive decision-making
   models, more fairly manage resources, deliver results and services for citizens,
@@ -8,7 +9,6 @@ summary: The Somalia People-Centered Governance Activity (PCG) supports local go
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Fragile States

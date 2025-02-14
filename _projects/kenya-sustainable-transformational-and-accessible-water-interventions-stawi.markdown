@@ -1,6 +1,7 @@
 ---
 title: Kenya—Sustainable Transformational and Accessible Water Interventions (STAWI)
 date: 2023-01-30 13:38:00 Z
+published: false
 summary: The Kenya Sustainable Transformational and Accessible Water Interventions
   (STAWI) project plays a critical role in building resilience and expanding economic
   opportunities through investments in water security in Kenya’s arid and semi-arid
@@ -8,7 +9,6 @@ summary: The Kenya Sustainable Transformational and Accessible Water Interventio
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Environment

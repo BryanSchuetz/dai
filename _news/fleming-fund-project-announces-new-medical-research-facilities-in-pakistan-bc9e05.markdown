@@ -1,6 +1,7 @@
 ---
 title: Fleming Fund Project Announces New Medical Research Facilities in Pakistan
 date: 2025-02-03 13:35:00 Z
+is_featured: true
 solutions:
 - Global Health
 regions: Asia and the Pacific
@@ -12,6 +13,8 @@ country: Pakistan
 ---
 
 The U.K. Department of Health and Social Care-sponsored Fleming Fund project marked a significant development in medical education and healthcare services in Pakistan last month. The Fleming Fund project, which seeks to halt the spread of antimicrobial resistance (AMR), globally, announced the inauguration of a newly built hall at the Khyber Medical University in Peshawar, Pakistan, named the Sir Alexander Fleming Hall, on January 31.
+
+<!--more-->
 
 Fleming Hall will house a new Antimicrobial Resistance Centre of Excellence, featuring a state-of-the-art microbiology lab, and will advance research and public health policy. The Hall will also drive AMR research and training, better data utilization, and improved public health response and surveillance.
 

@@ -10,7 +10,6 @@ client: U.S. Agency for International Development
 solutions:
 - Environment
 - Climate
-- Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Nepal
 promos:
@@ -22,7 +21,7 @@ Nepal is prone to a range of natural disasters, including floods, landslides, fi
 
 Tayar—which means “prepare”—strengthens the capacity of Nepal’s disaster risk management and preparedness institutions. At the national level, the project supported national agencies, including the newly created National Disaster and Risk Reduction Management Agency (NDRRMA), to conduct national disaster simulations, improve disaster response technologies, and establish a National Disaster Training Academy. Locally, Tayar worked with urban municipalities to develop risk-sensitive land use plans that increase disaster resilience. This local support included activities such as slope stabilization, [humanitarian open spaces](https://www.iom.int/news/iom-urges-kathmandu-residents-preserve-humanitarian-open-spaces), and building retrofitting to reduce disaster risk.
 
-Tayar enhanced disaster response and communication systems and introduced new and revised policies, including a national framework for risk-sensitive land use planning. The project built the capacity of eight municipalities in their use of tools for risk assessment and risk-informed planning; to implement community-based initiatives and climate change adaptation and mitigation activities, and to create stronger early warning systems to maintain public safety. The project benefitted more than 716,000 people across the country through its disaster preparedness and response activities, aimed at improving national systems and institutions’ response to all types of natural disasters.
+Tayar enhanced disaster response and communication systems and introduced new and revised policies, including a national framework for risk-sensitive land use planning. The project built the capacity of eight municipalities in their use of tools for risk assessment and risk-informed planning; to implement community-based initiatives and climate adaptation and mitigation activities, and to create stronger early warning systems to maintain public safety. The project benefitted more than 716,000 people across the country through its disaster preparedness and response activities, aimed at improving national systems and institutions’ response to all types of natural disasters.
 
 <iframe src="https://player.vimeo.com/video/612672767?h=e66675eb52" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ## Sample Activities

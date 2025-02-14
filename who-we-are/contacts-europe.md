@@ -10,7 +10,7 @@ layout: node
 
 # Our Team
 
-Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
+DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
 {% assign contacts = site.contacts | where: 'group', 'Europe' | sort: 'sort-order' %}
 {% for contact in contacts %}

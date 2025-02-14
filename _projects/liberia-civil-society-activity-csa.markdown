@@ -1,6 +1,7 @@
 ---
 title: Liberia—Civil Society Activity (CSA)
 date: 2021-11-15 09:21:00 Z
+published: false
 summary: The Liberia Civil Society Activity (CSA) is a five-year initiative to strengthen
   Liberians’ ability to advocate for policy reforms, policy implementation, and service
   delivery improvements through multistakeholder coalitions that build feedback loops
@@ -8,7 +9,6 @@ summary: The Liberia Civil Society Activity (CSA) is a five-year initiative to s
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Governance
 - Voice and Accountability

@@ -1,13 +1,13 @@
 ---
 title: Uganda—Feed the Future Inclusive Agricultural Markets (IAM)
 date: 2019-10-15 07:27:00 Z
+published: false
 summary: The Feed the Future Inclusive Agricultural Marketsactivity works to increase
   incomes and improve livelihoods in Uganda by promoting agriculture-led economic
   growth.
 start: 2019
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Economic Growth
 - Agriculture and Food Security

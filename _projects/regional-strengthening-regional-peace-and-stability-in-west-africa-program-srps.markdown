@@ -2,13 +2,13 @@
 title: Regional—Strengthening Regional Peace and Stability in West Africa Program
   (SRPS)
 date: 2023-08-03 13:48:00 Z
+published: false
 summary: The Strengthening Regional Peace and Stability in West Africa program builds
   the capacity and commitment of USAID’s regional and bilateral partners to prevent
   conflict and address governance weaknesses with the aim of reducing countries’ fragility.
 start: 2023
 end: 2028
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Fragile States
 - Peace-building and State-building

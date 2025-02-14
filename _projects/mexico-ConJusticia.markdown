@@ -2,6 +2,7 @@
 title: Mexico—Programa para el Fortalecimiento de Instituciones de Justicia Penal
   Estatal (ConJusticia)
 date: 2020-07-27 09:54:00 Z
+published: false
 summary: ConJusticia in Mexico consolidates and sustains recent justice system reforms
   by supporting state-level attorneys general offices and justice courts, with an
   emphasis on promoting collaboration and durable partnerships between these entities
@@ -9,7 +10,6 @@ summary: ConJusticia in Mexico consolidates and sustains recent justice system r
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
-published: false
 solutions:
 - Include Primary and/or Secondary Solutions
 - Justice, Citizen Security, and Rule of Law

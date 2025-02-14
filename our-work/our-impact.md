@@ -53,7 +53,7 @@ We envision a world in which communities and societies become more prosperous, f
              </div>
            </div>
            <div class="content">
-             <p>"A sustainable business is a business whose operating standards and principles are conducive to the 'more livable world' we aspire to in our tagline: a company that protects the natural environment and seeks to mitigate climate change, respects and rewards its workforce, rejects discrimination, sees diversity as a strength, and upholds the highest ethical standards."</p>
+             <p>"A sustainable business is a business whose operating standards and principles are conducive to the 'more livable world' we aspire to in our tagline: a company that protects the natural environment and seeks to mitigate the impact of adverse weather-related events, respects and rewards its workforce, and upholds the highest ethical standards."</p>
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
