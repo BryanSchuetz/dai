@@ -27,6 +27,10 @@ promos:
   link: "/uploads/tasc-nutrition-monitoring-indicator-database.xlsx"
 - title: "**Report:** Accounting FCDO’s Progress Against its Nutrition Pledges"
   link: https://media.globalnutritionreport.org/documents/Accounting_Progress_Against_FCDOs_Nutrition_Pledges_Final.pdf
+- title: FAQ for the CWIP Feedback Mechanism 2025_English
+  link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_English.pdf"
+- title: FAQ for the CWIP Feedback Mechanism 2025_French
+  link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_French.pdf"
 ---
 
 Nutrition Action for Systemic Change (NASC) is contracted through the [Expert Advisory Call Down Service 2 (EACDS2) Lot 4: Climate, Nature and Global Health](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health) funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). EACDS technical advisory services provide rapid, quality-assured, short-term technical expertise to support the development of U.K. aid programs. 
