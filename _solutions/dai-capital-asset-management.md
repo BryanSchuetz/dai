@@ -1,8 +1,8 @@
 ---
-published: false
 title: DAI Capital
 date: 2019-01-21 18:23:00 Z
 permalink: our-work/solutions/dai-capital-asset-management
+published: false
 newIcon: _icons/dai-capital.html
 largeIcon: _icons/dai-capital-large.html
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
