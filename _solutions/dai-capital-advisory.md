@@ -1,4 +1,5 @@
 ---
+published: false
 title: DAI Capital
 date: 2019-01-21 18:23:00 Z
 permalink: our-work/solutions/dai-capital-advisory
