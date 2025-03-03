@@ -15,8 +15,6 @@ solutions:
 regions: Asia and the Pacific
 country: Pakistan
 promos:
-- title: AMR Surveillance Strategy in the Environment
-  link: "/uploads/Strategy_AMR%20Surveillance%20Strategy%20in%20the%20Environment.pdf"
 - title: National Institute of Health Newsletter Vol XIV
   link: "/uploads/Fleming%20Fund%20Pakistan%20Newsletter%20XIV.pdf"
 - title: 'Policy Brief: Antimicrobial Resistance Surveillance in Healthy Food Animals'
