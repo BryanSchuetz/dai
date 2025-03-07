@@ -17,7 +17,7 @@ promos:
   link: https://dai-assets.s3.amazonaws.com/news/Going%20Beyond%20the%20Last%20Mile-Adaptation%20to%20Increase%20Refugee%20Adoption.pdf
 - title: Building Resilience and Enabling Adaptation to Climate Change for Host and
     Refugee Communities - An Assessment of SHARPE
-  link: https://dai-assets.s3.amazonaws.com/news/Building%20Resilience%20and%20Enabling%20Adaptation%20to%20Climate%20Change%20for%20Host%20and%20Refugee%20Communities%20-%20An%20Assessment%20of%20SHARPE.pdf
+  link: "/uploads/01-DAI445b_002_Climate%20Adaptation%20%20Resilience%20An%20Assessment%20of%20SHARPE%20-%20short%20version_041024_G.pdf"
 - title: 'SHARPE Public Subsidy Report: Use of financial subsidies for the private
     sector in the context of host and refugee communities'
   link: "/uploads/SHARPE%20Public%20Subsidy%20Report_Use%20of%20financial%20subsidies%20for%20the%20private%20sector%20in%20the%20context%20of%20host%20and%20refugee%20communities.pdf"
