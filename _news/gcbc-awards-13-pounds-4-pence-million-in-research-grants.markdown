@@ -11,7 +11,6 @@ summary: The Global Centre on Biodiversity for Climate has selected 18 projects 
   receive grants worth a total of £13.4 million through its second Research Grant
   Competition. The  theme was “Driving innovation in how biodiversity can support
   climate resilience and sustainable livelihoods through practice and governance.”
-social-image: "/uploads/seagrass.png"
 ---
 
 The [Global Centre on Biodiversity for Climate](https://www.dai.com/our-work/projects/worldwide-global-centre-on-biodiversity-for-climate) (GCBC) has selected 18 projects to receive grants worth a total of £13.4 million through its second Research Grant Competition (RGC). The winners were chosen from 507 applicants across 60 eligible countries responding to the theme: “Driving innovation in how biodiversity can support climate resilience and sustainable livelihoods through practice and governance.”
@@ -24,8 +23,6 @@ The 2024 call for applicants received more than three times the 155 submitted fo
 * Protecting traditional knowledge and conserving biodiversity
 
 Working in partnership with scientists, research institutions, and practitioners worldwide, the GCBC seeks to develop innovative research and find scalable approaches to biodiversity conservation and the sustainable use of natural resources. 
-
-![seagrass.png](/uploads/seagrass.png)
 
 The 18 projects awarded under RGC2 include initiatives in agroforestry; integrated land and water management; forest, seagrass, and mangrove restoration; carbon markets; peatlands; land use at the landscape level; and the benefits of underutilized species for soil restoration. 
  
