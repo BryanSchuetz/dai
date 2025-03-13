@@ -1,6 +1,7 @@
 ---
 title: MozUp Engages Local and International Suppliers Through Forums in Maputo and
   Pemba
+date: 2025-03-12 16:47:00 Z
 solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
