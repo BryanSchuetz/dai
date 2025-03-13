@@ -8,7 +8,6 @@ summary: DAI has released a new insight paper exploring the concept of local con
   Outlining what it is, how it is applied, and the tangible benefits it offers to
   businesses, the paper offers valuable insights for businesses looking to enhance
   their economic and sustainability outcomes.
-social-image: "/uploads/Screenshot%202025-02-20%20at%2010.09.44%E2%80%AFAM.png"
 ---
 
 DAI has released a new insight paper exploring the concept of local content. Outlining what it is, how it is applied, and the tangible benefits it offers to businesses, the paper offers valuable insights for businesses looking to enhance their economic and sustainability outcomes.
