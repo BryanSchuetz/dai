@@ -15,7 +15,7 @@ social-image: "/uploads/Photo%205%20EXXONMOBILE_20250304_330__6KB0653.jpg"
 
 Held on March 4 and March 6, the two events provided 350 participants with insights into the procurement process, strategic partnerships, and compliance requirements for upcoming e-LNG expansion, reinforcing the project’s commitment to local content and promoting sustainable business growth.
 
-![Photo 5 EXXONMOBILE_20250304_330__6KB0653.jpg](/uploads/Photo%205%20EXXONMOBILE_20250304_330__6KB0653.jpg) 
+![photo5.jpg](/uploads/photo5.jpg)
 
 ## Connecting Local Suppliers to LNG Opportunities
 The Maputo Supplier Networking Forum welcomed more than 250 attendees, including representatives from the Area 4 Partners, as well as local and international businesses and government officials. 
@@ -24,14 +24,14 @@ The event featured a detailed presentation on the Area 4 Rovuma LNG project, out
 
 Following its success, MozUp held a second Supplier Networking Forum in Pemba, Cabo Delgado, drawing some 150 participants from local and international businesses, organizations, and government. This session reinforced key supply chain themes from the Maputo event while addressing concerns raised by local Cabo Delgado suppliers, including certification costs, payment terms, and procurement transparency. ExxonMobil provided valuable clarifications, emphasizing its commitment to supplier development and inclusive economic growth.
 
- ![Photo 9 -EXXONMOBILE_20250304_042__6KA0172.jpg](/uploads/Photo%209%20-EXXONMOBILE_20250304_042__6KA0172.jpg)
+![photo9.jpg](/uploads/photo9.jpg)
 
 ## Strengthening Business Readiness Through Strategic Partnerships
 A central focus of both forums was fostering strategic partnerships among local and international businesses. MozUp is guiding potential suppliers through the registration process on the Supplier Relationship Management Portal (SRMP) and facilitating business connections among key stakeholders. Attendees took advantage of networking sessions, maximizing opportunities for collaboration and long-term engagement on the project.
 
 The interactive Q&A sessions in both forums proved particularly valuable, allowing suppliers to voice their concerns and gain direct insights from project implementers. Key takeaways included the importance of adhering to safety, security, health, and environment (SSHE) standards and leveraging MozUp’s resources to navigate compliance and procurement challenges.
 
- ![Photo 6 - EXXONMOBILE_20250304_805__6KA1094.jpg](/uploads/Photo%206%20-%20EXXONMOBILE_20250304_805__6KA1094.jpg)
+![photo6.jpg](/uploads/photo6.jpg)
 
 ## Commitment to Continued Engagement
 The overwhelmingly positive response from participants underscored the demand for ongoing engagement. ExxonMobil reaffirmed its dedication to supporting local businesses through continued dialogue and capacity-building initiatives.
