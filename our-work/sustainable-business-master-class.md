@@ -68,7 +68,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 
 ## Participants are trained to:
 
-* * Drive local sustainable development when sourcing or making new investments
+* Drive local sustainable development when sourcing or making new investments
 
 * Navigate and adhere to local content regulatory and legal frameworks
 
