@@ -38,32 +38,11 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 </div>
 </div>
 <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-<a class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/Masterclass_brochure_2025.pdf">Download</a>
+<a class="is-capitalized card-footer-item site-buttons is primary" href="https://dai-assets.s3.amazonaws.com/our-work/Masterclass_brochure_2025.pdf">Download</a>
 </footer>
 </div>
 </div>
 </div>
-</div>
-<div id="eventbrite-widget-container-867394569507"></div>
- 
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
- 
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
- 
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '867394569507',
-        iframeContainerId: 'eventbrite-widget-container-867394569507',
- 
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
 </div>
 
 ## Participants are trained to:
