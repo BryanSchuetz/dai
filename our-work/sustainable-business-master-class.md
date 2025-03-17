@@ -12,37 +12,36 @@ layout: solution
 ---
 
 <div class="bulma" style="margin-bottom: 1.5rem;">
-<div class="container">
-<div class="columns">
-<div class="column">
-The Local Content Masterclass brings together participants from the private
-and public sector, helping them balance the commercial realities of volatile global
-demand and sustained cost pressures with the current political momentum for increased
-local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. Download our <a href="https://www.dai.com/news/dai-publishes-insight-paper-on-local-content-and-business-growth">latest insight paper on local content and business growth</a> white paper.
-<div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
-<h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be held on November 18–20, 2025, in Houston, Texas</h3>
-
-<p style="margin-top: 1rem;">Upon completion, participants receive a certificate. DAI is a British Accreditation Council-accredited short-course provider</p>
-</div>
-</div>
-<div class="column is-one-third">
-<div class="card">
-<div class="card-image">
-<figure class="image is-5by4">
-<img src="/uploads/Masterclass_brochure_2025_cover.png" alt="report cover">
-</figure>
-</div>
-<div class="card-content">
-<div class="content">
-<p style="margin-bottom: 0;">Download the <strong>Masterclass brochure</strong> for more details on the course content.</p>
-</div>
-</div>
-<footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-<a class="is-capitalized card-footer-item site-buttons is primary" href="https://dai-assets.s3.amazonaws.com/our-work/Masterclass_brochure_2025.pdf">Download</a>
-</footer>
-</div>
-</div>
-</div>
+    <div class="container">
+        <div class="columns">
+            <div class="column">
+                <p>The Local Content Masterclass brings together participants from the private and public sector, helping them balance the commercial realities of volatile global demand and sustained cost pressures with the current political momentum for increased local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. Download our <a href="https://www.dai.com/news/dai-publishes-insight-paper-on-local-content-and-business-growth">latest insight paper on local content and business growth</a> white paper.
+                <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
+                    <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be held on November 18–20, 2025, in Houston, Texas</h3>
+    
+                    <p style="margin-top: 1rem;">Upon completion, participants receive a certificate. DAI is a British Accreditation Council-accredited short-course provider</p>
+                </div>
+            </div>
+            
+            <div class="column is-one-third">
+                <div class="card">
+                    <div class="card-image">
+                        <figure class="image is-5by4">
+                        <img src="/uploads/Masterclass_brochure_2025_cover.png" alt="report cover">
+                        </figure>
+                    </div>
+                    <div class="card-content">
+                        <div class="content">
+                                <p style="margin-bottom: 0;">Download the <strong>Masterclass brochure</strong> for more details on the course content.</p>
+                        </div>
+                    </div>
+                            <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
+                            <a class="is-capitalized card-footer-item site-buttons is primary" href="https://dai-assets.s3.amazonaws.com/our-work/Masterclass_brochure_2025.pdf">Download</a>
+                            </footer>
+                </div>
+            </div>
+        </div> 
+    </div>
 </div>
 
 ## Participants are trained to:
