@@ -29,7 +29,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="card">
 <div class="card-image">
 <figure class="image is-5by4">
-<img src="![Masterclass_brochure_2025_cover.png](/uploads/Masterclass_brochure_2025_cover.png)" alt="report cover">
+<img src="/uploads/Masterclass_brochure_2025_cover.png" alt="report cover">
 </figure>
 </div>
 <div class="card-content">
@@ -38,7 +38,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 </div>
 </div>
 <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-<a class="is-capitalized card-footer-item site-buttons is primary" href=[Masterclass_brochure_2025.pdf](/uploads/Masterclass_brochure_2025.pdf)>Download</a>
+<a class="is-capitalized card-footer-item site-buttons is primary" href="https://www.dai.com/uploads/Masterclass_brochure_2025.pdf">Download</a>
 </footer>
 </div>
 </div>
