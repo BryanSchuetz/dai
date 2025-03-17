@@ -29,7 +29,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 <div class="card">
 <div class="card-image">
 <figure class="image is-5by4">
-<img src="/uploads/masterclass-2024.png" alt="report cover">
+<img src="![Masterclass_brochure_2025_cover.png](/uploads/Masterclass_brochure_2025_cover.png)" alt="report cover">
 </figure>
 </div>
 <div class="card-content">
