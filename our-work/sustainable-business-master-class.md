@@ -15,14 +15,14 @@ layout: solution
     <div class="container">
         <div class="columns">
             <div class="column">
-                <p>The Local Content Masterclass brings together participants from the private and public sector, helping them balance the commercial realities of volatile global demand and sustained cost pressures with the current political momentum for increased local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. Download our <a href="https://www.dai.com/news/dai-publishes-insight-paper-on-local-content-and-business-growth">latest insight paper on local content and business growth</a> white paper.
+                <p>The Local Content Masterclass brings together participants from the private and public sector, helping them balance the commercial realities of volatile global demand and sustained cost pressures with the current political momentum for increased local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. Download our <a href="https://www.dai.com/news/dai-publishes-insight-paper-on-local-content-and-business-growth">latest insight paper on local content and business growth</a> white paper.</p>
                 <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
                     <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be held on November 18–20, 2025, in Houston, Texas</h3>
-    
+
                     <p style="margin-top: 1rem;">Upon completion, participants receive a certificate. DAI is a British Accreditation Council-accredited short-course provider</p>
                 </div>
             </div>
-            
+
             <div class="column is-one-third">
                 <div class="card">
                     <div class="card-image">
@@ -40,7 +40,7 @@ layout: solution
                             </footer>
                 </div>
             </div>
-        </div> 
+        </div>
     </div>
 </div>
 
