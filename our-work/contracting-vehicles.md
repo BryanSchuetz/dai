@@ -9,6 +9,10 @@ layout: node
 
 # U.S. Agency for International Development
 
+### Global Health
+
+* [Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management](https://www.dai.com/our-work/projects/worldwide-comprehensive-technical-assistance-for-health-supply-chain-and-pharmaceutical-management-comprehensive-ta) (2024–2034)
+
 ### Economic Growth
 
 * Financing Self-Reliance and Market-Led Development (FSRMD) (2021-2026)
