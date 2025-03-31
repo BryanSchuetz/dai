@@ -2,6 +2,7 @@
 title: 'Join Us for the CSIS Symposium on Pandemic Preparedness: Policy and Practice
   in the 21st Century'
 date: 2018-05-03 17:26:00 Z
+published: false
 solutions:
 - Global Health
 summary: 'Please join the CSIS Global Health Policy Center, in collaboration with
