@@ -55,14 +55,10 @@ layout: default
     <a href="mailto:daieurope@dai.com">Email</a></p>
 
     <p><strong>Apsley, United Kingdom</strong><br>
-    3rd Floor Block C<br>
-    Westside, London Road<br>
-    Apsley<br>
-    Hertfordshire, HP3 9TD<br>
-    <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
+    <a href="https://www.google.com/maps/place/One+Smart's+Place/@51.5154485,-0.1280989,16.25z/data=!3m1!5s0x48761b3361c4fe37:0x6c4a24780c9baaf3!4m6!3m5!1s0x48761b335ffbffff:0x67be4725bd75bcd4!8m2!3d51.5164521!4d-0.1232822!16s%2Fg%2F11fr3lvw2l!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">Map this location</a></p>
     <p><strong>London</strong><br>
       1 Smart’s Place<br>
-      London<br> 
+      London<br>
       WC2B 5LW
     </p>
 
