@@ -54,8 +54,7 @@ layout: default
     <p>Tel: +44 (0)1442 202400<br>
     <a href="mailto:daieurope@dai.com">Email</a></p>
 
-    <p><strong>Apsley, United Kingdom</strong><br>
-    <a href="https://www.google.com/maps/place/One+Smart's+Place/@51.5154485,-0.1280989,16.25z/data=!3m1!5s0x48761b3361c4fe37:0x6c4a24780c9baaf3!4m6!3m5!1s0x48761b335ffbffff:0x67be4725bd75bcd4!8m2!3d51.5164521!4d-0.1232822!16s%2Fg%2F11fr3lvw2l!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">Map this location</a></p>
+    <p><a href="https://www.google.com/maps/place/One+Smart's+Place/@51.5154485,-0.1280989,16.25z/data=!3m1!5s0x48761b3361c4fe37:0x6c4a24780c9baaf3!4m6!3m5!1s0x48761b335ffbffff:0x67be4725bd75bcd4!8m2!3d51.5164521!4d-0.1232822!16s%2Fg%2F11fr3lvw2l!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">Map this location</a></p>
     <p><strong>London</strong><br>
       1 Smart’s Place<br>
       London<br>
