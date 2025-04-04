@@ -10,7 +10,7 @@ summary: The Technical Assistance to the Sustainable Assets for Agriculture Mark
   developing a better connected, more resilient, and more equitable rural economy
   in Cambodia.
 start: 2022
-end: 2023
+end: 2025
 client: European Investment Bank
 solutions:
 - Economic Growth
