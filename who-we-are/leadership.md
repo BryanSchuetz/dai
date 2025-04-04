@@ -1,7 +1,6 @@
 ---
 title: Leadership
 permalink: "/who-we-are/leaders"
-published: false
 related: false
 redirect_from:
 - "/who-we-are/leadership"
@@ -22,7 +21,7 @@ hero: true
   <div class="container">
     <div class="columns">
       <div class="column">
-{%- for leader in leaders limit:7-%}
+{%- for leader in leaders limit:3-%}
 {%- unless leader.published == false -%}
 <a class="bulma-card" href="{{leader.url}}">
    <div class="card is-child">
@@ -53,7 +52,7 @@ hero: true
 {%- endfor -%}
     </div>
 <div class="column">
-{%- for leader in leaders offset:7 limit:7 -%}
+{%- for leader in leaders offset:3 limit:4 -%}
 {%- unless leader.published == false -%}
 <a class="bulma-card" href="{{leader.url}}">
 <div class="card is-child">
@@ -84,7 +83,7 @@ hero: true
 {%- endfor -%}
 </div>
   <div class="column">
-    {%- for leader in leaders offset:14 limit:10 -%}
+    {%- for leader in leaders offset:7 limit:10 -%}
     {%- unless leader.published == false -%}
   <a class="bulma-card" href="{{leader.url}}">
     <div class="card is-child">

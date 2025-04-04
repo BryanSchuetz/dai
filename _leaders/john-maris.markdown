@@ -8,10 +8,9 @@ summary: John maintains the integrity of the company’s financial statements, e
 image: "/uploads/Maris%20leader2-26a381.jpg"
 sort-order: 4
 ---
+As the head of DAI’s Finance team, John Maris maintains the integrity of the company’s financial statements, ensures compliance with all financial regulators and tax authorities, leads our business forecasting and modelling work to inform strategic and operational decisions, and ensures that the company is appropriately capitalized to achieve its business objectives.
 
-John Maris is DAI’s Chief Financial Officer. As the head of DAI’s Finance team, John maintains the integrity of the company’s financial statements, ensures compliance with all financial regulators and tax authorities, leads our business forecasting and modelling work to inform strategic and operational decisions, and ensures that the company is appropriately capitalized to achieve its development mission.
-
-![Maris leader-6132d5.jpg](/uploads/Maris%20leader-6132d5.jpg)
+![Maris leader-6132d5.jpg](/uploads/Maris%20leader.jpg)
 
 Based in London, John previously served as Director of the Project Management Unit in our Europe office, where he provided strategic guidance to large-scale programs for clients including the U.K. Department for International Development, the European Commission, the Millennium Challenge Corporation, and the World Bank.
 

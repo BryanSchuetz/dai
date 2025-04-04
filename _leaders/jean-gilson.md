@@ -8,6 +8,7 @@ summary: Jean leads the firm’s work on strategy formulation and execution, ext
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 sort-order: 10
 layout: leaders
+published: false
 ---
 
 When Jean Gilson left Georgetown University in the early 1980s she went straight into the heady world of high finance. “I was deeply entrenched in the commercial banking and corporate finance world,” she said. But that all came to a halt one night in Cleveland in August 1986.
@@ -24,7 +25,7 @@ A leading figure in the international development community, Jean returned to DA
 
 * Executive Chair, DAI Asset Management (formerly MicroVest)
 * Member, Programs Advisory Council, [Trees for the Future](https://trees.org/post/advisory-council/)
-* SID-International Governing Council Liaison, Society for International Development, U.S. Chapter 
+* SID-International Governing Council Liaison, Society for International Development, U.S. Chapter
 * Member, Governing Council, Society for International Development (SID), Rome
 * M.A., international law and economics, Fletcher School of Law and Diplomacy
 * M.B.A. equivalence certificate, First National Bank of Chicago
