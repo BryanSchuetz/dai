@@ -2,6 +2,7 @@
 title: John Kerry Visits Urban Energy Security Project for Innovation Challenge Fund
   Launch
 date: 2022-02-23 13:48:00 Z
+published: false
 is_featured: true
 solutions:
 - Climate
@@ -16,7 +17,6 @@ summary: The U.S. Agency for International Development (USAID) has launched a $2
   the first five awardees were announced.
 social-image: "/uploads/sm%20Kerry.jpg"
 country: Vietnam
-published: false
 ---
 
 The U.S. Agency for International Development (USAID) has launched a $2.5 million Innovation Challenge Fund in Vietnam called “Tomorrow’s Energy Creators,” designed to catalyze solutions to urban energy challenges. U.S. Climate Envoy [John Kerry](https://www.state.gov/biographies/john-kerry/), U.S. Ambassador [Marc Knapper](https://www.state.gov/biographies/marc-knapper/), and others attended the launch event where the first five awardees were announced.

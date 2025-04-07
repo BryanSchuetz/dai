@@ -2,6 +2,7 @@
 title: New U.S. Government Activity to Boost Sustainable Private Investment and Domestic
   Resource Mobilization in Senegal’s Agriculture Sector
 date: 2020-10-20 08:13:00 Z
+published: false
 solutions:
 - Economic Growth
 - Agriculture and Food Security
@@ -15,7 +16,6 @@ summary: The new, five-year, $15 million [Feed the Future Senegal Policy Systems
   Senegal, the Senegalese private sector, and civil society to create an enabling
   environment that contributes to accelerated and inclusive growth.
 country: Senegal
-published: false
 ---
 
 The new, five-year, $15 million [Feed the Future Senegal Policy Systems Services](https://www.dai.com/our-work/projects/senegal-feed-the-future-policy-systems-services-pss-activity), administered by the U.S. Agency for International Development (USAID), aims to strengthen Senegal’s agricultural and food policy systems by working with the Government of Senegal, the Senegalese private sector, and civil society to create an enabling environment that contributes to accelerated and inclusive growth. Reforms will support the [Plan Senegal Emergent](https://www.sec.gouv.sn/dossiers/plan-s%C3%A9n%C3%A9gal-emergent-pse) (PSE), with broad stakeholder consensus on the priorities and mutual accountability for commitments to action in support of national plans.

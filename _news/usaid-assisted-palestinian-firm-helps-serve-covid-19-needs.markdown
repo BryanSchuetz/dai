@@ -1,6 +1,7 @@
 ---
 title: USAID-Assisted Palestinian Firm Pivots to Meet Critical COVID-19 Needs
 date: 2020-04-08 04:35:00 Z
+published: false
 tags:
 - USAID
 - COVID-19
@@ -16,7 +17,6 @@ summary: 'A Palestinian clothing maker that was assisted in 2018 by the U.S. Age
   critically needed equipment in the wake of the COVID-19 pandemic. '
 social-image: "/uploads/social%20mask.jpg"
 country: Palestine
-published: false
 ---
 
 A Palestinian clothing maker that was assisted in 2018 by the U.S. Agency for International Development (USAID) has pivoted to producing face masks and other critically needed equipment in the wake of the COVID-19 pandemic.

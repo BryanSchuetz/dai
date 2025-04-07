@@ -1,6 +1,7 @@
 ---
 title: Introducing DAI Asset Management
 date: 2024-11-04 10:00:00 Z
+published: false
 solutions:
 - DAI Capital
 summary: 'MicroVest is coming under the umbrella of DAI’s asset management business
@@ -8,7 +9,6 @@ summary: 'MicroVest is coming under the umbrella of DAI’s asset management bus
   successful integration of MicroVest in the years since the two companies joined
   forces in 2021. '
 social-image: "/uploads/MV%20name%20change%20preview.png"
-published: false
 ---
 
 MicroVest is coming under the umbrella of DAI’s asset management business and will be known as [DAI Asset Management](https://daiassetmanagement.com/). The long-planned re-brand reflects the successful integration of MicroVest in the years since the two companies joined forces in 2021.

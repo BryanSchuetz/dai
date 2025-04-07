@@ -1,9 +1,9 @@
 ---
 title: Human Dynamics Founder Bernhard Hulla Joins the DAI Board
 date: 2020-01-20 09:11:00 Z
+published: false
 clients: European Union
 summary: DAI is delighted to welcome Bernhard Hulla to the DAI Board.
-published: false
 ---
 
 DAI is delighted to welcome Bernhard Hulla to the [DAI Board](https://www.dai.com/who-we-are/leadership/board.html). Bernhard founded Human Dynamics, a company he built into the leading EuropeAid development contractor, before [joining forces ](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics)with DAI in 2019.

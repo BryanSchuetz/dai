@@ -2,6 +2,7 @@
 title: DAI Leaders Address “Mentoring Male Teens in the Hood” Program in Baltimore,
   Md.
 date: 2020-08-18 17:05:00 Z
+published: false
 summary: On August 15, DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)
   joined [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah)—DAI’s Country
   Director for Nigeria—in addressing a small group of young men and their parents
@@ -9,7 +10,6 @@ summary: On August 15, DAI President and CEO [Jim Boomgard](https://www.dai.com/
   (MMTH) Program, a long-standing effort to provide young men in Baltimore with guidance
   and mentoring. The group gathered in the New Shiloh Family Life Center in West Baltimore.
 social-image: "/uploads/Screen%20Shot%202020-08-18%20at%208.35.24%20AM.png"
-published: false
 ---
 
 On August 15, DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard) joined [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah)—DAI’s Country Director for Nigeria—in addressing a small group of young men and their parents as part of the “[Mentoring Male Teens in the Hood](https://mentoringmaleteens.org/)” (MMTH) Program, a long-standing effort to provide young men in Baltimore with guidance and mentoring. The group gathered in the New Shiloh Family Life Center in West Baltimore.

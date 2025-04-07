@@ -1,6 +1,7 @@
 ---
 title: DAI’s Chris LeGrand Unveils New Book on Business Leadership
 date: 2019-08-19 15:16:00 Z
+published: false
 tags:
 - health
 is_featured: true
@@ -10,7 +11,6 @@ summary: 'Chris LeGrand, President of DAI Global Health, last week published a b
   that lays out the seven essential dimensions needed to develop a “Complete Business
   Leader.” '
 social-image: "/uploads/social-c20444.jpg"
-published: false
 ---
 
 Chris LeGrand, President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health), last week published *[The Complete Business Leader: A Framework for Impact in Work and Life](https://www.amazon.com/gp/product/1733224602?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=Q8GEJPV280Q2J0WHG44G)*, a book that lays out the seven essential dimensions needed to develop a “Complete Business Leader.”

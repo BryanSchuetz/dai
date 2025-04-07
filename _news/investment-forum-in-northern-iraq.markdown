@@ -1,6 +1,7 @@
 ---
 title: DAI Project Supports Key Investment Forum in Northern Iraq
 date: 2019-11-22 09:25:00 Z
+published: false
 solutions:
 - Governance
 regions: Middle East and North Africa
@@ -11,7 +12,6 @@ summary: DAI is supporting the U.S. Agency for International Development (USAID)
   the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference)
   on December 3-5 in Erbil, Iraq.
 social-image: "/uploads/Screen%20Shot%202019-11-22%20at%209.28.48%20AM.png"
-published: false
 ---
 
 DAI is supporting the U.S. Agency for International Development (USAID) to bring together international and diaspora investors with local businesses to showcase the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference) on December 3-5 in Erbil, Iraq.

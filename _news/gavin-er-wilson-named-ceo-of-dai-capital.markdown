@@ -1,6 +1,7 @@
 ---
 title: Gavin Wilson Named CEO of DAI Capital
 date: 2022-05-12 10:00:00 Z
+published: false
 is_featured: true
 solutions:
 - Economic Growth
@@ -9,7 +10,6 @@ summary: DAI, one of the world’s leading development consulting firms, today a
   the appointment of Gavin Wilson as Chief Executive Officer of DAI Capital, its investment
   banking and asset management arm.
 social-image: "/uploads/sm%20gavin%20news-7c8f6a.jpg"
-published: false
 ---
 
 ## Wilson’s appointment underlines DAI’s commitment to mobilize private capital at scale in emerging and frontier economies, the critical ingredient needed to drive global development and climate action

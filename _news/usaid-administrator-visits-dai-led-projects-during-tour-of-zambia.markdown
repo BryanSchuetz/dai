@@ -1,6 +1,7 @@
 ---
 title: USAID Administrator Visits DAI-led Projects During Tour of Zambia
 date: 2022-07-06 14:20:00 Z
+published: false
 solutions:
 - Agriculture and Food Security
 - Governance
@@ -15,7 +16,6 @@ summary: On a recent visit to Southern Africa, U.S. Agency for International Dev
   region, among other issues.
 social-image: "/uploads/power%20sm.jpg"
 country: Zambia
-published: false
 ---
 
 On a recent visit to Southern Africa, U.S. Agency for International Development (USAID) Administrator Samantha Power spent a week in Zambia and Malawi, where she met with local farmers, agribusiness owners, and government officials to discuss the impact of Russia’s war against Ukraine on food security and nutrition in the region, among other issues.

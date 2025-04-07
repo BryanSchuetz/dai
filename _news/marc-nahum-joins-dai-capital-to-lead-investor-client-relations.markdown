@@ -1,6 +1,7 @@
 ---
 title: Marc Nahum Joins DAI Capital to Lead Investor Client Relations
 date: 2024-02-01 08:35:00 Z
+published: false
 solutions:
 - DAI Capital
 regions: Worldwide
@@ -10,7 +11,6 @@ summary: 'DAI is pleased to announce the addition of Marc Nahum to its expanding
   and investment banking—will lead the development and distribution of new private
   debt and private equity strategies for DAI Capital. '
 social-image: "/uploads/sm%20Marc.jpg"
-published: false
 ---
 
 ### Senior executive will strengthen DAI Capital’s fundraising capability

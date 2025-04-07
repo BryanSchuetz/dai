@@ -2,6 +2,7 @@
 title: DAI Supports All IN for Ukraine Partner Event at the 2024 Indiana Global Economic
   Summit
 date: 2024-05-29 10:55:00 Z
+published: false
 regions: Eastern Europe and Central Asia
 clients: U.S. Agency for International Development
 summary: 'DAI recently partnered with the 2024 Indiana Global Economic Summit, the
@@ -9,7 +10,6 @@ summary: 'DAI recently partnered with the 2024 Indiana Global Economic Summit, t
   to host a discussion panel, “All IN for Ukraine.” '
 social-image: "/uploads/3-3cd57e.jpg"
 country: Ukraine
-published: false
 ---
 
 DAI recently partnered with the [2024 Indiana Global Economic Summit](https://www.inglobalsummit.com/), the Embassy of Ukraine to the United States, and the Ukrainian community in Indianapolis to host a discussion panel, “All IN for Ukraine.” The event featured presentations and a question-and-answer session about the current humanitarian and economic situation in Ukraine. It also highlighted the experiences of U.S. cities forming partnerships with their Ukrainian counterparts and the role of donor-funded projects that DAI implements across Ukraine.

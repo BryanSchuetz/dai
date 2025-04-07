@@ -1,6 +1,7 @@
 ---
 title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
 date: 2022-02-02 05:02:00 Z
+published: false
 tags:
 - governance
 solutions:
@@ -14,7 +15,6 @@ summary: 'The U.S. Agency for International Development (USAID)-funded [Governan
   activity supported a historic forum in Ukraine setting the legislative agenda. '
 social-image: "/uploads/sm%20USAID%20HOVERLA%20Forum.jpg"
 country: Ukraine
-published: false
 ---
 
 Ukraine has fully embraced the concept of decentralization and understands that an array of activities, policies, and procedures are needed to support the reorganization of financial, political, administrative, and service delivery systems. Most critically, Ukraine also understands that decentralization needs to be addressed in law.

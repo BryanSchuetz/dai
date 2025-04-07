@@ -2,6 +2,7 @@
 title: USAID Launches Private Sector Support Project in Palestine, with Congressional
   Leaders in Attendance
 date: 2022-02-28 08:33:00 Z
+published: false
 solutions:
 - Economic Growth
 regions: Middle East and North Africa
@@ -14,7 +15,6 @@ summary: Speaker of the U.S. House of Representatives Nancy Pelosi and seven U.S
   Enterprise Assistance for Recovery and Transition (SMART) project in Palestine.
 social-image: "/uploads/sm%20SMART%20Launch_01.jpg"
 country: Palestine
-published: false
 ---
 
 Speaker of the U.S. House of Representatives Nancy Pelosi and seven U.S. House Representatives—Ted Deutch, Bill Keating, Ro Khanna, Andy Kim, Barbara Lee, Adam Schiff, and Eric Swalwell—attended the launch last week of the [Small and Medium Enterprise Assistance for Recovery and Transition (SMART)](https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity) project in Palestine. Pelosi praised the efforts of the U.S. Agency for International Development (USAID) and the project.

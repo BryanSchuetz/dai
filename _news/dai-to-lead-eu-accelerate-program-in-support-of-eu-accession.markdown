@@ -1,6 +1,7 @@
 ---
 title: DAI to Lead EU ACCELERATE Program in Support of EU Accession
 date: 2024-09-20 11:03:00 Z
+published: false
 solutions:
 - Economic Growth
 - Governance
@@ -16,7 +17,6 @@ summary: DAI Is delighted to partner with the U.S. Agency for International Deve
 social-image: "/uploads/Screenshot%202024-09-20%20at%2011.05.54%E2%80%AFAM.png"
 country: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Kosovo,
   Moldova, Montenegro, North Macedonia, Serbia, Ukraine
-published: false
 ---
 
 DAI is delighted to partner with the U.S. Agency for International Development (USAID) on a new program to assist countries in Eurasia and Eastern Europe—including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus—in joining the European Union (EU).

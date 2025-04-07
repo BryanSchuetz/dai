@@ -2,6 +2,7 @@
 title: USAID Georgia Project Nominated for Inclusive Entrepreneurship Initiative of
   the Year
 date: 2022-05-06 09:51:00 Z
+published: false
 solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
@@ -13,7 +14,6 @@ summary: The USAID Economic Security Program in Georgia has been shortlisted for
   of the Year.”
 social-image: "/uploads/24.jpg"
 country: Georgia
-published: false
 ---
 
 An economic growth project in Georgia, funded by the U.S. Agency for International Development, has been shortlisted for the Emerging Europe Awards 2022 in the category, “Inclusive Entrepreneurship Initiative of the Year.”
