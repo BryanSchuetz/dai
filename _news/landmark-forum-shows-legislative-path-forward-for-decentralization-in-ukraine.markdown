@@ -14,11 +14,12 @@ summary: 'The U.S. Agency for International Development (USAID)-funded [Governan
   activity supported a historic forum in Ukraine setting the legislative agenda. '
 social-image: "/uploads/sm%20USAID%20HOVERLA%20Forum.jpg"
 country: Ukraine
+published: false
 ---
 
 Ukraine has fully embraced the concept of decentralization and understands that an array of activities, policies, and procedures are needed to support the reorganization of financial, political, administrative, and service delivery systems. Most critically, Ukraine also understands that decentralization needs to be addressed in law.
 
-The U.S. Agency for International Development (USAID)-funded [Governance and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla) activity continues the U.S. Government’s consistent support of this vision and journey. On January 31, with the support of USAID HOVERLA, the Ukrainian government and local representatives met in a historic forum with more than 300 participants to set the legislative agenda for 2022. 
+The U.S. Agency for International Development (USAID)-funded [Governance and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla) activity continues the U.S. Government’s consistent support of this vision and journey. On January 31, with the support of USAID HOVERLA, the Ukrainian government and local representatives met in a historic forum with more than 300 participants to set the legislative agenda for 2022.
 
 In his opening remarks, Marc Ellingstad, Director of the Office of Democracy and Governance at [USAID’s Ukraine Mission](https://www.usaid.gov/ukraine/democracy-human-rights-and-governance), said, “USAID, in partnership with Ukraine and its citizens, has invested in Ukraine’s democracy for almost 30 years now. And we firmly believe that the widespread decentralization that has been achieved in recent years is the culmination of this partnership and is one of Ukraine’s most significant and successful reforms.”
 

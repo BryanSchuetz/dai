@@ -10,6 +10,7 @@ clients: U.S. Agency for International Development
 summary: DAI officially launched the Promoting Integrity in the Public Sector Program
   (Pro-Integrity), the largest anticorruption initiative in Ukraine’s history.
 country: Ukraine
+published: false
 ---
 
 On June 26, DAI officially launched the [Promoting Integrity in the Public Sector Program (Pro-Integrity)](https://www.dai.com/our-work/projects/ukraine-promoting-integrity-in-the-public-sector-activity-pro-integrity), funded by the governments of the United States and the United Kingdom through the U.S. Agency for International Development (USAID) and the U.K. Foreign, Commonwealth & Development Office (FCDO). The largest anticorruption initiative in Ukraine’s history, Pro-Integrity aims to bolster Ukraine's efforts to combat corruption and enhance transparency across all levels of governance.

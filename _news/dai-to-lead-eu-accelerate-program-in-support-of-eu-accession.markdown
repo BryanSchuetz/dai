@@ -16,6 +16,7 @@ summary: DAI Is delighted to partner with the U.S. Agency for International Deve
 social-image: "/uploads/Screenshot%202024-09-20%20at%2011.05.54%E2%80%AFAM.png"
 country: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Kosovo,
   Moldova, Montenegro, North Macedonia, Serbia, Ukraine
+published: false
 ---
 
 DAI is delighted to partner with the U.S. Agency for International Development (USAID) on a new program to assist countries in Eurasia and Eastern Europe—including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus—in joining the European Union (EU).
@@ -24,9 +25,9 @@ The [Advancing Commerce Connectivity and Exports Leading to Economic Readiness f
 
 Working across public and private sectors, ACCELERATE will address issues such as trade facilitation, access to finance, compliance with EU standards and obligations, investment transparency, public financial management, and anticorruption.
 
-Chief of Party [Kristi Ragan](https://www.dai.com/who-we-are/our-team/kristi-ragan)—an expert in leading large, complex buy-in-based programs for USAID in high-profile, politically sensitive settings—will lead a DAI team comprising experts from across the region and subcontractors that include Policy and Management Consulting Group, Planet Partnerships, Nextrade Group, and Civitta International. 
+Chief of Party [Kristi Ragan](https://www.dai.com/who-we-are/our-team/kristi-ragan)—an expert in leading large, complex buy-in-based programs for USAID in high-profile, politically sensitive settings—will lead a DAI team comprising experts from across the region and subcontractors that include Policy and Management Consulting Group, Planet Partnerships, Nextrade Group, and Civitta International.
 
-The consortium’s collective experience providing industry-leading technical support in cross-border trade, access to finance, policy and regulatory reform, investment transparency, and digitalization to advance regional economic integration and EU accession for target countries will support U.S. priorities in the region. 
+The consortium’s collective experience providing industry-leading technical support in cross-border trade, access to finance, policy and regulatory reform, investment transparency, and digitalization to advance regional economic integration and EU accession for target countries will support U.S. priorities in the region.
 
 Our team has a significant presence in Eastern Europe, including offices in eight of the countries where ACCELERATE operates—enabling rapid and seamless implementation of activities throughout the region.
 

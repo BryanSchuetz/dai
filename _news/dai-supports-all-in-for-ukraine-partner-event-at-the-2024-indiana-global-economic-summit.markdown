@@ -9,6 +9,7 @@ summary: 'DAI recently partnered with the 2024 Indiana Global Economic Summit, t
   to host a discussion panel, “All IN for Ukraine.” '
 social-image: "/uploads/3-3cd57e.jpg"
 country: Ukraine
+published: false
 ---
 
 DAI recently partnered with the [2024 Indiana Global Economic Summit](https://www.inglobalsummit.com/), the Embassy of Ukraine to the United States, and the Ukrainian community in Indianapolis to host a discussion panel, “All IN for Ukraine.” The event featured presentations and a question-and-answer session about the current humanitarian and economic situation in Ukraine. It also highlighted the experiences of U.S. cities forming partnerships with their Ukrainian counterparts and the role of donor-funded projects that DAI implements across Ukraine.
@@ -25,4 +26,4 @@ In her opening remarks, [Oksana Markarova](https://usa.mfa.gov.ua/en/governance/
 
 The discussion concluded with a presentation by [Lesya Houston](https://www.linkedin.com/in/lesya-houston-mshrm-8b95b161/), Vice President of the Ukrainian Society of Indiana. She highlighted the connections between Ukraine and Indiana being built by the local community, which are strengthened through cultural immersions, volunteer initiatives, festivals, and themed events.
 
-"The DAI-sponsored event created a platform to discuss timely and relevant issues, facilitated the establishment of more contacts between stakeholders, addressed crucial issues for U.S.-Ukraine cooperation, and raised the profile of technical assistance programs that support Ukraine’s resilience during these challenging times," said [Mark McCord](https://www.dai.com/who-we-are/our-team/mark-mccord), the head of DAI's Ukraine Management Unit. 
+"The DAI-sponsored event created a platform to discuss timely and relevant issues, facilitated the establishment of more contacts between stakeholders, addressed crucial issues for U.S.-Ukraine cooperation, and raised the profile of technical assistance programs that support Ukraine’s resilience during these challenging times," said [Mark McCord](https://www.dai.com/who-we-are/our-team/mark-mccord), the head of DAI's Ukraine Management Unit.

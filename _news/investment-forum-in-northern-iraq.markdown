@@ -11,6 +11,7 @@ summary: DAI is supporting the U.S. Agency for International Development (USAID)
   the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference)
   on December 3-5 in Erbil, Iraq.
 social-image: "/uploads/Screen%20Shot%202019-11-22%20at%209.28.48%20AM.png"
+published: false
 ---
 
 DAI is supporting the U.S. Agency for International Development (USAID) to bring together international and diaspora investors with local businesses to showcase the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference) on December 3-5 in Erbil, Iraq.
@@ -29,4 +30,4 @@ International and Iraqi business associations will take part in the event as wel
 
 “The Forum represents a unique collaboration between the U.S. and Iraqi private and public sectors,” said DAI’s [Peter Dimitroff](https://www.dai.com/who-we-are/our-team/peter-dimitroff), IGPA/Takamul Chief of Party, “and our efforts can both attract investment for the businesses and sectors featured at our event, and serve to signal to the regional and international community that northern Iraq is open for business—this is key to supporting Iraq on its path to self-reliance.”
 
-Following the Forum, IGPA/Takamul will continue working with businesses and investors to close deals, and also expand its support to reach more business owners in Ninewa, providing individualized training to help them access investment and financing, increase productivity, and create sustainable employment opportunities in the region.  
+Following the Forum, IGPA/Takamul will continue working with businesses and investors to close deals, and also expand its support to reach more business owners in Ninewa, providing individualized training to help them access investment and financing, increase productivity, and create sustainable employment opportunities in the region.
