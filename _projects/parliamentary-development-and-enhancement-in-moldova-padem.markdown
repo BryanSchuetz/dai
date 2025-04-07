@@ -24,7 +24,7 @@ The project has three main components: enhancing the legislative process, improv
 ![Moldova Parliament.jpg](/uploads/Moldova%20Parliament.jpg)
 
 ### Sample Activities
-
+ 
 * Design and deliver professional development packages, including an induction program for newly elected MPs.
 * Pilot pre-legislative scrutiny and legislative drafting with selected Parliamentary Standing Committees.
 * Establish a Post-Legislative Scrutiny Office and implement post-legislative scrutiny actions with technical support for improved legislative review.
