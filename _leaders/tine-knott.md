@@ -1,7 +1,9 @@
 ---
 title: Tine Knott
 date: 2016-01-21 22:18:00 Z
-summary: Tine Knott assumed the role of Chief Executive Officer in 2025. As President and CEO, she is responsible for optimizing DAI’s business performance and ensuring strategic alignment in the pursuit of DAI’s mission.
+summary: Tine Knott assumed the role of Chief Executive Officer in 2025. As President
+  and CEO, she is responsible for optimizing DAI’s business performance and ensuring
+  strategic alignment in the pursuit of DAI’s mission.
 job-title: President and CEO
 image: "/uploads/tine-knott-new.jpg"
 layout: leaders

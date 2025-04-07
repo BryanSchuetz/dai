@@ -2,9 +2,12 @@
 title: Eric G. Postel
 date: 2025-01-24 02:10:00 Z
 job-title: Senior Vice President
-summary: 'Eric Postel is a senior advisor to DAI’s Chief Executive Officer and leads the Office of the CEO, overseeing functions such as human resources, communications, corporate strategy, global security, and product development.'
+summary: Eric Postel is a senior advisor to DAI’s Chief Executive Officer and leads
+  the Office of the CEO, overseeing functions such as human resources, communications,
+  corporate strategy, global security, and product development.
 image: "/uploads/Postel%20leadership.jpg"
 ---
+
 Eric Postel is a senior advisor to DAI’s Chief Executive Officer and leads the Office of the CEO, overseeing functions such as human resources, communications, corporate strategy, global security, and product development.
 
 ![Eric Postel](/uploads/Postel%20leadership.jpg)

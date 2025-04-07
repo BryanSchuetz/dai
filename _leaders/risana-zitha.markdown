@@ -2,7 +2,9 @@
 title: Risana Zitha
 date: 2024-12-17 10:03:00 Z
 lastname: Zitha
-summary: Risana Zitha has 25 years of investment banking experience. He has advised on M&A transactions exceeding $43 billion and on capital raisings, including IPOs, totaling more than $10 billion.
+summary: Risana Zitha has 25 years of investment banking experience. He has advised
+  on M&A transactions exceeding $43 billion and on capital raisings, including IPOs,
+  totaling more than $10 billion.
 job-title: Co-Head, DAI Magister
 image: "/uploads/Risana_Zitha.png"
 solutions:

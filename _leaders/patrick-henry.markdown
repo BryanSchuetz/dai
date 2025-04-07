@@ -2,7 +2,8 @@
 title: Patrick Henry
 date: 2017-08-29 11:44:00 Z
 lastname: Henry
-summary: Patrick Henry leads DAI’s work with multinational corporate clients, supporting them in developing inclusive supply chains and high-impact social investment programs.
+summary: Patrick Henry leads DAI’s work with multinational corporate clients, supporting
+  them in developing inclusive supply chains and high-impact social investment programs.
 job-title: Vice President, Sustainable Business Group
 image: "/uploads/new%20Patrick%20Henry.png"
 solutions:
@@ -11,6 +12,7 @@ regions:
 - Worldwide
 order: 4
 ---
+
 Patrick Henry leads DAI’s work with multinational corporate clients, supporting them in developing inclusive supply chains and high-impact social investment programs.
 
 ![Patrick Henry](/assets/images/leaders/patrick-henry.jpg)

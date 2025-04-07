@@ -2,12 +2,15 @@
 title: Luqman Ahmad
 date: 2022-03-14 15:14:00 Z
 lastname: Ahmad
-summary: 'Luqman Ahmad is the Head of DAI’s U.K. Business Unit and is responsible for the successful delivery of our U.K. contracts, leading and developing our people, and achieving the commercial objectives of the unit. '
+summary: 'Luqman Ahmad is the Head of DAI’s U.K. Business Unit and is responsible
+  for the successful delivery of our U.K. contracts, leading and developing our people,
+  and achieving the commercial objectives of the unit. '
 job-title: 'Senior Vice President and Managing Director, U.K. Business Unit '
 image: "/uploads/Luqman%20-%20Turkiye%20Alumni%20Event,%20May%202023%20(2).png"
 regions:
 - Worldwide
 ---
+
 Luqman Ahmad is the Head of DAI’s U.K. Business Unit and is responsible for the successful delivery of our U.K. contracts, leading and developing our people, and achieving the commercial objectives of the unit.
 
 ![Luqman Ahmad](/assets/images/leaders/luqman.jpg)

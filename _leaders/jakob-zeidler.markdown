@@ -2,7 +2,8 @@
 title: Jakob Zeidler
 date: 2020-04-16 10:20:00 Z
 lastname: Zeidler
-summary: 'Jakob Zeidler plays a leading role in driving DAI’s achievements with EU institutions and bilateral agencies.'
+summary: Jakob Zeidler plays a leading role in driving DAI’s achievements with EU
+  institutions and bilateral agencies.
 job-title: Senior Vice President, European Union Business Unit
 image: "/uploads/new%20Jakob.jpg"
 regions:
