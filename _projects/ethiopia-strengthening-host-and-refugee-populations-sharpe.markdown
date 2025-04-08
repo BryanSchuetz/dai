@@ -13,6 +13,12 @@ solutions:
 regions: Sub-Saharan Africa
 country: Ethiopia
 promos:
+- title: 'BLOG: Part 1 - The “Theory” of Grant Making for Private Sector Actors'
+  link: https://dai-global-developments.com/articles/the-theory-of-grant-making-for-private-sector-actors/?ref=pubs.ghost.io
+- title: 'BLOG: Part 2 - Providing Cost-Share Grants to the Private Sector'
+  link: https://dai-global-developments.com/articles/the-realities-of-providing-cost-share-grants-to-the-private-sector/?ref=pubs.ghost.io
+- title: 'BLOG: Part 3 - The Art of Grant Making: Lessons from SHARPE'
+  link: https://dai-global-developments.com/articles/the-art-of-grant-making-lessons-from-sharpe/
 - title: Going Beyond the Last Mile - Adaptation to Increase Refugee Adoption
   link: https://dai-assets.s3.amazonaws.com/news/Going%20Beyond%20the%20Last%20Mile-Adaptation%20to%20Increase%20Refugee%20Adoption.pdf
 - title: Building Resilience and Enabling Adaptation to Climate Change for Host and
