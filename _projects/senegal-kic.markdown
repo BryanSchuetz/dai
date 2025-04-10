@@ -4,7 +4,7 @@ date: 2025-02-07 14:40:00 Z
 summary: DAI has designed and launched a new KIC program to support local innovation
   and entrepreneurship while meeting the unique needs of communities in Senegal.
 start: 2024
-end: 2025
+end: 2026
 client: Kosmos Energy
 solutions:
 - Sustainable Business
