@@ -1,6 +1,6 @@
 ---
 title: DAI Joins Green Climate Fund’s Readiness Support Services Provider Framework
-date: 2025-04-14 21:00:00 Z
+date: 2025-04-14 09:00:00 Z
 is_featured: true
 solutions:
 - Climate Change Adaptation and Mitigation
