@@ -3,9 +3,9 @@ title: Pakistan—SAFCO Digital Transformation
 date: 2025-04-24 13:51:00 Z
 ---
 
-Access to finance for micro, small, and medium-sized enterprises (MSMEs) remains a significant challenge in Pakistan. SAFCO Microfinance Company, a leading Microfinance Institution (MFI) operating in Sindh, has partnered with FMO to address this issue and expand financial services to underserved communities. These include enterprises, SMEs, women, farmers, and populations affected by climate change. SAFCO provides customized financial products to assist these groups in growing and adapting, backed by suitable technology and cybersecurity measures. The institution adopts a customer-first approach, emphasizing recurring clients through community mobilization and group lending.
+Access to finance for micro, small, and medium-sized enterprises (MSMEs) remains a significant challenge in Pakistan. SAFCO Microfinance Company, a leading microfinance institution (MFI) operating in Sindh, has partnered with FMO to address this issue and expand financial services to underserved communities. These include enterprises, SMEs, women, farmers, and populations affected by climate change. SAFCO provides customized financial products to assist these groups in growing and adapting, backed by suitable technology and cybersecurity measures. The institution adopts a customer-first approach, emphasizing recurring clients through community mobilization and group lending.
 
-DAI is supporting the digital acceleration of SAFCO under the Digital Transformation (DTX) Technical Assistance Facility, a framework funded by FMO, the Dutch development bank. 
+DAI is supporting the digital acceleration of SAFCO under the  [Digital Transformation (DTX) Technical Assistance Facility](https://www.dai.com/our-work/projects/worldwide-digital-transformation-technical-assistance-facility-framework-dtx-taf), a framework funded by FMO, the Dutch development bank. 
 
 SAFCO has identified four key actions to accelerate its digital transformation and better serve MSME customers: 
 * Reduce loan processing time from the current 15 days through process automation and streamlined workflows. 
