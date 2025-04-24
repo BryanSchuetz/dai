@@ -1,6 +1,9 @@
 ---
 title: Pakistan—SAFCO Digital Transformation
 date: 2025-04-24 13:51:00 Z
+summary: DAI is supporting the digital acceleration of SAFCO Microfinance Company
+  under the  Digital Transformation (DTX) Technical Assistance Facility so that it
+  can better serve MSME customers.
 ---
 
 Access to finance for micro, small, and medium-sized enterprises (MSMEs) remains a significant challenge in Pakistan. SAFCO Microfinance Company, a leading microfinance institution (MFI) operating in Sindh, has partnered with FMO to address this issue and expand financial services to underserved communities. These include enterprises, SMEs, women, farmers, and populations affected by climate change. SAFCO provides customized financial products to assist these groups in growing and adapting, backed by suitable technology and cybersecurity measures. The institution adopts a customer-first approach, emphasizing recurring clients through community mobilization and group lending.
