@@ -13,6 +13,8 @@ SAFCO has identified four key actions to accelerate its digital transformation
 * Build digital capacity across the organization to fully leverage available technology. 
 * Strengthen cybersecurity to ensure resilience and reliability.
 
+![5300227585_328a8bafc7_o.jpg](/uploads/5300227585_328a8bafc7_o.jpg)
+
 ## Sample Activities
 
 * Conduct a comprehensive digital gap assessment to evaluate SAFCO’s current technology landscape, digitization maturity, and cybersecurity readiness to identify vulnerabilities and provide mitigation strategies that align with global standards.
