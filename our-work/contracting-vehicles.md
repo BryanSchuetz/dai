@@ -18,6 +18,10 @@ layout: node
 * Financing Self-Reliance and Market-Led Development (FSRMD) (2021-2026)
 * Regional Integration and Stronger Economies (RISE) (2020-2027)
 
+# General Services Administration
+
+* One Acquisition Solution for Integrated Services+ ([OASIS+](https://www.dai.com/oasis)) (2025-2030)
+
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 
 ### Expert Advisory Call Down Services 2 (EACDS2)

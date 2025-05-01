@@ -1,46 +1,42 @@
 ---
-title: OASIS
-summary: OASIS is a multiple award, Indefinite Delivery/Indefinity Quantity Contract
-  that provides flexible and innovative solutions for complex professional services.
+title: OASIS Plus
+summary: OASIS Plus is a suite of governmentwide, multiple-award contracts designed to support federal agencies’ procurement requirements for services-based solutions. This suite of services contracts is available for use by agencies throughout the Federal Government who hold a Delegation of Procurement Authority or DPA.
 layout: default
 ---
 
-# About OASIS
+# About OASIS+
 
-[OASIS (One Acquisition Solution for Integrated Services)](https://www.gsa.gov/buying-selling/products-services/professional-services/buy-services/oasis-and-oasis-small-business) is a multiple award, Indefinite Delivery/Indefinity Quantity Contract (ID/IQ) that provides flexible and innovative solutions for complex professional services. This solutions-based contract provides a multidisciplined approach to meeting complex government requirements for integrated professional services in the broadest context of the contract’s scope, incorporating all contract types along with ancillary support services and supplies. OASIS provides ease of use for client agencies and maximum flexibility at the task order level.
+[OASIS+ (One Acquisition Solution for Integrated Services+)](https://www.gsa.gov/buying-selling/products-services/professional-services/buy-services/oasis-and-oasis-small-business) OASIS+ is a suite of governmentwide, multiple-award contracts designed to support federal agencies’ procurement requirements for services-based solutions. This suite of services contracts is available for use by agencies throughout the Federal Government who hold a Delegation of Procurement Authority or DPA.
 
-![OASIS Logo Graphic](https://www.dai.com/uploads/OASIS%20logo.png "OASIS Logo Graphic")
+OASIS+ represents a bold step by GSA to innovate on the successes and opportunities gleaned from the OASIS program over the years. Drawing on these learnings, we are building a more robust suite of IDIQ contracts for the next generation of professional services solutions, that will be flexible enough to meet federal customers’ increasingly complex requirements.
 
-DAI [was awarded](/news/dai-wins-place-on-us-governments-oasis-contract) an unrestricted OASIS contract for Pool 1, which covers categories of services provided under one or more of the following core disciplines—program management services, management consulting services, scientific services, engineering services, logistics services, and financial management services.
+![OASIS+ Logo Graphic](/uploads/oasis-plus.png "OASIS Plus Logo Graphic")
+
+ DAI was awarded four domains: Management & Advisory, Technical & Engineering, Research & Development, and Environmental.
 
 <aside>
-<h3>Learn More about DAI and OASIS</h3>
-<a href="/uploads/dai-oasis-capabilities.pdf">
+<h3>Learn More about DAI and OASIS+</h3>
+<!-- <a href="/uploads/dai-oasis-capabilities.pdf">
   <img src="/uploads/oasis-screenshot.png" alt="A screenshot of DAI marketing materials">
-</a>
-<p>DAI is uniquely positioned with capabilities well suited to meet the challenges OASIS was designed to address. Forty-eight years on the frontlines of global development confirm the interconnectedness of these development challenges. Our <a href="/who-we-are/the-team">development specialists</a> reach across technical disciplines to shape the <a href="/our-work/the-solutions">integrated development solutions</a> that promise transformational development results.</p>
+</a> -->
+<p>DAI is uniquely positioned with capabilities well suited to meet the challenges OASIS+ was designed to address. Fifty+ years on the frontlines of global development confirm the interconnectedness of these development challenges. Our <a href="/who-we-are/the-team">development specialists</a> reach across technical disciplines to shape the <a href="/our-work/the-solutions">integrated development solutions</a> that promise transformational development results.</p>
 </aside>
 
 ## Key Contractor Personnel and Information
 {:style="margin-top: 2rem;"}
 
-* **Natawnee Fritz**
+* **Jeremy Kanthor**
 * OASIS Program Manager
 * 301-771-7600
-* [Natawnee_fritz@dai.com](mailto:Natawnee_fritz@dai.com)
+* [jeremy_kanthor@dai.com](mailto:jeremy_kanthor@dai.com)
 
-* **Zach Arney**
+* **John McGuire**
 * OASIS Contract Manager
 * 301-771-7600
-* [zach_arney@dai.com](mailto:zach_arney@dai.com)
+* [john_mcguire@dai.com](mailto:john_mcguire@dai.com)
 * [OASISContracts@dai.com](mailto:OASISContracts@dai.com)
 
+<!--
 * [OASIS Conformed Contract](/uploads/oasis-contract.pdf)
 * DUNS Number: **066781956**
-* Cage Code: **9G431**
-
-
-
-
-
-
+* Cage Code: **9G431** -->
