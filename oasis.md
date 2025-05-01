@@ -1,6 +1,9 @@
 ---
 title: OASIS Plus
-summary: OASIS Plus is a suite of governmentwide, multiple-award contracts designed to support federal agencies’ procurement requirements for services-based solutions. This suite of services contracts is available for use by agencies throughout the Federal Government who hold a Delegation of Procurement Authority or DPA.
+summary: OASIS Plus is a suite of governmentwide, multiple-award contracts designed
+  to support federal agencies’ procurement requirements for services-based solutions.
+  This suite of services contracts is available for use by agencies throughout the
+  Federal Government who hold a Delegation of Procurement Authority or DPA.
 layout: default
 ---
 
