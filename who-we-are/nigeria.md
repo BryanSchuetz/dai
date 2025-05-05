@@ -21,14 +21,14 @@ layout: node
       <p class="name"><strong><a href="https://www.dai.com/who-we-are/our-team/joe-abah">Joe Abah, Nigeria Country Director</a></strong></p>
     </div>
   </div>
-</div>  
+</div>
 
 
-DAI has implemented development projects in Nigeria since 1970, and after nearly 50 years of remote implementation, the company established a global operating platform in Nigeria—the first of many locally registered, fully fledged, corporate offices manned by professionals who bring technical expertise, local knowledge, and convening power. 
+DAI has implemented development projects in Nigeria since 1970, and after nearly 50 years of remote implementation, the company established a global operating platform in Nigeria—the first of many locally registered, fully fledged, corporate offices manned by professionals who bring technical expertise, local knowledge, and convening power.
 
 Since March 2018, the Nigeria team has worked in collaboration with colleagues around the world to deliver value for our clients and beneficiaries in Nigeria. Our clients include the U.K. Foreign, Commonwealth & Development Office, the U.S. Agency for International Development, the European Union, the Federal Government of Nigeria, and the Bill and Melinda Gates Foundation. Our diverse project portfolio encompasses: improving [governance and public service delivery](https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity), [strengthening democratic systems](https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii) in collaboration with the Independent National Electoral Commission; [empowering young Nigerians](https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas) to access health resources and life skills; [helping government develop](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) and implement policies that promote growth and reduce poverty; [building the capacity of public officials](https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems) for fiscal transparency and discipline; and through delivering a [more inclusive and effective education](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane) system that leads to better learning outcomes for students.
 
-Our corporate commitment to maintain long-term operational capability in Nigeria means our clients and partners benefit from DAI expertise across our global network as we continue to expand our services to a diverse range of clients: philanthropies, foundations, private firms, and government agencies. 
+Our corporate commitment to maintain long-term operational capability in Nigeria means our clients and partners benefit from DAI expertise across our global network as we continue to expand our services to a diverse range of clients: philanthropies, foundations, private firms, and government agencies.
 
 In the course of our work with international donors and the Nigerian state and federal ministries, DAI has built a rich body of knowledge and extensive networks in the private sector and at the federal, state, and local government levels. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and support partners, customers, and beneficiaries.
 
@@ -44,53 +44,53 @@ In the course of our work with international donors and the Nigerian state and f
     <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
-          <div class="card-image">
+        <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/nigeria-2022.png" alt="Placeholder image">
+            <img src="/uploads/nigeria-2024-annual-report.png" alt="Placeholder image">
             </figure>
-          </div>
-          <div class="card-content">
+        </div>
+        <div class="card-content">
             <div class="media">
-              <div class="media-content">
-                <p class="title is-4">2022 Annual Report</p>
-              </div>
+            <div class="media-content">
+                <p class="title is-4">2024 Annual Report</p>
+            </div>
             </div>
             <div class="content">
-              <p>2022 was a productive year supporting our clients in the fields of governance, education, health, and security, and a year of progress for the corporate team in catalyzing growth, driving integration across our development programs, and building value for the company.</p>
+            <p>Our focus remained on delivering impact where it matters most: fostering governance systems that work for people, strengthening human capital, and driving economic transformation.</p>
             </div>
-          </div>
-          <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="https://dai-assets.s3.amazonaws.com/global-offices/DAI%20in%20Nigeria%202022%20End%20of%20Year%20Report%20%28003%29.pdf">Download Report</a>
-          </footer>
+        </div>
+        <footer class="card-footer pt-0" style="padding-top: 0;">
+            <a download class="card-footer-item fb-pub-buttons" href="https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20in%20Nigeria%20Annual%20Report%202024.pdf">Download Report</a>
+        </footer>
         </div>
       </div>
       <div class="column">
-        <div class="card is-fullheight">
-          <div class="card-image">
-            <figure class="image is-4by5">
-              <img src="/uploads/2021-annual-report-thumbnail.jpg" alt="Placeholder image">
-            </figure>
-          </div>
-          <div class="card-content">
-            <div class="media">
-              <div class="media-content">
-                <p class="title is-4">2021 Annual Report</p>
-              </div>
-            </div>
-            <div class="content">
-              <p>In 2021 the focus was on implementating the 2020 wins, pursuing local opportunities, and corporate governance strengthening.</p>
-            </div>
-          </div>
-          <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/nigeria-annual-report-2021.pdf">Download Report</a>
-          </footer>
+      <div class="card is-fullheight">
+        <div class="card-image">
+          <figure class="image is-4by5">
+            <img src="/uploads/nigeria-2022.png" alt="Placeholder image">
+          </figure>
         </div>
+        <div class="card-content">
+          <div class="media">
+            <div class="media-content">
+              <p class="title is-4">2022 Annual Report</p>
+            </div>
+          </div>
+          <div class="content">
+            <p>2022 was a productive year supporting our clients in the fields of governance, education, health, and security, and a year of progress for the corporate team in catalyzing growth, driving integration across our development programs, and building value for the company.</p>
+          </div>
+        </div>
+        <footer class="card-footer pt-0" style="padding-top: 0;">
+          <a download class="card-footer-item fb-pub-buttons" href="https://dai-assets.s3.amazonaws.com/global-offices/DAI%20in%20Nigeria%202022%20End%20of%20Year%20Report%20%28003%29.pdf">Download Report</a>
+        </footer>
       </div>
-    </div>    
+    </div>
+    </div>
   </div>
-</div> 
+</div>
 
---- 
+---
 
 ## Contact DAI in Nigeria
 <a href="mailto:daiservices@dai.com">Email</a>
