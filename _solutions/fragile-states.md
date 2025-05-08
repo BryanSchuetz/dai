@@ -13,8 +13,6 @@ summary: 'DAI’s Fragile States work builds on our global reputation for innova
 type: primary
 related: false
 promos:
-- title: "**Our Team:** DAI Fragile States Experts"
-  link: "/who-we-are/the-team?filter=fragile-states"
 - title: "**Our Work:** DAI Fragile States Projects"
   link: "/our-work/the-projects?filter=fragile-states"
 - title: "**COVID-19:** Adaptation and Learning During COVID-19"
@@ -38,7 +36,7 @@ Grounded in research and learning, we engage with local partners and our interna
 
 [Peace-Building and Political Transition](/our-work/solutions/fragile-states-solutions/peace-building-and-political-transition)—At critical moments in a country’s transition process, we facilitate the sustainable rebuilding of communities by their own members while supporting progress toward legitimate indigenous governments that are better able to respond to the needs of their populations. We identify key individuals and groups committed to peaceful, participatory reform; strengthen locally driven violence-mitigation efforts; and provide economic recovery opportunities to stricken communities.
 
-[Countering Extremism](/our-work/solutions/fragile-states-solutions/countering-extremism)—We design, test, and adapt P/CVE tools to reach vulnerable communities and counter the local and international push and pull factors driving extremism. Our work, ranging from alternative digital messaging to empowering community-led CVE interventions, seeks to avert and address extremist rhetoric and activities across the ideological spectrum. 
+[Countering Extremism](/our-work/solutions/fragile-states-solutions/countering-extremism)—We design, test, and adapt P/CVE tools to reach vulnerable communities and counter the local and international push and pull factors driving extremism. Our work, ranging from alternative digital messaging to empowering community-led CVE interventions, seeks to avert and address extremist rhetoric and activities across the ideological spectrum.
 
 [Stabilization](/our-work/solutions/fragile-states-solutions/stabilization)—We work with government, civil, and private sector partners to strengthen and restore the social fabric, support independent media, promote representative and democratic governance, and encourage a return to normalcy in conflict and post-conflict environments. Building on our diverse experience and nuanced understanding of conflict dynamics in crisis environments, we assess and adapt to address the root causes of instability and lay the foundation for sustainable peace and development.
 

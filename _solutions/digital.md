@@ -11,8 +11,6 @@ summary: DAI’s Center for Digital Acceleration builds on DAI’s decades of ex
   emerging markets.
 type: primary
 promos:
-- title: "**Our Team:** Digital Acceleration Experts"
-  link: "/who-we-are/the-team?filter=digital-acceleration"
 - title: "**Our Work:** Digital Acceleration Projects"
   link: "/our-work/the-projects?filter=digital-acceleration"
 - title: "**Our News:** Recent Digital Acceleration News"
@@ -26,7 +24,7 @@ layout: solution
 
 ## About the Center for Digital Acceleration (CDA)
 
-The CDA helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. 
+The CDA helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results.
 
 <br>
 <aside class="insights promo">
@@ -38,7 +36,7 @@ The CDA helps our clients—businesses, governments, and foundations—integrate
     </a>
     <a href="/our-work/solutions/digital-acceleration-solutions/msme-study" target="blank" class="primary-block--button expert-button" style="clear: left;margin-bottom: 1rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
-</aside> 
+</aside>
 <aside class="insights promo">
   <div>
     <a href="/hcd.pdf">
@@ -51,20 +49,20 @@ The CDA helps our clients—businesses, governments, and foundations—integrate
 </aside>
 <br>
 
-We use this foundation to support client decision-making and to build customized digital tools and solutions, from custom web and data applications to technology-driven projects around the globe. Our work covers a cross section of sectors including health, governance, agriculture, and economic growth. 
+We use this foundation to support client decision-making and to build customized digital tools and solutions, from custom web and data applications to technology-driven projects around the globe. Our work covers a cross section of sectors including health, governance, agriculture, and economic growth.
 
 ## Our Solutions
 
-**[Digital Strategy](/our-work/solutions/digital-acceleration-solutions/digital-strategy)**—With DAI’s more than 20 years of experience implementing new technology in growing markets, CDA builds digital strategies that help clients understand and integrate new opportunities, technology partners, and cutting-edge digital tools. Together with our analysis of broader political and economic trends, our digital strategies help clients get ahead of potential challenges in complex environments.  
+**[Digital Strategy](/our-work/solutions/digital-acceleration-solutions/digital-strategy)**—With DAI’s more than 20 years of experience implementing new technology in growing markets, CDA builds digital strategies that help clients understand and integrate new opportunities, technology partners, and cutting-edge digital tools. Together with our analysis of broader political and economic trends, our digital strategies help clients get ahead of potential challenges in complex environments.
 
-**[Insights for Emerging Markets](/our-work/solutions/digital-acceleration-solutions/insights-for-emerging-markets)**—In emerging markets, mobile phone adoption, app choice, or information access preferences can change quickly. CDA helps clients keeps their finger on the pulse of these changes through *Frontier Insights*, a proprietary research method that identifies the information access and technology habits of target populations. 
+**[Insights for Emerging Markets](/our-work/solutions/digital-acceleration-solutions/insights-for-emerging-markets)**—In emerging markets, mobile phone adoption, app choice, or information access preferences can change quickly. CDA helps clients keeps their finger on the pulse of these changes through *Frontier Insights*, a proprietary research method that identifies the information access and technology habits of target populations.
 
-**[Human-Centered Design](/our-work/solutions/digital-acceleration-solutions/human-centered-design)**—All of our digital tools are designed with users, for wide use, and for sustainability from the start. Combined with the results of our *Frontier Insights* research, we use a human-centered design process to understand the needs of people using the tools, while accounting for the social, political, environmental, and historical dynamics that affect success. 
+**[Human-Centered Design](/our-work/solutions/digital-acceleration-solutions/human-centered-design)**—All of our digital tools are designed with users, for wide use, and for sustainability from the start. Combined with the results of our *Frontier Insights* research, we use a human-centered design process to understand the needs of people using the tools, while accounting for the social, political, environmental, and historical dynamics that affect success.
 
-**[Data for Decisions](/our-work/solutions/digital-acceleration-solutions/data-for-decisions)**—CDA helps our clients transform their work through data-driven decisions, helping them identify critical data sources, and building custom spatial and statistical analysis tools. 
+**[Data for Decisions](/our-work/solutions/digital-acceleration-solutions/data-for-decisions)**—CDA helps our clients transform their work through data-driven decisions, helping them identify critical data sources, and building custom spatial and statistical analysis tools.
 
-**[Technology Research and Development](/our-work/solutions/digital-acceleration-solutions/technology-research-and-development)**—From distributed ledger applications to machine-learning models, our team stays at the cutting edge of technology to support our clients as they drive sustainable social, economic, and political impact. 
+**[Technology Research and Development](/our-work/solutions/digital-acceleration-solutions/technology-research-and-development)**—From distributed ledger applications to machine-learning models, our team stays at the cutting edge of technology to support our clients as they drive sustainable social, economic, and political impact.
 
-**[Digital Trainings](/our-work/solutions/digital-acceleration-solutions/trainings)**—New digital tools and approaches are entering the market every day. CDA helps keep teams up to date, tailoring our digital workshops to client objectives. 
+**[Digital Trainings](/our-work/solutions/digital-acceleration-solutions/trainings)**—New digital tools and approaches are entering the market every day. CDA helps keep teams up to date, tailoring our digital workshops to client objectives.
 
 **Cybersecurity**—Helping countries raise the quality of their cybersecurity ecosystems through country-led programs so that information systems are better staffed and defended and more resilient.
