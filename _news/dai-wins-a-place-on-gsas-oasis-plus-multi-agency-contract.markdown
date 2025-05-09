@@ -11,7 +11,7 @@ social-image: "/uploads/oasis-plus.png"
 
 DAI is pleased to announce that it has been awarded a place on the One Acquisition Solution for Integrated Services Plus ([OASIS+](https://www.gsa.gov/oasis-plus/about/)) Multi-Agency Contract. Holding this contract qualifies DAI to compete for prospective work in a range of service areas across any U.S. Government department or agency.
 
-<!-- more -->
+<!--more-->
 
 ![oasis-plus.png](/uploads/oasis-plus.png)
  
