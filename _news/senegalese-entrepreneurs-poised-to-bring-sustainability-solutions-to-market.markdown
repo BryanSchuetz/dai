@@ -15,6 +15,7 @@ country: Senegal
 The Suxëtt Entrepreneuriat program has selected five Senegalese entrepreneurs to receive seed funding and one-to-one coaching to help turn their innovative early-stage plans into market-ready business solutions. All five winners share a vision of creating sustainable and scalable ventures that will benefit the wider community—from natural haircare products to improved land irrigation.
 
 Run by the DAI-implemented [Kosmos Innovation Center in Senegal](https://www.dai.com/our-work/projects/senegal-kic) (KIC Senegal), Suxëtt Entrepreneuriat equips young innovators aged 18–35 who have a prototype or operational business with the tools, networks, and resources to develop viable, scalable models addressing challenges in the local ecosystem. All participants selected for the course exhibited dedication to these aims through businesses based on concepts including adaptation, the circular economy, climate resilience, and clean tech.
+
 ![Senegal SUXETT.jpg](/uploads/Senegal%20SUXETT.jpg)
 `Suxëtt Entrepreneuriat participants meet with Yaye Souadou Fall, founder of tire recycling company E-Cover. Photo courtesy of Kosmos Innovation Center.`
 
