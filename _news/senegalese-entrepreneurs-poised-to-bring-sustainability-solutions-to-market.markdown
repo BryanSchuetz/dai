@@ -1,7 +1,7 @@
 ---
 title: Senegalese Entrepreneurs Poised to Bring Sustainability Solutions to Market
 date: 2025-05-13 10:07:00 Z
-is_featured: true
+is_featured: false
 solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
