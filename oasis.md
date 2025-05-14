@@ -13,15 +13,13 @@ layout: default
 
 OASIS+ represents a bold step by GSA to innovate on the successes and opportunities gleaned from the OASIS program over the years. Drawing on these learnings, we are building a more robust suite of IDIQ contracts for the next generation of professional services solutions, that will be flexible enough to meet federal customers’ increasingly complex requirements.
 
-![OASIS+ Logo Graphic](/uploads/oasis-plus.png "OASIS Plus Logo Graphic")
-
  DAI was awarded four domains: Management & Advisory, Technical & Engineering, Research & Development, and Environmental.
 
 <aside>
 <h3>Learn More about DAI and OASIS+</h3>
-<!-- <a href="/uploads/dai-oasis-capabilities.pdf">
+<a href="https://dai-assets.s3.amazonaws.com/who-we-are/oasis-unrestricted.pdf">
   <img src="/uploads/oasis-screenshot.png" alt="A screenshot of DAI marketing materials">
-</a> -->
+</a>
 <p>DAI is uniquely positioned with capabilities well suited to meet the challenges OASIS+ was designed to address. Fifty+ years on the frontlines of global development confirm the interconnectedness of these development challenges. Our <a href="/who-we-are/the-team">development specialists</a> reach across technical disciplines to shape the <a href="/our-work/the-solutions">integrated development solutions</a> that promise transformational development results.</p>
 </aside>
 
@@ -39,7 +37,5 @@ OASIS+ represents a bold step by GSA to innovate on the successes and opportunit
 * [john_mcguire@dai.com](mailto:john_mcguire@dai.com)
 * [OASISContracts@dai.com](mailto:OASISContracts@dai.com)
 
-<!--
-* [OASIS Conformed Contract](/uploads/oasis-contract.pdf)
-* DUNS Number: **066781956**
-* Cage Code: **9G431** -->
+* Unique Entry ID: **JKMEF5QVJK24**
+* Contract #: **47QRCA25DU699**
