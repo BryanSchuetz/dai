@@ -13,6 +13,10 @@ solutions:
 regions: Sub-Saharan Africa
 country: Ethiopia
 promos:
+- title: Inclusive Overview Growth for Women in Displacement- Affected Markets
+  link: "/uploads/Inclusive%20Growth%20for%20Women%20in%20Displacement-Affected%20Markets%204_1.pdf"
+- title: SHARPE Value for Money Assessment
+  link: "/uploads/SHARPE%20VFM%20Report%20May%2025-1ca35e.pdf"
 - title: 'BLOG: Part 1 - The “Theory” of Grant Making for Private Sector Actors'
   link: https://dai-global-developments.com/articles/the-theory-of-grant-making-for-private-sector-actors/?ref=pubs.ghost.io
 - title: 'BLOG: Part 2 - Providing Cost-Share Grants to the Private Sector'
