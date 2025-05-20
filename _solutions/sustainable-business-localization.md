@@ -46,7 +46,7 @@ Our approach delivers comprehensive programs of business upskilling and workforc
 <div class="media">
 <a href="/who-we-are/our-team/mabothokgong-mathole">
 <div class="media-content">
-<p class="title is-4" style="color: #1e7ab3;"> Mabothokgong Mathole</p>
+<p class="title is-4" style="color: #1e7ab3;">Mabothokgong Mathole</p>
 <p class="subtitle is-6" style="color: #1e7ab3;">Director, Mozambique Enterprise for Sustainability (MES)</p>
 </div>
 </a>
