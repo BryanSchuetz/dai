@@ -5,7 +5,7 @@ lastname: Henry
 summary: Patrick Henry leads DAI’s work with multinational corporate clients, supporting
   them in developing inclusive supply chains and high-impact social investment programs.
 job-title: Vice President, Sustainable Business Group
-image: "/uploads/new%20Patrick%20Henry.png"
+image: "/uploads/new-patrick-henry.jpg"
 solutions:
 - Sustainable Business
 regions:
@@ -15,7 +15,7 @@ order: 4
 
 Patrick Henry leads DAI’s work with multinational corporate clients, supporting them in developing inclusive supply chains and high-impact social investment programs.
 
-![Patrick Henry](/assets/images/leaders/patrick-henry.jpg)
+![Patrick Henry](/uploads/new-patrick-henry.jpg)
 
 Patrick’s expertise encompasses a wide range of technical areas, including supplier development, local content, agriculture and aquaculture, global logistics and supply chains, investor relations, corporate social responsibility, communications campaigns, and national policy development. His work focuses on bridging the gap between the supply chain demands of multinational companies and the ability of local suppliers to excel and secure contracts.
 
