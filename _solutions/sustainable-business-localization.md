@@ -105,7 +105,7 @@ Our approach delivers comprehensive programs of business upskilling and workforc
 <div class="card is-child bm--card-equal-height">
 <div class="card-image" style="padding: 1rem;">
 <figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/new%20Patrick%20Henry.jpg" alt="Placeholder image">
+<img class="is-rounded" src="/uploads/new%20Patrick%20Henry.png" alt="Placeholder image">
 </figure>
 </div>
 <div class="card-content">
