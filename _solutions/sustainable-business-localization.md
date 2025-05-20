@@ -39,22 +39,22 @@ Our approach delivers comprehensive programs of business upskilling and workforc
 <div class="card is-child">
 <div class="card-image" style="padding: 1rem;">
 <figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/ngp%20(002)-18bbc4.jpg" alt="Placeholder image">
+<img class="is-rounded" src="/uploads/A_KK__4591_square-872d96.jpg" alt="Placeholder image">
 </figure>
 </div>
 <div class="card-content">
 <div class="media">
-<a href="/who-we-are/our-team/natasha-gaskin-peters">
+<a href="/who-we-are/our-team/mabothokgong-mathole">
 <div class="media-content">
-<p class="title is-4" style="color: #1e7ab3;">Natasha Gaskin-Peters</p>
-<p class="subtitle is-6" style="color: #1e7ab3;">Director, Centre for Local Business Development, Guyana</p>
+<p class="title is-4" style="color: #1e7ab3;"> Mabothokgong Mathole</p>
+<p class="subtitle is-6" style="color: #1e7ab3;">Director, Mozambique Enterprise for Sustainability (MES)</p>
 </div>
 </a>
 </div>
 <div class="content">
-<p>Leads the Centre for Local Business Development in Guyana.</p>
+<p>Leads the Mozambique Enterprise for Sustainability (MES).</p>
 <div class="bulma">
-<button class="button is-primary" onclick="window.location.href='mailto:natasha_gaskin-peters@dai.com '">
+<button class="button is-primary" onclick="window.location.href='mailto: Mabothokgong_Mathole@dai.com '">
 <span class="icon is-small">
 <i class="fa-solid fa-envelope"></i>
 </span>
