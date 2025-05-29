@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Integrated Natural Resource Management (INRM) Activity
 date: 2020-08-03 17:10:00 Z
-published: true
 summary: The Integrated Natural Resource Management (INRM) program is designed to
   drive the uptake and operationalization of the U.S. Agency for International Development’s
   Environment and Natural Resource Management Framework.
