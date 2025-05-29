@@ -12,9 +12,6 @@ solutions:
 - Climate
 regions: Sub-Saharan Africa
 country: Malawi
-promos:
-- title: 'VIDEO: Roots of Resilience: The Climate Just Communities Journey'
-  link: https://vimeo.com/1088711638?share=copy#t=0
 ---
 
 DAI’s Climate Just Communities (CJC) Malawi project forms part of a flagship program under the Scottish Government’s Climate Justice Fund, which supports locally led community projects in Malawi, Rwanda, and Zambia. It employs an approach that builds upon three pillars—distributive, procedural, and transformative justice —and ensures that local understanding and participatory design are central to delivering highly relevant and sustainable programs. 
