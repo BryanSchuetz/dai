@@ -38,8 +38,8 @@ Beyond Saint Louis, the KIC Senegal program extends its reach through national-l
 * Final Pitch Event: Teams showcase their business ideas to a panel of judges, competing for prizes and recognition.
 * Incubation and 1:1 Coaching: Winners of the pitch competition receive tailored business coaching to refine their strategies and accelerate their growth.
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1081866452?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="KIC-demo-day"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 ## A Commitment to Local Innovation and Sustainable Development
 
 KIC Senegal builds on DAI’s long-standing expertise and Kosmos Energy’s vision of empowering communities through entrepreneurship. By fostering local innovation, the program is unlocking opportunities for young people and women, catalyzing economic growth, and driving sustainable development in Senegal.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1081866452?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="KIC-demo-day"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
