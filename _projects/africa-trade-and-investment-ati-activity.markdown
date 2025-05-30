@@ -1,7 +1,7 @@
 ---
 title: Africa—USAID Africa Trade and Investment activity
 date: 2021-10-07 15:40:00 Z
-published: false
+published: true
 summary: 'The U.S. Agency for International Development (USAID) Africa Trade and Investment
   activity bolsters the Agency’s ability to boost trade and investment to, from, and
   within the African continent. '
@@ -14,27 +14,20 @@ solutions:
 - Finance and Investment
 regions: Sub-Saharan Africa
 country: Sub-Saharan Africa, North Africa
-promos:
-- title: Grants and Subcontracts Hub
-  link: https://www.atiprogram.com/
-- title: Administrator Samantha Power Launches $30 Million Tradeboost Program
-  link: https://www.usaid.gov/news-information/press-releases/jun-29-2022-administrator-samantha-power-launches-30-million-tradeboost-program
-- title: Prosper Africa Plans to Invest $170 Million to Boost African Exports and
-    U.S. Investment by $2 Billion
-  link: https://www.prosperafrica.gov/news/prosper-africa-plans-to-invest-170-million-to-boost-african-exports-and-u-s-investment-by-2-billion/
 ---
 
-The U.S. Agency for International Development (USAID) Africa Trade and Investment activity is designed to bolster the Agency’s ability to boost trade and investment to, from, and within the African continent. As USAID’s flagship effort under the Prosper Africa initiative, the continent-wide program expands and accelerates two-way trade and investment between African nations and the United States.  
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
-The program works with the African private sector to achieve Africa’s vision for inclusive economic growth. Over the five-year program lifecycle, the project intends to generate thousands of jobs across the African continent and within the United States, deliver billions in exports and investments, mobilize private sector-driven solutions, and create healthy business environments.  
+The U.S. Agency for International Development (USAID) Africa Trade and Investment activity (ATI) was designed to bolster the Agency’s ability to boost trade and investment to, from, and within the African continent. As USAID’s flagship effort under the Prosper Africa initiative, the continent-wide program expanded two-way trade and investment between African nations and the United States, strengthening supply chains in areas such as critical minerals while reducing the region’s dependence on China for trade and financing.
 
-As a demand-driven mechanism, the project is flexible and responsive. The Africa Trade and Investment activity brings together a tested network of partners that can work across the intersection of trade and investment, deploying proven approaches testing new finance solutions, and building partnerships for sustainability and scale. 
+The program worked with the African private sector to achieve Africa’s vision for inclusive economic growth. It sought to generate thousands of jobs across the continent and within the United States, deliver billions in exports and investments, mobilize private sector-driven solutions, and create healthy business environments.
 
-The platform is collectively funded by all users (Prosper Africa and participating USAID Buy-in Missions and Offices) and aims for cost-effective, rapid, and flexible deployment of the most critical shared services. The more ATI can scale, the more the costs are shared. 
+Flexible, responsive, and demand-driven, ATI brought together a tested network of several hundred partners at the intersection of trade and investment, deploying proven approaches testing new finance solutions and building partnerships for sustainability and scale.
 
-ATI allows USAID to work closely with the private sector to shape activities that unlock business opportunities, particularly those that drive trade and investment into and out of African markets. Operating in 50 countries, the Activity has forged 340 partnerships, achieving extraordinary results: $1.61 billion in closed trade deals, $1 billion in finalized investments, $215 million in grants and subcontracts awarded, and $415 million in co-investment mobilized from private-sector partners.
-  
-![Coast Apparel 2.jpg](/uploads/Coast%20Apparel%202.jpg)
+The platform was collectively funded by its users (Prosper Africa and participating USAID Buy-in Missions and Offices) and aimed for cost-effective, rapid, and flexible deployment of the most critical shared services.
+
+Operating in 50 countries, ATI allowed USAID to work closely with the private sector to shape activities that unlock business opportunities, particularly those that drive trade and investment into and out of African markets
+
 
 ## Sample Activities
 
@@ -44,14 +37,13 @@ ATI allows USAID to work closely with the private sector to shape activities tha
 * Provide financial advisory services.
 * Build capacity.
 * Assist with policy and regulatory services.
- 
+
 ## Selected Results
 
-* Implemented 46 USAID Mission buy-ins valued at $450 million.
-* Leveraged $415 million of additional private-sector investments.
-* Closed 2,334 trade deals, valued at $1.1 billion.
-* Closed 322 investment deals, valued at $733.3 million.
-* Awarded $215 million in grants and subcontracts.
-* Managed 340 partnerships.
- 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1017508592?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Meet ATI"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+* Closed 3,481 trade deals valued at $2 billion.
+* Closed 483 investment deals valued at $1.2 billion.
+* Leveraged $406 million of additional private-sector investments.
+* Secured more than $400 million of investment from African partners.
+* Implemented 49 buy-ins with a cumulative value exceeding $400 million.
+* Achieved $2.3 in private co-investment for every $1 of USAID investment.
+* Expected to create 300,000 jobs across the continent.
