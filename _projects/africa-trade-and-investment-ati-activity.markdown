@@ -1,7 +1,6 @@
 ---
 title: Africa—USAID Africa Trade and Investment activity
 date: 2021-10-07 15:40:00 Z
-published: true
 summary: 'The U.S. Agency for International Development (USAID) Africa Trade and Investment
   activity bolsters the Agency’s ability to boost trade and investment to, from, and
   within the African continent. '
