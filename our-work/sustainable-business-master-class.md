@@ -83,6 +83,9 @@ layout: solution
 
 {% include _our-work/sbg-carousel.html %}
 
+## What's Included
+The course fee covers the three days of expert training, training materials such as a participant course pack, light refreshments and drinks throughout the course, and a certificate confirming the participant has completed this training provided by a British Accreditation Council-accredited short-course provider. 
+
 ## DAI's globally recognized Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
 
 <blockquote>
@@ -96,6 +99,11 @@ layout: solution
 <blockquote>
 <p>"Very dynamic and interactive. Well balanced between theory and real-life examples.” <br>—<em>Local Content and Technology Manager, Shell Brazil Petroleo Ltd</em></p>
 </blockquote>
+
+## Payment and Cancellation Terms
+Payment in full is required at the time of booking. Registration will only be confirmed upon full payment. It is the responsibility of registered participant(s) to pay any additional local taxes that may be applicable (tax withholding, VAT, etc).
+
+To cancel or amend a registration, please write to DAI via email at training@dai.com. Charges for cancellations are calculated as follows and are based on the total value of the booking: Cancellations received at least eight (8) weeks prior to the course start date are eligible for a full refund. For cancellations received between eight (8) weeks and four (4) weeks prior to the course start date, a refund will be subject to a 50% cancellation fee. For cancellations received between four (4) weeks and two (2) weeks prior to the course start date, a refund will be subject to a 75% cancellation fee. Cancellations received less than fourteen (14) days before course start date are not eligible for a refund. If the program is cancelled at any time by DAI, participants will be advised as soon as possible and will be eligible for a transfer to the next program or a full refund at DAI's discretion.
 
 <div class="bulma container"><button onclick="window.location.href='mailto:training@dai.com';" class="button is-large is-primary" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Contact Us</button></div>
 
