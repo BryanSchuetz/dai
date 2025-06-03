@@ -13,6 +13,9 @@ solutions:
 regions: Sub-Saharan Africa
 country: Ethiopia
 promos:
+- title: 'FINAL STUDY: Understanding Refugee Resilience and the Inclusion of Refugees
+    in Markets: In the context of SHARPE programme in Ethiopia'
+  link: "/uploads/SHARPE%20refugee%20resilience%20study_final_May25.pdf"
 - title: Inclusive Overview Growth for Women in Displacement- Affected Markets
   link: https://dai-assets.s3.amazonaws.com/our-work/Inclusive%20Growth%20for%20Women%20in%20Displacement-Affected%20Markets%204_1.pdf
 - title: SHARPE Value for Money Assessment
