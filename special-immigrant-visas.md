@@ -3,6 +3,7 @@ title: Special Immigrant Visa and Priority-2 Program Resources
 summary: How do I apply to DAI for an employment verification letter or a referral
   to the P-2 program?
 layout: default
+published: false
 ---
 
 # Afghanistan Resources (SIV & P-2)
@@ -13,9 +14,9 @@ If you are an Afghan national who has worked directly as an employee for DAI in 
 
 <aside><strong>Please note that submitting fraudulent or tampered documents will lead to an automatic disqualification for an Employment Verification Letter, Letter of Recommendation, or Priority 2 (P-2) Referral from DAI.</strong></aside>
 
-## How do I request an SIV EVL or a Referral to the P-2 program? 
+## How do I request an SIV EVL or a Referral to the P-2 program?
 
-**Please email us at [siv@dai.com](mailto:siv@dai.com) for more information. Once you receive your EVL, please follow Department of State guidelines for submission of your SIV application. DAI will directly submit your application materials for P-2 referrals. 
+**Please email us at [siv@dai.com](mailto:siv@dai.com) for more information. Once you receive your EVL, please follow Department of State guidelines for submission of your SIV application. DAI will directly submit your application materials for P-2 referrals.
 
 **Please use caution when providing personal information about your Special Immigrant Visa (SIV) application or Priority (P-2) referral to any third-party organization. If you are concerned about an organization’s authenticity, please email [jawed_ferdous@dai.com](mailto:jawed_ferdous@dai.com) with the details and contact information of the third-party organization and we will work to confirm that it is a valid source.**
 
@@ -30,15 +31,15 @@ If you are an Afghan national who has worked directly as an employee for DAI in 
 | Family Documents (Forms of Identification for Family Members, Marital Status, Relevant Certificates) **(P-2 only)** | Tazkira, National ID Card, Passport, Translated Tazkira, Marriage Certificate, Death Certificate |
 | P-2 Referral Form **(P-2 only)** | Fill out using [this form](https://dai-assets.s3.us-east-1.amazonaws.com/siv/Excel%20Format%20of%20Referral%20Form.xlsx) |
 
-## How do I check on the status of my request to DAI for an EVL or P-2? 
+## How do I check on the status of my request to DAI for an EVL or P-2?
 
-If you submitted your request to SIV@dai.com, we will email you with any updates regarding the status of your request. 
+If you submitted your request to SIV@dai.com, we will email you with any updates regarding the status of your request.
 
 ## I’ve already submitted my SIV application to the National Visa Center. How do I check on the status?
 
 Call the Department of State SIV Hotline: 1-888-407-4747 or 202-501-4444. The first prompt is for U.S. Citizens. Wait until it finishes the recording, then the second prompt will start. It says, “If you’re calling about Visas, press 1”.
 
-## Are there resources for independent consultants, interns, subcontractors, grantees, or vendors? 
+## Are there resources for independent consultants, interns, subcontractors, grantees, or vendors?
 
 Please review the information below:
 
