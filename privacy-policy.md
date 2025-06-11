@@ -3,15 +3,15 @@ title: Privacy Policy
 layout: default
 ---
 
-# Privacy Policy  
+# Privacy Policy
 
 DAI Global LLC (“DAI”, “we”, “us”, or “our”) recognizes the importance of protecting personal information and data. This policy outlines how and why we collect, process, and handle personal information. This policy also informs individuals (“you”, “your”, or “their”) about their rights regarding this data. This policy applies to personal data provided to us, both by individuals themselves or by others. Our policy is to be transparent about why and how we process personal data.  To find out more about our specific processing activities, please go to the relevant sections of this statement.  
 
 ## Relevant Regulations
 
-As a global development firm, DAI maintains a legal presence in many different countries and we adhere to the regulations and requirements to each jurisdiction as applicable. For the purposes of personal information and data, DAI’s policy is designed to meet the requirements and uphold the principles in the European Union’s (EU) General Data Protection Regulations (GDPR). 
+As a global development firm, DAI maintains a legal presence in many different countries and we adhere to the regulations and requirements to each jurisdiction as applicable. For the purposes of personal information and data, DAI’s policy is designed to meet the requirements and uphold the principles in the European Union’s (EU) General Data Protection Regulations (GDPR).
 
-DAI utilizes the definition in the GDPR of personal data for the purposes of this policy. In brief, DAI considers personal data to be information in any format that relates to a living individual who can be identified by that information, either on its own or when it is combined with other information held by us. 
+DAI utilizes the definition in the GDPR of personal data for the purposes of this policy. In brief, DAI considers personal data to be information in any format that relates to a living individual who can be identified by that information, either on its own or when it is combined with other information held by us.
 
 ## Collection of Personal Information
 
@@ -38,23 +38,23 @@ DAI collects personal information in a lawful and fair manner and will only be o
 * Applications by you to attend events such as conferences, meetings, and trainings;
 * Photos and videos of your attendance at training or similar sessions (you will be given a chance at the session to ask not to be videoed or photographed);
 * Details of any disabilities and any accommodations we may need to make for you in the workplace; and
-* We may also collect sensitive personal information where we are permitted to do so by law (e.g. criminal record activity following stringent vetting processes) and information related to health. 
+* We may also collect sensitive personal information where we are permitted to do so by law (e.g. criminal record activity following stringent vetting processes) and information related to health.
 * Through direct communication between you and DAI personnel, such as email, mail, by telephone and direct meetings.
 
 DAI primarily relies on the consent of individuals to collect, process, and hold their data. You may opt not to provide consent or not provide certain personal information requested; however, doing so may result in DAI not able to provide you with services or contract with you.
-DAI strives to keep the personal data we hold relevant, updated, and correct. If there is a change in your personal data, please inform DAI so that we may update your information as relevant. 
+DAI strives to keep the personal data we hold relevant, updated, and correct. If there is a change in your personal data, please inform DAI so that we may update your information as relevant.
 
 ## Use of Personal Data
 
-We use the personal information for the following purposes: 
+We use the personal information for the following purposes:
 
-* Providing you services; 
-* Assessing your suitability for potential employment or contractual engagement; 
-* Employing you; 
-* Receiving services from you; 
-* Submission of documents to our clients; 
-* Keeping you informed about DAI’s work; 
-* Compliance with relevant laws or other legal requirements. 
+* Providing you services;
+* Assessing your suitability for potential employment or contractual engagement;
+* Employing you;
+* Receiving services from you;
+* Submission of documents to our clients;
+* Keeping you informed about DAI’s work;
+* Compliance with relevant laws or other legal requirements.
 
 ## Sharing of Personal Information
 
@@ -63,8 +63,8 @@ DAI will only share your personal information with others when we are legally pe
 Personal data and information that DAI holds may be transferred to the following types of organizations:
 
 * DAI as a group of companies;
-* Third-party organizations that provide support services (eg – payroll, IT, travel, health insurance, retirement accounts); 
-* Professional advisors, such as lawyers, auditors, and accountants; 
+* Third-party organizations that provide support services (eg – payroll, IT, travel, health insurance, retirement accounts);
+* Professional advisors, such as lawyers, auditors, and accountants;
 * Law enforcement, government, or other regulatory agencies as provided for by law.
 
 DAI does not sell your personal data to any third-parties.
@@ -73,26 +73,26 @@ DAI does not sell your personal data to any third-parties.
 
 It is our intent to not keep personal information for longer than reasonably required. The duration depends on the nature of the personal data and the purposes for which it was received. DAI’s business entities maintain a data retention policy informed by:
 
-* Legal or regulatory requirements of the location of the data processing; 
+* Legal or regulatory requirements of the location of the data processing;
 * The completion of a contract or employment engagement with you or work you supported with our clients;
 * If your personal data is held for reasons other than legal requirement or contractual engagement (ie – newsletter, recruitment database), we will maintain that data until you request its removal or correction.
 
 ## Your Rights Regarding Your Personal Data
 
-The EU’s GDPR details an individual’s rights regarding their personal data. DAI respects and supports these rights and applies them to personal data held generally. These rights include: 
+The EU’s GDPR details an individual’s rights regarding their personal data. DAI respects and supports these rights and applies them to personal data held generally. These rights include:
 
-* Right to Access – Subject to certain conditions, you are entitled to have access to your personal data. You may contact DAI to request a copy of your personal data held by us. 
-* Right to Data Portability – Subject to certain conditions, you are entitled to receive the personal data which you have provided to us and which is processed by us by automated means, in a structured, commonly-used machine readable format. 
-* Right to Correction – You may challenge the accuracy or completeness of your personal data and have it corrected or completed, as applicable. You have a responsibility to help us to keep your personal information accurate and up to date. 
-* Right to Object to or Restrict Processing – Subject to certain conditions, you have the right to object to or ask us to restrict the processing of your personal data. 
-* Right of Erasure – Subject to certain conditions, you are entitled to have your personal data erased (e.g. where your personal data is no longer needed for the purposes it was collected for, or where the relevant processing is unlawful). 
+* Right to Access – Subject to certain conditions, you are entitled to have access to your personal data. You may contact DAI to request a copy of your personal data held by us.
+* Right to Data Portability – Subject to certain conditions, you are entitled to receive the personal data which you have provided to us and which is processed by us by automated means, in a structured, commonly-used machine readable format.
+* Right to Correction – You may challenge the accuracy or completeness of your personal data and have it corrected or completed, as applicable. You have a responsibility to help us to keep your personal information accurate and up to date.
+* Right to Object to or Restrict Processing – Subject to certain conditions, you have the right to object to or ask us to restrict the processing of your personal data.
+* Right of Erasure – Subject to certain conditions, you are entitled to have your personal data erased (e.g. where your personal data is no longer needed for the purposes it was collected for, or where the relevant processing is unlawful).
 * Right to Withdraw Consent – As stated above, where our processing of your personal data is based on your consent you have the right to withdraw your consent at any time. If you withdraw your consent, this will only take effect for future processing and is subject to certain conditions based on DAI’s legal obligations.
 
-To act on any of the above rights, DAI may need to request additional information regarding the specifics of the request as well as confirm your identity. We will respond to these requests in accordance with regulatory requirements once we confirm the validity of the request. Requests regarding these rights can be submitted to DAI by following the instructions in the “Contact for Requests and Complaints” section below. 
+To act on any of the above rights, DAI may need to request additional information regarding the specifics of the request as well as confirm your identity. We will respond to these requests in accordance with regulatory requirements once we confirm the validity of the request. Requests regarding these rights can be submitted to DAI by following the instructions in the “Contact for Requests and Complaints” section below.
 
 ## Breaches of Personal Data
 
-DAI applies best business practices and secure systems to protect personal information. If a data breach that included personal information were to occur, DAI will respond to the breach as required by the relevant regulations. 
+DAI applies best business practices and secure systems to protect personal information. If a data breach that included personal information were to occur, DAI will respond to the breach as required by the relevant regulations.
 
 If you are aware of a breach of personal data that involves DAI, please contact [data_privacy@dai.com](mailto:data_privacy@dai.com) immediately.
 
@@ -104,11 +104,11 @@ DAI uses HTTP cookies to improve the performance of our site. All retained data 
 
 ## Images Utilized by DAI
 
-DAI utilizes images collected by our staff to demonstrate the nature and impact of our work. DAI seeks consent to the degree practical from the individuals depicted in these images. If your likeness is reproduced in any of the images hosted on a DAI website and you would like these images to be deleted, please [contact the administrator](mailto:data_privacy@dai.com) and the images will be promptly removed. 
+DAI utilizes images collected by our staff to demonstrate the nature and impact of our work. DAI seeks consent to the degree practical from the individuals depicted in these images. If your likeness is reproduced in any of the images hosted on a DAI website and you would like these images to be deleted, please [contact the administrator](mailto:data_privacy@dai.com) and the images will be promptly removed.
 
 ## Contact for Requests and Complaints
 
-If you would like additional details regarding DAI’s Personal Information and Privacy Policy, to submit a request regarding your personal information, or to submit a complaint please contact [data_privacy@dai.com](mailto:data_privacy@dai.com). 
+If you would like additional details regarding DAI’s Personal Information and Privacy Policy, to submit a request regarding your personal information, or to submit a complaint please contact [data_privacy@dai.com](mailto:data_privacy@dai.com).
 
 An email communication to the above address is the quickest way to receive a response from DAI. However, you may also submit requests in writing to the contacts below:
 
@@ -121,11 +121,9 @@ Bethesda, MD 20814<br>
 
 <aside>
 Ethics and Compliance Officer, Europe<br>
-3rd Floor Block C<br>
-Westside, London Road<br>
-Apsley<br>
-Hertfordshire, HP3 9TD<br>
+1 Smart's Place<br>
+London<br>
+WC2B 5LW<br>
 </aside>
 
 Last revised on Oct 31, 2022.
-
