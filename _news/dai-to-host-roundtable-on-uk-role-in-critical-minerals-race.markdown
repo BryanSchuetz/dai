@@ -23,7 +23,7 @@ The in-person event is scheduled for 9:00 am to 12:00 pm on 10 July at DAI’s o
 
 ### Panel 1
 
-* Belinda Schappes, expert on Chinese climate and energy policy, RUSI
+* Belinda Schappes, expert on Chinese climate and energy policy, Centre for Research on Energy and Clean Air
 * Jiayi Zhou, China expert, Stockholm International Peace Research Institute
 * Henry Sanderson, market expert, Benchmark Mineral Intelligence 
 * Michal Meidan, Head of China Energy Research, Oxford Institute for Energy Studies
