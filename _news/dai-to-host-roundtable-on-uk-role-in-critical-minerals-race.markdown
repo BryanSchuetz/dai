@@ -1,6 +1,10 @@
 ---
 title: DAI to Host Roundtable on U.K. Role in Critical Minerals Race
 date: 2025-06-20 18:25:00 Z
+summary: On July 10, DAI and the [MSA Group](https://msagroupservices.com/)—an independent
+  technical consultancy in the mining sector—will host a timely discussion on how
+  the U.K. Government can strengthen its approach to critical mineral supply chain
+  resilience amidst rising geopolitical pressures and the clean energy transition.
 social-image: "/uploads/Screenshot%202025-06-20%20at%2011.55.34%E2%80%AFAM.png"
 ---
 
