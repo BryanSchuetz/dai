@@ -6,7 +6,7 @@ social-image: "/uploads/Screenshot%202025-06-20%20at%2011.55.34%E2%80%AFAM.png"
 
 On July 10, DAI and the [MSA Group](https://msagroupservices.com/)—an independent technical consultancy in the mining sector—will host a timely discussion on how the U.K. Government can strengthen its approach to critical mineral supply chain resilience amidst rising geopolitical pressures and the clean energy transition.
 
-[critical-mining.JPG](/uploads/critical-mining.JPG)`Photo: MSGroup`
+[critical-mining.JPG](/uploads/critical-mining.JPG)`Photo: MSA Group`
 
 The Rt Hon. the Baroness Northover, a former Department for International Development Minister and current Vice Chair of the All-Party Parliamentary Group on Critical Minerals, will lead off the event, followed by two distinguished panels and an open discussion following Chatham House Rules to ensure a full airing of the issues.
 
