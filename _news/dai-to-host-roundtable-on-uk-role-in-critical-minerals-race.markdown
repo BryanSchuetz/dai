@@ -34,9 +34,10 @@ The in-person event is scheduled for 9:00 am to 12:00 pm on 10 July at DAI’s o
 * Jiayi Zhou, China expert, Stockholm International Peace Research Institute
 * Henry Sanderson, market expert, Benchmark Mineral Intelligence 
 * Michal Meidan, Head of China Energy Research, Oxford Institute for Energy Studies
+* Ros Lund, Independent Mining Consultant
 
 ### Panel 2   
 
 * Ian Haddon, CEO, MSA Group 
-* Azamat Kasymbekov, Principal Banker, EBRD 
+* Jeremy Wrathall, CEO of Cornish Lithium 
 * Oliver Richards, Head of Critical Minerals and Mining, Department for Business and Trade
