@@ -14,7 +14,7 @@ On July 10, DAI and the [MSA Group](https://msagroupservices.com/)—an independ
 
 The Rt Hon. the Baroness Northover, a former Department for International Development Minister and current Vice Chair of the All-Party Parliamentary Group on Critical Minerals, will lead off the event, followed by two distinguished panels and an open discussion following Chatham House Rules to ensure a full airing of the issues.
 
-[RSVP HERE](mailto:gurcharan_matharu@dai.com)
+<div data-tf-live="01JYP7KBXG8N2RHQMGH3PPWBSK"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 Access to secure, sustainable, and ethically sourced critical minerals is a growing strategic priority for the United Kingdom. The clean energy transition, increasing geopolitical competition, and recent export controls enacted by China have highlighted vulnerabilities in global supply chains for materials such as lithium, cobalt, graphite, and rare earth elements. 
 
