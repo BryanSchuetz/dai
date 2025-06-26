@@ -12,7 +12,9 @@ On July 10, DAI and the [MSA Group](https://msagroupservices.com/)—an independ
 
 ![critical-mining.JPG](/uploads/critical-mining.JPG)`Photo: MSA Group`
 
-The Rt Hon. the Baroness Northover, a former Department for International Development Minister and current Vice Chair of the All-Party Parliamentary Group on Critical Minerals, will lead off the event, followed by two distinguished panels and an open discussion following Chatham House Rules to ensure a full airing of the issues.
+The Rt Hon. the Baroness Northover, a former Department for International Development Minister and current Vice Chair of the All-Party Parliamentary Group on Critical Minerals, will lead off the event, followed by two distinguished panels and an open discussion following Chatham House Rules to ensure a full airing of the issues. 
+
+## RSVP Below
 
 <div data-tf-live="01JYP7KBXG8N2RHQMGH3PPWBSK"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
@@ -24,7 +26,7 @@ Britain’s Critical Minerals Strategy offers a framework for meeting this chall
 
 Following Baroness Northover’s remarks, the first panel, “Strategic Autonomy and China’s Dominance,” will ask how Britain can reduce its dependency on China across the critical minerals value chain. The second, “Government as Enabler: Policy, Investment, and Global Partnerships,” will focus on the U.K. Government’s role in unlocking sustainable investment, leveraging ODA, and supporting producer countries. Featured panellists are listed below.
 
-The in-person event is scheduled for 9:00 am to 12:00 pm on 10 July at DAI’s offices in Holborn (1 Smart’s Place, London WC2B 5LW). If you would like to attend, please [RSVP here](mailto:gurcharan_matharu@dai.com).
+The in-person event is scheduled for 9:00 am to 12:00 pm on 10 July at DAI’s offices in Holborn (1 Smart’s Place, London WC2B 5LW).
 
 ### Panel 1
 
