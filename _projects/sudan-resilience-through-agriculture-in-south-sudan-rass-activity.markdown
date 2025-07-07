@@ -27,24 +27,24 @@ promos:
   link: https://dai-global-developments.com/articles/community-seed-production-a-pathway-for-building-resilience-in-south-sudan/
 ---
 
-South Sudan’s rural areas have poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover from reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and violence against women. 
+South Sudan’s rural areas have poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover from reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and violence against women.
 
 The Resilience through Agriculture in South Sudan (RASS) Activity has been designed to improve food security and community household recovery and resilience in 13 target counties in South Sudan, reducing their long-term reliance on humanitarian assistance.
- 
-RASS works to improve the effectiveness of local systems and strengthen the capacities of community groups to achieve female-friendly and market-sensitive production; facilitate the production of diverse, nutritious foods by strengthening productivity, reducing food loss, and improving nutrition behaviors; and expand household and community opportunities for sustainable, locally driven livelihoods. Together, these activities will help graduate communities from crisis, emergency, and famine to less acute phases of food insecurity and ultimately support a transition from reliance on humanitarian assistance to development and economic growth. 
+
+RASS works to improve the effectiveness of local systems and strengthen the capacities of community groups to achieve female-friendly and market-sensitive production; facilitate the production of diverse, nutritious foods by strengthening productivity, reducing food loss, and improving nutrition behaviors; and expand household and community opportunities for sustainable, locally driven livelihoods. Together, these activities will help graduate communities from crisis, emergency, and famine to less acute phases of food insecurity and ultimately support a transition from reliance on humanitarian assistance to development and economic growth.
 
 RASS strengthens capacities to increase the availability of, access to, and utilization of diverse, safe, and affordable diet; and expand opportunities for sustainable, locally driven livelihoods, thereby graduating communities from emergency to insecure. Interventions to date have resulted in an 18 percent rise in the Food Consumption Score of program participants in the “acceptable” category, rising from 15 percent to 33 percent, while those in the “poor” category reduced from 65 percent to 40 percent.
 
 ![sudan.jpg](/uploads/sudan.jpg)
-  
+
 ## Sample Activities
 
 * Provide grants to local institutions, including producer groups, women and youth associations, and micro, small, and medium-sized enterprise to build their capacity.
 * Promote forage and animal feed production.
-* Improve linkage between farmers and input suppliers. 
-* Promote diversified and nutrient-rich crop production. 
-* Expand opportunities for sustainable, locally driven livelihoods. 
-* Expand access to financial services to diversify livelihoods and protect productive assets. 
+* Improve linkage between farmers and input suppliers.
+* Promote diversified and nutrient-rich crop production.
+* Expand opportunities for sustainable, locally driven livelihoods.
+* Expand access to financial services to diversify livelihoods and protect productive assets.
 
 ## Select Results
 

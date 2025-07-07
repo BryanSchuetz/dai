@@ -34,7 +34,7 @@ Zambia SUN TA layers interventions in nutrition, health, agriculture, access to 
 
 [Stunting](https://www.who.int/nutrition/healthygrowthproj_stunted_videos/en/) is impaired growth and development that children experience as a result of poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age 5, stunting can cause poor cognition and educational performance and other harmful lifelong effects. Zambia SUN TA worked to ensure that more of Zambia’s children grow up healthy, strong, and productive.
 
-Our goal is to contribute to a reduction in stunting, a condition that affects far too many Zambian children—up to 35 percent of children under the age of five—causing lifelong effects such as poor cognition and limited educational performance. To reach this group, we engage thousands of women in maternal and child health education, we work with farmers across 13 districts to help them adopt climate-resilient farming practices to produce diverse, nutritious foods that are crucial to reducing stunting. Through new and rehabilitated boreholes, we deliver clean water to communities, help improve sanitation, and increase access to finance for thousands of rural women. 
+Our goal is to contribute to a reduction in stunting, a condition that affects far too many Zambian children—up to 35 percent of children under the age of five—causing lifelong effects such as poor cognition and limited educational performance. To reach this group, we engage thousands of women in maternal and child health education, we work with farmers across 13 districts to help them adopt climate-resilient farming practices to produce diverse, nutritious foods that are crucial to reducing stunting. Through new and rehabilitated boreholes, we deliver clean water to communities, help improve sanitation, and increase access to finance for thousands of rural women.
 
 Since 2019, the project has delivered 1,000 boreholes across 13 districts in Central, Copperbelt, Northern, and Laupula provinces, providing new or improved access to clean and safe drinking water to more than 400,000 people and basic sanitation services to almost 3 million Zambians.
 
@@ -49,11 +49,11 @@ Since 2019, the project has delivered 1,000 boreholes across 13 districts in Cen
 
 ## Select Results
 
-* More than 56,000 farmers received extension services, helping them adopt improved land management practices important for increasing their production and productivity. 
+* More than 56,000 farmers received extension services, helping them adopt improved land management practices important for increasing their production and productivity.
 * Helped farmers increase sales of agricultural produce by 97.4 percent from 2020 to 2021.
 * Formed 1,456 new savings groups with a membership of 24,785 people who saved around $1 million, while 4,725 older members shared $455,493 for certified seed and fertilizer, farm labor, food, and reinvestment into their small businesses.
 * Helped 79,502 mothers benefit from activities and information on improved childcare practices, thereby contributing to raising healthy children.
 * Provided 188,124 people with family planning products and services provided within their localities, thereby increasing uptake and reducing distances to health centers.
 * Helped 322,015 households to build latrines, improving community sanitation and hygiene.
 * Built 1,000 new and rehabilitated boreholes, providing over 400,000 people with access to clean and safe water, averting diarrheal diseases caused by drinking unsafe water.
-* Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavioral change. 
+* Engaged community, civic, and traditional leaders to leverage their influence in mobilizing communities for social and behavioral change.

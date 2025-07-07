@@ -15,10 +15,10 @@ country: Afghanistan
 ---
 
 Many Afghan firms lack the competitive strength to maintain commercial viability in a distortion-free market, let alone to capture opportunities in export markets. The flagship economic growth project in USAID/Afghanistan’s portfolio, the Afghanistan Competitiveness of Export-Oriented Businesses Activity (ACEBA) project works to increase the competitiveness of export-oriented businesses, through a combination of key value chain support activities and export acceleration facilities designed to promote sustainable nationwide economic growth.
- 
+
 DAI’s market-oriented approach helps Afghan businesses increase the sales-worthiness of their products in international markets. We work with businesses from the inside to help fix their production processes, increase their productivity, and export products that meet international demand at competitive prices. ACEBA operates through “regional export accelerators” in the country’s main urban economic centers.
 
-After a brief suspension of most activities between August and December 2021, ACEBA resumed work prioritizing livelihoods support, focusing on domestic production activities and humanitarian goods and services that will sustain households. The project supports activities that improve market performance, while maintaining existing efforts focused on its key value chains of saffron, cashmere, and carpets, and creates a new value chain for humanitarian goods and services. 
+After a brief suspension of most activities between August and December 2021, ACEBA resumed work prioritizing livelihoods support, focusing on domestic production activities and humanitarian goods and services that will sustain households. The project supports activities that improve market performance, while maintaining existing efforts focused on its key value chains of saffron, cashmere, and carpets, and creates a new value chain for humanitarian goods and services.
 
 To date, more than 76,000 people have received support to restore their livelihoods or develop a new livelihood, benefitting almost 700,000 household members.
 
@@ -26,7 +26,7 @@ To date, more than 76,000 people have received support to restore their liveliho
 
 ## Sample Activities
 
-* Provide support to the implementation of key value chain interventions that will improve inputs, quality, and product development by exporters. 
+* Provide support to the implementation of key value chain interventions that will improve inputs, quality, and product development by exporters.
 * Diversify and expand exporters’ network of international buyers—supporting exporters in engagement of sales agents in export markets, hosting buyer-agent site visits to Afghanistan, participation in business visits to importers and industry trade events abroad, and the development of effective presence on e-commerce platforms.
 * Improve exporter access to credit and investment from local and/or international financial institutions and investors.
 * Implement tailored firm-level export strategies.
