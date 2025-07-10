@@ -5,7 +5,7 @@ summary: 'Tackling Illicit Financial Flows in Latin America (TIFF) works with a 
   of state institutions, providing expert assistance to enhance countries'' strategies
   and responses to illicit financial flows and associated corruption. '
 start: 2022
-end: 2025
+end: 2026
 client: U.K. Integrated Security Fund
 solutions:
 - Governance
