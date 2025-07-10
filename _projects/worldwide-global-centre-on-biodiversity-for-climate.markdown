@@ -6,7 +6,7 @@ summary: GCBC exists to generate robust new evidence and knowledge on the conser
   biodiversity, climate, and people and enables an understanding of policies, programs,
   and practices that have positive impacts on climate change and poverty reduction.
 start: 2023
-end: 2025
+end: 2028
 client: 'UK Department for Environment, Food and Rural Affairs (DEFRA) '
 solutions:
 - Environment
