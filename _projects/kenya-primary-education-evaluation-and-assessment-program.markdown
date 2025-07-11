@@ -1,6 +1,7 @@
 ---
 title: Kenya—Primary Education Evaluation and Assessment Program
 date: 2024-10-22 13:22:00 Z
+published: false
 summary: The Kenya Primary Education Evaluation and Assessment Program strengthens
   accountability and resilience across Kenya’s Ministry of Education and relevant
   semi-autonomous government agencies.

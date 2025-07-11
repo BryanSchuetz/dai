@@ -5,7 +5,7 @@ summary: 'The U.S. Agency for International Development (USAID) Africa Trade and
   activity bolsters the Agency’s ability to boost trade and investment to, from, and
   within the African continent. '
 start: 2021
-end: 2026
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
