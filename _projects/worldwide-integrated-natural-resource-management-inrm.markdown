@@ -5,7 +5,7 @@ summary: The Integrated Natural Resource Management (INRM) program is designed t
   drive the uptake and operationalization of the U.S. Agency for International Development’s
   Environment and Natural Resource Management Framework.
 start: 2020
-end: 2025
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Environment
