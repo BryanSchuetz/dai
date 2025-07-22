@@ -22,7 +22,7 @@ Against this backdrop, Morocco Decarbonisation and Climate Resilience (MCDR) Fra
 
 MDCR consists of two facilities—Morocco GEFF III and the Morocco Mid-size GEFF (MidGEFF)—which provide financing of up to €150 million and €250 million, respectively. GEFFs, or Green Economy Financing Facilities, are European Bank for Reconstruction and Development (EBRD) facilities dedicated to providing financing for banks, microfinance institutions, leasing companies, and other institutions that will in turn use that funding to finance investments in green tech and services supporting the green energy transition.
 
-The MDCR Framework expands on earlier EBRD programs in this space—such as  MorSEFF, GEFF II, and the Morocco Green Value Chains Project—by including initiatives such as water saving, desalination, circular economy, biomass, and green buildings. The MidGEFF Facility will also extend the reach of financing to larger Moroccan businesses and clients, supporting individual projects of up to €15 million or 20 MW.
+The MDCR Framework expands on earlier EBRD programs in this space—such as  [MorSEFF](https://www.dai.com/our-work/projects/morocco-sustainable-energy-financing-facility-morseff), [GEFF II](https://www.dai.com/our-work/projects/morocco-green-economy-financing-facility-ii-geff-morocco-ii), and the [Morocco Green Value Chains Project](https://www.dai.com/our-work/projects/morocco-green-value-chains-morocco-gvc)—by including initiatives such as water saving, desalination, circular economy, biomass, and green buildings. The MidGEFF Facility will also extend the reach of financing to larger Moroccan businesses and clients, supporting individual projects of up to €15 million or 20 MW.
 
 ## Sample Activities
 
