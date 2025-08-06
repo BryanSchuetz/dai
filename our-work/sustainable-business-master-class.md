@@ -17,7 +17,7 @@ layout: solution
             <div class="column">
                 <p>The Local Content Masterclass brings together participants from the private and public sector, helping them balance the commercial realities of volatile global demand and sustained cost pressures with the current political momentum for increased local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills. Download our <a href="https://www.dai.com/news/dai-publishes-insight-paper-on-local-content-and-business-growth">latest insight paper on local content and business growth</a>.</p>
                 <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
-                    <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be held on November 18–20, 2025, in Houston, Texas</h3>
+                    <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Dates for the next Masterclass will be announced soon. <a href="https://confirmsubscription.com/h/r/ACFA156B7601F0CF2540EF23F30FEDED">Register your interest here</a>.</h3>
 
                     <p style="margin-top: 1rem;">At the end of the course, participants receive a certificate confirming that they have completed this training provided by a British Accreditation Council-accredited short-course provider.</p>
                 </div>
