@@ -43,26 +43,7 @@ layout: solution
         </div>
     </div>
 </div>
-<div style="margin-top: 1rem; margin-bottom: 1rem;" id="eventbrite-widget-container-1289503964069"></div>
- 
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
- 
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
- 
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '1289503964069',
-        iframeContainerId: 'eventbrite-widget-container-1289503964069',
- 
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+
 
 ## Participants are trained to:
 
