@@ -12,7 +12,7 @@ social-image: "/uploads/Hirva%20SMALL.jpg"
 country: Mauritania
 ---
 
-Four standout women-led businesses secured seed funding at the conclusion of the 2025 Ra’idat entrepreneurship program at the DAI-implemented Kosmos Innovation Center (KIC) Mauritania.
+Four standout women-led businesses secured seed funding at the conclusion of the 2025 Ra’idat entrepreneurship program at the DAI-implemented [Kosmos Innovation Center (KIC) Mauritania](https://www.dai.com/our-work/projects/mauritania-kic).
 
 The program was initially established to boost women’s participation in KIC Mauritania’s flagship Mauritania Innovation Challenge (MIC), which empowers the next generation of business leaders in Mauritania through a rigorous program of training and development for young entrepreneurs. To address the low number of women applying for the program, in 2019 MIC organizers launched a bootcamp to support women’s entrepreneurial skills. 
 
