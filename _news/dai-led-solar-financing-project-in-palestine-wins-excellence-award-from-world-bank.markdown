@@ -2,6 +2,7 @@
 title: DAI-Implemented Solar Energy Financing Project in Palestine Wins Excellence
   Award from World Bank Group
 date: 2019-03-04 16:10:00 Z
+published: false
 solutions:
 - Environment
 - Economic Growth
