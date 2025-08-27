@@ -1,14 +1,14 @@
 ---
-title: Southeast Asia—ASEAN-USAID Partnership Program
+title: Southeast Asia—ASEAN-US Partnership Program
 date: 2024-10-14 11:18:00 Z
 published: false
-summary: 'Through the ASEAN-USAID Partnership Program, the U.S. supports ASEAN efforts
+summary: 'Through the ASEAN-US Partnership Program, the U.S. supports ASEAN efforts
   to enhance regional policies, cooperation, and capacity across its member states
   and partners to further sustainable and inclusive growth, tackle shared challenges,
   and strengthen common values. '
 start: 2024
 end: 2029
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 regions: Asia and the Pacific
