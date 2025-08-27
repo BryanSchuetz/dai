@@ -1,7 +1,6 @@
 ---
 title: Ukraine—US Cybersecurity Activity in Ukraine
 date: 2020-05-14 19:17:00 Z
-published: false
 summary: Ukraine’s resilience to Russia’s full-scale invasion is happening not just
   on the battlefield—it takes place in cyberspace, as Russia wages increasingly serious
   cyberattacks against Ukraine’s critical infrastructure and government systems. Ukraine’s
@@ -16,9 +15,14 @@ solutions:
 - Digital Strategy
 regions: Eastern Europe and Central Asia
 country: Ukraine
+promos:
+  title: CCI Linkedin
+  link: 'https://www.linkedin.com/company/the-us-cybersecurity-for-critical-infrastructure-in-ukraine-activity/ '
 ---
 
 Ukraine’s resilience to Russia’s full-scale invasion is happening not just on the battlefield—it takes place in cyberspace, as Russia wages increasingly serious cyberattacks against Ukraine’s critical infrastructure and government systems. Ukraine’s energy sectors—oil and gas, nuclear, electricity, and hydroelectric systems—are a particularly high-value target.
+
+![ukraine-cyber.jpg](/uploads/ukraine-cyber.jpg)
 
 The U.S. Government-funded Cybersecurity for Critical Infrastructure Activity strengthens the resilience of Ukraine’s critical infrastructure against cyberattacks by fostering collaboration between government, private sector, academia, and civil society. The Activity unites global and local expertise in diverse cybersecurity domains to improve Ukraine’s cyber preparedness and build critical infrastructure resilience. The Activity collaborates with more than 75 government institutions, think tanks, universities, nongovernmental groups, and industry associations while engaging prominent U.S. and international companies to deliver cutting-edge cybersecurity solutions to Ukraine's critical infrastructure. Increasing organizational and technical capacity in key institutions and ensuring that the next generation of cybersecurity professionals is prepared to take on these challenges are the Activity’s priorities, as well as building the foundation for improved preparedness based on an effective legal regulatory framework, effective communication between stakeholders, and engagement with the private sector.
 
