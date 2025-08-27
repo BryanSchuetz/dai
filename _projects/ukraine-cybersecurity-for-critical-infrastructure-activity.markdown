@@ -16,7 +16,7 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:
-  title: CCI Linkedin
+- title: Linkedin Page
   link: 'https://www.linkedin.com/company/the-us-cybersecurity-for-critical-infrastructure-in-ukraine-activity/ '
 ---
 
