@@ -52,3 +52,5 @@ TPSD III (2025-2030) will build on its eight years of experience and a growing c
 * Provided technical support to DG INTPA on enhancing coordination between EU development finance institutions and export credit agencies, in order to scale up the Global Gateway.
 
 <iframe src="https://player.vimeo.com/video/319475541" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>`Video highlighting EU efforts to increase private investment in energy projects in the DRC.`
+
+<iframe src="https://player.vimeo.com/video/1094667720" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media;" title="TPSDE Facility Impact Story // Facilitating private sector adaptation to the EU Deforestation Regulation in partner countries"></iframe>
