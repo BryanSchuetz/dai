@@ -50,7 +50,3 @@ TPSD III (2025-2030) will build on its eight years of experience and a growing c
 * Provided the EU Delegation to Jamaica with analysis identifying business opportunities and high-priority investment areas linked to the Global Gateway project for the expansion of the Port of Kingston. 
 * Produced a summary note based on 20 assignments for EU Delegations across Africa and Latin Ameria on private sector adaptation to Green Deal regulations—in particular the EU Deforestation Regulation and the Corporate Sustainability Due Diligence Directive. 
 * Provided technical support to DG INTPA on enhancing coordination between EU development finance institutions and export credit agencies, in order to scale up the Global Gateway.
-
-<iframe src="https://player.vimeo.com/video/319475541" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>`Video highlighting EU efforts to increase private investment in energy projects in the DRC.`
-
-<iframe src="https://player.vimeo.com/video/1094667720" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media;" title="TPSDE Facility Impact Story // Facilitating private sector adaptation to the EU Deforestation Regulation in partner countries"></iframe>
