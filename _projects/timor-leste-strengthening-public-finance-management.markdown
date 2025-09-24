@@ -20,6 +20,8 @@ Since restoring its independence in 2002, Timor-Leste has made significant progr
  
 Deficient public services, particularly in rural areas, affect people’s access to food, clean water, and health services, such that nearly 40 percent of Timorese still live below the national poverty line, stunting due to malnutrition still affects nearly half of all children below age five—the  highest rate in Southeast Asia—and anemia affects more than one-fifth of women of reproductive age.
 
+![timor-leste.png](/uploads/timor-leste.png)
+
 Effective, accountable use of public resources remains the essential foundation for addressing public service shortfalls. Currently, however, Timor-Leste lacks sufficient capacities and systems to mobilize and manage public resources effectively and efficiently. Notably, the main source of funding for public expenditure is the country’s Petroleum Fund, which will be exhausted within a decade at the current rate of expenditure.
 
 Against this backdrop, the Strengthening Public Finance Management in Timor-Leste project is designed to enhance the public financial management (PFM) system at all levels of government. Collaborating closely with the Ministry of Finance and other government stakeholders, the project will work across four components—PFM reform, revenue mobilization, budget planning, and fiscal decentralization—to support the country in realizing the five goals laid out in its 2022-2027 PFM Reform Strategy:
