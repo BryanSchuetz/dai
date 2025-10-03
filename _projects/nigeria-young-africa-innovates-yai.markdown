@@ -14,7 +14,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The Young Africa Innovates (YAI) Programme is designed to empower young Nigerians as solution providers and changemakers, driving socio-economic development through innovation. Implemented across 13 states, YAI identifies, incubates, and scales youth-led solutions tackling Nigeria’s most pressing challenges in sectors such as agriculture, energy, health, commerce, financial inclusion, tourism, and the creative economy
+The Young Africa Innovates (YAI) Programme is designed to empower young Nigerians as solution providers and changemakers, driving socio-economic development through innovation. Implemented across 13 states, YAI identifies, incubates, and scales youth-led solutions tackling Nigeria’s most pressing challenges in sectors such as agriculture, energy, health, commerce, financial inclusion, tourism, and the creative economy.
 
 ![nigeria-innovate.jpg](/uploads/nigeria-innovate.jpg)
 
