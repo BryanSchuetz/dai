@@ -16,6 +16,8 @@ country: Ukraine
 
 Tackling illicit financial flows and the organised criminal groups that exploit them is crucial to fighting corruption, fostering citizen trust in democratic government, and building confidence in the business and financial communities that their investments are made in an environment governed by the rule of law. In war-torn Ukraine, addressing illicit finance and corruption is particularly important as the Government of Ukraine seeks to counter Russian military aggression and Russian crime syndicates while moving toward European Union accession and ensuring the effective use of international aid.
 
+![eugene-GNzD5HIJtQk-unsplash.jpg](/uploads/eugene-GNzD5HIJtQk-unsplash.jpg)
+
 DAI has extensive experience working on illicit finance, serious and organised crime, and anticorruption in challenging environments around the world, including complex anticorruption and financial sector reforms in Ukraine. Under the Ukraine Illicit Finance Capacity Development Project (UCIF), DAI and its partners will support the Government of Ukraine, Ukrainian and international financial institutions, law enforcement agencies, and others to address key areas of reform in Ukraine’s financial ecosystem. 
 
 UCIF is a Foreign, Commonwealth & Development Office initiative funded through the U.K. Government’s Integrated Security Fund, managed by the U.K. Home Office’s Global Tackling Illicit Financial Flows and Anti-Corruption (TIFAC) Portfolio. It directly aligns with the UK–Ukraine 100 Year Partnership Commitments and contributes to protecting the United Kingdom from threats related to illicit finance, serious and organised crime, and Russia.
