@@ -5,7 +5,7 @@ summary: The Young Africa Innovates (YAI) Programme is designed to empower young
   as solution providers and changemakers, driving socio-economic development through
   innovation.
 start: 2025
-end: 2025
+end: 2026
 client: Mastercard Foundation, United Nations Development Programme (UNDP)
 solutions:
 - Workforce Development and Youth
