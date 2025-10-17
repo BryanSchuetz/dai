@@ -28,3 +28,5 @@ UCIF-supported reforms will be critical in maintaining the confidence of domesti
 * Develop legislative and regulatory frameworks for licensing and supervising Virtual Assets Service Providers. Effective regulation of virtual assets such as crypto is critical for EU compliance and accession, and will play a key role in mitigating Russian influence and raising revenue through effective taxation of crypto assets.
 * Advance reform of Ukraine’s regulations and supervision of financial and non-financial businesses. Enhanced supervision is critical for EU alignment and to build confidence in the legal sector so that international firms will be ready to engage in reconstruction contracts.
 * Strengthen the ability of Ukrainian law enforcement to tackle illicit financial flows. For example, UCIF will help develop a triage methodology to address current bottlenecks, with a focus on collaborative intelligence sharing between law enforcement and other Ukrainian government authorities, supported by IT reforms.
+
+<aside><p>Our implementing partners on UCIF are The Centre for Finance & Security at RUSI and the Center for Financial Integrity.</p></aside>
