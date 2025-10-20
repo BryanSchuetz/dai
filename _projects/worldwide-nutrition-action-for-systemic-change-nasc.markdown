@@ -27,7 +27,7 @@ promos:
 - title: M&E Nutrition Indicator Database Across Sectors
   link: "/uploads/tasc-nutrition-monitoring-indicator-database.xlsx"
 - title: "**Report:** Accounting FCDO’s Progress Against its Nutrition Pledges"
-  link: https://media.globalnutritionreport.org/documents/Accounting_Progress_Against_FCDOs_Nutrition_Pledges_Final.pdf
+  link: https://dai-assets.s3.amazonaws.com/our-work/Accounting_FCDOs_Progress_Against_its_Nutrition_Pledges_2025.pdf
 - title: FAQ for the CWIP Feedback Mechanism 2025_English
   link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_English.pdf"
 - title: FAQ for the CWIP Feedback Mechanism 2025_French
