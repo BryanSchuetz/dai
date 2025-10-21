@@ -17,6 +17,8 @@ country: Global
 The Ending Preventable Deaths (EPD) Support Programme supports the U.K. Foreign, Commonwealth & Development Office’s strategy for Contributing to Ending the Preventable Deaths of Mothers, Babies, and Children by 2030—and is a core component of FCDO’s global health strategy.
 
 The EPD Support Programme aims to reduce maternal, newborn, and child mortality by holistic action across key health pillars. These include strengthening health systems and financing, supporting equity and rights initiatives (including sexual and reproductive health), and promoting healthier lives and environments, including work on water, sanitation, and health (WASH), nutrition, and climate-health linkages.
+
+![preventing.jpg](/uploads/preventing.jpg)
  
 Under this project, DAI manages long- and short-term technical assistance assignments, coordinates strategic support and learning—both within the programme and across associated FCDO initiatives—and contributes to policy, planning, and implementation improvements, in collaboration with FCDO country teams and local stakeholders. 
 
