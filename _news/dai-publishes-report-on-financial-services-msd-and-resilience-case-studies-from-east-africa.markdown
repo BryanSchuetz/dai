@@ -1,7 +1,13 @@
 ---
-title: 'DAI Publishes Report on Financial Services, MSD, and Resilience: Case Studies
-  from East Africa'
+title: DAI Publishes Report on Financial Services, MSD, and Resilience in East Africa
 date: 2025-10-24 13:25:00 Z
+regions: Sub-Saharan Africa
+summary: Can financial services and the broader financial market ecosystem help build
+  climate resilience among marginalised communities? Drawing on case studies from
+  projects in Rwanda, Ethiopia, and Mozambique, our new paper explores how the application
+  of innovative financing models, the development of digital ecosystems, and institutional
+  collaboration are building resilience among marginalised communities.
+social-image: "/uploads/SHARPE%20supported%20mobile%20money%20agent%20in%20Jijiga.%20Photo%20Zacharias%20Abubeker.JPG"
 ---
 
 Can financial services and the broader financial market ecosystem help build climate resilience among marginalised communities? In East and Southern Africa, rural populations dependent on agriculture are acutely vulnerable to climate risks. But the cost of climate-proofing their livelihoods is often prohibitive. Targeted financial services can mitigate this vulnerability by enabling people to take adaptive measures, safeguard their incomes, and sustain trade during periods of shock. 
