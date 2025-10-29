@@ -10,8 +10,6 @@ layout: default
 <div class="cf">
 <div class="contact-us us">
 <h2 id="us">United States</h2>
-<strong><a href="mailto:siv@dai.com">Special Immigrant Visa Inquiries</a><br></strong>
-<p>Contact DAI regarding an application for a Special Immigrant Visa.</p>
 <p>Tel: (301) 771-7600<br>
 <a href="mailto:steven_o'connor@dai.com?subject=General%20Inquiries">General Inquiries</a></p>
 
