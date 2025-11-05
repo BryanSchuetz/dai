@@ -18,7 +18,7 @@ The High-Level Panel on Social Protection in Fragile and Conflict-Affected Setti
 
 The report was unveiled during a panel discussion at the United Nations Second World Summit for Social Development in Doha, Qatar, bringing together global leaders, policymakers, and practitioners to explore how social protection can contribute to peace, stability, and inclusive development.
 
-![STAAR panel Doha.jpeg](/uploads/STAAR%20panel%20Doha.jpeg)
+![STAAR panel Doha 2.jpg](/uploads/STAAR%20panel%20Doha%202.jpg)
 `Leaders from the U.K., Somalia, and Syria discuss social protection and stability at the UN’s Second World Summit for Social Development in Doha.`
 
 With 70 percent of the world’s extremely poor people living in high-fragility contexts—places most affected by conflict, climate shocks, and displacement—the report warns that without urgent action this figure could rise to 90 percent by 2040. Despite the growing need, only 3.4 percent of aid to fragile settings in 2023 was directed toward social protection.
