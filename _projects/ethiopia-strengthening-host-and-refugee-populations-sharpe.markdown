@@ -84,7 +84,7 @@ SHARPE drives increased self-reliance among refugees and creates economic opport
 
 Additionally, SHARPE serves as a vital learning platform for both the international and Ethiopian development communities, offering insights into systemic approaches within humanitarian contexts. By the program's conclusion, SHARPE expects to benefit 125,000 people in the target populations, helping them realize increases in incomes and employment or expand access to assets through private sector-driven changes. 
 
-The SHARPE program has entered its final year, shifting from developing new business deals to concentrating on research and evidence-based results. Read the team's report on monitoring, evaluation, and learning in fragile and conflict-affected situations [here] (/uploads/SHARPE%20MEL%20Learning%20Paper.pdf).
+The SHARPE program has entered its final year, shifting from developing new business deals to concentrating on research and evidence-based results. Read the team's report on monitoring, evaluation, and learning in fragile and conflict-affected situations [here](dai.com/uploads/SHARPE%20MEL%20Learning%20Paper.pdf).
 
 <iframe src="https://player.vimeo.com/video/1080505831" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
