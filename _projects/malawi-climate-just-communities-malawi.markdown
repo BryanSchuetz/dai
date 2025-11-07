@@ -18,6 +18,8 @@ DAI’s Climate Just Communities (CJC) Malawi project forms part of a flagship p
 
 Currently, 92 percent of Malawians rely on rain-fed sources of water, which are heavily impacted by floods and droughts. With rising global temperatures, there is an increased risk of drought and late onset of rains affecting food production in the country. The increase in extreme weather events also leaves vulnerable populations at greater risk from cyclones such as Freddy in 2023 with more than 500,000 people displaced and 500 confirmed deaths. CJC Malawi employs a participatory approach to developing and delivering interventions that enhance community resilience to the material and social impacts of such events. 
 
+Read a joint learning paper written by DAI and implementing partners NIRAS and SCIAF: [Climate Justice in Practice - Learning from the Climate Just Communities Programme in Malawi Rwanda and Zambia.pdf](/uploads/Climate%20Justice%20in%20Practice%20-%20Learning%20from%20the%20Climate%20Just%20Communities%20Programme%20in%20Malawi%20Rwanda%20and%20Zambia.pdf)
+
 DAI's delivery partners are IIED, LINK Education, LINK Community Development, Water Witness International, and Water Witness Malawi. 
 
 <iframe src="https://player.vimeo.com/video/1088711638" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
