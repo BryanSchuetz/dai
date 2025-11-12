@@ -22,7 +22,7 @@ hero: true
   <div class="container">
     <div class="columns">
       <div class="column">
-{%- for leader in leaders limit:4-%}
+{%- for leader in leaders limit:3-%}
 {%- unless leader.published == false -%}
 <a class="bulma-card" href="{{leader.url}}">
    <div class="card is-child">
@@ -53,7 +53,7 @@ hero: true
 {%- endfor -%}
     </div>
 <div class="column">
-{%- for leader in leaders offset:4 limit:4 -%}
+{%- for leader in leaders offset:3 limit:3 -%}
 {%- unless leader.published == false -%}
 <a class="bulma-card" href="{{leader.url}}">
 <div class="card is-child">
@@ -84,7 +84,7 @@ hero: true
 {%- endfor -%}
 </div>
   <div class="column">
-    {%- for leader in leaders offset:8 limit:4 -%}
+    {%- for leader in leaders offset:6 limit:3 -%}
     {%- unless leader.published == false -%}
   <a class="bulma-card" href="{{leader.url}}">
     <div class="card is-child">
