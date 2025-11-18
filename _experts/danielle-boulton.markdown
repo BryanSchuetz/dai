@@ -5,7 +5,7 @@ lastname: Boulton
 summary: 'Danielle Boulton has over 10 years of experience in project delivery, new
   business development, knowledge management, value for money (VfM) analysis, and
   stakeholder engagement within the health sector. '
-job-title: Principal Consultant, Human Development
+job-title: Principal Consultant, Governance and Accountability
 image: "/uploads/Danielle%20Boulton.jpg"
 solutions:
 - Global Health
