@@ -28,10 +28,10 @@ promos:
   link: "/uploads/tasc-nutrition-monitoring-indicator-database.xlsx"
 - title: "**Report:** Accounting FCDO’s Progress Against its Nutrition Pledges"
   link: https://dai-assets.s3.amazonaws.com/our-work/Accounting_FCDOs_Progress_Against_its_Nutrition_Pledges_2025.pdf
-- title: FAQ for the CWIP Feedback Mechanism 2025_English
-  link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_English.pdf"
-- title: FAQ for the CWIP Feedback Mechanism 2025_French
-  link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_French.pdf"
+- title: FAQ for the CWIP Feedback Mechanism 2026 (English)
+  link: https://dai-assets.s3.amazonaws.com/projects/FAQs%20CWIP%20feedback%20mechanism_2026_en.pdf
+- title: FAQ for the CWIP Feedback Mechanism 2026 (French)
+  link: https://dai-assets.s3.amazonaws.com/projects/FAQs%20CWIP%20feedback%20mechanism_2026_fr.pdf
 ---
 
 Nutrition Action for Systemic Change (NASC) Technical Assistance Facility is managed by DAI and contracted through the [Expert Advisory Call Down Service 2 (EACDS2) Lot 4: Climate, Nature and Global Health](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health) funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). EACDS2 technical advisory services provide rapid, quality-assured, short-term technical expertise to support the development of U.K. aid programs.
