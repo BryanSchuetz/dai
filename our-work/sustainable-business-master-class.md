@@ -27,7 +27,7 @@ layout: solution
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-5by4">
-                        <img src="/uploads/Masterclass_brochure_2025_cover.png" alt="report cover">
+                        <img src="/uploads/Masterclass_brochure_Page_1_small.png" alt="report cover">
                         </figure>
                     </div>
                     <div class="card-content">
