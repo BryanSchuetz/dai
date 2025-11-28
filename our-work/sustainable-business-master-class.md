@@ -36,7 +36,7 @@ layout: solution
                         </div>
                     </div>
                             <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-                            <a class="is-capitalized card-footer-item site-buttons is primary" href="https://dai-assets.s3.amazonaws.com/our-work/Masterclass_brochure_2025.pdf">Download</a>
+                            <a class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/Masterclass_brochure.pdf">Download</a>
                             </footer>
                 </div>
             </div>
