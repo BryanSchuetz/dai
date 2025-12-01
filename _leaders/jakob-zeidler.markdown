@@ -1,6 +1,7 @@
 ---
 title: Jakob Zeidler
 date: 2020-04-16 10:20:00 Z
+published: false
 lastname: Zeidler
 summary: Jakob Zeidler plays a leading role in driving DAI’s achievements with EU
   institutions and bilateral agencies.
@@ -9,7 +10,6 @@ image: "/uploads/new%20Jakob.jpg"
 regions:
 - Worldwide
 sort-order: 0
-published: false
 ---
 
 Jakob Zeidler plays a leading role in driving DAI’s achievements with EU institutions and bilateral agencies. Based in Vienna, he oversees more than 100 staff across DAI’s corporate offices in Austria, Belgium, Bulgaria, Serbia, Türkiye, and the United Kingdom.
