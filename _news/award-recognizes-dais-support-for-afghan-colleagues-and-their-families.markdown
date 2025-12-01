@@ -1,6 +1,7 @@
 ---
 title: Award Recognizes DAI’s Support for Afghan Colleagues and their Families
 date: 2023-06-21 12:06:00 Z
+published: false
 summary: DAI is honored to receive a Global Impact Award for the company’s work to
   support Special Immigrant Visa (SIV) and other relocation efforts for DAI employees
   in Afghanistan.
