@@ -15,9 +15,9 @@ layout: node
 
 | Belgium | Austria | Bulgaria |
 |:--|:--|:--|
-| Avenue de l’Yser 4 | Lothringer Strasse 16, | 13 Dondukov Blvd. |
-| 1040 Brussels  | 1030 Vienna | Floor 3 |
-| Belgium | Austria | Sofia 1000 |
+| Avenue de Tervueren 16B, b20 | Schwarzenbergplatz 2 | 13 Dondukov Blvd. |
+| 1150 Wolouwé-saint-Pierre  | 1010 Vienna | Floor 3 |
+| Brussels, Belgium | Austria | Sofia 1000 |
 | +32 274 202 90  | +43 1 402 5020  (tel) | Bulgaria |
 |  | +43 1 402 5020-20  (fax) | +359 2 935 9977  (tel) |
 |  |  | +359 2 935 9970  (fax) |
@@ -37,4 +37,3 @@ layout: node
 | Apsley | | |
 | Hertfordshire, HP3 9TD | | |
 | Tel: +44 (0)1442 202400 | | |
-{:.locations-table}
