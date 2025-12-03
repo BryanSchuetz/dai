@@ -39,10 +39,10 @@ As an [employee-owned](https://www.dai.com/who-we-are/employee-owners) and [miss
 <a href="mailto:euinfo@dai.com">Email</a>
 <div style="width: 45%; float: left; margin-right: 10%;">
   <p>
-    <strong>Belgium</strong><br>
-    Avenue de l’Yser 4<br>
-    1040 Brussels <br>
-    Belgium<br>
+    <strong>Belgium SRL</strong><br>
+    Avenue de Tervueren 16B, b20<br>
+    1150 Wolouwé-saint-Pierre<br>
+    Brussels, Belgium<br>
     Tel: +32 274 202 90<br>
   </p>
 </div>
