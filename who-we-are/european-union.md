@@ -46,12 +46,11 @@ As an [employee-owned](https://www.dai.com/who-we-are/employee-owners) and [miss
     Tel: +32 274 202 90<br>
   </p>
 </div>
-
 <div style="width: 45%; float: left;">
   <p>
     <strong>Austria</strong><br>
-    Lothringer Strasse 16,<br>
-    1030 Vienna<br>
+    Schwarzenbergplatz 2<br>
+    1010 Vienna<br>
     Austria<br>
     Tel: +43 1 402 5020<br>
     Fax: +43 1 402 5020-20<br>
