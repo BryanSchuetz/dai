@@ -2,7 +2,7 @@
 title: Ethics and Integrity at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
-  link: https://dai-assets.s3.amazonaws.com/who-we-are/DAI%20Business%20Code%20of%20Conduct%202024.pdf
+  link: https://dai-assets.s3.amazonaws.com/policies/v4.0_2025_DAI_Code-of-Conduct.pdf
 - title: Modern Day Slavery and Anti-Human Trafficking
   link: https://dai-assets.s3.amazonaws.com/Modern%20Slavery%20Statement%20signed%20final.pdf
 - title: Europe Commitment Statement
