@@ -1,24 +1,15 @@
 ---
 title: Mission & Values
 layout: node
-summary: 'DAI’s mission is to make a lasting difference in the world by helping people
-  improve their lives. We envision a world in which communities and societies become
-  more prosperous, fairer and better governed, safer, healthier, and environmentally
-  more sustainable.
-
-'
+summary: Our purpose as a company is to help our clients address their most pressing challenges.
 hero: true
 ---
+In everything we do to achieve that goal, we are guided by four core values: 
 
-To achieve this mission, we must be a great place to work and we must be a successful business. We need to attract and retain extraordinary talent, and provide our team with professional opportunity, fair salary and benefits, and a healthy work-life balance. We also must perform as a business so that we can meet our obligations, invest in our future, and reward our employee owners. The more successful we are as a business, the greater development impact we can have.
-
-In everything we do, we live by four core values:
-
-* **Integrity**: we have an uncompromising commitment to civility and ethical behavior. We play by the rules and do the right thing.
-* **Responsibility**: we are accountable to our clients, our colleagues, and the communities where we work. If we fall short, we own up, fix the problem, and get it right the next time.
-* **Excellence**: we demand of ourselves the highest technical and professional standards. We celebrate innovation, learning, and service. We have an unwavering desire to “stretch,” as individuals and as an organization.
-* **Global Citizenship**: we are a global company with a global outlook. We depend on our diversity and inclusiveness, respect the cultures in which we work, and treat everyone, everywhere with professionalism and dignity. We thrive on collaboration with our partners around the world, and share with them the hope that our work will leave the world a better place.
-
-**DAI**  Shaping a more livable world.
-
-<iframe src="https://player.vimeo.com/video/546618487" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+**Integrity**: We are committed to civility and ethical behavior. We play by the rules and do the right thing. 
+ 
+**Responsibility**: We are accountable. If we fall short we own up, fix the problem, and get it right next time. 
+ 
+**Excellence**: We hold ourselves to the highest technical and professional standards. We celebrate innovation, learning, and results.  
+ 
+**Good Citizenship**: We respect the cultures and communities in which we work, and we treat everyone, everywhere, with professionalism and dignity.
