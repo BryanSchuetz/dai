@@ -10,7 +10,7 @@ start: 2014
 end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 - Market Systems and Value Chain
 - 

@@ -8,7 +8,7 @@ start: 2022
 end: 2027
 client: IKEA Foundation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Uganda
 ---

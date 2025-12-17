@@ -8,7 +8,7 @@ start: 2016
 end: 2016
 client: World Bank
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Energy
 regions: Sub-Saharan Africa
 country: Regional
@@ -20,4 +20,4 @@ DAI’s Sustainable Business Group (SBG) was sub-contracted by Development Seed 
  
 SBG identified a potential data framework for identifying off-grid or inadequately served market opportunities based on demographics, energy access, energy expenditure, available financing, and payment methods, productive uses, land use, and renewables potential.  By identifying indicator data from World Bank household surveys, the U.S. Agency for International Development’s Demographic and Health Surveys, and financial inclusion surveys, SBG was able to determine areas of unserved and underserved electrification, where fuel payments for self-generation were high, and basic energy expenditure was at a subnational level. Combining those datasets with data on wealth, solar irradiance, and mobile access provided investors with data to better understand the market opportunities.  
  
-In total, SBG researched 54 datasets. The research was critical to determining what landscape of data and indicators would be readily available in the short time frame of the project. As part of this research, SBG also provided guidance and support to Development Seed on energy access and demand issues. This guided the indicators we chose to include, the datasets we selected, and the models we recommended for quantifiably estimating the size of the potential off-grid market. 
+In total, SBG researched 54 datasets. The research was critical to determining what landscape of data and indicators would be readily available in the short time frame of the project. As part of this research, SBG also provided guidance and support to Development Seed on energy access and demand issues. This guided the indicators we chose to include, the datasets we selected, and the models we recommended for quantifiably estimating the size of the potential off-grid market.

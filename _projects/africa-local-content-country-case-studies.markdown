@@ -9,7 +9,7 @@ end: 2016
 client: Multinational Corporation
 solutions:
 - Local Content and Supply Chain Management
-- Sustainable Business
+- Corporate Consulting
 - 
 - 
 regions: Sub-Saharan Africa

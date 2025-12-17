@@ -8,7 +8,7 @@ start: 2020
 end: 2022
 client: Inter-American Development Bank
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Finance and Investment
 regions: Latin America and the Caribbean
 country: Belize

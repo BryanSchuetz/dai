@@ -8,7 +8,7 @@ start: 2019
 end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Environment
 - Energy
 - Climate

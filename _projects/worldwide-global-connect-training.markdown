@@ -9,7 +9,7 @@ start: 2019
 end: 2019
 client: Shell
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 country: Multiple
 ---

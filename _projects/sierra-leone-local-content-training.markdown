@@ -8,7 +8,7 @@ start: 2016
 end: 2021
 client: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Sierra Leone
@@ -23,4 +23,4 @@ In November 2019, GIZ and the LCA engaged SBG for a second contract, to ensure t
 
 To date, DAI has contacted the 36 companies covered by the LCA’s mandate, guiding them on data submissions and providing user support when needed. These companies come from several sectors: agriculture, banking, hospitality, ICT, insurance, logistics and transport, manufacturing, mining, oil and gas, and services. 
 
-Compliance and data reporting have been increased, and analytical Local Content Performance Reports have been produced for 2019 and 2020. An LCPR Portal Consultant has been hired and now sits within the LCA in Sierra Leone. 
+Compliance and data reporting have been increased, and analytical Local Content Performance Reports have been produced for 2019 and 2020. An LCPR Portal Consultant has been hired and now sits within the LCA in Sierra Leone.

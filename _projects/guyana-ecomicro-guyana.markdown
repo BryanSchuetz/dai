@@ -8,7 +8,7 @@ start: 2018
 end: 2022
 client: Inter-American Development Bank
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 country: Guyana
 ---

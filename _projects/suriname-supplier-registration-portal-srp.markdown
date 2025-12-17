@@ -9,7 +9,7 @@ start: 2018
 end: 2020
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 country: Suriname
 ---

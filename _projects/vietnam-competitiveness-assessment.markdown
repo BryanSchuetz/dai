@@ -9,7 +9,7 @@ start: 2017
 end: 2018
 client: Multinational Corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Local Content and Supply Chain Management
 regions: Asia and the Pacific
 country: Vietnam

@@ -9,7 +9,7 @@ start: 2021
 end: 2022
 client: VF Corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Asia and the Pacific
 country: Vietnam
 promos:

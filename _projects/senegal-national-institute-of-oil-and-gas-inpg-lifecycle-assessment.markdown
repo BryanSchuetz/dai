@@ -8,7 +8,7 @@ start: 2019
 end: 2020
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Senegal
 ---
@@ -26,4 +26,4 @@ These activities led to the definition of the following key elements of INPG’s
 * Guiding principles centered on training needs, national priorities, skill levels of the workforce, local supply chains, and quality of services; 
 * Key client segments composed of governmental entities, Senegalese workforce, oil and gas companies, educational institutions, national private sector, civil society, and foreign governments;  
 * Major service areas consisting of degree programs, certifications, capacity building programs, and information events and activities; and
-* Preliminary key performance indicators with success factors targeting local economic development, workforce capacity, teaching quality, and organizational efficiency. 
+* Preliminary key performance indicators with success factors targeting local economic development, workforce capacity, teaching quality, and organizational efficiency.

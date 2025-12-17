@@ -8,7 +8,7 @@ start: 2019
 end: 2019
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Senegal
 ---

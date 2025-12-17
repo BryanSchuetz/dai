@@ -8,7 +8,7 @@ start: 2019
 end: 2019
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Sengeal
 ---
@@ -19,4 +19,4 @@ Contracted by an international oil and gas company, DAI’s Sustainable Business
 
 * Performed desktop research of key stakeholders, the legislative frameworks, academic literature, and economic environment.
 * Completed field assessment to conduct interviews, site visits, and observations to map challenges of operating in the Saint-Louis environment, map available infrastructure against the needs of the community, and build the client’s understanding of local stakeholders and regional dynamics. 
-* Held workshops and multiple discussions with the client over the course of the project to clarify criteria for a successful solid waste solution, build a framework for intervention evaluation and discuss the context and complexity of the environment. A range of potential interventions was considered, following an approach that considered several primary enabling environments factors: policy, regulation, and informal rules; infrastructure, machinery, and equipment; and the supply of and demand for solid waste management. 
+* Held workshops and multiple discussions with the client over the course of the project to clarify criteria for a successful solid waste solution, build a framework for intervention evaluation and discuss the context and complexity of the environment. A range of potential interventions was considered, following an approach that considered several primary enabling environments factors: policy, regulation, and informal rules; infrastructure, machinery, and equipment; and the supply of and demand for solid waste management.

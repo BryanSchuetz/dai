@@ -8,7 +8,7 @@ start: 2018
 end: 2018
 client: 'Staatsolie '
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 country: Suriname
 ---

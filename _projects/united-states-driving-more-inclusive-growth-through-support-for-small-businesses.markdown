@@ -8,7 +8,7 @@ start: 2022
 end: 2026
 client: 'The Mastercard Center for Inclusive Growth '
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: North America
 country: 'United States '
 ---

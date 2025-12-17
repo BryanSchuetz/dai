@@ -9,7 +9,7 @@ start: 2004
 end: 2008
 client: U.S. Agency for International Development
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Governance
 regions:
 - Latin America and the Caribbean

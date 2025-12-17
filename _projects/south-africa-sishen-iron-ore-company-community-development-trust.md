@@ -7,7 +7,7 @@ start: 2011
 end: 2015
 client: Sishen Iron Ore Company
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions:
 - Sub-Saharan Africa
 country:

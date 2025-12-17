@@ -10,7 +10,7 @@ end: 2025
 client: ExxonMobil Moçambique, Limitada, on behalf of Mozambique Rovuma Venture and
   the Rovuma  LNG Area 4 partners
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Mozambique
 promos:

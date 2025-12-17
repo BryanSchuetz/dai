@@ -9,7 +9,7 @@ start: 2015
 end: 2020
 client: Kosmos Energy
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 country: Worldwide
 ---

@@ -8,7 +8,7 @@ start: 2019
 end: 2019
 client: Newfoundland and Labrador Oil and Gas Industries Association
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 country: Canada
 ---

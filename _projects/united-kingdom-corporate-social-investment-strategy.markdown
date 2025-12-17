@@ -10,7 +10,7 @@ start: 2017
 end: 2018
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 country: United Kingdom
 ---

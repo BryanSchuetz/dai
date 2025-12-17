@@ -9,7 +9,7 @@ start: 2019
 end: 2023
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 country: Guyana
 ---

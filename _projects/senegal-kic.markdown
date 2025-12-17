@@ -7,7 +7,7 @@ start: 2024
 end: 2026
 client: Kosmos Energy
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Senegal
 ---

@@ -10,7 +10,7 @@ client:
 - World Bank
 - Foreign, Commonwealth & Development Office
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions:
 - Sub-Saharan Africa
 country:

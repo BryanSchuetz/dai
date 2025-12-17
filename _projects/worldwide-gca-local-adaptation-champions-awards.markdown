@@ -6,7 +6,7 @@ start: 2022
 end: 2023
 client: The Global Center on Adaptation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Climate
 - Climate Change Adaptation and Mitigation
 regions: Worldwide

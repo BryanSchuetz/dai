@@ -9,7 +9,7 @@ regions:
 country:
 - South Africa
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 layout: project
 summary: 'This International Finance Corporation (IFC)-funded project worked to bring

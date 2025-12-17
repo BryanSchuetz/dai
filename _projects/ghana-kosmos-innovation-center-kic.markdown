@@ -8,7 +8,7 @@ start: 2015
 end: 2020
 client: Kosmos Energy
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Innovation and Entrepreneurship
 - Local Content and Supply Chain Management
 - Workforce Development and Youth

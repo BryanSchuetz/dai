@@ -9,7 +9,7 @@ start: 2019
 end: 2020
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Asia and the Pacific
 country: Thailand
 ---

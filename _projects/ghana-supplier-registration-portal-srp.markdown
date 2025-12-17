@@ -9,9 +9,9 @@ start: 2018
 end: 2020
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Ghana
 ---
 
-DAI’s Supplier Registration Portal (SRP) matches local suppliers with buyers (such as operators and primary contractors) and helps foreign suppliers form alliances with local vendors to access protected local markets. DAI’s Sustainable Business Group (SBG) provided an SRP for a multinational corporation to serve as a business registration system for Ghanaian firms seeking work in their major supply chains. The SRP will also allow engagement and communication with local businesses by sharing opportunity notifications and other critical information. 
+DAI’s Supplier Registration Portal (SRP) matches local suppliers with buyers (such as operators and primary contractors) and helps foreign suppliers form alliances with local vendors to access protected local markets. DAI’s Sustainable Business Group (SBG) provided an SRP for a multinational corporation to serve as a business registration system for Ghanaian firms seeking work in their major supply chains. The SRP will also allow engagement and communication with local businesses by sharing opportunity notifications and other critical information.

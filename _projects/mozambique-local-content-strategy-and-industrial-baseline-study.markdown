@@ -10,7 +10,7 @@ start: 2018
 end: 2018
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Mozambique
 ---

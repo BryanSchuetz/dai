@@ -7,7 +7,7 @@ start: 2021
 end: 2021
 client: Public sector client
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Middle East and North Africa
 country: Regional
 Field name: 

@@ -14,7 +14,7 @@ start: 2017
 end: 2018
 client: National Organization
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Local Content and Supply Chain Management
 regions: Latin America and the Caribbean
 country: Mexico
@@ -32,4 +32,4 @@ In response to these obstacles, the Mexican Association of Hydrocarbon Organizat
 * Organized workshops with AMEXHI and the Ministry of Economy to present the national content simplification options and gauge both industry and government interest. Following four workshops, a new alternative method that remained compliant with existing law was selected. This simplified methodology included: use of national content percentage coefficients and flowcharts; additional metrics (person-hours); more accurate metric definitions; creation and use of supplier balanced scorecards; design of an iterative methodology streamlining process; and creation of a joint public-private sector national content taskforce1. 
 * Used our Local Content Plan and Reporting Platform to gather the necessary operator and Tier 1 contractor data and generate the new national content coefficients by supply chain category to test the efficacy of the approach. DAI then helped the Ministry develop the proposed language for the amended directive on calculating national content and generated a preliminary set of standard coefficients for key upstream supply chain categories. 
 * Performed an industrial baseline study of the Mexican upstream oil and gas sector. We used our Local Content Optimization Model to quantitively forecast baseline and maximum amounts of economic value and full-time equivalent jobs that could be captured by local small and medium-sized enterprises in the offshore oil and gas sector.
-* Assessed local supply chain competitiveness, identified current supply chain strengths and weaknesses, and proposed key investment opportunities where there was an existing industrial base that could be upgraded to capture more local value.  
+* Assessed local supply chain competitiveness, identified current supply chain strengths and weaknesses, and proposed key investment opportunities where there was an existing industrial base that could be upgraded to capture more local value.

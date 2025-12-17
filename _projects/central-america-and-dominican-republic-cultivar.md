@@ -8,7 +8,7 @@ start: 2007
 end: 2011
 client: U.S. Department of Labor
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 - Governance
 regions:

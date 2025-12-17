@@ -8,7 +8,7 @@ start: 2018
 end: 2020
 client: Newfoundland and Labrador Oil and Gas Industry Association
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 country: Guyana
 ---
@@ -17,4 +17,4 @@ The DAI Sustainable Business Group (SBG) was commissioned to support the Newfoun
 
 The trade missions included business-to-business matchmaking services, coordinated by DAI Guyana staff using DAI’s Supplier Registration Portal, and workshops with Guyanese government officials for trade mission activities. Mission activities were implemented by DAI’s [Centre for Local Business Development](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development) (the Centre). The post-mission aftercare package included a post-mission report and market research updates. The pre-mission included a market report and workshops with Canadian firms. The market report included an overview of the business environment, business regulatory regime, political landscape, and cultural obligations in Guyana, as well as a more in-depth look at the oil and gas sector in Guyana. The workshop included a presentation of the Guyana-Suriname oil and gas market and served to review the products/services and objectives of the mission. 
 
-The second Guyana mission was adapted from the initial mission, incorporating feedback from the prior-year results. Key updates to the 2019 Guyana mission included the addition of a tax landscape report and webinar, and an optional two-day mission trip to Suriname. 
+The second Guyana mission was adapted from the initial mission, incorporating feedback from the prior-year results. Key updates to the 2019 Guyana mission included the addition of a tax landscape report and webinar, and an optional two-day mission trip to Suriname.

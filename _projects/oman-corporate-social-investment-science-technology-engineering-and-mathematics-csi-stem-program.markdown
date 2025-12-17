@@ -8,7 +8,7 @@ start: 2019
 end: 2022
 client: Khimji Ramdas
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Middle East and North Africa
 country: Oman
 promos:

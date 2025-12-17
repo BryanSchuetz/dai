@@ -10,7 +10,7 @@ start: 2019
 end: 2022
 client: Shell International B.V.
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 country: Worldwide
 ---

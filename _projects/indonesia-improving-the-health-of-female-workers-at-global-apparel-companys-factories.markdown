@@ -9,7 +9,7 @@ start: 2020
 end: 2022
 client: VF Corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Asia and the Pacific
 country: Indonesia
 promos:

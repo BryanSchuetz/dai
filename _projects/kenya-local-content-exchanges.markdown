@@ -8,7 +8,7 @@ start: 2017
 end: 2018
 client: World Bank
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Kenya

@@ -9,7 +9,7 @@ start: 2017
 end: 2019
 client: Multinational corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 country: Canada
 ---

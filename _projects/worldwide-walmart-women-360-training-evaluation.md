@@ -10,7 +10,7 @@ start: 2012
 end: 2014
 client: Walmart Foundation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 - Gender and Social Inclusion
 regions:

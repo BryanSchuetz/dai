@@ -10,7 +10,7 @@ start: 2006
 end: 2011
 client: U.S. Agency for International Development
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 regions:
 - Worldwide

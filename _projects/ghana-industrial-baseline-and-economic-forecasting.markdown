@@ -9,7 +9,7 @@ start: 2017
 end: 2017
 client: Multinational Corporation
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 country: Ghana
 ---

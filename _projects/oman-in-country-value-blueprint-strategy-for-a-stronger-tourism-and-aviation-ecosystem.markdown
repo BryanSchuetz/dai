@@ -9,7 +9,7 @@ start: 2024
 end: 2024
 client: OMRAN
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Middle East and North Africa
 country: Oman
 ---
