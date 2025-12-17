@@ -9,7 +9,7 @@
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
-    {% for solution in primary_solutions %}{%- unless solution.title == "Corporate Consulting" -%}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}">
+    {% for solution in primary_solutions %}{%- unless solution.title == "Financial Advisory" -%}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}">
       {% if solution.newIcon %}
         {% include {{solution.newIcon}} %}
       {% else %}

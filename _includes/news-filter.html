@@ -4,13 +4,13 @@
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
-    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }}" class="filter--solution button"> 
+    {% for solution in primary_solutions %}{%- unless solution.title == "Financial Advisory" -%}<button data-filter=".{{ solution.title | slugify }}" class="filter--solution button">
       {% if solution.newIcon %}
         {% include {{solution.newIcon}} %}
       {% else %}
-        {{ solution.newIcon }} 
+        {{ solution.newIcon }}
     {% endif %}
-      {{ solution.title }}</button>{% endfor %}
+      {{ solution.title }}</button>{%- endunless -%}{% endfor %}
   </div>
   <div class="button-group filter-button-group region" data-filter-group="region">
     <h3>Filter by Region</h3>
@@ -70,7 +70,7 @@ function concatValues( obj ) {
     }
 
 }
-//If you are filtering for a string that doesn't have a button...make it and click it  
+//If you are filtering for a string that doesn't have a button...make it and click it
   var filterFromQuerystring = getParameterByName('filter');
   $('button[data-filter=".' + filterFromQuerystring  + '"]').click();
 // END URL data-filtering stuff
