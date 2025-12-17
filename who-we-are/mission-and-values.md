@@ -1,8 +1,9 @@
 ---
-title: Mission & Values
+title: Purpose & Values
 layout: node
 summary: Our purpose as a company is to help our clients address their most pressing challenges.
 hero: true
+redirect_from: /who-we-are/mission-and-values
 ---
 In everything we do to achieve that goal, we are guided by four core values: 
 
