@@ -27,6 +27,6 @@ DAI provides a comprehensive suite of solutions that move our clients from strat
 {% include sbg-case-study-carousel.html %}
 
 <aside style="margin-top: 2rem;">
-<p>Sustainable Business Group delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization.</P>
-<a style="width: 50%;" href="mailto:contact_sbg@dai.com" target="blank" class="primary-block--button expert-button">Contact the Sustainable Business Group <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<p>SHelping companies put beneficial and responsible investments at the core of their operations.</P>
+<a style="width: 50%;" href="mailto:contact_sbg@dai.com" target="blank" class="primary-block--button expert-button">Contact Us <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 </aside>
