@@ -3,7 +3,7 @@ title: Kosmos Innovation Center Named Finalist for the Concordia P3 Impact Award
 date: 2018-08-29 19:23:00 Z
 solutions:
 - Local Content and Supply Chain Management
-- Sustainable Business
+- Corporate Consulting
 - 
 regions: Sub-Saharan Africa
 projects: Ghana—Kosmos Innovation Center (KIC)
@@ -29,4 +29,4 @@ The prestigious award is presented to the winning partnership during the Concord
 
 **About Kosmos**
 
-Kosmos Energy is a well-capitalized deepwater oil and gas company with growing production, a pipeline of development opportunities and a balanced exploration portfolio along the Atlantic Margins. Its assets include growing production offshore Ghana and Equatorial Guinea, a competitively positioned Tortue gas project in Mauritania and Senegal and a sustainable exploration program balanced between proven basins (Equatorial Guinea), emerging basins (Mauritania, Senegal and Suriname) and frontier basins (Cote d'Ivoire and Sao Tome and Principe). As an ethical and transparent company, Kosmos is committed to doing things the right way. The Company’s [Business Principles](http://www.kosmosenergy.com/responsibility/) articulate its commitment to transparency, ethics, human rights, safety and the environment. 
+Kosmos Energy is a well-capitalized deepwater oil and gas company with growing production, a pipeline of development opportunities and a balanced exploration portfolio along the Atlantic Margins. Its assets include growing production offshore Ghana and Equatorial Guinea, a competitively positioned Tortue gas project in Mauritania and Senegal and a sustainable exploration program balanced between proven basins (Equatorial Guinea), emerging basins (Mauritania, Senegal and Suriname) and frontier basins (Cote d'Ivoire and Sao Tome and Principe). As an ethical and transparent company, Kosmos is committed to doing things the right way. The Company’s [Business Principles](http://www.kosmosenergy.com/responsibility/) articulate its commitment to transparency, ethics, human rights, safety and the environment.

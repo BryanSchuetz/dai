@@ -3,7 +3,7 @@ title: Ghanaian Petroleum Employees Take Part in DAI Training
 date: 2017-05-26 13:43:00 Z
 solutions:
 - Local Content and Supply Chain Management
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 summary: Employees of the Ghana Petroleum Commission, Ghana National Petroleum Corporation,
   and the Ministry of Energy recently participated in a DAI-led training to manage

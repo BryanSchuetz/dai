@@ -3,7 +3,7 @@ title: Centre for Local Business Development Hosts Virtual Guyana Supplier Forum
 date: 2021-02-26 15:34:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 projects: Guyana—Centre for Local Business Development
 summary: 'Guyana’s Centre for Local Business Development—managed by DAI since its

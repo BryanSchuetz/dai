@@ -5,7 +5,7 @@ date: 2021-08-04 15:55:00 Z
 tags:
 - digital
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Worldwide
 summary: 'DAI will launch an innovative digital tool to help diversify and localize
   corporate supply chains. The [Supplier Management Portal (SMP)](https://smp.dai.com/),

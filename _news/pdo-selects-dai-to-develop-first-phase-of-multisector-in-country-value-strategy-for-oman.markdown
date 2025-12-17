@@ -4,7 +4,7 @@ title: PDO Selects DAI to Develop First Phase of Multisector In-Country Value St
 date: 2019-07-29 01:00:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Middle East and North Africa
 summary: DAI and Petroleum Development Oman (PDO) are delighted to announce that PDO
   has awarded a contract to DAI to conduct the first phase of a study that will establish

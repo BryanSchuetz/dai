@@ -3,7 +3,7 @@ title: Kosmos Energy Launches Groundbreaking Social Investment Initiative in Gha
 date: 2016-03-16 18:05:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions:
 - Sub-Saharan Africa
 summary: Kosmos Energy today launched the Kosmos Innovation Center (KIC) in Accra,

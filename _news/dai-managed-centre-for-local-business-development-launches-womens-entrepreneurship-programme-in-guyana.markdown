@@ -4,7 +4,7 @@ title: DAI-managed Centre for Local Business Development Launches Women’s Entr
 date: 2021-07-20 17:42:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 projects: Guyana—Centre for Local Business Development
 summary: Guyana’s Centre for Local Business Development has launched a cutting-edge
@@ -29,4 +29,4 @@ The launch of Accelerate-Her expands on the Centre's work in supplier developmen
 
 To apply, visit: [http://centreguyana.com/wep/](https://centreguyana.com/wep/)
 
-For more information contact: Cara_Harley@dai.com 
+For more information contact: Cara_Harley@dai.com

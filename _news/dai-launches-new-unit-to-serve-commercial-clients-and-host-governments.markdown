@@ -3,7 +3,7 @@ title: DAI Launches New Unit to Serve Commercial Clients and Host Governments
 date: 2017-08-25 18:23:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 summary: DAI today announced the launch of the Sustainable Business Group, a unit
   designed to help private companies operate sustainably, responsibly, and profitably.
 social-image: "/uploads/Screenshot%202017-08-25%20at%202.30.05%20PM.png"
@@ -25,4 +25,4 @@ Building on DAI’s 40 years of experience supporting development in emerging ec
 
 To take just a few examples, the Group has worked with ExxonMobil to [set up the Centre for Local Business Development in Guyana](https://www.dai.com/news/dai-to-collaborate-with-exxonmobil-on-centre-for-local-business-development-in-guyana), with Kosmos Energy to [launch the Kosmos Innovation Center](https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana) in Ghana, and with Chevron to draft the economic development strategy for the Foundation for Partnership Initiatives in the Niger Delta—a Nigerian foundation judged by the Initiative for Global Development to have “‘[moved the needle’ on corporate social responsibility, shared value, and development to a new level](http://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/).”
 
-“The lessons we have learned in these and other engagements are systematically incorporated into our consulting services and into offerings such as our Local Content MasterClass, just as the data we are collecting is incorporated in products like our Local Content Optimization Model,” said Michael Warner. “We look forward to bringing this growing knowledge base to a new set of corporate and government customers in the years ahead.” 
+“The lessons we have learned in these and other engagements are systematically incorporated into our consulting services and into offerings such as our Local Content MasterClass, just as the data we are collecting is incorporated in products like our Local Content Optimization Model,” said Michael Warner. “We look forward to bringing this growing knowledge base to a new set of corporate and government customers in the years ahead.”

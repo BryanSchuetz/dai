@@ -2,7 +2,7 @@
 title: Digital Impact Advisory Fund Fuels Innovation for Caribbean MSMEs
 date: 2024-03-08 17:08:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 summary: 'The Digital Impact Advisory Fund (DIAF) has concluded its second round of
   grant funding designed to support the digitalization of MSMEs in the Caribbean region. '

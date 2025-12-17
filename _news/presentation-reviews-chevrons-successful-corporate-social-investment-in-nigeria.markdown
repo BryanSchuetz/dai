@@ -2,7 +2,7 @@
 title: Presentation Reviews Chevron’s Successful Corporate Social Investment in Nigeria
 date: 2019-03-07 06:33:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 regions: Sub-Saharan Africa
 projects: Nigeria—Partnership Initiatives in the Niger Delta

@@ -2,7 +2,7 @@
 title: DAI to Support Enterprise Development Center in Mozambique
 date: 2020-01-29 20:48:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 summary: 'DAI has won a contract award from ExxonMobil to establish an Enterprise
   Development Center (EDC) in Mozambique. The Center will provide small- and medium-sized

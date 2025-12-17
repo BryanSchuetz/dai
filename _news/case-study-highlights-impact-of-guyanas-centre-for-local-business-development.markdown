@@ -2,7 +2,7 @@
 title: Case Study Highlights Impact of Guyana’s Centre for Local Business Development
 date: 2020-08-14 20:16:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 projects: Guyana—Centre for Local Business Development
 summary: 'A new case study, presented at last month’s Society of Petroleum Engineers’
@@ -31,4 +31,4 @@ The Centre also benefited from testing initiatives and adapting to the needs of 
 
 To date, more than 600 businesses have a contract or purchase order from ExxonMobil and its prime contractors. The Centre is poised to evolve with the local economy and industry to help sustain Guyana’s economic growth. 
 
-The full case study is available [here](https://www.onepetro.org/conference-paper/SPE-199517-MS). 
+The full case study is available [here](https://www.onepetro.org/conference-paper/SPE-199517-MS).

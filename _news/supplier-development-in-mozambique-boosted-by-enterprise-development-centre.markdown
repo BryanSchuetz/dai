@@ -2,7 +2,7 @@
 title: Supplier Development in Mozambique Boosted by Enterprise Development Centre
 date: 2021-12-02 05:00:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 projects: Mozambique—Enterprise Development Center
 summary: In November, MozUp, the Enterprise Development Centre in Mozambique, officially

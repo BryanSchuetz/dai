@@ -3,7 +3,7 @@ title: DAI Publishes Insight Paper on Local Content and Business Growth
 date: 2025-02-20 15:13:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 summary: DAI has released a new insight paper exploring the concept of local content.
   Outlining what it is, how it is applied, and the tangible benefits it offers to
   businesses, the paper offers valuable insights for businesses looking to enhance

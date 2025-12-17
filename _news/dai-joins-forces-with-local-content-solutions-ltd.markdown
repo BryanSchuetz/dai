@@ -3,7 +3,7 @@ title: DAI Joins Forces with Local Content Solutions Ltd.
 date: 2017-04-06 15:32:00 Z
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 summary: DAI today announced that it is joining forces with [Local Content Solutions
   Ltd](http://www.localcontentsolutions.com/). (LCS). Led by Dr. Michael Warner, the
   U.K.-based LCS is a global leader in providing consulting and software solutions

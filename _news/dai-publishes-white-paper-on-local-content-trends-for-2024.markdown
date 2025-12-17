@@ -2,7 +2,7 @@
 title: DAI Publishes White Paper on 2024 Local Content Trends
 date: 2024-02-01 04:30:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 summary: 'DAI has published a new whitepaper summarizing the current trends in local
   content policy. '
 social-image: "/uploads/solar_social.png"

@@ -3,7 +3,7 @@ title: DAI to Collaborate with ExxonMobil on Centre for Local Business Developme
   in Guyana
 date: 2017-06-26 17:43:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 summary: 'DAI will work with Esso Exploration and Production Guyana Ltd (EEPGL), an
   affiliate of ExxonMobil, to support EEPGL’s establishment of the Centre for Local
@@ -30,4 +30,4 @@ ExxonMobil’s affiliate [Esso Exploration and Production Guyana Limited (EEPGL)
 
 **About DAI**
 
-DAI is an international development company working in 150 countries with 40 years of experience in implementing economic development programs. DAI’s clients include government organizations, international institutions, and private companies. 
+DAI is an international development company working in 150 countries with 40 years of experience in implementing economic development programs. DAI’s clients include government organizations, international institutions, and private companies.

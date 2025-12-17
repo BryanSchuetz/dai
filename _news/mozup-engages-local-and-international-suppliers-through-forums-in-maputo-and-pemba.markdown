@@ -3,7 +3,7 @@ title: MozUp Engages Local and International Suppliers Through Forums in Maputo 
   Pemba
 date: 2025-03-12 16:47:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 projects: Mozambique—MozUp Enterprise Development Center
 summary: MozUp Enterprise Development Center organized two supplier networking forums

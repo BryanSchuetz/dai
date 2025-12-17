@@ -2,7 +2,7 @@
 title: DAI Publishes Review of Local Content Requirements for U.K. Offshore Wind Projects
 date: 2023-07-11 04:00:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 summary: A new DAI report reviews local content and economic benefit requirements
   for offshore wind projects in the United Kingdom.
 social-image: "/uploads/social%20media%20preview%20for%20news%20article.png"

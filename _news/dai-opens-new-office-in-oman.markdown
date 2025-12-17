@@ -4,7 +4,7 @@ date: 2019-02-27 15:33:00 Z
 published: false
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Middle East and North Africa
 summary: DAI today launched a new corporate office in Muscat, Oman. DAI Oman will
   initially focus on DAI’s sustainable business practice, working with commercial

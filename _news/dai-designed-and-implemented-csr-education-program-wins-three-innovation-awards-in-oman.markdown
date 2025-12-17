@@ -7,9 +7,9 @@ tags:
 - corporate sustainability
 - Oman
 - Education
-- Sustainable Business
+- Corporate Consulting
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Middle East and North Africa
 summary: 'The Stemazone initiative for Omani youth, funded by Khimji Ramdas Eshraqa
   and designed and implemented by DAI, was a big winner at this month’s Future Skills

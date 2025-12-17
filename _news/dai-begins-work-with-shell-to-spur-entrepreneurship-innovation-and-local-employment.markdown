@@ -3,7 +3,7 @@ title: DAI Begins Work with Shell to Spur Entrepreneurship, Innovation, and Loca
   Employment
 date: 2019-02-21 16:21:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 projects: Worldwide—Shell LiveWIRE Global Consultancy
 summary: 'DAI will serve as Shell''s global advisor on the strategy and implementation
   of LiveWIRE, its flagship enterprise development program focused on stimulating

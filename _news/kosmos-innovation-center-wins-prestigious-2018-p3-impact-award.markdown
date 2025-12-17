@@ -3,7 +3,7 @@ title: Kosmos Innovation Center Wins Prestigious 2018 P3 Impact Award
 date: 2018-09-26 18:30:00 Z
 is_featured: false
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Economic Growth
 regions: Sub-Saharan Africa
 projects: Ghana—Kosmos Innovation Center (KIC)

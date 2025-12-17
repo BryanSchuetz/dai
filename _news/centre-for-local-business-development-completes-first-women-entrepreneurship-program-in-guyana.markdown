@@ -3,7 +3,7 @@ title: Centre for Local Business Development Completes First Women Entrepreneurs
   Program in Guyana
 date: 2022-01-20 06:00:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 projects: Guyana—Centre for Local Business Development
 summary: 'The DAI-led Centre for Local Business Development completed its first women-focused

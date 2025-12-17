@@ -3,7 +3,7 @@ title: Senegalese Entrepreneurs Poised to Bring Sustainability Solutions to Mark
 date: 2025-05-13 10:07:00 Z
 is_featured: false
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 projects: Senegal—Kosmos Innovation Center (KIC)
 summary: Kosmos Innovation Center's Suxëtt Entrepreneuriat program has selected five

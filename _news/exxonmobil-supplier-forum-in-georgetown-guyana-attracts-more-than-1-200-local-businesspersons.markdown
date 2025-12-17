@@ -5,7 +5,7 @@ date: 2018-12-07 17:51:00 Z
 solutions:
 - Sustainable Livelihoods
 - Local Content and Supply Chain Management
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 projects: Guyana—Centre for Local Business Development
 summary: More than 1,200 people representing local businesses attended the Liza Phase

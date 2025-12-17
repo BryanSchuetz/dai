@@ -2,7 +2,7 @@
 title: MozUp Pemba Expansion a Major Boost for Local Supplier Development in Mozambique
 date: 2023-06-19 04:00:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 projects: Mozambique—MozUp Enterprise Development Center
 summary: The MozUp Enterprise Development Center in Mozambique has officially launched

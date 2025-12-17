@@ -2,7 +2,7 @@
 title: DAI Publishes Review of Local Content Requirements for U.S. Offshore Wind Projects
 date: 2022-09-07 09:30:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 summary: DAI has published a new technical report that reviews the requirements for
   local content and economic benefit requirements for offshore wind projects constructed
   in the United States.

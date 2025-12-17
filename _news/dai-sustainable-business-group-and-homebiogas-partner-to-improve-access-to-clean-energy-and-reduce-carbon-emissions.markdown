@@ -2,7 +2,7 @@
 title: DAI and HomeBiogas Partner to Improve Access to Sustainable Energy
 date: 2021-07-21 17:05:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - Climate
 regions: Worldwide
 summary: DAI, through its Sustainable Business Group, has signed a memorandum of understanding

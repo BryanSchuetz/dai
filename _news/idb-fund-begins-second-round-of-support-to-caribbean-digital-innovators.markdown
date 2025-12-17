@@ -2,7 +2,7 @@
 title: IDB Lab Fund Begins Second Round of Support to Caribbean Digital Innovators
 date: 2023-03-08 15:43:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 summary: The Digital Impact Advisory Fund (DIAF) has opened applications for its second
   round of funding for Caribbean businesses that support the digitalization of regional

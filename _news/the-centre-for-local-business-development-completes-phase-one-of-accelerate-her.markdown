@@ -2,7 +2,7 @@
 title: The Centre for Local Business Development Completes Phase One of Accelerate-Her
 date: 2021-10-06 08:52:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Latin America and the Caribbean
 summary: 'Guyana’s Centre for Local Business Development, managed by DAI since its
   launch in 2017, has completed the first phase of its cutting-edge women’s entrepreneurship

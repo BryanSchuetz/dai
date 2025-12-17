@@ -5,7 +5,7 @@ date: 2023-12-05 15:37:00 Z
 published: false
 is_featured: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 - 
 regions: Worldwide
 projects: Worldwide—GCA Local Adaptation Champions Awards

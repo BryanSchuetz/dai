@@ -2,7 +2,7 @@
 title: Ra’idat 2025 Showcases Mauritania’s Top Women Entrepreneurs
 date: 2025-08-11 15:45:00 Z
 solutions:
-- Sustainable Business
+- Corporate Consulting
 regions: Sub-Saharan Africa
 projects: Mauritania—Kosmos Innovation Center (KIC)
 summary: Four standout women-led businesses secured seed funding at the conclusion
