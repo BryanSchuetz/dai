@@ -6,7 +6,7 @@ summary: 'Building off 50 years of international development experience, DAI off
   a comprehensive catalogue of training. '
 hero: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 redirect_from: "/our-work/sustainable-business-training"
 Field name: 
 layout: solution

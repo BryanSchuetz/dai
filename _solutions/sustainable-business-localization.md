@@ -4,7 +4,7 @@ date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/sustainable/localization"
 redirect_from: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
 solutions:
-- Sustainable Business
+- Corporate Consulting
 hero: true
 ultrawide: true
 icons: true

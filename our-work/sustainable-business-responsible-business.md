@@ -6,7 +6,7 @@ redirect_from: "/our-work/solutions/sustainable/sustainable-business-enterprise-
 summary: 
 hero: true
 solutions:
-- Sustainable Business
+- Corporate Consulting
 ultrawide: true
 icons: true
 layout: solution
