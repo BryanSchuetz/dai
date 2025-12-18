@@ -10,7 +10,7 @@ summary: DAI’s financial advisory arm, DAI Magister helps emerging market comp
 type: primary
 related: false
 hero: true
-ultrawide: true
+ultrawide: false
 layout: solution
 redirect_from: our-work/solutions/dai-capital
 ---
