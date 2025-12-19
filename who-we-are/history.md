@@ -1,7 +1,7 @@
 ---
 title: History
-summary: 'DAI was founded in 1970 by three graduates of Harvard University’s Kennedy
-  School of Government.'
+summary: DAI was founded in 1970 by three graduates of Harvard University’s Kennedy
+  School of Government.
 hero: true
 layout: node
 ---

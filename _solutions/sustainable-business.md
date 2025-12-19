@@ -6,7 +6,8 @@ largeIcon: _icons/sustainable-business-large.html
 newIcon: _icons/sustainable-business.html
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
-summary: DAI helps companies put beneficial and responsible investments at the core of their operations.
+summary: DAI helps companies put beneficial and responsible investments at the core
+  of their operations.
 type: primary
 redirect_from:
 - "/erg"

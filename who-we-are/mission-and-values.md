@@ -1,11 +1,13 @@
 ---
 title: Values
+permalink: "/who-we-are/values"
 layout: node
-summary: Our purpose as a company is to help our clients address their most pressing challenges.
+summary: Our purpose as a company is to help our clients address their most pressing
+  challenges.
 hero: true
-permalink: /who-we-are/values
-redirect_from: /who-we-are/mission-and-values
+redirect_from: "/who-we-are/mission-and-values"
 ---
+
 In everything we do to achieve that goal, we are guided by four core values: 
 
 **Integrity**: We are committed to civility and ethical behavior. We play by the rules and do the right thing. 

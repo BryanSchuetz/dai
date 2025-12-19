@@ -3,7 +3,8 @@ title: Employee Ownership
 permalink: "/who-we-are/employee-owners"
 related: false
 hero: true
-summary: To deliver outstanding results for our customers, we need a globally integrated workforce actively engaged as stakeholders around a common purpose. 
+summary: To deliver outstanding results for our customers, we need a globally integrated
+  workforce actively engaged as stakeholders around a common purpose.
 layout: node
 ---
 

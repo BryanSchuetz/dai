@@ -6,7 +6,8 @@ newIcon: _icons/dai-capital.html
 largeIcon: _icons/dai-capital-large.html
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: DAI’s financial advisory arm, DAI Magister helps emerging market companies scale faster by facilitating strategic M&A and growth financings. 
+summary: DAI’s financial advisory arm, DAI Magister helps emerging market companies
+  scale faster by facilitating strategic M&A and growth financings.
 type: primary
 related: false
 hero: true
