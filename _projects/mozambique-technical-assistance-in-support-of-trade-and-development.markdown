@@ -8,7 +8,7 @@ tags:
 summary: The Technical Assistance in Support of Trade and Development in Promove Comércio
   project works to improve the trade and business environment in Mozambique.
 start: 2022
-end: 2024
+end: 2026
 client: European Union
 solutions:
 - Economic Growth
