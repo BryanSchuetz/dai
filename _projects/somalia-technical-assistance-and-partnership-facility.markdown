@@ -5,7 +5,7 @@ summary: Through the Technical Assistance and Partnership Facility, the EU seeks
   lay the foundation for sustainable development and stability, in alignment with
   the Somalia National Development Plan.
 start: 2024
-end: 2026
+end: 2028
 client: European Union
 solutions:
 - Governance
