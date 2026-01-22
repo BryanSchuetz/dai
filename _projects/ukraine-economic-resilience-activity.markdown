@@ -5,7 +5,7 @@ terminated: true
 summary: The USAID Economic Resilience Activity works to strengthen the economy of
   eastern Ukraine in the response to recent regional instability.
 start: 2018
-end: 2026
+end: 2025
 client: U.S. Government
 solutions:
 - Economic Growth
