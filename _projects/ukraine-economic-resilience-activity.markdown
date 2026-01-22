@@ -1,32 +1,20 @@
 ---
 title: Ukraine—USAID Economic Resilience Activity (ERA)
+terminated: true
 date: 2018-11-16 14:43:00 Z
-published: false
 summary: The USAID Economic Resilience Activity works to strengthen the economy of
   eastern Ukraine in the response to recent regional instability.
 start: 2018
 end: 2026
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 - Business Environment Reform
 - Workforce Development and Youth
 regions: Eastern Europe and Central Asia
 country: Ukraine
-promos:
-- title: Boosting Ukrainian Grain Exports for Global Food Security
-  link: https://dai-global-developments.com/articles/boosting-ukrainian-grain-exports-for-global-food-security/
-- title: USAID-Supported Enterprise in Ukraine Repairs Lung Ventilators for Use in
-    COVID-19 Crisis
-  link: https://dai-global-developments.com/articles/usaid-supported-enterprise-in-ukraine-repairs-lung-ventilators-for-use-in-covid-19-crisis
-- title: Building Economic Resilience in the Eye of Ukraine’s Storm
-  link: https://www.usaid.gov/npi/stories/building-economic-resilience-eye-ukraine%E2%80%99s-storm
-- title: Gender-Based Violence on the Rise in the COVID-19 Era
-  link: https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era
-- title: 'Fresh Tomatoes on the Front Lines of War: USAID Helps Boost Entrepreneurs
-    in Ukraine'
-  link: https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine
 ---
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 Ukraine’s efforts to win the future—emerging 
 from Russia’s full-scale war ready to accelerate 
