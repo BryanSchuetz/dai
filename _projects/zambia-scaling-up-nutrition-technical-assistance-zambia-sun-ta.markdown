@@ -1,32 +1,23 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
-published: false
+terminated: true
 summary: 'The project engages thousands of women in maternal and child health education
   and works with farmers across 13 districts to help them adopt climate-resilient
   farming practices to produce diverse, nutritious foods that are crucial to reducing
   stunting. '
 start: 2019
 end: 2025
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Global Health
 - Health Governance
 - Gender and Social Inclusion
 regions: Sub-Saharan Africa
 country: Zambia
-promos:
-- title: USAID SUN TA 2023 Annual Report
-  link: "/uploads/USAID%20SUN%20TA%202023%20Annual%20Report.pdf"
-- title: 'Out of the Conference Room, into the Field: Hosting a Virtual Site Visit
-    in Zambia'
-  link: https://dai-global-digital.com/out-of-the-conference-room-into-the-field-hosting-a-virtual-site-visit-in-zambia.html
-- title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
-    of COVID-19
-  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
-- title: USAID Administrator Visits DAI-led Projects During Tour of Zambia
-  link: https://www.dai.com/news/usaid-administrator-visits-dai-led-projects-during-tour-of-zambia
 ---
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 DAI supports the Government of Zambia in reducing stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; [this phase](https://www.dai.com/news/dai-to-launch-usaid-zambia-program-to-reduce-stunting-in-young-children) expanded activities to 30 districts covering 7.1 million people, including 850,000 children under age 2 and their mothers.
 
