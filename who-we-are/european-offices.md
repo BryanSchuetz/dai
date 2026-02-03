@@ -23,17 +23,16 @@ layout: node
 |  |  | +359 2 935 9970  (fax) |
 |  |  |  |
 | **Turkey** | **Serbia** | **Germany** |
-| Çankaya Mahallesi Şehit Ersan | Kneza Milosa 7a, | Haus 4, Loft 2 |
-| Caddesi No. 24/11 | 11000 Belgrade | Zollstockgürtel 63 |
-| 06690 Çankaya/Ankara | Serbia | 50969 Köln |
-| Turkey | +381 11 785 0625 (tel) | Germany |
+| Çankaya Mahallesi Şehit Ersan | Kneza Milosa 7a, | HQ HangarOne |
+| Caddesi No. 24/11 | 11000 Belgrade | Butzweeilerhofalle 3 |
+| 06690 Çankaya/Ankara | Serbia | Cologne |
+| Turkey | +381 11 785 0625 (tel) | 50829 |
 | +90 312 441 5425 (tel) | +381 11 264 3099 (fax) | +49 221 93673 – 217 (tel) |
 | +90 312 442 0598 (fax) | | |
 | | | |
 | **UK** | | |
-| Apsley, United Kingdom | | |
-| 3rd Floor Block C | | |
-| Westside, London Road | | |
-| Apsley | | |
-| Hertfordshire, HP3 9TD | | |
+| London, United Kingdom | | |
+| 1 Smart’s Place | | |
+| London | | |
+| Wc2B 5LW | | |
 | Tel: +44 (0)1442 202400 | | |
