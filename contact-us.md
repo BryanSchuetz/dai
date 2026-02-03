@@ -46,10 +46,9 @@ layout: default
 
 <p><strong>Vienna, Austria</strong>
   <br>
-  Lothringer Strasse 16<br>
-  1030 Vienna<br>
-  Austria<br>
-  Tel: +43 (0)1 402 5020<br></p>
+  Schwarzenbergplatz 2<br>
+  1010 Vienna<br>
+  Austria</p>
 
 
 <h2 id="uk">UK</h2>
