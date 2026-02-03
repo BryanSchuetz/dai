@@ -6,7 +6,7 @@ summary: 'The Cybersecurity for Critical Infrastructure in Ukraine Activity stre
   and other sources by fostering collaboration between government, private sector,
   academia, and civil society. '
 start: 2020
-end: 2025
+end: 2029
 client: U.S. Government
 solutions:
 - Economic Growth
