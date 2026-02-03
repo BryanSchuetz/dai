@@ -115,7 +115,7 @@ An email communication to the above address is the quickest way to receive a res
 <aside>
 Chief Ethics and Integrity Officer<br>
 DAI Global LLC<br>
-7600 Wisconsin Ave, Suite 200<br>
+7700 Wisconsin Ave, Suite 340<br>
 Bethesda, MD 20814<br>
 </aside>
 
