@@ -11,7 +11,7 @@ summary: 'The Expert Advisory Call Down Services (EACDS) Lot 4: Climate Change, 
   and Global Health provides rapid, quality-assured, short-term technical expertise
   to support the development of U.K. Aid programs.'
 start: 2023
-end: 2025
+end: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate
@@ -29,6 +29,8 @@ promos:
 To build future economic, security, and technological partnerships, the U.K. Government is putting shared global challenges at the heart of its offer to low-and middle-income countries. To support this endeavor and ensure funding and support are available for countries to deliver on their climate ambitions, the Foreign, Commonwealth & Development Office (FCDO) designed the Expert Advisory Call Down Services 2 (EACDS2) Lot 4: Climate, Nature, and Global Health. This is a follow on from the recently concluded [EACDS project](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), which DAI supported between 2016-2022.
 
 EACDS is a technical advisory call-down service that provides rapid, quality-assured, short-term technical expertise to support the development of U.K. aid programs. The service is accessible to FCDO and other Government departments that deliver programs funded by U.K. Official Development Assistance. In managing Lot 4, DAI leads a 27-member consortium to respond to the varied requirements of service users.
+
+**The service will accept commissions up until February 2027; contracted work may continue for up to one year.**
 
 The Lot 4 priority objective areas are:
 * Design, delivery, and monitoring of risk-informed development investments across key sectors.
