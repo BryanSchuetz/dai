@@ -17,7 +17,7 @@ regions: Sub-Saharan Africa
 country: Zambia
 ---
 
-<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside> 
 
 DAI supports the Government of Zambia in reducing stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; [this phase](https://www.dai.com/news/dai-to-launch-usaid-zambia-program-to-reduce-stunting-in-young-children) expanded activities to 30 districts covering 7.1 million people, including 850,000 children under age 2 and their mothers.
 
