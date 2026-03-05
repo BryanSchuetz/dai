@@ -4,7 +4,7 @@ date: 2025-11-17 11:18:00 Z
 lastname: Fritz
 summary: Natawnee Fritz oversees functions including corporate strategy and policy,
   security, information technology, and AI enablement.
-job-title: Vice President, Strategy and Technology
+job-title: Senior Vice President, Strategy and Technology
 image: "/uploads/natawnee.jpg"
 solutions: 
 regions: 

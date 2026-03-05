@@ -1,7 +1,7 @@
 ---
 title: Zan Northrip
 date: 2016-01-21 22:18:00 Z
-job-title: Executive Vice President, Development Partners Group
+job-title: Executive Vice President
 summary: Zan Northrip oversees DAI business units serving government clients in the
   United States, the United Kingdom, and Europe, plus private sector clients served
   by our Sustainable Business Group.

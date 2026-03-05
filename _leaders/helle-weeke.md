@@ -1,7 +1,7 @@
 ---
 title: Helle Weeke
 date: 2016-01-21 22:18:00 Z
-job-title: Senior Vice President and General Counsel
+job-title: General Counsel
 summary: Helle Weeke has served as DAI’s principal legal advisor since 2011.
 image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
 sort-order: 6
