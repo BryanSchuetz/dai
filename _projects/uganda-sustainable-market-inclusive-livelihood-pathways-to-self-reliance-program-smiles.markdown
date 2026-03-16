@@ -11,6 +11,15 @@ solutions:
 - Corporate Consulting
 regions: Sub-Saharan Africa
 country: Uganda
+promos:
+- title: Integrating Market Systems Development and the Graduation Approach
+  link: https://dai-global-developments.com/articles/integrating-market-systems-development-and-the-graduation-approach-in-uganda/?ref=pubs.ghost.io
+- title: Operationalizing the Graduation + MSD Integration Model
+  link: https://dai-global-developments.com/articles/operationalizing-the-graduation-msd-integration-model-in-refugee-settings-lessons-from-uganda/?ref=pubs.ghost.io
+- title: Adapting the Agent Model for Clean Energy Access in Uganda’s Refugee Settlements
+  link: https://dai-global-developments.com/articles/adapting-the-agent-model-for-clean-energy-access-in-ugandas-refugee-settlements/?ref=pubs.ghost.io
+- title: 'Adapting for Impact: How Last-Mile Agribusiness Models Evolved'
+  link: https://dai-global-developments.com/articles/adapting-for-impact-how-last-mile-agribusiness-models-evolved-to-serve-refugees-and-host-communities-in-uganda/
 ---
 
 The IKEA Foundation is one of the world’s largest private funders committed to helping refugees achieve economic self-reliance and sustainable livelihoods.
@@ -26,3 +35,11 @@ The project combines a graduation approach, led by AVSI, and a market systems de
 * Incentivize fintech providers to use digital platforms to partner with local refugee-led Savings and Credit Cooperative Organizations (SACCOs).
 * Build last-mile distribution networks with clean energy enterprises to expand solar pay-as-you-go business models to expand refugee livelihoods activities (such as household lighting, solar-powered irrigation, and affordable power to run a fridge in their microenterprises).
 * Design randomized control trials to test new models for integrating the graduation and MSD approaches.
+
+![agro-hero.jpg](/uploads/agro-hero.jpg)
+
+# Find out more about how DAI brings market systems development to refugee and vulnerable communities:
+* [Financial Services, MSD, and Resilience: Case Studies from East Africa](https://dai-global-developments.com/articles/financial-services-msd-and-resilience-case-studies-from-east-africa/)
+* [A Market Systems Approach to Climate-Smart Agriculture in Uganda](https://dai-global-developments.com/articles/a-market-systems-approach-to-climate-smart-agriculture-in-uganda/)
+* [Beyond the Last Mile: Developing the Solar Energy Market with Refugee and Host Communities](/uploads/SHARPE_Factsheet_Hello%20Solar.pdf)
+* [Feed the Future Uganda Inclusive Agricultural Markets Activity: Early Evidence of Successful Layering in Resilience Zone](/uploads/2000_IAM_Layering_Brief_Final.pdf)
