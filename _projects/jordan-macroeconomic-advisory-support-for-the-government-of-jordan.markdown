@@ -1,12 +1,12 @@
 ---
 title: Jordan—Macroeconomic Advisory Support for the Government of Jordan
 date: 2023-04-19 15:29:00 Z
-summary: The Macroeconomic Advisory Support to the Government of Jordan project aims
+summary: 'The Macroeconomic Advisory Support to the Government of Jordan project aims
   to deliver demand-led technical assistance supporting macroeconomic management,
   especially financing strategies and debt management, and support to the energy and
-  water sectors on financial sustainability.
+  water sectors on financial sustainability. '
 start: 2023
-end: 2025
+end: 2027
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
