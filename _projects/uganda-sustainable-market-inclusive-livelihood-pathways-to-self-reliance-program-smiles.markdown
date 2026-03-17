@@ -38,6 +38,7 @@ The project combines a graduation approach, led by AVSI, and a market systems de
 
 ![agro-hero.jpg](/uploads/agro-hero.jpg)
 
+
 ## Find out more about how DAI brings market systems development to refugee and vulnerable communities
 **[Financial Services, MSD, and Resilience: Case Studies from East Africa](https://dai-global-developments.com/articles/financial-services-msd-and-resilience-case-studies-from-east-africa/)** – Can financial services and the broader financial market ecosystem help build climate resilience among marginalized communities? This paper explores how the application of innovative financing models, the development of digital ecosystems, and institutional collaboration are building resilience.
 
@@ -46,3 +47,5 @@ The project combines a graduation approach, led by AVSI, and a market systems de
 **[Beyond the Last Mile: Developing the Solar Energy Market with Refugee and Host Communities](/uploads/SHARPE_Factsheet_Hello%20Solar.pdf)** – This SHARPE Factsheet explores how strengthening the solar energy market can expand access to reliable, affordable electricity for refugee and host communities in Ethiopia’s Somali region. SHARPE’s partnership with HelloSolar addressed barriers such as low-quality products, lack of after-sales service, and limited financing by introducing high-quality solar kits with PAY-GO payment options.
 
 **[Feed the Future Uganda Inclusive Agricultural Markets Activity: Early Evidence of Successful Layering in Resilience Zone](/uploads/2000_IAM_Layering_Brief_Final.pdf)** – The Feed the Future Uganda Inclusive Agricultural Markets Activity demonstrates how layering private sector investment onto existing humanitarian initiatives can strengthen agricultural markets and improve opportunities for smallholder farmers and refugees in Uganda’s resilience zones.
+
+**[Investment in Quality Seed Boosts Incomes for Host and Refugee Communities in Ethiopia’s Gambella Region] (/uploads/SHARPE_Factsheet_Alworo_Maize%20seed.pdf)** – This SHARPE Factsheet explores how strengthening local seed systems can increase agricultural productivity and incomes for smallholder farmers. SHARPE’s partnership with Alworo Beher Agricultural Development Plc addressed constraints such as limited access to quality seed and weak commercial supply chains by introducing a contract farming model for seed multiplication.
