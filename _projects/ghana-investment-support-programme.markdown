@@ -4,6 +4,8 @@ date: 2026-03-19 16:30:00 Z
 summary: GhISP is a technical assistance initiative designed to increase access to
   finance for Ghana’s small and medium-sized enterprises by increasing the number
   of investment-ready businesses and strengthening the broader investment ecosystem.
+start: 2024
+end: 2026
 client: British International Investment (BII)
 solutions:
 - Economic Growth
@@ -17,6 +19,8 @@ The Ghana Investment Support Programme (GhISP) is a technical assistance initiat
 Launched in 2023 by British International Investment (BII), the United Kingdom’s development finance institution and impact investor, the initiative has since 2025 been co-funded by Switzerland’s State Secretariat for Economic Affairs (SECO). 
 
 GhISP works to increase the number of investment-ready businesses and strengthen the broader investment ecosystem. It supports SMEs directly to become ready for investment and grow sustainably, while also working with investors and other market actors to improve how capital reaches these businesses. This assistance includes support to private capital portfolios such as Growth Investment Partners (GIP), which provides long-term, local currency financing to Ghanaian SMEs.
+
+![GhISP_small.jpg](/uploads/GhISP_small.jpg)
 
 ## Sample Activities
 * Providing tailored support before and after investment to help SMEs strengthen their operations and connect with appropriate sources of finance, including GIP and other relevant funds. This support includes product development, governance, environmental and social due diligence and management, and strategy development.
