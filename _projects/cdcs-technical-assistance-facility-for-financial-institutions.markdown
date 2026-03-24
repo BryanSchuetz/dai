@@ -20,11 +20,11 @@ Financial Services Group Plus (FSG Plus) is BII’s flagship sector-based techni
 
 **Climate:** Supported one of Bangladesh’s largest private commercial banks to strengthen its climate lending capability and identify new green investment opportunities aligned with BII’s climate finance methodology, positioning the bank to attract additional climate finance beyond the original BII loan.
 
-**Gender:** Supported a BII-backed Indian financial services firm to expand lending to women entrepreneurs. The firm trained 300 loan officers on gender sensitisation, launched a women-centred loan product, and saw women borrowers increase by 60 percent in the first year after launch.
+**Gender:** Supported a BII-backed Indian financial services firm to expand lending to women entrepreneurs. The firm trained 300 loan officers on gender sensitization, launched a women-centered loan product, and saw women borrowers increase by 60 percent in the first year after launch.
 
 **Inclusion:** Supported an Indian nonbank financial company to design and pilot an innovative supply chain finance product tailored to small retailers, many of whom lack formal credit histories or GST registration, thereby widening access to working capital for underserved businesses.
 
-**Research and Events:** Funded research on the role of securitisation in developing African capital markets and launched the findings at the AFSIC 2025 conference. Jointly commissioned with FSD Africa, the report provides a practical assessment of market conditions, barriers to scale, and opportunities for growth.
+**Research and Events:** Funded research on the role of securitization in developing African capital markets and launched the findings at the AFSIC 2025 conference. Jointly commissioned with FSD Africa, the report provides a practical assessment of market conditions, barriers to scale, and opportunities for growth.
  
 FSG Plus focuses on three core areas: 
 1. Supporting the BII portfolio by providing technical assistance to BII investees.
