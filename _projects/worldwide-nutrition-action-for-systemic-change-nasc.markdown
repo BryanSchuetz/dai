@@ -57,11 +57,11 @@ Demand-driven technical assistance was provided as short- or long-term expertise
 * Supported FCDO accountability for programme results through delivery of the Child Wasting Innovation Programme (CWIP) feedback mechanism (2020–2025).
 * Screened 292 programmes across FCDO’s portfolio, including commercial agriculture, to assess nutrition integration, strengthening monitoring and integration across multiple countries.
 * Identified geographic hotspots, vulnerable groups, and data gaps in Afghanistan, Nigeria, Ethiopia, and Myanmar to inform prioritisation of nutrition actions across multiple sectors in humanitarian and development contexts.
-* Strengthened integration of nutrition within climate policy and financing processes in [Bangladesh](/uploads/NASC_Bangladesh%20Scoping%20Report_Climate%20and%20Nutrition%20Financing%20Support_Dec%202025.pdf)and [Madagascar](/uploads/NASC_Scoping%20Report%20Madagascar_Climate%20Nutrition%20Financing%20Support_Dec%202025.pdf).
+* Strengthened integration of nutrition within climate policy and financing processes in [Bangladesh](/uploads/NASC_Bangladesh%20Scoping%20Report_Climate%20and%20Nutrition%20Financing%20Support_Dec%202025.pdf) and [Madagascar](/uploads/NASC_Scoping%20Report%20Madagascar_Climate%20Nutrition%20Financing%20Support_Dec%202025.pdf).
 * Developed a “do no harm” framework to mitigate unintended negative impacts of development programmes and Development Finance Institution (DFI) investments on nutrition.
-* Delivered a [training of trainers package](/uploads/Nutrition%20Integration%20ToT%20Training%20Guide_FINAL_Feb%202026.pdf)to FCDO partner organisations and government staff in Somalia to strengthen nutrition service delivery within health systems.   
+* Delivered a [training of trainers package](/uploads/Nutrition%20Integration%20ToT%20Training%20Guide_FINAL_Feb%202026.pdf) to FCDO partner organisations and government staff in Somalia to strengthen nutrition service delivery within health systems.   
 * Developed internal guidance for FCDO on the prevention and treatment of child wasting.
-* Strengthened the use of nutrition information systems and synthesised multi-country lessons into a [learning brief](/uploads/NASC_NIS%20learning%20brief_06.02.26_Final.pdf)and scoping matrix to inform decision-making. 
+* Strengthened the use of nutrition information systems and synthesised multi-country lessons into a [learning brief](/uploads/NASC_NIS%20learning%20brief_06.02.26_Final.pdf) and [scoping matrix](/uploads/NASC_Annex%203_NIS%20scoping%20matrix_Feb%202026.xlsx) to inform decision-making. 
 * Tracked FCDO nutrition investment and scored programmes against the NPM for accountability.
 
 ## Select results
