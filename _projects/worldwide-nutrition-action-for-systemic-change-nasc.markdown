@@ -1,9 +1,9 @@
 ---
 title: Worldwide—Nutrition Action for Systemic Change (NASC)
 date: 2024-04-10 14:14:00 Z
-summary: Nutrition Action for Systemic Change (NASC) provides technical expertise
+summary: Nutrition Action for Systemic Change (NASC) provided technical expertise
   on nutrition and food systems, building on previous achievements funded by the U.K.
-  Foreign, Commonwealth & Development Office (FCDO). NASC supports FCDO to uphold
+  Foreign, Commonwealth & Development Office (FCDO). NASC supported FCDO to uphold
   its commitments made at the 2021 Tokyo Nutrition for Growth (N4G) Summit.
 start: 2023
 end: 2025
@@ -13,6 +13,8 @@ solutions:
 regions: Worldwide
 country: Global
 promos:
+- title: NASC Impact Report
+  link: "/uploads/NASC%20Impact%20Brief_Feb%202026.pdf"
 - title: TASC - Overview ICAI Guidance Summary Briefs
   link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs-75c833.pdf"
 - title: "**Guidance Notes:** Improving How to Reach Those Most-at-risk of Malnutrition"
@@ -28,10 +30,6 @@ promos:
   link: "/uploads/tasc-nutrition-monitoring-indicator-database.xlsx"
 - title: "**Report:** Accounting FCDO’s Progress Against its Nutrition Pledges"
   link: https://dai-assets.s3.amazonaws.com/our-work/Accounting_FCDOs_Progress_Against_its_Nutrition_Pledges_2025.pdf
-- title: FAQ for the CWIP Feedback Mechanism 2026 (English)
-  link: https://dai-assets.s3.amazonaws.com/projects/FAQs%20CWIP%20feedback%20mechanism_2026_en.pdf
-- title: FAQ for the CWIP Feedback Mechanism 2026 (French)
-  link: https://dai-assets.s3.amazonaws.com/projects/FAQs%20CWIP%20feedback%20mechanism_2026_fr.pdf
 ---
 
 Nutrition Action for Systemic Change (NASC) Technical Assistance Facility was managed by DAI and contracted through the [Expert Advisory Call Down Service 2 (EACDS2) Lot 4: Climate, Nature and Global Health](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health), funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). EACDS2 technical advisory services provide rapid, quality-assured, short-term technical expertise to support the development of U.K. aid programmes. The technical assistance operated under two separate contracts: NASC 1 (December 2023 to December 2024) and NASC 2 (February 2025 to February 2026). These followed the previous [Technical Assistance to Strengthen Capabilities (TASC)](https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities) Project, a component of FCDO’s Technical Assistance for Nutrition (TAN) Programme.
