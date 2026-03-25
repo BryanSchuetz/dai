@@ -13,8 +13,6 @@ solutions:
 regions: Worldwide
 country: Global
 promos:
-- title: NASC Impact Report
-  link: "/uploads/NASC%20Impact%20Brief_Feb%202026.pdf"
 - title: TASC - Overview ICAI Guidance Summary Briefs
   link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs-75c833.pdf"
 - title: "**Guidance Notes:** Improving How to Reach Those Most-at-risk of Malnutrition"
@@ -70,3 +68,5 @@ Demand-driven technical assistance was provided as short- or long-term expertise
 * Produced two recommendation briefs on Afghanistan, (1) [funding priorities for malnutrition response](https://dai-assets.s3.amazonaws.com/our-work/Brief%202%20-%20Nutritional%20Outcomes%20Funding%20Cuts_Sept%202025.pdf) and (2) [the impact of restrictions on women and girls on their nutritional outcomes](https://dai-assets.s3.amazonaws.com/our-work/Brief%201%20-%20Nutritional%20Outcomes%20Women%20%20Girls_Sept%202025.pdf), to support a consensus-based, multi-sectoral prioritization of nutrition and food security in Afghanistan, through the Food Security and Nutrition Dialogue Series, informing the London Compact and FCDO portfolio decisions.
 * Strengthened evidence for integrating nutrition into investment decisions across seven commercial agriculture projects, supporting FCDO’s response to the International Commission on Aid Impact (ICAI) review of [UK aid to agriculture in a time of climate change](https://icai.independent.gov.uk/review/uk-aid-to-agriculture-in-a-time-of-climate-change/).
 * Supported Nigeria to advance domestic nutrition financing through the development of a government-led Nutrition Resource Mobilisation Strategy aligned with public financial systems.
+
+Read the NASC Impact Report[NASC Impact Brief_Feb 2026.pdf](/uploads/NASC%20Impact%20Brief_Feb%202026.pdf)
