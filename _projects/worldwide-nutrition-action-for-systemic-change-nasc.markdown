@@ -41,23 +41,28 @@ NASC provided technical expertise to support the U.K.’s efforts to address mal
 
 The NASC consortium partners were [NutritionWorks](https://www.nutritionworks.org.uk/), the [Natural Resources Institute (NRI)](https://www.nri.org/) and [Options](https://options.co.uk/). 
 
-NASC supports FCDO’s core nutrition objectives: 
-1. Enhancing Nutrition Policy & Programming – Supporting FCDO in developing and implementing innovative, cost-effective nutrition policies and country plans aligned with government priorities.
-2. Strengthening Global Engagement – Assisting in shaping FCDO’s nutrition strategy for the 2025 N4G Summit and collaborating with global partners to drive impact.
-3. Improving Evidence & Risk Management – Using research to design effective programs, strengthen agriculture links, and integrate ‘do no harm’ principles.
+Over the two-year period, the NASC Technical Assistance Facility responded to 19 requests from FCDO across four key areas: 
+1. Tracking FCDO’s accountability to nutrition
+2. Evidence-based prioritisation of integrated nutrition programme response and monitoring
+3. Policy, influence, and change among FCDO, partner governments, and other actors
+4. Accessing diversified and sustainable finance for nutrition
+The Technical Assistance Facility also aimed to strengthen links with FCDO’s broader commitment to end preventable deaths of mothers, newborns, and children by 2030, including in fragile and conflict-affected settings.
 
-The TA Facility will also continue to strengthen links with FCDO’s broader commitment to end preventable deaths of mothers, newborns, and children by 2030, including in fragile and conflict-affected settings.
-
-Technical assistance is provided as short- or long-term expertise and targets programs across all stages, from design to implementation, monitoring, evaluation, and learning. NASC’s approach revolves around ensuring good coordination, communication, engagement, capacity building, and production of high-quality deliverables.
+Demand-driven technical assistance was provided as short- or long-term expertise and targeted programmes across all stages, from design to implementation, monitoring, evaluation, and learning. NASC’s approach focused on ensuring effective coordination, communication, engagement, capacity building, and the production of high-quality deliverables.
 
 ![H6A8888.jpg](/uploads/H6A8888.jpg)
 
 ## Sample Activities
 
-* Building the capacity of FCDO advisors to develop and monitor strategic approaches to integrate nutrition across sectors, particularly in health, food, and agriculture (including commercial agriculture), social protection, humanitarian assistance, economic development, and climate, to strengthen nutrition outcomes.
-* Strengthening programing and resilience of services to treat and prevent child wasting in the face of changes to the climate.
-* Tracking FCDO nutrition investment and scoring programs against the Nutrition Policy Marker for accountability.
-* Supporting the improvement, use, and learning around nutrition information systems for decision-making.
+* Supported FCDO accountability for programme results through delivery of the Child Wasting Innovation Programme (CWIP) feedback mechanism (2020–2025).
+* Screened 292 programmes across FCDO’s portfolio, including commercial agriculture, to assess nutrition integration, strengthening monitoring and integration across multiple countries.
+* Identified geographic hotspots, vulnerable groups, and data gaps in Afghanistan, Nigeria, Ethiopia, and Myanmar to inform prioritisation of nutrition actions across multiple sectors in humanitarian and development contexts.
+* Strengthened integration of nutrition within climate policy and financing processes in [Bangladesh](/uploads/NASC_Bangladesh%20Scoping%20Report_Climate%20and%20Nutrition%20Financing%20Support_Dec%202025.pdf)and [Madagascar](/uploads/NASC_Scoping%20Report%20Madagascar_Climate%20Nutrition%20Financing%20Support_Dec%202025.pdf).
+* Developed a “do no harm” framework to mitigate unintended negative impacts of development programmes and Development Finance Institution (DFI) investments on nutrition.
+* Delivered a [training of trainers package](/uploads/Nutrition%20Integration%20ToT%20Training%20Guide_FINAL_Feb%202026.pdf)to FCDO partner organisations and government staff in Somalia to strengthen nutrition service delivery within health systems.   
+* Developed internal guidance for FCDO on the prevention and treatment of child wasting.
+* Strengthened the use of nutrition information systems and synthesised multi-country lessons into a [learning brief](/uploads/NASC_NIS%20learning%20brief_06.02.26_Final.pdf)and scoping matrix to inform decision-making. 
+* Tracked FCDO nutrition investment and scored programmes against the NPM for accountability.
 
 ## Select results
 
