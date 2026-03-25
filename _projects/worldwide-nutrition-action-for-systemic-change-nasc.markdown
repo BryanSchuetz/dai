@@ -13,6 +13,8 @@ solutions:
 regions: Worldwide
 country: Global
 promos:
+- title: NASC Impact Report
+  link: "/uploads/NASC%20Impact%20Brief_Feb%202026-440e64.pdf"
 - title: TASC - Overview ICAI Guidance Summary Briefs
   link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs-75c833.pdf"
 - title: "**Guidance Notes:** Improving How to Reach Those Most-at-risk of Malnutrition"
