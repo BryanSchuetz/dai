@@ -69,4 +69,4 @@ Demand-driven technical assistance was provided as short- or long-term expertise
 * Strengthened evidence for integrating nutrition into investment decisions across seven commercial agriculture projects, supporting FCDO’s response to the International Commission on Aid Impact (ICAI) review of [UK aid to agriculture in a time of climate change](https://icai.independent.gov.uk/review/uk-aid-to-agriculture-in-a-time-of-climate-change/).
 * Supported Nigeria to advance domestic nutrition financing through the development of a government-led Nutrition Resource Mobilisation Strategy aligned with public financial systems.
 
-Read the NASC Impact Report[NASC Impact Brief_Feb 2026.pdf](/uploads/NASC%20Impact%20Brief_Feb%202026.pdf)
+Read the [NASC Impact Report](/uploads/NASC%20Impact%20Brief_Feb%202026-440e64.pdf)
