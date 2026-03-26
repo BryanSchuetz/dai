@@ -12,13 +12,16 @@ solutions:
 regions: Sub-Saharan Africa
 country: Uganda
 promos:
-- title: Integrating Market Systems Development and the Graduation Approach
+- title: Stories from the Uganda SMILES project
+  link: https://dai-assets.s3.amazonaws.com/our-work/SMILES%20Story%20Booklet-compressed.pdf
+- title: "**Blog:** Integrating Market Systems Development and the Graduation Approach"
   link: https://dai-global-developments.com/articles/integrating-market-systems-development-and-the-graduation-approach-in-uganda/?ref=pubs.ghost.io
-- title: Operationalizing the Graduation + MSD Integration Model
+- title: "**Blog:** Operationalizing the Graduation + MSD Integration Model"
   link: https://dai-global-developments.com/articles/operationalizing-the-graduation-msd-integration-model-in-refugee-settings-lessons-from-uganda/?ref=pubs.ghost.io
-- title: Adapting the Agent Model for Clean Energy Access in Uganda’s Refugee Settlements
+- title: "**Blog:** Adapting the Agent Model for Clean Energy Access in Uganda’s Refugee
+    Settlements"
   link: https://dai-global-developments.com/articles/adapting-the-agent-model-for-clean-energy-access-in-ugandas-refugee-settlements/?ref=pubs.ghost.io
-- title: 'Adapting for Impact: How Last-Mile Agribusiness Models Evolved'
+- title: "**Blog:** Adapting for Impact: How Last-Mile Agribusiness Models Evolved"
   link: https://dai-global-developments.com/articles/adapting-for-impact-how-last-mile-agribusiness-models-evolved-to-serve-refugees-and-host-communities-in-uganda/
 ---
 
