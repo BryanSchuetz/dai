@@ -2,14 +2,14 @@
 title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS, USAID
   IUWASH Tangguh)
 date: 2016-01-21 22:40:00 Z
-published: false
+terminated: true
 summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (USAID
   IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders,
   data platforms, and finance mechanisms to achieve healthy, productive, and resilient
   cities.
 start: 2016
-end: 2027
-client: U.S. Agency for International Development
+end: 2025
+client: U.S. Government
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
@@ -17,23 +17,10 @@ regions:
 - Asia and the Pacific
 country:
 - Indonesia
-promos:
-- title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
-  link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
-- title: Five Lessons on Effectively Improving the Water Sector
-  link: https://dai-global-developments.com/articles/five-lessons-on-effectively-improving-the-water-sector
-- title: Positively Mobilizing Urban Communities for WASH
-  link: https://dai-global-developments.com/articles/positively-mobilizing-urban-communities-for-wash
-- title: The Value of Water
-  link: https://daiglobal.exposure.co/the-value-of-water
-- title: 'United States Pledges $44 Million to Bring Safe, Clean Water to Communities
-    in Indonesia '
-  link: https://www.usaid.gov/indonesia/press-releases/apr-7-2022-united-states-pledges-44-million-bring-safe-clean-water
-- title: 'Expert Q&A: Alifah Lestari, Chief of Party Indonesia Urban Water, Sanitation,
-    and Hygiene (IUWASH Tangguh) Project'
-  link: https://iuwashtangguh.or.id/en/expert-qa-water-security-sanitation-and-hygiene-wssh-alifah-lestari-chief-of-party-cop-indonesia-urban-water-sanitation-and-hygiene-iuwash-tangguh-project/
 layout: project
 ---
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 Better management of urban growth will be crucial to guarantee sustainable cities. It is not uncommon for citizens in and around Indonesia’s major cities for residents to spend up to two hours a day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas leads to tainted ground and surface water, creating serious health risks from waterborne diseases.
 
