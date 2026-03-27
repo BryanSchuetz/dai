@@ -38,7 +38,8 @@ The project combines a graduation approach, led by AVSI, and a market systems de
 * Incentivize fintech providers to use digital platforms to partner with local refugee-led Savings and Credit Cooperative Organizations (SACCOs).
 * Build last-mile distribution networks with clean energy enterprises to expand solar pay-as-you-go business models to expand refugee livelihoods activities (such as household lighting, solar-powered irrigation, and affordable power to run a fridge in their microenterprises).
 * Design randomized control trials to test new models for integrating the graduation and MSD approaches.
-* Use storytelling and evidence in the [SMILES Story Booklet](https://dai-assets.s3.amazonaws.com/our-work/SMILES%20Story%20Booklet-compressed.pdf) to demonstrate how integrating Graduation and Market Systems Development approaches can strengthen household resilience, support engagement in local markets, and drive inclusive market system change in refugee-hosting areas.
+
+The [SMILES Story Booklet](https://dai-assets.s3.amazonaws.com/our-work/SMILES%20Story%20Booklet-compressed.pdf) illustrates how humanitarian and Market Systems Development approaches can be integrated to catalyze sustainable outcomes for the most vulnerable.
 
 ![agro-hero.jpg](/uploads/agro-hero.jpg)
 
