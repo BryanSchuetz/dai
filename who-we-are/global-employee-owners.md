@@ -14,9 +14,7 @@ Global employee ownership is a crucial part of that shared purpose. It encourage
 
 ## An Inclusive Model
 
-DAI has always been employee-owned. As the company expanded outside the United States, however, we recognized the need to extend ownership to our global workforce. In 2016, we restructured our organization so that all corporate employees could become shareholders. DAI’s employee owners now hail from 30 countries. 
-
-DAI’s model is broad-based—85 percent of employees have opted to buy shares—and no single employee may own more than 10 percent of the equity. All corporate employees around the world, regardless of location or salary level, receive a grant to jump-start their ownership experience. Then, each year, employees may buy or sell shares. Over the long term, share ownership has given hundreds of DAI employees the opportunity to build financial security. 
+DAI has always been employee-owned. As the company expanded outside the United States, however, we recognized the need to extend ownership to our global workforce. In 2016, we restructured our organization so that all corporate employees could become shareholders. DAI’s owners now hail from approximately 50 countries. DAI’s model is broad-based—85 percent of employees have opted to buy shares—and no single employee may own more than 10 percent of the equity. 
 
 <aside>
   <h3>It’s Time to Put Employee Ownership on the Inclusiveness Agenda</h3>
