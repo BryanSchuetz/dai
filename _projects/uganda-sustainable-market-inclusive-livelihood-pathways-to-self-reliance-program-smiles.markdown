@@ -31,6 +31,8 @@ The Sustainable Market Inclusive Livelihood Pathways to Self-Reliance program (S
 
 The project combines a graduation approach, led by AVSI, and a market systems development (MSD) approach, led by DAI in partnership with the United Nations High Commissioner for Refugees (UNHCR), REPARLE, Innovations for Poverty Action (IPA), and the University of Makerere.
 
+The [SMILES Story Booklet](https://dai-assets.s3.amazonaws.com/our-work/SMILES%20Story%20Booklet-compressed.pdf) illustrates how humanitarian and Market Systems Development approaches can be integrated to catalyze sustainable outcomes for the most vulnerable.
+
 ## Sample Activities
 
 * Conduct women, youth, weather-related risk, and market systems assessments in target refugee areas.
@@ -38,8 +40,6 @@ The project combines a graduation approach, led by AVSI, and a market systems de
 * Incentivize fintech providers to use digital platforms to partner with local refugee-led Savings and Credit Cooperative Organizations (SACCOs).
 * Build last-mile distribution networks with clean energy enterprises to expand solar pay-as-you-go business models to expand refugee livelihoods activities (such as household lighting, solar-powered irrigation, and affordable power to run a fridge in their microenterprises).
 * Design randomized control trials to test new models for integrating the graduation and MSD approaches.
-
-The [SMILES Story Booklet](https://dai-assets.s3.amazonaws.com/our-work/SMILES%20Story%20Booklet-compressed.pdf) illustrates how humanitarian and Market Systems Development approaches can be integrated to catalyze sustainable outcomes for the most vulnerable.
 
 ![agro-hero.jpg](/uploads/agro-hero.jpg)
 
