@@ -7,20 +7,17 @@ hero: true
 layout: node
 ---
 
-# U.S. Agency for International Development
+# U.S. Government
 
 ### Global Health
 
 * [Global Health Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management](https://www.dai.com/our-work/projects/worldwide-comprehensive-technical-assistance-for-health-supply-chain-and-pharmaceutical-management-comprehensive-ta) (2024–2034)
 
-### Economic Growth
 
-* Financing Self-Reliance and Market-Led Development (FSRMD) (2021-2026)
-* Regional Integration and Stronger Economies (RISE) (2020-2027)
-
-# General Services Administration
+# U.S. General Services Administration
 
 * One Acquisition Solution for Integrated Services+ ([OASIS+](https://www.dai.com/oasis)) (2025-2030)
+* Multiple Award Schedule, Professional Services Category
 
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 
