@@ -3,10 +3,8 @@ title: Working at DAI
 permalink: "/careers/working-at-dai"
 layout: careers
 careers: true
-feature-title: Shaping a more livable world.
-feature-text: DAI works on the frontlines of international development. Global in
-  reach and outlook, our 3,000 employees are committed to delivering development results
-  in more than 100 countries worldwide. Join us in shaping a more livable world.
+feature-title: Advise. Invest. Deliver
+feature-text: DAI provides project design and delivery, management consulting, and financial services to companies, investors, and governments in scores of countries worldwide.
 hero-package: career-areas
 ---
 
@@ -53,11 +51,11 @@ Start Your Search <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow 
 <div class="col-md-6">
 <h1 class="title line">Global company. <br class="hidden-sm">Global outlook.</h1>
 <p class="sub--title">
-Across the globe, we work together with a shared mission of helping people improve their lives. We tackle fundamental problems caused by inefficient markets, ineffective governance, and instability. We combine expertise and innovation across multiple technical sectors to deliver long-lasting results.
+Drawing on 50 years of work in 150 countries, we combine deep technical innovation, robust operating capabilities, and proven financial acumen to help our clients solve their most pressing challenges.
 </p>
 </div>
 <div class="col-md-6">
-<img class="img-responsive hidden-xs" src="/uploads/careers-map.svg" alt="Global Map">
+<!--<img class="img-responsive hidden-xs" src="/uploads/careers-map.svg" alt="Global Map">-->
 <p class="sub--title visible-xs">Click here to view DAI opportunities in different geographic areas:</p>
 </div>
 </div>
@@ -66,9 +64,9 @@ Across the globe, we work together with a shared mission of helping people impro
 <div class="container">
 <div class="row">
 <div class="image">
-<a href="https://s3.amazonaws.com/dai-assets/videos/quote-video/why-dai.mp4" data-lity> 
+<!--<a href="https://s3.amazonaws.com/dai-assets/videos/quote-video/why-dai.mp4" data-lity> 
 <img class="play-btn" src="assets/build/img/icons/play.svg" alt="Play button"> 
-</a>
+</a>-->
 </div>
 <div class="content">
 <div class="content--title">
@@ -77,7 +75,7 @@ Across the globe, we work together with a shared mission of helping people impro
 </div>
 <div class="content--box">
 <p>
-Since 1970, DAI employees have worked to achieve profound and positive change in the countries and communities in which we work. Our core values are excellence, integrity, responsibility, and global citizenship. These values shape our culture and provide the basis for our success.
+Since 1970, DAI employees have partnered with governments, companies, investors, and communities to achieve positive results. Our core values—excellence, integrity, responsibility, and good citizenship—shape our culture and provide the basis for our success.
 </p>
 <p>
 Our ability to innovate and implement solutions to complex problems is a direct result of our commitment to act with integrity in everything we do.
@@ -95,7 +93,7 @@ Our ability to innovate and implement solutions to complex problems is a direct 
 </div>
 <div class="content--box">
 <p>
-DAI employees tackle some of the world’s toughest issues in some of the world’s most challenging environments. To achieve our commitment to shaping a more livable world, DAI attracts, retains, and supports the best talent in the industry. It’s written into our mission and values that we will provide our team with professional opportunities, a competitive salary and benefits package, and a healthy work-life balance.
+DAI’s clients are taking on some of the world’s toughest issues in some of the world’s most challenging environments. To help them do that, we work hard to attract, retain, and support the best talent in the industry. We provide our teams with professional opportunities, a competitive salary and benefits package, and a healthy work-life balance.
 </p>
 <p>
 DAI is an employee-owned company. Team members with long-term employment relationships are eligible to participate in a global employee ownership program. This allows for all employee-owners to have a personal stake in the quality and reputation of our work.
@@ -110,18 +108,16 @@ DAI is an employee-owned company. Team members with long-term employment relatio
 <div class="row">
 <div class="content">
 <div class="content--title">
-<h1 class="title line">Make a lasting difference <br class="hidden-xs">in the world.</h1>
+<h1 class="title line">A world of opportunity</h1>
 </div>
 <div class="content--box">
 <p>       
-DAI delivers development solutions for a wide range of clients, across a broad range of disciplines. Over the years, our core business has grown. Today our operations include DAI’s US Government business unit, DAI Europe, DAI Global Health, and the Sustainable Business Group.
+DAI provides advisory and professional services for a wide range of clients across a broad range of disciplines, operating from offices in the United States, the United Kingdom, Europe, Africa, and Asia, and in projects all over the world. But no matter where we work, or what we do, DAI employees have one thing in common: we are passionate about the work we do.
 </p>
 <p>
-Truly global, DAI has offices in the United States, the United Kingdom, Belgium, and in projects all over the world. But no matter where we work, or what we do, DAI employees have one thing in common: we are passionate about the work we do.
+DAI offers exciting and challenging opportunities in our corporate offices and on project assignments for employees and independent consultants worldwide.
 </p>
-<p>
-DAI offers dynamic and challenging opportunities in our corporate offices and on our projects in the field for employees and independent consultants. Career options span a wide range of disciplines and functions, with diverse opportunities to learn, grow, and shape a more livable world.
-</p>
+
 </div>
 </div>
 <div class="video hidden-sm hidden-xs">
