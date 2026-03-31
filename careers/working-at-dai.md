@@ -4,7 +4,9 @@ permalink: "/careers/working-at-dai"
 layout: careers
 careers: true
 feature-title: Advise. Invest. Deliver
-feature-text: DAI provides project design and delivery, management consulting, and financial services to companies, investors, and governments in scores of countries worldwide.
+feature-text: DAI provides project design and delivery, management consulting, and
+  financial services to companies, investors, and governments in scores of countries
+  worldwide.
 hero-package: career-areas
 ---
 
