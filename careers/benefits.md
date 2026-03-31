@@ -4,7 +4,7 @@ permalink: "/careers/benefits"
 layout: careers
 careers: true
 feature-title: Caring for DAI Families
-feature-text: Shaping a more livable world begins at home
+feature-text: 
 hero-package: benefits
 ---
 
@@ -29,7 +29,7 @@ hero-package: benefits
                         <div class="item item--1">
                             <div class="box">
                                 <h1 class="quote">We need the best people we can find and we need them to stay – or come back. We need to ensure that our people are able to grow, are compensated fairly, receive the benefits that are important to them, and are able to achieve a healthy work-life balance.</h1>
-                                <p class="by">Jim Boomgard – <br class="hidden-xs">President and Chief Executive Officer</p>
+                                <p class="by">Tine Knott – <br class="hidden-xs">President and Chief Executive Officer</p>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ hero-package: benefits
             <li><p>Generous paid and unpaid time off programs</p></li>
             <li><p>Emergency evacuation coverage</p></li>
             <li><p>Confidential, free counseling services</p></li>
-            <li><p>Wellness support through exercise expense subsidies and access to nearby exercise facilities</p></li>
+            <li><p>Wellness support</p></li>
         </ul>
         <p>At DAI, work-life balance matters. We offer employees generous paid and unpaid time off programs, as well as flexibility around work hours and location.</p>
                                         </div>
@@ -85,7 +85,7 @@ hero-package: benefits
             <div class="col-md-5">
                 <div class="content--title quote-mark quote-mark--5">
                                             <h1 class="quote"> There are strong mentors here and a huge suite of online learning modules. </h1>
-                                                                <p class="by"> James, Director – <br class='hidden-xs'>DAI Europe PMU Support </p>
+                                                                <p class="by"> James, Director – <br class='hidden-xs'>PMU Support </p>
                                     </div>
             </div>
             <div class="col-md-7">
@@ -104,73 +104,7 @@ hero-package: benefits
             </div>
         </div>
     </div>
-</section><section class="work-and-fun">
-    <div class="container">
-
-        <div class="row">
-            <div class="content">
-                <div class="content--title">
-                    <h1 class="title line">Work and Fun</h1>
-                </div>
-                <div class="content--box">
-                    <p>DAI is proud of our reputation for being a great place to work. We work hard, but we also have fun participating in events and activities that bring us together as colleagues and friends.</p>
-                    <p>DAI offers employee-focused formal and informal events and “extras” to make our work environments more flexible, accessible, and fun. Employees of all career levels, from entry-level through senior leadership, enjoy:</p>
-                    <div class="lists">
-                        <div class="list list--1">
-                            <ul>
-                                <li>
-                                    <p>Global Award Programs</p>
-                                </li>
-                                <li>
-                                    <p>Fundraising Events</p>
-                                </li>
-                                <li>
-                                    <p>Golf Tournaments</p>
-                                </li>
-                                <li>
-                                    <p>Family Picnics</p>
-                                </li>
-                                <li>
-                                    <p>Global Staff Conferences</p>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="list list--2">
-                            <ul>
-                                <li>
-                                    <p>Holiday Parties</p>
-                                </li>
-                                <li>
-                                    <p>5K Fun Runs</p>
-                                </li>
-                                <li>
-                                    <p>Cricket and Softball teams</p>
-                                </li>
-                                <li>
-                                    <p>Ice Cream Fridays</p>
-                                </li>
-                                <li>
-                                    <p>Flexible Work Schedules</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="image"></div>
-        </div>
-
-        <div class="row quote-container">
-            <div class="col-md-6">
-                <div class="quote--image"></div>
-            </div>
-            <div class="col-md-6">
-                <div class="quote--title">
-                    <h1 class="quote">DAI recognizes family demands and challenges and it finds ways to accommodate personal needs.</h1>
-                    <p class="by">Miguel, Director – <br class="hidden-xs">Project Delivery Team, Global</p>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</section><
+</section>
+<section class="work-and-fun">
+    
+</section>
