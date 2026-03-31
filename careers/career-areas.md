@@ -17,7 +17,7 @@ hero-package: career-areas
 <h1 class="title line"> Technical / Consulting </h1>
 </div>
 <div class="content--box">
-<p> Our technical teams reach across disciplines to shape integrated solutions to the most challenging issues in global development. We seek corporate office-based technical experts to serve as thought leaders, enhancing DAI’s leadership in the technical sectors in which we work, as well as technical advisors to design, support, and implement activities in both long-term and short-term assignments on projects in the field. </p>
+<p> Our technical teams reach across disciplines to address our clients’ most pressing challenges. We seek corporate office-based experts to enhance DAI’s leadership in the technical sectors in which we work, as well as technical advisors to design, support, and implement activities worldwide. </p>
 <a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC" class="btn btn-primary">
     View Opportunities For <br class="visible-xs">This Position Area
     <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
@@ -39,7 +39,7 @@ hero-package: career-areas
 <h1 class="title line"> Project </h1>
 </div>
 <div class="content--box">
-<p> Our projects span the full spectrum of development disciplines, including crisis mitigation and stability, governance and public sector management, agriculture and agribusiness, private sector development and financial services, economics and trade, women’s economic empowerment, public health, water and natural resources management, and energy and climate change. </p>
+<p>DAI provides project design and delivery, management consulting, and financial services to companies, investors, and governments worldwide.</p>
 <a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC" class="btn btn-primary">
     View Opportunities For <br class="visible-xs">This Position Area
     <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
@@ -83,7 +83,7 @@ hero-package: career-areas
 <h1 class="title line"> Corporate </h1>
 </div>
 <div class="content--box">
-<p> In our offices in the United States and in Europe, our corporate staff in finance, IT, communications, legal, human resources, administration, and security positions work closely and collaboratively with our technical, project, and field staff in support of DAI’s global efforts to shape a more livable world. </p>
+<p>In our offices in the United States, Europe, Africa, Asia, and the Middle East, our corporate staff in finance, IT, communications, legal, human resources, administration, and security positions work closely and collaboratively with our technical and project teams.</p>
 <a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC" class="btn btn-primary">
     View Opportunities For <br class="visible-xs">This Position Area
     <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
