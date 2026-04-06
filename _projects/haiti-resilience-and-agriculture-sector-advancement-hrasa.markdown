@@ -9,7 +9,7 @@ summary: The Haiti Resilience and Agriculture Sector Advancement Activity improv
   and strengthens the capacity of subsistence farming households to participate in
   opportunities.
 start: 2021
-end: 2026
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
