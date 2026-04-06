@@ -14,6 +14,7 @@ solutions:
 regions: Middle East and North Africa
 country: Palestine
 ---
+
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 Micro, small, and medium enterprises (MSMEs) are the bedrock of the Palestinian economy, accounting for approximately 96 percent of Palestinian firms in the West Bank, East Jerusalem, and the Gaza Strip. Their resilience to economic shocks and their export capacity are essential to Palestinians’ stability, livelihoods, and futures. 
