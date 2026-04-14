@@ -143,10 +143,10 @@ Your browser does not support HTML5 video.
 <p class="box--front">DAI Careers</p>
 <span class="box--back">
     <ul> 
-        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Corporate</a></li>
-        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Project</a></li>
-        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Proposal</a></li>
-        <li><a href="https://phf.tbe.taleo.net/phf04/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=48&org=DAINC">Consulting</a></li>
+        <li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5745ed7b-7f8d-47a9-9161-d975aa7f3314&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter">Corporate</a></li>
+        <li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5745ed7b-7f8d-47a9-9161-d975aa7f3314&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter">Project</a></li>
+        <li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5745ed7b-7f8d-47a9-9161-d975aa7f3314&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter">Proposal</a></li>
+        <li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5745ed7b-7f8d-47a9-9161-d975aa7f3314&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter">Consulting</a></li>
     </ul>
     <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
 </span>
