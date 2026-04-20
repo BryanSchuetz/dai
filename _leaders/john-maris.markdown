@@ -7,6 +7,7 @@ summary: John maintains the integrity of the company’s financial statements, e
   forecasting and modelling work to inform strategic and operational decisions.
 image: "/uploads/Maris%20leader2-26a381.jpg"
 sort-order: 4
+published: false
 ---
 
 As the head of DAI’s Finance team, John Maris maintains the integrity of the company’s financial statements, ensures compliance with all financial regulators and tax authorities, leads our business forecasting and modelling work to inform strategic and operational decisions, and ensures that the company is appropriately capitalized to achieve its business objectives.
