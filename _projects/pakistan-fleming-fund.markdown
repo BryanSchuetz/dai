@@ -15,6 +15,8 @@ solutions:
 regions: Asia and the Pacific
 country: Pakistan
 promos:
+- title: 'Blog: Pakistan Well Placed to Counter AMR Following Fleming Fund Assistance'
+  link: https://dai-global-developments.com/articles/pakistan-well-placed-to-counter-amr-following-fleming-fund-assistance/
 - title: AMR Surveillance Strategy in the Environment
   link: https://dai-assets.s3.amazonaws.com/our-work/Strategy_AMR%20Surveillance%20Strategy%20in%20the%20Environment.pdf
 - title: National Institute of Health Newsletter Vol XIV
@@ -36,8 +38,6 @@ promos:
   link: https://www.dai.com/news/president-of-pakistan-calls-for-massive-effort-to-tackle-antimicrobial-resistance
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
-- title: 'Blog: Pakistan Well Placed to Counter AMR Following Fleming Fund Assistance'
-  link: https://dai-global-developments.com/articles/pakistan-well-placed-to-counter-amr-following-fleming-fund-assistance/
 Field name: 
 ---
 
