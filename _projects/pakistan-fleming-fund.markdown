@@ -17,6 +17,10 @@ country: Pakistan
 promos:
 - title: 'Blog: Pakistan Well Placed to Counter AMR Following Fleming Fund Assistance'
   link: https://dai-global-developments.com/articles/pakistan-well-placed-to-counter-amr-following-fleming-fund-assistance/
+- title: 'Report: AMR Surveillance in Healthy Aquatic Animals'
+  link: https://dai-assets.s3.amazonaws.com/our-work/Report%20of%20Pilot%20AMR%20Surveillance%20in%20Healthy%20Aquatic%20Animals%20in%20Pakistan.pdf
+- title: 'Report: AMR Surveillance in Diseased Terrestrial Food-Producing Animals'
+  link: https://dai-assets.s3.amazonaws.com/our-work/Report%20of%20Pilot%20Passive%20AMR%20Surveillance%20in%20Diseased%20Terrestrial%20Food%20Producing%20Animals.pdf
 - title: AMR Surveillance Strategy in the Environment
   link: https://dai-assets.s3.amazonaws.com/our-work/Strategy_AMR%20Surveillance%20Strategy%20in%20the%20Environment.pdf
 - title: National Institute of Health Newsletter Vol XIV
