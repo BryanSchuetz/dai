@@ -1,6 +1,7 @@
 ---
 title: Local Content Masterclass Brings Global Practitioners Together in London
 date: 2026-04-16 09:47:00 Z
+is_featured: true
 solutions:
 - Corporate Consulting
 regions: Worldwide
@@ -13,6 +14,8 @@ social-image: "/uploads/IMG_1486.jpeg"
 Last week, DAI hosted its [Local Content Masterclass](https://www.dai.com/our-work/solutions/sustainable/training/master-class) in London, convening a global group of practitioners and decision makers working at the intersection of policy, procurement, and investment.
 
 As local content becomes increasingly important for governments and companies alike, organizations are seeking to move beyond compliance and develop approaches that strengthen supply chains, support national development objectives, and deliver sustainable commercial outcomes. With more countries introducing or refining regulatory frameworks and supply chain dynamics evolving, the ability to translate policy into effective delivery has become a core capability.
+
+<!--more-->
 
 The Masterclass reflects DAI’s long-standing leadership in this space, combining global advisory and delivery experience with British Accreditation Council (BAC)-accredited training designed to support professionals addressing these challenges.
 
