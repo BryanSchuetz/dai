@@ -11,11 +11,10 @@ summary: DAI is delighted to announce that David Quinn has joined DAI to lead th
 social-image: "/uploads/David%20Quinn%201_square-4163a9.jpg"
 ---
 
-We are delighted to announce that David Quinn has joined DAI to lead the company’s work in humanitarian and crisis response. Pre-eminent in his field, David has extensive experience designing and leading effective emergency operations in some of the world’s most challenging and unstable environments. 
+![David Quinn 1_square-4163a9.jpg](/uploads/David%20Quinn%201_square-4163a9.jpg){: .float-left}
+ We are delighted to announce that David Quinn has joined DAI to lead the company’s work in humanitarian and crisis response. Pre-eminent in his field, David has extensive experience designing and leading effective emergency operations in some of the world’s most challenging and unstable environments. 
 
 As the head of DAI’s Humanitarian Affairs Practice, David will be based in the United Kingdom, leading a global team operating from London and other corporate locations, ensuring coordination across DAI’s public and private sector consulting practices, and deepening the firm’s capacity to design and deliver timely, effective, principled crisis responses in fragile and conflict-affected settings.
-
-![David Quinn 1_square-4163a9.jpg](/uploads/David%20Quinn%201_square-4163a9.jpg)
 
 “We’re delighted to welcome David to the team,” said Senior Vice President Eric Postel. “DAI has a long history in humanitarian support, crisis response, conflict mitigation, supply chain management, logistics, and transitions from emergency relief to forward-looking recovery. We’re committed to making our humanitarian practice a powerful enabler for our clients and the people they serve. David is a key part of that vision.”
 
