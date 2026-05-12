@@ -14,6 +14,8 @@ solutions:
 regions: Asia and the Pacific
 country: Bangladesh
 promos:
+- title: 'Strengthening a System: Bangladesh’s AMR Response'
+  link: https://dai-global-developments.com/articles/strengthening-a-system-bangladeshs-amr-response/
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
 - title: Pattern of Antibiotic Dispensing at Pharmacies According to the WHO Access,
