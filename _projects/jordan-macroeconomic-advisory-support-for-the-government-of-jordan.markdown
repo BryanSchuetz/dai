@@ -13,6 +13,9 @@ solutions:
 regions: Middle East and North Africa
 country: Jordan
 promos:
+- title: Supporting Growth and Resilience Through Demand-Led Economic Governance in
+    Jordan
+  link: https://dai-global-developments.com/articles/supporting-growth-and-resilience-through-demand-led-economic-governance-in-jordan/
 - title: Moody’s Upgrades Jordan’s Credit Rating
   link: https://www.dai.com/news/moodys-upgrades-jordans-credit-rating
 ---
