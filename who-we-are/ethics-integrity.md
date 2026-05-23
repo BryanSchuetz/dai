@@ -3,10 +3,8 @@ title: Ethics and Integrity at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
   link: https://dai-assets.s3.amazonaws.com/policies/v4.0_2025_DAI_Code-of-Conduct.pdf
-- title: Modern Day Slavery Statement
+- title: Modern Slavery Statement
   link: https://dai-assets.s3.amazonaws.com/policies/2025%20Modern%20Slavery%20Statement.pdf
-- title: Europe Commitment Statement
-  link: "/uploads/DAI-Europe%20Commitment%20Statement%20to%20DFID%20Signed%20June%202019.pdf"
 summary: DAI implements stringent policies and processes to ensure that our projects
   succeed in a compliant and ethical manner, and our employees play a pivotal role
   in upholding DAI’s high standards.
