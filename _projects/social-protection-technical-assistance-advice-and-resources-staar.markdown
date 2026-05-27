@@ -18,6 +18,8 @@ promos:
   link: "/uploads/STAAR%20Solar%20System%20Framing.pdf"
 - title: 'Programming guidance: embedding localisation in social protection'
   link: "/uploads/STAAR%20Guidance%20on%20Localisation.pdf"
+- title: 'Bridging Response and Recovery: Humanitarian Action and Local Systems'
+  link: https://dai-global-developments.com/articles/bridging-response-and-recovery-humanitarian-action-and-local-systems/
 ---
 
 The Social Protection Technical Assistance, Advice, and Resources Facility (STAAR) is an initiative of the U.K. Foreign, Commonwealth, & Development Office (FCDO). Actors from national governments, donors, and implementing partners are encouraged to access the Facility for free, with direct support from STAAR’s independent technical assistance, specialist advice, or bespoke resources. 
