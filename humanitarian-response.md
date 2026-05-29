@@ -9,10 +9,17 @@ solutions:
 hero: true
 related: false
 featuresection: humanitarian-solutions
-summary: |
-  For more than 50 years, DAI has worked alongside governments, donors, and communities responding to humanitarian need—from post-tsunami reconstruction in Indonesia and conflict response in Ukraine to famine prevention in Somalia and recovery programming across the Middle East. Combining technical depth, operational reach, and local partnerships, we can move quickly and deliver effectively in complex and rapidly changing environments.
+summary: 'For more than 50 years, DAI has worked alongside governments, donors, and
+  communities responding to humanitarian need—from post-tsunami reconstruction in
+  Indonesia and conflict response in Ukraine to famine prevention in Somalia and recovery
+  programming across the Middle East. Combining technical depth, operational reach,
+  and local partnerships, we can move quickly and deliver effectively in complex and
+  rapidly changing environments.
+
+'
 layout: node
 ---
+
 DAI’s humanitarian work is led by David Quinn, Head of DAI’s Humanitarian Affairs Practice. He has designed and led emergency operations in some of the world’s most complex environments and was awarded an MBE for services to public health during the COVID-19 pandemic. His experience exemplifies the operational judgment and technical leadership DAI brings to humanitarian response.
 
 As the humanitarian sector continues to grapple with localization, anticipatory action, and the nexus between emergency response and long-term development, DAI works with partners to develop practical approaches that strengthen both immediate response and longer-term resilience.
