@@ -4,7 +4,7 @@ date: 2024-09-20 07:32:00 Z
 summary: The EU's Green Economy program in Jordan supports the country’s green transition
   by promoting climate resilience, energy efficiency, and environmental sustainability.
 start: 2024
-end: 2027
+end: 2028
 client: European Union
 solutions:
 - Climate
