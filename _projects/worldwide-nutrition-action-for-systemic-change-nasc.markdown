@@ -6,7 +6,7 @@ summary: Nutrition Action for Systemic Change (NASC) provided technical expertis
   Foreign, Commonwealth & Development Office (FCDO). NASC supported FCDO to uphold
   its commitments made at the 2021 Tokyo Nutrition for Growth (N4G) Summit.
 start: 2023
-end: 2025
+end: 2026
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
