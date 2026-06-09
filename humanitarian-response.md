@@ -24,8 +24,6 @@ DAI’s humanitarian work is led by David Quinn, Head of DAI’s Humanitarian Af
 
 As the humanitarian sector continues to grapple with localization, anticipatory action, and the nexus between emergency response and long-term development, DAI works with partners to develop practical approaches that strengthen both immediate response and longer-term resilience.
 
-![Air Freight](/uploads/air-freight.jpg)
-
 ## Early Warning, Research, and Analysis {#early-warning}
 
 Understanding where a crisis will hit hardest—and getting that information to decision makers before the window for action closes—is a critical form of humanitarian intervention. The ability to anticipate, analyze, and communicate risk in real time saves lives and enables more effective targeting of scarce resources.
