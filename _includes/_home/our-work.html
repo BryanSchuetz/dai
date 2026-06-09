@@ -23,6 +23,9 @@
     <div class="primary-block split right">
       <h2>Integrated Solutions</h2>
       <ul>
+        <li class="primary-block--solution"><a href="/humanitarian-response" class="primary-block--button"><svg class="supply-chain-badge badge" viewBox="0 0 400 401" preserveAspectRatio="xMinYMax meet">
+          <use xlink:href="#gh-supply-chain"></use>
+        </svg> Humanitarian Response<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
         {% assign primary_solutions = site.solutions | where:"type", "primary" | sort: "title" %}
         {% for solution in primary_solutions %}
           <li class="primary-block--solution"><a href="{{ solution.url }}" class="primary-block--button">
