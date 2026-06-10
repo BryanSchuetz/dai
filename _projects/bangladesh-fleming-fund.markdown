@@ -23,32 +23,32 @@ promos:
   link: https://www.mdpi.com/2079-6382/11/2/247
 ---
 
-The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program administered through [Mott Macdonald](https://www.mottmac.com/) to help low- and middle-income countries fight antimicrobial resistance (AMR).
+The [Fleming Fund](https://www.flemingfund.org/) is is a U.K. Department of Health and Social Care initiative to help low- and middle-income countries fight antimicrobial resistance (AMR).
 
-AMR is a leading cause of death globally, [research shows](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00087-3/fulltext) that 1.27 million deaths annually are attributable to drug resistance, higher than HIV/AIDS or malaria. DAI’s Fleming Fund program in Bangladesh is a collaboration with the Bangladesh government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As a global leader in the approach, DAI helps incorporate One Health across program interventions, supporting Bangladesh to become a leader in combating AMR and a model for better management of antimicrobials in human and animal populations.  
+AMR is a leading cause of death globally. [Research shows](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00087-3/fulltext) that 1.27 million deaths annually are attributable to drug resistance, a total higher than that attributed to HIV/AIDS or malaria. DAI’s Fleming Fund program in Bangladesh was a collaboration with the Government of Bangladesh designed to strengthen systems using a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As a global leader in this “One Health” approach, DAI supported Bangladesh to become a leader in combating AMR and a model for better management of antimicrobials in human and animal populations. 
 
-In Bangladesh, Phase I focused on enhancing laboratory infrastructure, strengthening human resources, improving the AMR and antimicrobial use (AMU) surveillance system, building foundations for using AMR data and promoting the rational use of antimicrobial medicines. Phase II is building on this work to achieve four outcomes: producing high-quality AMR, AMU, antimicrobial consumption, and burden data; developing high-quality analyses of data; sharing the analyses and data with relevant decision-makers; and promoting sustainable investment to counter AMR.
+Phase I of the project focused on enhancing laboratory infrastructure, strengthening human resources, improving the AMR and antimicrobial use (AMU) surveillance system, building the foundations for using AMR data, and promoting the rational use of antimicrobial medicines.  
 
-## Sample Activities for Phase II
+Phase II adopted the One Health approach to strengthen AMR, AMU, antimicrobial consumption (AMC), and burden surveillance across the human health, animal health, aquaculture, and environmental sectors. This phase focused on improving surveillance data, strengthening data analysis and use, supporting evidence-based decision making, and contributing to sustainable national investments in countering AMR.
 
-* Review and update the National AMR surveillance strategy 
-* Review and update the AMR surveillance protocols in the animal health, human health, and aquaculture sectors.
-* Develop AMR surveillance protocols in the food and environmental sector.
-* Assess and strengthen AMR reporting to the national AMR dashboard by seven new laboratories (three human health, two animal health, and two aquaculture).
-* Support internal procurement systems at laboratories to quality assure equipment maintenance and supply of consumables across sectors.
-* Train laboratory staff on microbiology, epidemiology, quality management, and data collection to improve the quality of Phase I data. 
+Both phases were administered through Mott MacDonald and implemented by DAI with its partners the Liverpool School of Tropical Medicine; the International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b); and the Chittagong Veterinary and Animal Sciences University (CVASU).
 
 ## Select Results 
 
-* Finalised the National AMR Surveillance Strategy using a One Health approach, which the Bangladeshi Government endorsed.
-* Refurbished six Human Health (HH) and 5 Animal Health (AH) laboratories, and maintenance works completed. 
-* Procured equipment, consumables, and reagents for 12 laboratories (5 in AH, 6 in HH, and 1 in the aquatic sector).  
-* Developed national AMR Data Dashboard with a One Health approach. Live AMR data from all sentinel sites (HH, AH and Aqua sectors) and private sector is now available at the website of the Institute of Epidemiology, Disease Control and Research (IEDCR). 
-* Supported the development of sectoral surveillance protocols, sampling strategies, and laboratory protocols on biosafety, biosecurity, and standard operative procedures for laboratory functioning.
-* Increased AMR data quantity achieved through the inclusion of the private sector in the passive AMR surveillance (public-private partnership).
-* Finalized sector-specific surveillance plans for human, animal, and aquatic sectors, using a One Health approach. 
-* Strengthened AMR governance and coordination through functioning committees and working groups. Regular committee meetings are now held, and members are engaging in key activities that support better decision-making.
-* Conducted antimicrobial usage (AMU) Study with a One Health approach and follow-up Point Prevalence Surveys (PPS). 
-* Facilitated the production of seven issues of the AMR Newsletter by the National AMR Coordination Centre.
-* Completed 18 trainings on basic and advanced microbiology (249 participants), biosafety and biosecurity, and laboratory data management. 
-* Developed National External Quality Assessment Services (EQAS) Program and completed training for National Reference Laboratories (NRLs) to build their capacity as National EQAS providers.  
+* Updated, expanded, and operationalized the National AMR Surveillance Strategy (2025-2030), establishing a unified framework across human health, animal health, aquaculture, and environmental sectors.
+* Established a fully operational integrated One Health AMR surveillance system linking sentinel laboratories, National Reference Laboratories, the National Coordination Centre, and public and private sector institutions to support standardized AMR surveillance and reporting.
+* Developed a comprehensive suite of AMR, AMU, and AMC surveillance protocols, technical guidance, data quality assurance mechanisms, and data-sharing frameworks aligned with international standards.
+* Strengthened multisectoral governance and coordination through 25 sector working group meetings, 2 core working group meetings, 3 national technical committee meetings, and 2 national steering committee meetings, thereby supporting sustained national ownership of AMR surveillance and response.
+* Integrated environmental AMR surveillance into the national surveillance framework, expanding surveillance coverage to include environmental matrices such as soil and water and establishing data-sharing arrangements with national stakeholders.
+* Expanded the national surveillance network by onboarding 24 private laboratories, including four veterinary labs contributing data to the national AMR dashboard for the first time.
+* Increased the scale and representativeness of surveillance data through private sector engagement. Between July 2023 and June 2024, private laboratories contributed 67,892 of 71,269 isolates reported to the surveillance system (95 percent). Between July 2024 and June 2025, private labs contributed 78,557 of 82,510 isolates (95 percent).
+* Strengthened the national laboratory network by renovating and refurbishing 20 public labs across human health, animal health, aquaculture, and environmental sectors—12 in Phase I and eight in Phase II.
+* Enhanced lab quality and testing capacity across surveillance sites. Average quarterly routine test samples processed by human health sentinel labs increased from 4,974 in 2024 to 10,180 in 2026.
+* Supported the operation of the National AMR Data Dashboard, enabling real-time, cross-sector reporting and analysis. By the end of the project, the platform had facilitated analysis of nearly 200,000 isolates from human, animal, aquaculture, and environmental surveillance systems.
+* Conducted the third national Point Prevalence Survey across eight tertiary hospitals, enrolling 3,298 patients and generating evidence to inform clinical practice and AMR decision making.
+* Completed political economy analysis, gender, and equity assessments to strengthen understanding of institutional, governance, and social factors affecting AMR implementation and to inform advocacy and policy development.
+* Helped produce and disseminate the Bangladesh AMR Newsletter as a national One Health knowledge platform, reaching more than 600 health institutions.
+* Strengthened national AMR workforce capacity through workshops, online training, and fellowships, engaging 2,607 professionals across One Health sectors through training in microbiology (352 participants), data management (282), biosafety and biosecurity (119), and quality management systems (157).
+* Developed a national pool of 34 master trainers across 20 Fleming Fund-supported surveillance sites to support sustainable capacity development.
+* Strengthened the use of surveillance data in clinical practice through clinical engagement workshops conducted across eight surveillance sites, engaging approximately 1,000 clinicians and health administrators.
+* Published and distributed 5,000 copies of the national antibiogram booklet to support evidence-based antimicrobial prescribing.
