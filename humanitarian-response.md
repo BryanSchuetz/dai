@@ -35,7 +35,7 @@ In Lebanon, our water sector programming demonstrated how field-level data can b
 
 In a crisis, the window for action is often narrow. The ability to deploy the right technical expertise quickly is frequently the difference between a response that works and one that does not. That requires people who understand the context, operate well under pressure, and can translate knowledge into practical decisions.
 
-Through the FCDO’s [Expert Advisory Call Down Service](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), DAI delivers rapid-response technical support across resilience, crisis response, and humanitarian programming. DAI also helps governments and donors strengthen systems that can respond more effectively when emergencies occur through the FCDO-funded [STAAR Facility](https://www.dai.com/our-work/projects/social-protection-technical-assistance-advice-and-resources-staar), which provides independent technical assistance at the intersection of humanitarian assistance and social protection.
+Through the FCDO’s Expert Advisory Call Down Service ([EACDS1](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) and [EACDS2](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health)), DAI delivers rapid-response technical support across resilience, crisis response, and humanitarian programming. DAI also helps governments and donors strengthen systems that can respond more effectively when emergencies occur through the FCDO-funded [STAAR Facility](https://www.dai.com/our-work/projects/social-protection-technical-assistance-advice-and-resources-staar), which provides independent technical assistance at the intersection of humanitarian assistance and social protection.
 
 ![Kenya Hunger Safety Network](/uploads/kenya-hsn.jpg)
 
@@ -53,7 +53,7 @@ In Nepal, the [Improved Disaster Risk Management Project (Tayar)](https://www.da
 
 When lives are at risk, the speed, reliability, and accountability of supply chains and payment systems become humanitarian imperatives. Delivering goods to affected communities—or cash to households that need it most—requires robust systems, experienced procurement teams, and the flexibility to adapt rapidly as conditions on the ground change.
 
-In Ukraine, [DAI delivered $40 million in emergency supplies](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla) to frontline communities, including assistance following the Kakhovka Dam disaster. In Kenya, the Hunger Safety Net Programme delivered emergency cash transfers to 2.1 million people, supporting vulnerable households while sustaining local markets and production systems.
+In Ukraine, [DAI delivered $40 million in emergency supplies](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla) to frontline communities, including assistance following the Kakhovka Dam disaster. In Kenya, the [Hunger Safety Net Programme](https://www.dai.com/our-work/projects/kenya-hunger-safety-net-programme-phase-2-hsnp2) delivered emergency cash transfers to 2.1 million people, supporting vulnerable households while sustaining local markets and production systems.
 
 ## Grant Management {#grant-management}
 
