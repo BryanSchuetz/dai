@@ -10,11 +10,10 @@ hero: true
 related: false
 featuresection: humanitarian-solutions
 summary: 'For more than 50 years, DAI has worked alongside governments, donors, and
-  communities responding to humanitarian need—from post-tsunami reconstruction in
-  Indonesia and conflict response in Ukraine to famine prevention in Somalia and recovery
-  programming across the Middle East. Combining technical depth, operational reach,
-  and local partnerships, we can move quickly and deliver effectively in complex and
-  rapidly changing environments.
+  communities responding to humanitarian need—from reconstruction in Haiti and conflict
+  response in Ukraine to famine prevention in Somalia and recovery programming across
+  the Middle East. Combining technical depth, operational reach, and local partnerships,
+  we can move quickly and deliver effectively in complex and rapidly changing environments.
 
 '
 layout: node
@@ -63,3 +62,5 @@ Grants are one of the principal mechanisms for channeling support to the local o
 Protracted crises require grant management approaches that can adapt to changing conditions while maintaining support to local partners and markets. In Haiti, the Resilience and Agriculture Sector Advancement project continued operating despite gang violence, displacement, fuel shortages, border closures, and flooding. The project responded by adjusting grants, rerouting markets, and introducing resilience measures while coordinating closely with humanitarian and development partners. As conditions shifted, programming expanded into humanitarian market support.
 
 Across our work, grants help strengthen the local organizations and institutions that remain long after international programs have closed, while also providing a flexible mechanism for delivering support in complex environments.
+
+> Humanitarian action is evolving rapidly. DAI experts share lessons from the field on new approaches to partnership, local leadership, and operational delivery as the sector responds to rising humanitarian need, constrained resources, and increasing geopolitical complexity. [Read our latest insights](https://dai-global-developments.com/tags/humanitarian-aid/).
