@@ -63,4 +63,4 @@ Protracted crises require grant management approaches that can adapt to changing
 
 Across our work, grants help strengthen the local organizations and institutions that remain long after international programs have closed, while also providing a flexible mechanism for delivering support in complex environments.
 
-> Humanitarian action is evolving rapidly. DAI experts share lessons from the field on new approaches to partnership, local leadership, and operational delivery as the sector responds to rising humanitarian need, constrained resources, and increasing geopolitical complexity. [Read our latest insights](https://dai-global-developments.com/tags/humanitarian-aid/).
+> [Read the latest insights](https://dai-global-developments.com/tags/humanitarian-aid/) from DAI experts sharing lessons from the field on new approaches to partnership, local leadership, and operational delivery as the sector responds to rising humanitarian need, constrained resources, and increasing geopolitical complexity.
