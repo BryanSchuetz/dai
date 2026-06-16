@@ -45,7 +45,7 @@ The most effective humanitarian response begins before disaster strikes. Investm
 
 DAI supports countries to strengthen pre-disaster planning and financing arrangements, including through the DAI-managed [Centre for Disaster Protection](https://www.dai.com/our-work/projects/worldwide-centre-for-disaster-protection), contributing to the continued growth of pre-arranged disaster finance globally. 
 
-In Nepal, the [Improved Disaster Risk Management Project (Tayar)](https://www.dai.com/our-work/projects/tayar-nepal-improved-disaster-risk-management-project-tayar) applied these principles at both national and local levels by supporting the establishment of a National Disaster Training Academy, strengthening early warning systems and working with municipalities on risk-sensitive land use planning and building retrofitting.
+In Nepal, the [Improved Disaster Risk Management Project (Tayar)](https://www.dai.com/our-work/projects/tayar-nepal-improved-disaster-risk-management-project-tayar) applied these principles at both national and local levels by supporting the establishment of a National Disaster Training Academy, strengthening early warning systems, and working with municipalities on risk-sensitive land use planning and building retrofitting.
 
 ![Tayer Nepal Cash](/uploads/tayer-nepal-cash.jpg)
 
