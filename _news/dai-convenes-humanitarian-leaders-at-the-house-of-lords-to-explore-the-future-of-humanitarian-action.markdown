@@ -2,7 +2,7 @@
 title: DAI Convenes Humanitarian Leaders at the House of Lords to Explore the Future
   of Humanitarian Action
 date: 2026-06-18 10:50:00 Z
-is_featured: true
+is_featured: false
 solutions:
 - Fragile States
 regions: Worldwide
@@ -14,7 +14,7 @@ summary: As humanitarian needs continue to rise amid tighter resources and incre
 social-image: "/uploads/IMG_20260616_174634.jpg"
 ---
 
-As humanitarian needs continue to rise amid tighter resources and increasingly complex operating environments, there is growing debate about how humanitarian action must evolve. Last night, DAI convened leaders from across government, humanitarian organisations, civil society, and the private sector at the House of Lords to explore what these changes mean in practice.
+As humanitarian needs continue to rise amid tighter resources and increasingly complex operating environments, there is growing debate about how humanitarian action must evolve. On Tuesday, DAI convened leaders from across government, humanitarian organisations, civil society, and the private sector at the House of Lords to explore what these changes mean in practice.
 
 The discussion raised important questions about local leadership, partnership, accountability, and the role of international actors in an increasingly complex world.
 
