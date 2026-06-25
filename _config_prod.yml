@@ -17,7 +17,7 @@ collections:
     permalink: "/who-we-are/leadership/:path"
   members:
     title: Members
-    output: false
+    output: true
     permalink: "/who-we-are/board/:path"
   news:
     title: News
