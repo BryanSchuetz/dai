@@ -1,7 +1,9 @@
 ---
 title: Gail P. Steinel
 date: 2016-01-21 22:18:00 Z
-summary: Gail Steinel is the founder of Executive Advisors, which provides consulting services to chief executives and senior officers and delivers leadership seminars and speeches to various organizations.
+summary: Gail Steinel is the founder of Executive Advisors, which provides consulting
+  services to chief executives and senior officers and delivers leadership seminars
+  and speeches to various organizations.
 image: "/uploads/gail-steinel.png"
 sort-order: 10
 layout: leaders

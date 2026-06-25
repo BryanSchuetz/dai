@@ -1,7 +1,8 @@
 ---
 title: Keith Butcher
 date: 2023-09-19 17:53:00 Z
-summary: Keith Butcher is a co-founder of both ButcherJoseph & Co. and Mosaic Capital Partners.
+summary: Keith Butcher is a co-founder of both ButcherJoseph & Co. and Mosaic Capital
+  Partners.
 image: "/uploads/keith-butcher-revised.png"
 sort-order: 9
 layout: leaders
