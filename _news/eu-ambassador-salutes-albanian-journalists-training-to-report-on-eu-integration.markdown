@@ -1,6 +1,17 @@
 ---
 title: EU Ambassador Salutes Albanian Journalists Training to Report on EU Integration
 date: 2026-06-26 13:09:00 Z
+solutions:
+- Governance
+regions: Eastern Europe and Central Asia
+projects: Albania—European Union Integration Support Facility (EUIS)
+clients: European Union
+summary: As Albania continues its preparations to join the European Union, 20 journalists
+  covering politics, integration, institutions, and socio-economic affairs in Albania—together
+  with a representative of the Media and Information Agency—were this week certified
+  in “Reporting Effectively on the EU Integration Process.”
+social-image: "/uploads/Albania%20EUIS%20Event.jpeg"
+country: Albania
 ---
 
 As Albania continues its preparations to join the European Union, 20 journalists covering politics, integration, institutions, and socio-economic affairs in Albania—together with a representative of the Media and Information Agency—were this week certified in “Reporting Effectively on the EU Integration Process.”
