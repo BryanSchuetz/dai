@@ -23,7 +23,7 @@ promos:
   link: https://www.mdpi.com/2079-6382/11/2/247
 ---
 
-The [Fleming Fund](https://www.flemingfund.org/) is is a U.K. Department of Health and Social Care initiative to help low- and middle-income countries fight antimicrobial resistance (AMR).
+The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care initiative to help low- and middle-income countries fight antimicrobial resistance (AMR).
 
 AMR is a leading cause of death globally. [Research shows](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00087-3/fulltext) that 1.27 million deaths annually are attributable to drug resistance, a total higher than that attributed to HIV/AIDS or malaria. DAI’s Fleming Fund program in Bangladesh was a collaboration with the Government of Bangladesh designed to strengthen systems using a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As a global leader in this “One Health” approach, DAI supported Bangladesh to become a leader in combating AMR and a model for better management of antimicrobials in human and animal populations. 
 
