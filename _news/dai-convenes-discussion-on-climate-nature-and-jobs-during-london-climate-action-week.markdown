@@ -30,6 +30,8 @@ Marianne Teoh, who leads the [Climate and Ocean Adaptation and Sustainable Trans
 
 James Gordon, Biodiversity Lead for [the Global Centre on Biodiversity for Climate](https://www.gcbc.org.uk/) (GCBC), reflected on how biodiversity investments can generate lasting economic opportunities when they are designed alongside local priorities. Drawing on examples from GCBC’s grants portfolio, he highlighted how innovation, adaptive delivery, and locally driven approaches can strengthen livelihoods while generating evidence to inform future programming.
 
+![IMG_20260623_180949.jpg](/uploads/IMG_20260623_180949.jpg)
+
 A consistent message emerged from these discussions: while the challenges are many—from financing adaptation and building international consensus for ambitious climate commitments to ensuring infrastructure and institutions can respond to changing climate risks—there are practical opportunities to accelerate progress. Strong governance, locally led approaches, partnerships across public and private actors, and flexible delivery models were identified as key factors for translating climate ambition into resilient livelihoods, stronger economies, and long-term development outcomes.
 
 Audience discussion expanded these themes further, exploring just transition, the challenge of supporting smaller local organizations to access finance and investment, and how monitoring, evaluation, and learning systems can better balance accountability with continuous learning and adaptation.
