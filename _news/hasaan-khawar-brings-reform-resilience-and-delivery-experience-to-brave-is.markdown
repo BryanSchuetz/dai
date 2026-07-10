@@ -1,6 +1,18 @@
 ---
 title: Hasaan Khawar Brings Reform, Resilience, and Delivery Experience to BRAVE-IS
 date: 2026-07-10 10:42:00 Z
+solutions:
+- Climate
+regions: Asia and the Pacific
+projects: Pakistan—Building Resilience and Addressing Vulnerability to Emergencies
+  (BRAVE) Institutional Strengthening
+clients: Foreign, Commonwealth & Development Office
+summary: Hasaan Khawar has joined DAI to lead the Institutional Strengthening component
+  of the Building Resilience and Addressing Vulnerability to Emergencies in Pakistan
+  project (BRAVE-IS), which supports Pakistan’s federal and subnational governments
+  to better anticipate, plan for, finance, and respond to climate-related shocks.
+social-image: "/uploads/Hasaan%20Khawar.jpeg"
+country: Pakistan
 ---
 
 ![Hasaan Khawar.jpeg](/uploads/Hasaan%20Khawar.jpeg){: .float-left}
