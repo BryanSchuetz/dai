@@ -2,8 +2,8 @@
 title: Eric G. Postel
 date: 2025-01-24 02:10:00 Z
 job-title: Senior Vice President
-summary: Eric Postel is a Senior Vice President who leads various client-related initiatives for the company.
-
+summary: Eric Postel is a Senior Vice President who leads various client-related initiatives
+  for the company.
 image: "/uploads/Postel%20leadership.jpg"
 ---
 

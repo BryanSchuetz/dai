@@ -1,6 +1,7 @@
 ---
 title: Global Offices
 permalink: "/who-we-are/global-reach/united-kingdom/contacts/management"
+published: false
 redirect_from:
 - "/who-we-are/global-reach/dai-europe/contacts/management-team"
 summary: Since 1970, we have worked in more than 150 countries, at any one time we
@@ -9,7 +10,6 @@ summary: Since 1970, we have worked in more than 150 countries, at any one time 
   the United States.
 hero: true
 layout: node
-published: false
 ---
 
 # United Kingdom Management Team
