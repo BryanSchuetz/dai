@@ -16,7 +16,7 @@ country: Pakistan
 ---
 
 ![Hasaan Khawar.jpeg](/uploads/Hasaan%20Khawar.jpeg){: .float-left}
-Hasaan Khawar has joined DAI to lead the Institutional Strengthening component of the Building Resilience and Addressing Vulnerability to Emergencies in Pakistan project (BRAVE-IS). 
+Hasaan Khawar has joined DAI to lead the Institutional Strengthening component of the [Building Resilience and Addressing Vulnerability to Emergencies in Pakistan](https://www.dai.com/our-work/projects/pakistan-building-resilience-and-addressing-vulnerability-to-emergencies-brave-institutional-strengthening) project (BRAVE-IS). 
 
 Funded by the U.K. Foreign, Commonwealth & Development Office (FCDO), BRAVE-IS supports Pakistan’s federal and subnational governments to better anticipate, plan for, finance, and respond to climate-related shocks and stresses by strengthening systems across federal, provincial, and district tiers.
 
