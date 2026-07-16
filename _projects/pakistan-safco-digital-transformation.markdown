@@ -19,17 +19,17 @@ Access to finance for micro, small, and medium-sized enterprises (MSMEs) remains
 
 DAI supported SAFCO's digital acceleration under the  [Digital Transformation Technical Assistance Facility](https://www.dai.com/our-work/projects/worldwide-digital-transformation-technical-assistance-facility-framework-dtx-taf), focusing on four priorities: reducing loan processing time, fostering a data-driven culture, building digital capacity, and strengthening cybersecurity. 
 
-SAFCO has identified four key actions to accelerate its digital transformation and better serve MSME customers: 
-* Reduce loan processing time from the current 15 days through process automation and streamlined workflows. 
-* Foster a data-driven culture by investing in data systems and enhancing staff data literacy. 
-* Build digital capacity across the organization to fully leverage available technology. 
-* Strengthen cybersecurity to ensure resilience and reliability.
+Most of SAFCO’s customers are women, alongside farmers and families across Sindh’s rural and underserved communities. A faster, largely digital loan journey means fewer repeated branch visits and quicker, more convenient access to finance, while the automated scorecard for assessing loan applications ensures every applicant is assessed fairly and objectively. 
+
+For women entrepreneurs and rural borrowers who face the greatest barriers to formal finance, these changes make credit more accessible and responsive—reinforcing SAFCO’s customer-first mission and its standing as a trusted partner in the communities it serves.
 
 ![5300227585_328a8bafc7_o.jpg](/uploads/5300227585_328a8bafc7_o.jpg)
 
 ## Sample Activities
 
-* Conduct a comprehensive digital gap assessment to evaluate SAFCO’s current technology landscape, digitization maturity, and cybersecurity readiness to identify vulnerabilities and provide mitigation strategies that align with global standards.
-* Develop actionable recommendations aligned with international best practices to enhance operational efficiency, security, and scalability.
-* Deliver digital capacity-building training for SAFCO teams to strengthen internal capabilities in using digital tools and data systems and enable informed decision-making through improved data literacy and usage across departments.
-* Monitor progress and adapt interventions throughout the project to ensure sustainable digital transformation and long-term impact, strengthening SAFCO’s position as a trusted, leading MFI in Pakistan.
+* Conducted a digital gap assessment of SAFCO’s technology, digitization maturity, and cybersecurity readiness, with mitigation strategies aligned to global standards.
+* Automated the end-to-end loan cycle—digitizing customer onboarding, lead capture, and multistage credit appraisal to cut turnaround time and standardize workflows across branches.
+* Introduced a digital scorecard model that automates credit decisions—replacing manual assessment with standardized, system-generated results to improve consistency and reduce human error.
+* Built data marts and dashboards to centralize reporting and equip staff with self-service insights for decision making.
+* Strengthened cybersecurity controls to close identified gaps and improve resilience.
+* Delivered digital capacity-building training to enhance staff data literacy and digital skills.
