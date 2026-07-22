@@ -7,7 +7,7 @@ tags:
 summary: 'Wala Malawi supports the industrialization and diversification of the Malawian
   electricity sector by implementing reforms and promoting private-sector investments. '
 start: 2022
-end: 2026
+end: 2027
 client: European Union
 solutions:
 - Climate
