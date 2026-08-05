@@ -21,6 +21,8 @@ Cutting across the FCDO Ethiopia portfolio, EthiopiAI will provide strategic sup
 
 The FC Africa consortium also includes the Tony Blair Institute, the Ethiopian Artificial Intelligence Institute, and Kagool. In concert with FCDO country teams, government counterparts, and local stakeholders, DAI’s role is to coordinate strategic support, communications, learning, and policy engagement, while also providing financial oversight, risk management, safeguarding, and monitoring, evaluation, and learning services.
 
+![EthiopiAI generic photo.jpg](/uploads/EthiopiAI%20generic%20photo.jpg)
+
 ## Sample Activities
 
 * Participate in solution co-design workshops with ministries and end users.
