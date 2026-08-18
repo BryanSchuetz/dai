@@ -23,6 +23,9 @@ promos:
   link: https://dai-global-developments.com/articles/adapting-the-agent-model-for-clean-energy-access-in-ugandas-refugee-settlements/?ref=pubs.ghost.io
 - title: "**Blog:** Adapting for Impact: How Last-Mile Agribusiness Models Evolved"
   link: https://dai-global-developments.com/articles/adapting-for-impact-how-last-mile-agribusiness-models-evolved-to-serve-refugees-and-host-communities-in-uganda/
+- title: "**Blog:** Market Facilitation with Local Partners: Lessons from SMILES’
+    Partnership with Okeba"
+  link: https://dai-global-developments.com/articles/market-facilitation-with-local-partners-lessons-from-smiles-partnership-with-okeba/
 ---
 
 The IKEA Foundation is one of the world’s largest private funders committed to helping refugees achieve economic self-reliance and sustainable livelihoods.
