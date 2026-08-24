@@ -19,7 +19,7 @@ layout: solution
                 <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
                     <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be announced soon. [Sign up here](https://www.confirmsubscription.com/h/r/ACFA156B7601F0CF2540EF23F30FEDED) to be the first to find out about upcoming Masterclasses and all the latest insights on local content and supply chain optimization from our Masterclass trainers and DAI experts.</h3>
 
-                    <p style="margin-top: 1rem;">Sign up <a href="https://confirmsubscription.com/h/r/ACFA156B7601F0CF2540EF23F30FEDED">to be the first to find out about upcoming Masterclasses and all the latest insights on local content and supply chain optimization from our Masterclass trainers and DAI experts</a></p>
+                    <p style="margin-top: 1rem;"<a href="https://confirmsubscription.com/h/r/ACFA156B7601F0CF2540EF23F30FEDED">Sign up to be the first to find out about upcoming Masterclasses.</a></p>
                 </div>
             </div>
 
