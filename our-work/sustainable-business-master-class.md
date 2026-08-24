@@ -17,9 +17,9 @@ layout: solution
             <div class="column">
                 <p>The DAI Local Content Masterclass is a three-day, highly practical program designed for professionals across sectors like energy, infrastructure, and development. It equips participants with tools to drive sustainable local development, navigate evolving regulatory landscapes, and implement impactful local content strategies. Through real-world case studies and interactive sessions, you'll learn how to design procurement plans, assess supply chain gaps, and apply data-driven methods to deliver measurable local benefits. Download our <a href="https://www.dai.com/news/dai-publishes-insight-paper-on-local-content-and-business-growth">latest insight paper on local content and business growth</a>.</p>
                 <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
-                    <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be held in London, U.K. on April 8–10, 2026. <a href="https://www.eventbrite.co.uk/e/dai-local-content-masterclass-2026-tickets-1975809289773">Book your place now</a> or <a href="mailto: training@dai.com">contact us</a> to plan your participation.</h3>
+                    <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">The next Masterclass will be announced soon. [Sign up here](https://confirmsubscription.com/h/r/ACFA156B7601F0CF2540EF23F30FEDED) to be the first to find out about upcoming Masterclasses and all the latest insights on local content and supply chain optimization from our Masterclass trainers and DAI experts.</h3>
 
-                    <p style="margin-top: 1rem;">At the end of the course, participants receive a certificate confirming that they have completed this training provided by a British Accreditation Council-accredited short-course provider.</p>
+                    <p style="margin-top: 1rem;">At the end of the course, participants receive a certificate confirming that they have completed this training.</p>
                 </div>
             </div>
 
@@ -65,7 +65,7 @@ layout: solution
 {% include _our-work/sbg-carousel.html %}
 
 ## What's Included
-The course fee covers the three days of expert training, training materials such as a participant course pack, light refreshments and drinks throughout the course, and a certificate confirming the participant has completed this training provided by a British Accreditation Council-accredited short-course provider. 
+The course fee covers the three days of expert training, training materials such as a participant course pack, light refreshments and drinks throughout the course, and a certificate confirming the participant has completed this training. 
 
 ## DAI's globally recognized Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
 
