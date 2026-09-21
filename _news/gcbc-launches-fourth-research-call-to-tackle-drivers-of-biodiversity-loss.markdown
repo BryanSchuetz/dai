@@ -13,7 +13,7 @@ social-image: "/uploads/Rainforest_small.jpg"
 
 Some of the biggest opportunities for protecting biodiversity lie in understanding the systems shaping what happens to nature.
 
-The Global Centre on Biodiversity for Climate (GCBC) has announced the theme for its fourth Research Grant Competition (RGC4): “Enabling transformative change: addressing drivers of biodiversity loss in three critical regions.”
+The [Global Centre on Biodiversity for Climate (GCBC)](https://www.dai.com/our-work/projects/worldwide-global-centre-on-biodiversity-for-climate) has announced the theme for its fourth Research Grant Competition (RGC4): “Enabling transformative change: addressing drivers of biodiversity loss in three critical regions.”
 
 The new call will focus on the Amazon, Congo Basin, and Coral Triangle, three globally significant regions where biodiversity loss, ecosystem collapse, and national security are closely connected. It will support research into the structural and systemic forces driving ecosystem loss and how evidence can inform practical responses. 
 
