@@ -11,7 +11,7 @@ summary: The Global Centre on Biodiversity for Climate (GCBC) this week announce
 social-image: "/uploads/GCBC%20RGC3.jpg"
 ---
 
-The Global Centre on Biodiversity for Climate (GCBC) this week announced the award of 12 new research projects through its third Research Grant Competition (RGC3), representing a total investment of £10 million.
+The [Global Centre on Biodiversity for Climate (GCBC)](https://www.dai.com/our-work/projects/worldwide-global-centre-on-biodiversity-for-climate) this week announced the award of 12 new research projects through its third Research Grant Competition (RGC3), representing a total investment of £10 million.
 
 The 12 new projects will support researchers, communities, policy makers, and practitioners across Sub-Saharan Africa, Southeast Asia, Latin America, and the Caribbean to develop and test solutions that deliver benefits for people, nature, and climate.
 
