@@ -8,7 +8,7 @@ summary: 'The Green Gateway promotes net zero and climate-resilient financial sy
   that ultimately will enable the private sector in deploying climate-related and
   environmentally sustainable investments. '
 start: 2023
-end: 2026
+end: 2028
 client: European Investment Bank
 solutions:
 - Climate
