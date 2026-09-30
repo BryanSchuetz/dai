@@ -40,7 +40,7 @@ layout: default
 <p><strong>Brussels, Belgium</strong>
   <br>
   DAI Global Belgium SRL<br>
-  Avenue de Tervueren 16B, b20<br>
+  Avenue de Tervueren 168, b20<br>
   1150 Wolouwé-saint-Pierre<br>
   Tel: 0032 2 7420290<br></p>
 
