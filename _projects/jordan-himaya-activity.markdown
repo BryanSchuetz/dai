@@ -13,11 +13,13 @@ regions: Middle East and North Africa
 country: Jordan
 ---
 
-Female Jordanian survivors of violence face a multitude of challenges when going through the protection system. Survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department due to fear of familial disapproval and social repercussions. Those who have gone through the system have faced questioning and little protection, leading to revictimization and uncertainty about seeking resolutions. 
+Female Jordanian survivors of violence face numerous challenges when going through the protection system. Fearing familial disapproval and other social repercussions, survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department. Those who have gone through the system have faced questioning and inadequate protection, leading to revictimization and uncertainty about seeking resolution.
 
-Service providers and stakeholders from across the Jordanian protection system require improved survivor-centered service delivery methods, better infrastructure, and innovation in violence-against-women response systems. 
+Service providers and stakeholders from across the Jordanian protection system require survivor-centered service delivery methods, better infrastructure, and innovation in violence-against-women response systems.
 
-The *Himaya* (Arabic for protection) Activity, funded by the U.S. Agency for International Development (USAID), is committed to advancing human rights and equitable opportunities by improving the quality and accessibility of services for violence-against-women survivors in Jordan. Himaya works closely with the Jordanian National Protection Team to advance the national protection priorities by building the capacity of service provider institutions and strengthening legislative frameworks for providing protection and responding to violence. Program interventions adopt a survivor-centered and systems-strengthening approach, integrating the needs, experiences, and views into the framework. Himaya designs and implements interventions collaboratively, ensuring that improvements in service delivery inform policy development while legislative advancements reinforce the capacities of service providers, creating a cohesive and dynamic impact on survivor support systems.
+The *Himaya* (Arabic for protection) Activity, funded by the U.S. Department of State, is committed to advancing human rights and improving the quality and accessibility of services for violence-against-women survivors in Jordan. Himaya works closely with the Jordanian National Protection Team to advance the national protection priorities by building the capacity of service provider institutions and strengthening legislative frameworks for providing protection and responding to violence. 
+
+Program interventions adopt a survivor-centered and systems-strengthening approach, integrating the needs, experiences, and views of survivors into the framework. Himaya designs and implements interventions collaboratively, ensuring that improvements in service delivery inform policy development while legislative advancements reinforce the capacities of service providers.
 
 ![AWEF workshop.JPG](/uploads/AWEF%20workshop.JPG)
 
@@ -25,6 +27,6 @@ The *Himaya* (Arabic for protection) Activity, funded by the U.S. Agency for Int
 
 * Strengthen the institutional capacity of the Family Protection and Juvenile Department to receive and manage cases of violence.
 * Improve the capacity of Ministry of Social Development units, shelters, and civil society actors to refer cases and provide essential services.
-* Bolster the institutional capacity of healthcare service providers and the health system to identify cases and refer or provide essential, safe, and confidential health services related to violence. 
+* Bolster the institutional capacity of healthcare service providers and the health system to identify cases and refer or provide essential, safe, and confidential health services related to violence.
 * Strengthen the institutional capacity of judicial institutions to manage and prosecute cases of violence.
-* Improve the infrastructure of violence-against-women survivors’ journey by improving the availability of services and supporting the legislative framework. 
+* Improve the infrastructure of violence-against-women survivors’ journey by improving the availability of services and supporting the legislative framework.
