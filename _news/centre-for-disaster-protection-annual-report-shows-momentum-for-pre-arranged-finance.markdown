@@ -2,6 +2,7 @@
 title: Centre for Disaster Protection Annual Report Shows Momentum for Pre-Arranged
   Finance
 date: 2026-10-08 06:00:00 Z
+social-image: "/uploads/hurricane.jpg"
 ---
 
 The newly published Annual Report 2025–26 from the Centre for Disaster Protection highlights a year of growing momentum for planning and financing disaster response before shocks occur.
