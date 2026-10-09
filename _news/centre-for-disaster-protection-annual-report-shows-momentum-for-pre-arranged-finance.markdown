@@ -1,10 +1,12 @@
 ---
 title: Centre for Disaster Protection Annual Report Shows Momentum for Pre-Arranged
   Finance
-date: 2026-10-09 14:32:00 Z
+date: 2026-10-08 06:00:00 Z
 ---
 
 The newly published Annual Report 2025–26 from the Centre for Disaster Protection highlights a year of growing momentum for planning and financing disaster response before shocks occur.
+
+![hurricane.jpg](/uploads/hurricane.jpg)
 
 More countries than ever are putting plans in place before disasters happen, while pre-arranged financing has continued to expand. Coverage reached a record $9 billion in 2024, and payouts have more than doubled since 2023, the Centre reports.
 
