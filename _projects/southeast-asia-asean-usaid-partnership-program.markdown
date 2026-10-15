@@ -18,7 +18,7 @@ The U.S.-ASEAN Partnership Program is a five-year initiative that strengthens th
 
 Based at the ASEAN Secretariat in Jakarta, the Partnership Program works through a consultative approach with the ASEAN Secretariat and ASEAN Member States via relevant ASEAN bodies. Annual work plans are reviewed by the ASEAN Project Management Team and approved by the Project Steering Committee, ensuring that activities reflect shared ASEAN-U.S. priorities and commitments. Through this approach, the program facilitates trade and investment, expands regional digital economic opportunities, supports responsible critical minerals development, and strengthens cooperation on transnational security challenges.
 
-![ASEAN-81ac8d.jpg](![ASEAN Partnership.png](/uploads/ASEAN%20Partnership.png))
+![ASEAN Partnership.png](/uploads/ASEAN%20Partnership.png)
 
 ## Sample Activities
 
