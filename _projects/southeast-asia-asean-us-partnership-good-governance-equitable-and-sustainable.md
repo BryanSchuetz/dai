@@ -1,5 +1,5 @@
 ---
-title: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable
+title: Southeast Asia—U.S.-ASEAN Partnership for Good Governance, Equitable and Sustainable
   Development and Security (U.S.-ASEAN PROGRESS)
 date: 2016-01-21 22:40:00 Z
 summary: The Association of Southeast Asian Nations (ASEAN) sought to promote equitable
@@ -28,7 +28,7 @@ Southeast Asia has transformed from a region of political strife and poverty to 
 
 The ASEAN-U.S. Partnership for Good Governance, Equitable, and Sustainable Development and Security (PROGRESS) project [seized this momentum](https://asean.usmission.gov/asean-and-u-s-celebrate-ongoing-partnership-at-usaid-progress-event/) and converged with the renewed U.S. focus on the region as a strategic economic and geopolitical partner. For ASEAN to achieve its own integration agenda and be a dynamic U.S. partner in regional and transnational challenges such as the fight against terrorism and the promotion of good governance and human rights, ASEAN must have the institutional capability to muster and enhance its ability for collective action. PROGRESS focused on strengthening institutions to advance ASEAN’s vision.
 
-![ASEAN Progress.jpg](/uploads/ASEAN%20Progress.jpg)
+![ASEAN Progress.jpg](![ASEAN Partnership.png](/uploads/ASEAN%20Partnership.png))
 
 ### Sample Activities
 
