@@ -30,8 +30,11 @@ The Facility works with Groupe Société Générale, Credit du Maroc, Groupe Ban
 
 ## Select Results
 
-* Supported four financial institutions to on-lend €5.3 million to 19 approved energy efficiency projects.
-* Conducted eligibility checks of potential projects within the pipeline, having conducted more than 60 assessments to date.
-* Provided support to more than 190 potential sub-borrowers in meeting investment requirements.
-* Trained more than 450 loan offices in the financial institutions on green economy investments, climate adaptation investments, and facility requirements.
-* Raised awareness of energy efficiency in the small and midsize business sector by supporting the financial institutions in marketing through industry workshops and events, having reached more than 14,000 companies.
+* Extended €65.2 million in green finance through participating financial institutions to support investments in the green economy transition.
+* Mobilized an additional €80.2 million in private finance for green economy investments.
+* Financed 208 sub-projects, helping businesses invest in greener, more competitive technologies.
+* Reduced emissions by 43,518 tonnes of carbon dioxide equivalent (CO₂e) annually.
+* Delivered annual energy savings of 240,763 gigajoules (GJ) through energy-efficiency investments.
+* Produced 192,584 GJ of renewable energy annually through project-supported investments.
+* Reached 15,748 companies through marketing activities, expanding awareness of green-financing opportunities.
+* Trained 510 loan officers (193 women) across participating financial institutions, strengthening the sector's capacity to assess and finance green investments.
