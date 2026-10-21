@@ -32,3 +32,16 @@ GEFF Morocco II is co-financed by the European Union and the Green Climate Fund 
 * Support the participating financial institutions in developing loan products that specifically target the client base.
 * Support the sub-project lifecycle by contributing to the origination, preparation and financing of building-level energy efficiency sub-projects, including conducting eligibility assessments. 
 * Implement an Action Plan based on the country-level baseline assessment on women's awareness of risk from climate impacts, differentiated needs and coping strategies, as well as obstacles to access finance for green technologies for both women and men.
+
+### Select Results
+
+* Mobilized €148.7 million in green-economy lending through 235 sub-loans by partner financial institutions.
+* Leveraged an additional €176.6 million in private finance for investments supporting the green transition.
+* Channeled €38 million into climate-adaptation investments.
+* Reduced carbon dioxide equivalent (CO₂e) emissions by 108,387 tonnes annually, exceeding the target by 30 percent.
+* Saved 265 gigawatt-hours of energy annually, surpassing the target by 63 percent.
+* Installed 41 MW of renewable-energy capacity, exceeding the target by 37 percent.
+* Added 17.5 MW of renewable electricity capacity.
+* Financed 235 sub-loans supporting green-economy transition investments.
+* Reached more than 1,900 businesses and potential sub-borrowers through 20 marketing and awareness-raising activities.
+* Trained more than 500 loan officers and senior bank staff to support gender-responsive green investments, identify eligible technologies, and monitor disbursement progress.
