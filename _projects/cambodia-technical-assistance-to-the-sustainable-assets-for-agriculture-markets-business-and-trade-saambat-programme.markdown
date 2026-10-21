@@ -5,10 +5,9 @@ date: 2022-10-25 09:11:00 Z
 tags:
 - Europe
 - European Union
-summary: The Technical Assistance to the Sustainable Assets for Agriculture Markets,
-  Business and Trade (SAAMBAT) program works to reduce multidimensional poverty by
-  developing a better connected, more resilient, and more equitable rural economy
-  in Cambodia.
+summary: Poor rural road infrastructure has constrained growth in Cambodia’s agriculture,
+  tourism, manufacturing, and construction sectors, while limiting rural communities’
+  access to education, health care, and markets.
 start: 2022
 end: 2025
 client: European Investment Bank
@@ -20,14 +19,18 @@ regions: Asia and the Pacific
 country: Cambodia
 ---
 
-Low-quality road infrastructure has limited the growth of the agriculture, tourism, manufacturing, and construction sectors, and significantly contributed to high poverty levels in rural Cambodia. Lack of access to roads has trapped many rural communities in poverty, as residents do not have access to education, healthcare, or markets. These regions are also highly vulnerable to natural disasters due to changes in climate, heightening the vulnerability of these communities. 
+Poor rural road infrastructure has constrained growth in Cambodia’s agriculture, tourism, manufacturing, and construction sectors, while limiting rural communities’ access to education, health care, and markets. Climate-related hazards add to the challenges facing these communities.
 
-The Technical Assistance to the Sustainable Assets for Agriculture Markets, Business and Trade (SAAMBAT) program in Cambodia aims to reduce multidimensional poverty by developing a better connected, more climate resilient, and more equitable rural economy in Cambodia. It looks to improve connectivity, reduce production and marketing costs, increase private sector investment, and boost the productivity of farmers, focusing on value chain infrastructure and in particular rural road infrastructure (component 1) and skills, technology, and enterprise (component 2).
+The Technical Assistance for the Sustainable Assets for Agricultural Markets, Business, and Trade (SAAMBAT) Programme aimed to help reduce poverty by supporting a better-connected, more climate-resilient, and more equitable rural economy. It focused on rural road safety, environmental and social safeguards, and climate change resilience and adaptation.
 
-The DAI-led consortium (with partners Gopa Infra and TAS Euro) supports component 1 and works with the Ministry of Rural Development with capacity-building activities for rural road rehabilitation.
+The DAI-led consortium, with partners GOPA Infra and TAS Euro, supported SAAMBAT by working with Cambodia’s Ministry of Rural Development (MRD) to strengthen its capacity to plan and manage rural road investments. The work included guidance, practical manuals, and training for MRD and provincial department staff.
 
-## Sample Activities
 
-* Develop a road safety plan for Cambodia for the next decade.
-* Provide training and guidance on road safety awareness, environmental and social safeguarding, and climate adaptation for rural roads. 
-* Produce manuals, procedures, and guidelines for rural road infrastructure and safety.
+### Select Results
+
+* Trained 138 MRD and provincial rural development staff in safe rural road design through workshops at four regional centers, reaching staff from all 25 provinces.
+* Delivered two four-day workshops on environmental and social safeguards and climate adaptation for 84 MRD, project management, and provincial staff from all 25 provinces.
+* Developed a Rural Road Safety Plan and a Safe Rural Road Design Manual to guide the MRD’s work on rural road safety.
+* Created practical guidance on environmental and social safeguards and climate resilience with the MRD for use by provincial and central staff.
+* Assessed 37 kilometers of three rural roads through a pilot safety assessment and recommended a more suitable inspection-based approach for rural roads.
+* Prepared guidance frameworks and technical manuals on environmental and social safeguards and climate resilience, in English and Khmer.
