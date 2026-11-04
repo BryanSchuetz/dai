@@ -28,7 +28,7 @@ The second component works directly with commercial banks, development banks, mi
 
 The project is funded by the Greening Financial Systems Fund. This fund was established as a standalone, multidonor fund at the end of 2025, after initially being managed under the International Climate Initiative Fund, whose first contributors are Germany (Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety) and Luxembourg (Ministry of the Environment, Climate and Biodiversity). 
 
-!![Devs -- Jordan Energy wind.jpg](/uploads/Devs%20--%20Jordan%20Energy%20wind.jpg)
+![Devs -- Jordan Energy wind.jpg](/uploads/Devs%20--%20Jordan%20Energy%20wind.jpg)
 
 ## Sample Activities 
 
