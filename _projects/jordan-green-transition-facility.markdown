@@ -1,6 +1,9 @@
 ---
 title: Jordan—Green Transition Facility
 date: 2026-11-04 13:49:00 Z
+tags:
+- Europe
+- European Union
 summary: 'The Green Transition Facility combines four mutually reinforcing elements
   to help Jordan’s financial institutions expand green lending while enabling Jordanian
   businesses to invest in climate mitigation and adaptation. '
