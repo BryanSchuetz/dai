@@ -18,19 +18,22 @@ regions: Worldwide
 country: Worldwide
 ---
 
-The window of opportunity to meet the [1.5°C Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) goal is rapidly closing. Recent trends indicate that the gap between where we are and where we should be is widening. Through their [Nationally Determined Contributions](https://www.un.org/en/climatechange/all-about-ndcs#:~:text=Simply%20put%2C%20an%20NDC%2C%20or,update%20it%20every%20five%20years.) (NDCs), countries communicate actions they will take to reduce their greenhouse gas emissions. However, commitments themselves are not enough. Due to the limited availability of funds for climate finance in developing countries, it is necessary to expand climate finance for zero-carbon investments domestically and through international cooperation. 
+The transition to low-carbon, climate-resilient economies will require a substantial increase in climate finance, particularly in developing and emerging economies. These countries are estimated to need approximately [$2.8 trillion annually by 2030](https://blogs.worldbank.org/en/voices/5-ways-to-unlock-private-capital-to-tackle-climate-change?utm_source=chatgpt.com), yet current climate investment in emerging markets falls far short of that figure. Mobilizing private capital is therefore essential, but investment is frequently constrained by limited institutional capacity, inadequate regulatory frameworks, insufficient climate risk information, and a shortage of bankable green projects. 
 
-The Green Gateway promotes net zero and climate-resilient financial systems that ultimately will enable the private sector in deploying climate-related and environmentally sustainable investments. 
+The European Investment Bank (EIB) Greening Financial Systems Technical Assistance Programme helps address these constraints by assisting central banks, financial supervisory authorities, and financial intermediaries to create an enabling environment for green investment. DAI supports the EIB in delivering tailored, demand-driven assistance in up to 20 countries across Africa, Asia, the Middle East, Eastern Europe, and the Western Balkans. 
 
-DAI supports the European Investment Bank in establishing the conditions and local capacity conducive to unlocking green investments in eight to 10 countries in Africa, the Middle East, the Caribbean, Eastern Europe, and the Western Balkans.   
+The project has two complementary components. The first supports central banks and financial supervisors in strengthening climate-risk management and establishing the policies, regulations, taxonomies, disclosure standards, and supervisory practices needed to guide financial systems toward climate-resilient development. It also helps institutions translate these frameworks into practice through transition planning, climate stress testing, capacity building, and knowledge exchange.  
 
-We provide capacity building and support to central banks and supervisors introducing best lending practices, procedures, processes, and products for green financing. 
+The second component works directly with commercial banks, development banks, microfinance institutions, and other financial intermediaries. It helps them integrate climate considerations into their strategies and operations, improve climate-risk and impact reporting, develop green finance products, originate viable investments, and build portfolios that channel more capital toward climate action and environmentally sustainable development. 
 
-![GreenGateway (3).JPG](/uploads/GreenGateway%20(3).JPG)
+The project is funded by the Greening Financial Systems Fund. This fund was established as a standalone, multidonor fund at the end of 2025, after initially being managed under the International Climate Initiative Fund, whose first contributors are Germany (Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety) and Luxembourg (Ministry of the Environment, Climate and Biodiversity). 
+
+!![Devs -- Jordan Energy wind.jpg](/uploads/Devs%20--%20Jordan%20Energy%20wind.jpg)
 
 ## Sample Activities 
 
-* Support the engagement and selection of countries and operations.  
-* Facilitate contacts between the client and stakeholders in countries of operation, including financial institutions.
-* Contribute to the visibility of the project.
-* Measure, report, and contribute to the project's visibility.
+* Advise central banks and supervisors on climate-risk assessment, regulation, supervision, and financial sector transition planning. 
+* Strengthen climate-related taxonomies, disclosure standards, stress-testing approaches, and reporting systems. 
+* Help financial institutions develop green finance strategies, products, pipelines, and risk-management tools. 
+* Build institutional capacity through training, peer learning, knowledge exchange, and operational support. 
+* Assess country needs and design and implement tailored technical assistance operations.
