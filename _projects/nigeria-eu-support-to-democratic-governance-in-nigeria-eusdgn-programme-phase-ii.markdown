@@ -8,7 +8,7 @@ summary: DAI supports the Independent National Electoral Commission (INEC) in Ni
   works to enhance the credibility of the elections and seeks to boost citizen participation
   across the country.
 start: 2022
-end: 2027
+end: 2028
 client: European Union
 solutions:
 - Governance
