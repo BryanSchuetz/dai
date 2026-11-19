@@ -2,6 +2,10 @@
 title: 'Nigeria—Fiscal Efficiency Observatory: Digitized Revenue Mobilization for
   Human Capital Development'
 date: 2026-11-19 09:38:00 Z
+summary: Designed to help Nigerian governments convert new fiscal space into better,
+  more equitable social spending, the Fiscal Efficiency Observatory will establish
+  a learning and accountability mechanism that connects domestic revenue mobilization
+  (DRM) with public expenditure management and human capital development.
 start: 2026
 end: 2027
 client: " Gates Foundation"
