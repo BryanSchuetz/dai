@@ -26,6 +26,8 @@ The Observatory will engage relevant federal and state government institutions r
 
 Depending on the results of its 12-month diagnostic phase, the project may be extended to apply the approaches developed through the Observatory, with the objective of generating a scalable model for Nigeria and, over time, other African countries seeking fairer, more transparent, and more effective fiscal governance.
 
+![Nogeria-Obs-Candidate.jpg](/uploads/Nogeria-Obs-Candidate.jpg)
+
 ## Sample Activities
 
 * Assess digital revenue systems, fiscal institutions, and the links between revenue generation, public spending, and human capital outcomes.
