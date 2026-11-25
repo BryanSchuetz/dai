@@ -1,6 +1,7 @@
 ---
 title: Ukraine—EU for Stronger Public Finance Systems of Local Governments (LOGICA)
 date: 2021-01-14 08:58:00 Z
+published: false
 summary: The EU for Stronger Public Finance Systems of Local Governments project supported
   the Government of Ukraine to attain sustainable economic and development goals by
   increasing the efficiency and transparency of the local financial management systems,

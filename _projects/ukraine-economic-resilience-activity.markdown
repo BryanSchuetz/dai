@@ -1,7 +1,7 @@
 ---
 title: Ukraine—USAID Economic Resilience Activity (ERA)
 date: 2018-11-16 14:43:00 Z
-terminated: true
+published: false
 summary: The USAID Economic Resilience Activity works to strengthen the economy of
   eastern Ukraine in the response to recent regional instability.
 start: 2018
@@ -13,6 +13,7 @@ solutions:
 - Workforce Development and Youth
 regions: Eastern Europe and Central Asia
 country: Ukraine
+terminated: true
 ---
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
