@@ -19,7 +19,7 @@ country: Mozambique
 
 This month, the President of Mozambique, Daniel Francisco Chapo, formally launched eVerifica, a seed traceability system that will enable farmers to instantly verify the authenticity of seed before they purchase it. By enabling traceability from production to final user, the system will improve seed quality assurance, combat seed counterfeiters, boost farmer confidence in their investments, and ultimately increase agricultural productivity.
 
-eVerifica is supported by PROMAS (Promoting of Sustainable Agricultural Market Systems), a market systems development project funded by the Swiss Agency for Development and Cooperation and implemented by DAI. The project’s goal is to increase income and employment opportunities for smallholder farmers and micro, small, and medium-sized enterprises in northern Mozambique.
+eVerifica is supported by [PROMAS (Promoting of Sustainable Agricultural Market Systems)](https://www.dai.com/our-work/projects/mozambique-promoting-sustainable-agricultural-market-system-promas), a market systems development project funded by the Swiss Agency for Development and Cooperation and implemented by DAI. The project’s goal is to increase income and employment opportunities for smallholder farmers and micro, small, and medium-sized enterprises in northern Mozambique.
 
 ![PROMAS seed traceability.jpeg](/uploads/PROMAS%20seed%20traceability.jpeg)
 
