@@ -2,6 +2,7 @@
 title: Ukraine—Further Regulatory Approximation with EU Legislation and International
   Standards in Financial Markets
 date: 2025-08-25 17:47:00 Z
+published: false
 summary: 'Since Russia’s invasion, Ukraine has faced immense challenges to its economic
   stability, institutional resilience, and social fabric. The EU has moved to address
   Ukraine’s immediate needs but is also investing in its long-term recovery and reconstruction,
