@@ -22,6 +22,7 @@ This month, the President of Mozambique, Daniel Francisco Chapo, formally launch
 eVerifica is supported by [PROMAS (Promoting of Sustainable Agricultural Market Systems)](https://www.dai.com/our-work/projects/mozambique-promoting-sustainable-agricultural-market-system-promas), a market systems development project funded by the Swiss Agency for Development and Cooperation and implemented by DAI. The project’s goal is to increase income and employment opportunities for smallholder farmers and micro, small, and medium-sized enterprises in northern Mozambique.
 
 ![PROMAS seed traceability.jpeg](/uploads/PROMAS%20seed%20traceability.jpeg)
+`At the launch event, Mozambican President Daniel Francisco Chapo (center) inspects a bag of verified seed. Photo: PROMAS`
 
 For smallholder farmers, adopting certified seed is one of the key drivers for improved productivity. Losses attributable to “fake” seeds are difficult to quantify precisely, but in 2020 the Alliance for a Green Revolution in Africa (AGRA) estimated that [20 to 40 percent of seed](https://www.agra.org/wp-content/uploads/2020/08/AGRA-Framework-For-Seed-System-Investments-In-AGRA-Countries_v3-final-version.pdf) sold in Africa was fake, resulting in annual losses of approximately $400 million.
 
