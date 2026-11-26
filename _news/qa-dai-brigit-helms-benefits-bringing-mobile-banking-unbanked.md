@@ -1,18 +1,18 @@
 ---
 title: Q&A with DAI’s Brigit Helms on Benefits of Bringing Mobile Banking to the Unbanked
 date: 2013-04-12 18:05:00 Z
-summary: 'There is no doubting the growth in popularity of mobile banking. According
-  to Juniper Research, the market for mobile payments is expected to reach more than
-  $600 billion (£393bn) globally this year—double the figure of February 2011.
-
-'
+published: false
 solutions:
 - Economic Growth
 - Digital Acceleration
 regions:
 - Sub-Saharan Africa
 projects: Mozambique—Support Program for Economic and Enterprise Development (SPEED)
-clients: 
+summary: 'There is no doubting the growth in popularity of mobile banking. According
+  to Juniper Research, the market for mobile payments is expected to reach more than
+  $600 billion (£393bn) globally this year—double the figure of February 2011.
+
+'
 layout: node
 ---
 
