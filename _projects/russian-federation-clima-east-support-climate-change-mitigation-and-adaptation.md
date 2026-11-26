@@ -2,6 +2,7 @@
 title: 'European Neighbourhood Policy East Countries—Clima East: Support to Climate
   Adaptation'
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: The Clima East programme helped integrate the countries' climate change strategies,
   greenhouse gases mitigation plans, and adaptation approaches. The programme was
   part of a larger Clima East package, supporting the development of ecosystems-based
