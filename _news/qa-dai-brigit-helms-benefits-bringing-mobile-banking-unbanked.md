@@ -1,7 +1,6 @@
 ---
 title: Q&A with DAI’s Brigit Helms on Benefits of Bringing Mobile Banking to the Unbanked
 date: 2013-04-12 18:05:00 Z
-published: false
 solutions:
 - Economic Growth
 - Digital Acceleration
